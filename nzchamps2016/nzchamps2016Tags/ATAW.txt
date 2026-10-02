@@ -1,0 +1,25 @@
+Team No. 57	Tag ID = ATAW   Tags=0008	Course 7Hour
+Lost as: Tim Jowett, Russell Nicholls
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:50:22 AM	         	BRIEFING. Score reset.
+   2	 30	 30	16/02/2015  2:52:35 AM	         	Punch clock failed.
+   3	 41	 40	27/02/2016 12:18:45 PM	  1:18:45	
+   4	 76	 70	27/02/2016 12:56:37 PM	  0:37:52	
+   5	 80	 80	27/02/2016  2:27:34 PM	  1:30:57	
+   6	 44	 40	27/02/2016  3:37:26 PM	  1:09:52	
+   7	 20	 20	27/02/2016  4:22:26 PM	  0:45:00	
+   8	 18		27/02/2016  5:00:15 PM	  0:37:49	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:00:15 PM
+Time on course   6:00:15
+
+
+  280	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

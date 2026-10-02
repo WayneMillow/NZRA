@@ -1,0 +1,35 @@
+Team No. 172	Tag ID = ATDG   Tags=0017	Course 24 hour
+The Green Machines: Sophie Harrison (NZL), Brianna Steven (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:41:15 AM	         	BRIEFING. Score reset.
+   2	  30 	   30	24/11/2018 12:14:32 PM	  0:14:32	
+   3	  83 	   80	24/11/2018  1:03:55 PM	  0:49:23	
+   4	 109 	   40	24/11/2018  1:18:38 PM	  0:14:43	
+   5	  89 	   80	24/11/2018  1:39:38 PM	  0:21:00	
+   6	  69 	   60	24/11/2018  2:20:59 PM	  0:41:21	
+   7	  97 	   90	24/11/2018  3:25:10 PM	  1:04:11	
+   8	  72 	   70	24/11/2018  4:11:46 PM	  0:46:36	
+   9	  76 	   70	24/11/2018  4:56:18 PM	  0:44:32	
+  10	  65 	   60	24/11/2018  5:15:56 PM	  0:19:38	
+  11	  43 	   40	24/11/2018  5:31:24 PM	  0:15:28	
+  12	  32 	   30	24/11/2018  6:26:47 PM	  0:55:23	
+  13	  25 	   20	24/11/2018  7:07:21 PM	  0:40:34	
+  14	  93 	   90	24/11/2018  7:40:32 PM	  0:33:11	
+  15	  81 	   80	24/11/2018  8:27:48 PM	  0:47:16	
+  16	  19 		25/11/2018  9:14:45 AM	 12:46:57	FINISH TIME.
+  17	  18 		25/11/2018  9:15:26 AM	  0:00:41	FINISH TIME IGNORED.
+END
+	AddedPunch55	50
+
+
+Recognised finish time 25/11/2018  9:14:45 AM
+Time on course  21:14:45
+
+
+  890	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 890

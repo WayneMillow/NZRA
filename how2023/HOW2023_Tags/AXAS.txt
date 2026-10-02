@@ -1,0 +1,30 @@
+Team No. 31	Tag ID = AXAS   Tags=0012	Course 6hr
+Happy Horses: Jodi Horsenail, Rob Horsenail
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  30 	   30	 1/07/2023 11:28:14 AM	  0:28:14	
+   2	  53 	   50	 1/07/2023 11:43:46 AM	  0:15:32	
+   3	 101 	  100	30/06/2023  3:19:04 PM	         	Punch clock failed.
+   4	  34 	   30	 1/07/2023 12:44:29 PM	  1:00:43	
+   5	  66 	   60	 1/07/2023 12:59:34 PM	  0:15:05	
+   6	  55 	   50	 1/07/2023  1:19:32 PM	  0:19:58	
+   7	  74 	   70	 1/07/2023  1:42:17 PM	  0:22:45	
+   8	  33 	   30	 1/07/2023  1:57:16 PM	  0:14:59	
+   9	  92 	   90	 1/07/2023  2:12:44 PM	  0:15:28	
+  10	  69 	   60	 1/07/2023  3:04:25 PM	  0:51:41	
+  11	  76 	   70	 1/07/2023  3:55:47 PM	  0:51:22	
+  12	  16 		 1/07/2023  5:38:39 PM	  1:42:52	FINISH TIME.
+END
+	AddedPunch48	40
+
+
+Recognised finish time  1/07/2023  5:38:39 PM
+Time on course   6:38:39
+
+
+  680	Points Scored.
+ -680	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 680 LATE

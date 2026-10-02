@@ -1,0 +1,30 @@
+Team No. 121	Tag ID = AWBB   Tags=0013	Course 6 hour
+Still Crazy: Lesley Woudberg, Jac Woudberg
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:08:00 AM	  0:08:00	
+   2	  24 	   20	19/06/2021 11:20:14 AM	  0:12:14	
+   3	  39 	   30	19/06/2021 11:32:13 AM	  0:11:59	
+   4	  47 	   40	19/06/2021 11:50:23 AM	  0:18:10	
+   5	  80 	   80	19/06/2021 12:05:03 PM	  0:14:40	
+   6	  50 	   50	19/06/2021 12:42:43 PM	  0:37:40	
+   7	  40 	   40	19/06/2021  1:33:54 PM	  0:51:11	
+   8	  63 	   60	19/06/2021  2:00:35 PM	  0:26:41	
+   9	  41 	   40	19/06/2021  3:09:36 PM	  1:09:01	
+  10	 100 	  100	19/06/2021  3:32:36 PM	  0:23:00	
+  11	  35 	   30	19/06/2021  3:49:31 PM	  0:16:55	
+  12	  77 	   70	19/06/2021  4:13:23 PM	  0:23:52	
+  13	  57 		19/06/2021  5:12:06 PM	  0:58:43	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:12:06 PM
+Time on course   6:12:06
+
+
+  590	Points Scored.
+ -130	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

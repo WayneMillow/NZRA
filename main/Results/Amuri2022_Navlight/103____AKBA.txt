@@ -1,0 +1,32 @@
+Team No. 103	Tag ID = AKBA   Tags=0015	Course 3hr
+Hirschfeld Family: Leah Hirschfeld, Ben Hirschfeld and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:02:32 PM	  0:02:32	
+   2	  20 	   20	 3/07/2022 12:08:52 PM	  0:06:20	
+   3	  31 	   30	 3/07/2022 12:12:08 PM	  0:03:16	
+   4	  71 	   70	 3/07/2022 12:27:12 PM	  0:15:04	
+   5	  22 	   20	 3/07/2022 12:42:38 PM	  0:15:26	
+   6	  32 	   30	 3/07/2022 12:47:21 PM	  0:04:43	
+   7	  60 	   60	 3/07/2022  1:00:55 PM	  0:13:34	
+   8	  40 	   40	 3/07/2022  1:06:41 PM	  0:05:46	
+   9	  50 	   50	 3/07/2022  1:21:57 PM	  0:15:16	
+  10	  61 	   60	 3/07/2022  1:35:40 PM	  0:13:43	
+  11	  53 	   50	 3/07/2022  1:59:39 PM	  0:23:59	
+  12	  43 	   40	 3/07/2022  2:15:58 PM	  0:16:19	
+  13	  33 	   30	 3/07/2022  2:33:23 PM	  0:17:25	
+  14	  52 	   50	 3/07/2022  2:39:21 PM	  0:05:58	
+  15	  19 		 3/07/2022  2:51:02 PM	  0:11:41	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:51:02 PM
+Time on course   2:51:02
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

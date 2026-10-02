@@ -1,0 +1,27 @@
+Team No. 626	Tag ID = AKDH   Tags=0011	Course 2.5hr
+Laugh out loud: Madeline Brown, Jo Murphy, Rebecca Taylor
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	104		 8/06/2013 12:44:17 PM	         	BRIEFING. Score reset.
+   3	 19	 10	 8/06/2013  1:07:05 PM 	  0:06:05	
+   4	 29	 20	 8/06/2013  1:20:31 PM 	  0:13:26	
+   5	 40	 40	 8/06/2013  1:28:37 PM 	  0:08:06	
+   6	 28	 20	 8/06/2013  1:37:38 PM 	  0:09:01	
+   7	 97	 90	 8/06/2013  1:50:51 PM 	  0:13:13	
+   8	 65	 60	 8/06/2013  2:14:42 PM 	  0:23:51	
+   9	 57	 50	 8/06/2013  2:34:46 PM 	  0:20:04	
+  10	 85	 80	 8/06/2013  3:04:32 PM 	  0:29:46	
+  11	 15		 8/06/2013  3:25:34 PM 	  0:21:02	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:25:34 PM 
+Time on course   2:24:34
+
+
+  370	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

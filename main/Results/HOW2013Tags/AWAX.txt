@@ -1,0 +1,34 @@
+Team No. 498	Tag ID = AWAX   Tags=0017	Course 2.5hr
+Stephen Harding, George Hayhoe
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 12:41:32 PM	         	BRIEFING. Score reset.
+   2	 19	 10	 8/06/2013  1:04:09 PM 	  0:03:09	
+   3	 20	 20	 8/06/2013  1:12:46 PM 	  0:08:37	
+   4	 29	 20	 8/06/2013  1:18:40 PM 	  0:05:54	
+   5	 40	 40	 8/06/2013  1:23:18 PM 	  0:04:38	
+   6	 28	 20	 8/06/2013  1:27:12 PM 	  0:03:54	
+   7	 97	 90	 8/06/2013  1:33:02 PM 	  0:05:50	
+   8	100	100	 8/06/2013  2:00:16 PM 	  0:27:14	
+   9	 65	 60	 8/06/2013  2:12:19 PM 	  0:12:03	
+  10	 57	 50	 8/06/2013  2:23:32 PM 	  0:11:13	
+  11	 36	 30	 8/06/2013  2:36:41 PM 	  0:13:09	
+  12	 66	 60	 8/06/2013  2:44:01 PM 	  0:07:20	
+  13	 85	 80	 8/06/2013  2:55:38 PM 	  0:11:37	
+  14	 76	 70	 8/06/2013  3:01:28 PM 	  0:05:50	
+  15	 27	 20	 8/06/2013  3:07:14 PM 	  0:05:46	
+  16	 58	 50	 8/06/2013  3:21:13 PM 	  0:13:59	 Punch  10 replaced by Group 58.
+  17	 15		 8/06/2013  3:27:50 PM 	  0:06:37	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:27:50 PM 
+Time on course   2:26:50
+
+
+  720	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 720

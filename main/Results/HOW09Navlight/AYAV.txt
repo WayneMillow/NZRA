@@ -1,0 +1,32 @@
+Team No. 47	Tag ID = AYAV   Tags=0015	Course 6hr
+Berit Jensen, Anna Lindgren
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009 10:05:13 AM	         	BRIEFING. Score reset.
+   2	 81	 80	 4/07/2009 10:54:50 AM	  0:24:50	
+   3	 81		 4/07/2009 10:54:57 AM	  0:00:07	     Punched on Line 2
+   4	 58	 50	 4/07/2009 11:34:10 AM	  0:39:13	
+   5	 26	 20	 4/07/2009 11:57:09 AM	  0:22:59	
+   6	 46	 40	 4/07/2009 12:26:25 PM	  0:29:16	
+   7	 73	 70	 4/07/2009  1:30:25 PM 	  1:04:00	
+   8	 36	 30	 4/07/2009  2:06:20 PM 	  0:35:55	
+   9	 23	 20	 4/07/2009  2:27:54 PM 	  0:21:34	
+  10	 62	 60	 4/07/2009  2:39:01 PM 	  0:11:07	
+  11	 55	 50	 4/07/2009  2:59:55 PM 	  0:20:54	
+  12	 22	 20	 4/07/2009  3:21:11 PM 	  0:21:16	
+  13	 54	 50	 4/07/2009  3:46:08 PM 	  0:24:57	
+  14	 21	 20	 4/07/2009  4:19:41 PM 	  0:33:33	
+  15	107		 4/07/2009  4:31:52 PM 	  0:12:11	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:31:52 PM 
+Time on course   6:01:52
+
+
+  510	Points Scored.
+   20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

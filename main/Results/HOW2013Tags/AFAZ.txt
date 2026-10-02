@@ -1,0 +1,35 @@
+Team No. 517	Tag ID = AFAZ   Tags=0017	Course 6hr
+CHSGirlsGoGoGo: Sophie Harrison, Olivia Richards
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:18:28 AM	         	BRIEFING. Score reset.
+   2	 86	 80	 8/06/2013 10:47:48 AM	  0:18:48	
+   3	 68	 60	 8/06/2013 11:31:49 AM	  0:44:01	
+   4	 77	 70	 8/06/2013 11:49:45 AM	  0:17:56	
+   5	101	100	 8/06/2013 12:41:55 PM	  0:52:10	
+   6	 41	 40	 8/06/2013  1:09:14 PM 	  0:27:19	
+   7	 87	 80	 8/06/2013  1:28:05 PM 	  0:18:51	
+   8	 69	 60	 8/06/2013  1:44:06 PM 	  0:16:01	
+   9	 22	 20	 8/06/2013  2:01:41 PM 	  0:17:35	
+  10	 89	 80	 8/06/2013  2:15:19 PM 	  0:13:38	
+  11	 61	 60	 8/06/2013  2:27:15 PM 	  0:11:56	
+  12	 25	 20	 8/06/2013  2:43:56 PM 	  0:16:41	
+  13	 99	 90	 8/06/2013  3:25:45 PM 	  0:41:49	
+  14	 53	 50	 8/06/2013  3:46:28 PM 	  0:20:43	
+  15	 30	 30	 8/06/2013  3:59:17 PM 	  0:12:49	
+  16	 21	 20	 8/06/2013  4:19:41 PM 	  0:20:24	
+  17	 15		 8/06/2013  4:23:43 PM 	  0:04:02	FINISH TIME.
+END
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:23:43 PM 
+Time on course   5:54:43
+
+
+  940	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 940

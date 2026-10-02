@@ -1,0 +1,28 @@
+Team No. 648	Tag ID = ATDJ   Tags=0010	Course 6hr
+Piston Broke: Keith Unsworth, Sue Unsworth
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:17:37 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:39:56 AM	  0:10:56	
+   3	 20	 20	 8/06/2013 11:04:01 AM	  0:24:05	
+   4	 76	 70	 8/06/2013 11:19:06 AM	  0:15:05	
+   5	 66	 60	 8/06/2013 11:40:44 AM	  0:21:38	
+   6	 74	 70	 8/06/2013 12:34:57 PM	  0:54:13	
+   7	100	100	 8/06/2013 12:54:48 PM	  0:19:51	
+   8	 72	 70	 8/06/2013  1:53:29 PM 	  0:58:41	
+   9	 54	 50	 8/06/2013  2:21:36 PM 	  0:28:07	
+  10	 15		 8/06/2013  4:25:57 PM 	  2:04:21	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:25:57 PM 
+Time on course   5:56:57
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

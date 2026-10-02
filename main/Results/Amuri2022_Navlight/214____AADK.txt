@@ -1,0 +1,30 @@
+Team No. 214	Tag ID = AADK   Tags=0013	Course 1.5hr
+Louie's Team: Paul Titford, Louie Rutherford
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  45 	   40	 3/07/2022  1:02:20 PM	  0:02:20	
+   2	  26 	   20	 3/07/2022  1:07:33 PM	  0:05:13	
+   3	  30 	   30	 3/07/2022  1:11:05 PM	  0:03:32	
+   4	  56 	   50	 3/07/2022  1:15:51 PM	  0:04:46	
+   5	  74 	   70	 3/07/2022  1:21:06 PM	  0:05:15	
+   6	  33 	   30	 3/07/2022  1:30:03 PM	  0:08:57	
+   7	  52 	   50	 3/07/2022  1:39:19 PM	  0:09:16	
+   8	  46 	   40	 3/07/2022  1:43:21 PM	  0:04:02	
+   9	  86 	   80	 3/07/2022  1:48:33 PM	  0:05:12	
+  10	  81 	   80	 3/07/2022  1:54:21 PM	  0:05:48	
+  11	  75 	   70	 3/07/2022  2:00:24 PM	  0:06:03	
+  12	  35 	   30	 3/07/2022  2:18:07 PM	  0:17:43	
+  13	  18 		 3/07/2022  2:21:58 PM	  0:03:51	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:21:58 PM
+Time on course   1:21:58
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

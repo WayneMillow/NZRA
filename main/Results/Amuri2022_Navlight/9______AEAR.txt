@@ -1,0 +1,28 @@
+Team No. 9	Tag ID = AEAR   Tags=0011	Course 6hr
+Heartless Bastards: Andy Griffiths, Steve Petty
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  53 	   50	 3/07/2022 10:27:26 AM	  0:27:26	
+   2	  24 	   20	 3/07/2022 11:07:02 AM	  0:39:36	
+   3	  84 	   80	 3/07/2022 11:37:44 AM	  0:30:42	
+   4	  65 	   60	 3/07/2022 11:55:06 AM	  0:17:22	
+   5	  77 	   70	 3/07/2022 12:40:33 PM	  0:45:27	
+   6	  73 	   70	 3/07/2022  2:13:01 PM	  1:32:28	
+   7	 101 	  100	 3/07/2022  2:31:17 PM	  0:18:16	
+   8	  25 	   20	 3/07/2022  2:41:22 PM	  0:10:05	
+   9	  44 	   40	 3/07/2022  3:09:37 PM	  0:28:15	
+  10	  43 	   40	 3/07/2022  3:21:26 PM	  0:11:49	
+  11	  18 		 3/07/2022  3:50:05 PM	  0:28:39	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:50:05 PM
+Time on course   5:50:05
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

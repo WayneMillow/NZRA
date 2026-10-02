@@ -1,0 +1,28 @@
+Team No. 212	Tag ID = AUDK   Tags=0011	Course 6 hour
+Wonky Thoroughbreds: Tessa Dixon, Abby Dixon and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  7:17:04 PM	         	BRIEFING. Score reset.
+   2	  38 	   30	 7/11/2020  1:28:11 PM	  0:28:11	
+   3	  58 	   50	 7/11/2020  1:53:32 PM	  0:25:21	
+   4	  87 	   80	 7/11/2020  2:23:18 PM	  0:29:46	
+   5	 104 	  100	 7/11/2020  3:14:55 PM	  0:51:37	
+   6	  44 	   40	 7/11/2020  3:42:06 PM	  0:27:11	
+   7	  73 	   70	 7/11/2020  4:34:40 PM	  0:52:34	
+   8	  86 	   80	 7/11/2020  5:15:00 PM	  0:40:20	
+   9	  34 	   30	 7/11/2020  5:54:49 PM	  0:39:49	
+  10	 107 	  100	 7/11/2020  6:36:57 PM	  0:42:08	
+  11	  19 		 7/11/2020  7:03:37 PM	  0:26:40	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  7:03:37 PM
+Time on course   6:03:37
+
+
+  580	Points Scored.
+  -40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

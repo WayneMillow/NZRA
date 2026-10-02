@@ -1,0 +1,27 @@
+Team No. 144	Tag ID = ABCK   Tags=0012	Course 6hr
+Amol Malla, Chew Theam Yong
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   3	 13		14/06/2008 10:45:10 AM	         	BRIEFING. Score reset.
+   4	 30	 30	14/06/2008 11:15:29 AM	  0:15:29	
+   5	 50	 50	14/06/2008 11:46:43 AM	  0:31:14	
+   6	 67	 60	14/06/2008 12:19:26 PM	  0:32:43	
+   7	 51	 50	14/06/2008  1:02:30 PM 	  0:43:04	
+   8	 82	 80	14/06/2008  1:31:02 PM 	  0:28:32	
+   9	 41	 40	14/06/2008  1:58:17 PM 	  0:27:15	
+  10	 64	 60	14/06/2008  2:46:34 PM 	  0:48:17	
+  11	 81	 80	14/06/2008  3:56:49 PM 	  1:10:15	
+  12	106		14/06/2008  5:43:14 PM 	  1:46:25	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  5:43:14 PM 
+Time on course   6:43:14
+
+
+  450	Points Scored.
+ -450	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

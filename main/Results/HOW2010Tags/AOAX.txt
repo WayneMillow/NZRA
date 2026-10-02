@@ -1,0 +1,29 @@
+Team No. 636	Tag ID = AOAX   Tags=0012	Course 6_HoW
+Regan Stokes, Daniel Noah and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:34:12 AM	         	BRIEFING. Score reset.
+   2	 45	 40	26/06/2010 11:28:11 AM	  0:28:11	
+   3	 84	 80	26/06/2010 11:43:12 AM	  0:15:01	
+   4	 33	 30	26/06/2010 12:29:31 PM	  0:46:19	
+   5	 77	 70	26/06/2010 12:59:33 PM	  0:30:02	
+   6	102	100	26/06/2010  1:21:05 PM 	  0:21:32	
+   7	 86	 80	26/06/2010  1:50:20 PM 	  0:29:15	
+   8	 58	 50	26/06/2010  2:55:12 PM 	  1:04:52	
+   9	 76	 70	26/06/2010  3:21:14 PM 	  0:26:02	 Punch  04 replaced by Group 76.
+  10	 46	 40	26/06/2010  3:49:38 PM 	  0:28:24	 Punch  03 replaced by Group 46.
+  11	 36	 30	26/06/2010  4:23:09 PM 	  0:33:31	 Punch  02 replaced by Group 36.
+  12	 15		26/06/2010  4:48:49 PM 	  0:25:40	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:48:49 PM 
+Time on course   5:48:49
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

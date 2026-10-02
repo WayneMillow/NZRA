@@ -1,0 +1,26 @@
+Team No. 118	Tag ID = APBB   Tags=0010	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 88		12/06/2006  4:57:14 PM 	        	BRIEFING. Score reset.
+   2	 41	 40	16/06/2007 10:46:20 AM	  0:46:20	
+   3	 45	 40	16/06/2007 11:14:03 AM	  0:27:43	
+   4	 65	 60	16/06/2007 11:48:26 AM	  0:34:23	
+   5	 60	 60	16/06/2007 12:40:52 PM	  0:52:26	
+   6	 44	 40	16/06/2007  1:55:13 PM 	  1:14:21	
+   7	 10	 10	16/06/2007  2:24:07 PM 	  0:28:54	
+   8	 31	 30	16/06/2007  3:00:24 PM 	  0:36:17	
+   9	 23	 20	16/06/2007  3:21:31 PM 	  0:21:07	
+  10	 99		16/06/2007  3:34:43 PM 	  0:13:12	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:34:43 PM 
+Time on course   5:34:43
+
+
+  300	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 300

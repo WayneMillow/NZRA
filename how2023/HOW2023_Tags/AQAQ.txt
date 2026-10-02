@@ -1,0 +1,31 @@
+Team No. 2	Tag ID = AQAQ   Tags=0013	Course 6hr
+Team Pesto: Nicky Hogarth, Pip Parkin and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  38 	   30	 1/07/2023 11:16:06 AM	  0:16:06	
+   2	  21 	   20	 1/07/2023 11:28:08 AM	  0:12:02	
+   3	  54 	   50	 1/07/2023 11:53:20 AM	  0:25:12	
+   4	 101 	  100	30/06/2023  3:20:56 PM	         	Punch clock failed.
+   5	  93 	   90	 1/07/2023  1:03:32 PM	  1:10:12	
+   6	  45 	   40	 1/07/2023  1:29:54 PM	  0:26:22	
+   7	  37 	   30	 1/07/2023  2:15:59 PM	  0:46:05	
+   8	  77 	   70	 1/07/2023  2:35:56 PM	  0:19:57	
+   9	  85 	   80	 1/07/2023  3:05:33 PM	  0:29:37	
+  10	  24 	   20	 1/07/2023  3:11:35 PM	  0:06:02	
+  11	  65 	   60	 1/07/2023  4:10:52 PM	  0:59:17	
+  12	  43 	   40	 1/07/2023  4:30:12 PM	  0:19:20	
+  13	  18 		 1/07/2023  4:47:08 PM	  0:16:56	FINISH TIME.
+END
+	AddedPunch48	40
+
+
+Recognised finish time  1/07/2023  4:47:08 PM
+Time on course   5:47:08
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

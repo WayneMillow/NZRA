@@ -1,0 +1,28 @@
+Team No. 2273	Tag ID = APDG   Tags=0011	Course 6Hr
+Team Anonymous: Kate Baigent, Fiona Joy Cameron and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		10/06/2017 10:47:50 AM	         	BRIEFING. Score reset.
+   2	 29	 20	10/06/2017 11:05:44 AM	  0:05:44	 Punch  50 replaced by Group 29.
+   3	 29		10/06/2017 11:05:59 AM	  0:00:15	     Punched on Line 2
+   4	 42	 40	10/06/2017 12:27:35 PM	  1:21:36	
+   5	 71	 70	10/06/2017  1:15:25 PM	  0:47:50	
+   6	 30	 30	10/06/2017  2:22:53 PM	  1:07:28	
+   7	 22	 20	10/06/2017  2:47:36 PM	  0:24:43	
+   8	 21	 20	10/06/2017  3:40:42 PM	  0:53:06	 Punch  12 replaced by Group 21.
+   9	 21		10/06/2017  3:40:53 PM	  0:00:11	     Punched on Line 8
+  10	 40	 40	10/06/2017  4:11:33 PM	  0:30:40	
+  11	106		10/06/2017  4:46:51 PM	  0:35:18	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:46:51 PM
+Time on course   5:46:51
+
+
+  240	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 240

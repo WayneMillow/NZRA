@@ -1,0 +1,33 @@
+Team No. 624	Tag ID = AVAW   Tags=0016	Course 6_HoW
+Pip Miller, Erin Eyles and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:32:44 AM	         	BRIEFING. Score reset.
+   2	 46	 40	26/06/2010 11:15:45 AM	  0:15:45	
+   3	 94	 90	26/06/2010 11:25:49 AM	  0:10:04	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 32	 30	26/06/2010 11:55:07 AM	  0:46:08	
+   6	 37	 30	24/06/2010  6:43:00 PM 	         	1.678 Days early.
+   7	 76	 70	26/06/2010 12:26:31 PM	  0:31:24	
+   8	 86	 80	26/06/2010  1:33:11 PM 	  1:06:40	
+   9	 77	 70	26/06/2010  2:00:04 PM 	  0:26:53	
+  10	 85	 80	26/06/2010  2:31:25 PM 	  0:31:21	
+  11	 85		26/06/2010  2:33:36 PM 	  0:02:11	     Punched on Line 10
+  12	 35	 30	26/06/2010  3:11:26 PM 	  0:37:50	
+  13	 34	 30	26/06/2010  3:28:58 PM 	  0:17:32	
+  14	 20	 20	26/06/2010  4:09:14 PM 	  0:40:16	
+  15	 36	 30	26/06/2010  4:20:25 PM 	  0:11:11	
+  16	 15		26/06/2010  4:31:05 PM 	  0:10:40	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:31:05 PM 
+Time on course   5:31:05
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

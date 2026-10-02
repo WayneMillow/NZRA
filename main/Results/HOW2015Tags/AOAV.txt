@@ -1,0 +1,29 @@
+Team No. 602	Tag ID = AOAV   Tags=0012	Course 6Hr
+Carol Cathman, Lucy Halsey and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:44:26 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:11:43 AM	  0:11:43	
+   3	 47	 40	27/06/2015 12:00:20 PM	  0:48:37	
+   4	 95	 90	27/06/2015 12:12:31 PM	  0:12:11	
+   5	 57	 50	27/06/2015 12:44:11 PM	  0:31:40	
+   6	 66	 60	27/06/2015  1:58:58 PM	  1:14:47	
+   7	 54	 50	27/06/2015  2:11:44 PM	  0:12:46	
+   8	 92	 90	27/06/2015  2:35:29 PM	  0:23:45	
+   9	102	100	27/06/2015  3:16:33 PM	  0:41:04	
+  10	 73	 70	27/06/2015  3:42:10 PM	  0:25:37	
+  11	 25	 20	27/06/2015  4:44:41 PM	  1:02:31	
+  12	105		27/06/2015  4:52:13 PM	  0:07:32	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:52:13 PM
+Time on course   5:52:13
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

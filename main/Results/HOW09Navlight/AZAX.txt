@@ -1,0 +1,27 @@
+Team No. 73	Tag ID = AZAX   Tags=0010	Course 6hr
+Brandon Wilson, Dan Murphy
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009 10:16:56 AM	         	BRIEFING. Score reset.
+   2	 33	 30	 4/07/2009 11:11:28 AM	  0:41:28	
+   3	 34	 30	 4/07/2009 11:31:46 AM	  0:20:18	
+   4	 62	 60	 4/07/2009 12:50:54 PM	  1:19:08	
+   5	 23	 20	 4/07/2009  1:08:17 PM 	  0:17:23	
+   6	 36	 30	 4/07/2009  1:19:37 PM 	  0:11:20	
+   7	 82	 80	 4/07/2009  1:36:42 PM 	  0:17:05	
+   8	 73	 70	 4/07/2009  2:27:32 PM 	  0:50:50	
+   9	 46	 40	 4/07/2009  3:15:39 PM 	  0:48:07	
+  10	106		 4/07/2009  5:26:51 PM 	  2:11:12	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  5:26:51 PM 
+Time on course   6:56:51
+
+
+  360	Points Scored.
+ -360	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

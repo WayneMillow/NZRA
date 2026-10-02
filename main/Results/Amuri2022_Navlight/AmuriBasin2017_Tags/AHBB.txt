@@ -1,0 +1,21 @@
+Team No. 1122	Tag ID = AHBB   Tags=0004	Course FAM 3Hr
+Earlybirds: Joshiah Early, Vicki Early and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:52:56 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:09:36 PM	  0:09:36	
+   3	  41 	   40	 9/07/2017 12:30:34 PM	  0:20:58	
+   4	 107 		 9/07/2017  1:17:26 PM	  0:46:52	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  1:17:26 PM
+Time on course   1:17:26
+
+
+   60	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 60

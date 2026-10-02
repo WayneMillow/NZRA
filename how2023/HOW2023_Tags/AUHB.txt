@@ -1,0 +1,27 @@
+Team No. 72	Tag ID = AUHB   Tags=0009	Course 6hr
+Mediocre at best: Bill Johnson, Paul Barr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  38 	   30	 1/07/2023 11:23:51 AM	  0:23:51	
+   2	  43 	   40	 1/07/2023 11:35:40 AM	  0:11:49	
+   3	  72 	   70	 1/07/2023 12:15:27 PM	  0:39:47	
+   4	  73 	   70	 1/07/2023 12:53:39 PM	  0:38:12	
+   5	 103 	  100	 1/07/2023  1:33:42 PM	  0:40:03	
+   6	  58 	   50	 1/07/2023  2:25:19 PM	  0:51:37	
+   7	  77 	   70	 1/07/2023  2:44:08 PM	  0:18:49	
+   8	 101 	  100	30/06/2023  7:10:26 PM	         	Punch clock failed.
+   9	  16 		 1/07/2023  5:03:29 PM	  2:19:21	FINISH TIME.
+END
+	AddedPunch48	40
+
+
+Recognised finish time  1/07/2023  5:03:29 PM
+Time on course   6:03:29
+
+
+  570	Points Scored.
+  -80	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

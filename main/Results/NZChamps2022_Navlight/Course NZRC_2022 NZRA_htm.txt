@@ -1,0 +1,43 @@
+ 1	69	Greig Hamilton, Chris Forne. 	 23:53:42	3740	MO1,MV1
+ 2	57	Darron Jones, Georgia Whitla. 	 23:47:55	3580	XO1
+ 3	59	Fynn Mitchell, Dean Stewart. 	 23:57:30	2940	MO2,MY1
+ 4	67	Marina Comeskey, Oak Jones. 	 23:57:22	2750	XO2,XY1
+ 5	36	Tom Lucas, Mike Kelly. 	 23:42:58	2740	MO3,MV2
+ 6	64	Phil Wood, Malcolm McLeod. 	 23:54:00	2620	MO4,MV3
+ 7	38	Glen Mitchell, Adrian Braaksma. 	 23:47:39	2590	MO5,MV4
+ 8	72	Aleisha Pile, Ben Young. 	 21:55:46	2560	XO3
+ 9	43	Emma de Lacey, Guy de Lacey. 	 23:46:15	2470	XO4,XV1,XSV1,XUV1
+ 10	56	Tiaan Mckinnel, Jonty Mckinnel, Jana Becker, Flynn Goodger. 	 23:39:52	2400	XO5
+ 11	32	Craig Pelvin, Pieter Brits. 	 23:43:08	2310	MO6,MV5
+ 12	30	Robb Simpson, Nick Harris. 	 23:48:40	2290	MO7,MV6
+ 13	65	Amber Blodgett, Mark Cockroft, Alex Durran. 	 23:08:22	2200	XO6,XV2
+ 14	62	Rolf Boswell, Jason Mouat. 	 23:41:16	2200	MO8,MV7
+ 15	61	Hedley Meacheam, Sarah Millar. 	 23:54:00	2180	XO7,XV3
+ 16	31	Nico Dubois, Ira Sizova. 	 23:48:24	2170	XO8
+ 17	54	Laura Pattie, Tom Hambrook. 	 22:45:12	2140	XO9
+ 18	50	Douglas Woods, Colin Dixon, Monty Montgomery. 	 23:41:20	2070	MO9,MV8,MSV1
+ 19	53	Mondo Kopua, David Mangnall. 	 23:24:00	2060	MO10,MV9,MSV2
+ 20	49	Chris Dixon, Caroline Elliott. 	 23:56:52	2050	WO1,WV1
+ 21	46	Jenni Blyleven, Louise O'Connell. 	 23:26:13	2020	WO2,WV2,WSV1
+ 22	51	Taylor Rhind, Cullen Rhind. 	 22:42:40	2000	MO11
+ 23	34	Bryan Clough, Pete Doonan, Dan Cullen, Max Stenhouse-Burgess. 	 23:26:40	2000	MO12
+ 24	39	Robert White, Dave Viitakangas Darren Clay. 	 22:58:34	1990	MO13,MV10
+ 25	40	Glen Warner, Nicole Ranger. 	 23:55:59	1970	XO10,XV4
+ 26	47	Dave Cowie, Adam Cowie. 	 22:58:41	1940	MO14,MV11
+ 27	42	Lottie Armstrong, Chris Greenan. 	 23:24:18	1890	XO11
+ 28	71	Masha Mikhisor, Carl Rathbone. 	 23:59:03	1890	XO12
+ 29	55	John Mckinnel, Stu Geddes. 	 23:51:51	1840	MO15,MV12,MSV3
+ 30	45	Kelvin Lloyd, Rodney Baker. 	 23:57:00	1840	MO16,MV13
+ 31	70	Ben Ludgate, Daniel Johnston. 	 22:52:00	1820	MO17,MV14
+ 32	29	Will Payne, Kristie Simpson, Logan Simpson, Steve Ledington. 	 23:48:02	1780	XO13
+ 33	66	Lost Banditos (Deryk, Mark.)	 22:54:01	1580	MO18,MV15
+ 34	33	Peter McDowall, Ben McDowall. 	 23:44:45	1570	MO19
+ 35	60	Neil Murray, Anya Murray. 	 22:53:26	1460	XO14
+ 36	44	Toni Sherlock, Jon Sherlock, Hayden Sherlock. 	 22:46:48	1440	XO15,XV5
+ 37	63	Sonia Panapa, Katherine Boomer. 	 23:34:39	1400	WO3,WV3
+ 38	37	Simon Rea, Dick Dinsdale. 	 23:50:00	1380	MO20,MV16,MSV4
+ 39	68	Holly Campbell, Brendon Roxburgh. 	 23:53:43	1150	XO16,XV6
+ 40	41	Wayne Millow, Liz Millow. 	 23:53:00	1000	XO17,XV7,XSV2,XUV2
+ 41	52	Tim Hodgson, Jen Hodgson. 	 21:36:27	890	XO18,XV8
+ 42	48	Valerie Rogers, Richard English. 	 23:40:00	660	XO19,XV9,XSV3
+ 43	35	Kelly Ashley, Shane Ashley. 	 20:56:30	510	XO20,XV10

@@ -1,0 +1,30 @@
+Team No. 97	Tag ID = AXAZ   Tags=0014	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	101		16/06/2007  9:32:42 AM 	        	     Test tag.
+   2	100		16/06/2007  9:48:10 AM 	        	     Test tag.
+   3	 89		12/06/2006  4:56:21 PM 	        	BRIEFING. Score reset.
+   4	 33	 30	16/06/2007 10:41:57 AM	  0:41:57	
+   5	 46	 40	16/06/2007 11:21:04 AM	  0:39:07	
+   6	 27	 20	16/06/2007 12:03:35 PM	  0:42:31	
+   7	 64	 60	16/06/2007 12:33:21 PM	  0:29:46	
+   8	 36	 30	16/06/2007  1:32:13 PM 	  0:58:52	
+   9	 29	 20	16/06/2007  1:50:27 PM 	  0:18:14	
+  10	 12	 10	16/06/2007  2:20:22 PM 	  0:29:55	
+  11	 28	 20	16/06/2007  2:41:22 PM 	  0:21:00	
+  12	 37	 30	16/06/2007  2:58:22 PM 	  0:17:00	
+  13	 23	 20	16/06/2007  3:20:21 PM 	  0:21:59	
+  14	 98		16/06/2007  3:33:25 PM 	  0:13:04	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:33:25 PM 
+Time on course   5:33:25
+
+
+  280	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

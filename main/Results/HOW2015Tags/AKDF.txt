@@ -1,0 +1,27 @@
+Team No. 670	Tag ID = AKDF   Tags=0010	Course 6Hr
+Lee Robertson, Rebecca Redmond and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:51:23 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:12:34 AM	  0:12:34	
+   3	 68	 60	27/06/2015 12:15:56 PM	  1:03:22	
+   4	 85	 80	27/06/2015 12:51:49 PM	  0:35:53	
+   5	 55	 50	27/06/2015  1:10:32 PM	  0:18:43	
+   6	 56	 50	16/06/2014  2:38:49 AM	         	Scored before Start.
+   7	 76	 70	27/06/2015  2:26:37 PM	  1:16:05	
+   8	 58	 50	27/06/2015  3:31:09 PM	  1:04:32	
+   9	 28	 20	27/06/2015  4:18:41 PM	  0:47:32	
+  10	108		27/06/2015  4:52:58 PM	  0:34:17	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:52:58 PM
+Time on course   5:52:58
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

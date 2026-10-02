@@ -1,0 +1,27 @@
+Team No. 123	Tag ID = AZBB   Tags=0011	Course 6 hour
+Transformers: Michael Bruhn (NZL), Alice Barach (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  10 		24/11/2018 11:58:44 AM	         	BRIEFING. Score reset.
+   3	  49 	   40	24/11/2018 12:19:54 PM	  0:19:54	
+   4	  39 	   30	24/11/2018 12:38:39 PM	  0:18:45	
+   5	  77 	   70	24/11/2018  1:30:35 PM	  0:51:56	
+   6	 103 	  100	24/11/2018  2:27:15 PM	  0:56:40	
+   7	  74 	   70	24/11/2018  3:38:15 PM	  1:11:00	
+   8	  71 	   70	24/11/2018  4:13:59 PM	  0:35:44	
+   9	  40 	   40	24/11/2018  4:57:52 PM	  0:43:53	
+  10	  58 	   50	24/11/2018  5:23:12 PM	  0:25:20	
+  11	  18 		24/11/2018  5:44:29 PM	  0:21:17	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:44:29 PM
+Time on course   5:44:29
+
+
+  470	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

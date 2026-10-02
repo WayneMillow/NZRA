@@ -1,0 +1,332 @@
+<webalbum version="1.8.2">
+  <title>The WaikouWander</title>
+  <description>
+    <line>New Zealand Rogaine Championships 2009</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="140" height="105">large</thumbsize>
+    <outputdirectory>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\WaikouWanderPics\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <caption>
+        <line>Jac finds his way to the Rogaine</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3060172.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Will all systems work? Its a worry!</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3060177.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Some of the camping the night before</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070178.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Just in case you didn't know why you are here</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070181.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Early morning in the hills</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070182.JPG</filename>
+    </photo>
+    <photo>
+      <title>     </title>
+      <caption>
+        <line>Let registration begin</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070183.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Rogaine headquarters</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070189.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The Teviot Terrors - John McKinnel and Stewart Geddes</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070191.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The Champs, Phil Wood and Ross Rotherham, planning</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070193.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Dave Laurie and Andy Buchanan discuss strategy</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070199.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Doug and Debbie Walsh</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070200.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>More planning</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070201.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>H'mm</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070202.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Let's be relaxed about this</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070203.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Liam Drew and Rachel Ockelford do the dirty business</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070211.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Max Kerrison and Derrick Morrison - 1st MV and MSV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070212.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>8hr briefing</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070222.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Finish?? Its the START - 8hr event</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070226.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Francesca Cunninghame shows Ian and Adrian the way - 24hr</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070237.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Hummock, CP60 - the highest point on the course looking towards CP80</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070241.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Tim Kerr and Keith Murray approach Hummock summit</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070251.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Where to next - Robert Munro and Jana Nyklova</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070264.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>I think ....</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070268.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Scattering from the Hummock towards CP41</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070271.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Emma and Guy de Lacey agreeing this time? - 2nd XV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070279.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Grace Power, Tom Wilson and Georgie Opie atop the Hummock</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070283.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Anne Kennedy, Trish Faulkner, Kathrin Mueller - 1st WO, 1st WV, 1st WSV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070287.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>It's busy on the hill top</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070294.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Triple check - Bill Taine, Steve Earnshaw and Michael Fox</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070307.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Richard Robinson, the tame Aussie, and Viv Prince - 1st XV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070318.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Rodney Baker and Kelvin Lloyd</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070320.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Debbie Walsh, Alastair Mackenzie (UK) and Doug Walsh pass through the Hummock</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070327.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Colin McGillivrey leads students Sean Knight, Kieran Mayo, and Connor McIntosh</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070337.JPG</filename>
+    </photo>
+    <photo>
+      <title> </title>
+      <caption>
+        <line>Hills towards the sea</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\Test\P3070342.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Hills, hills, and more hills</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070344.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Jon Werkmeister and Conal Boland-Bristow - 2nd University Challenge</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070345.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Nearing home - 8hr </line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070348.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Not far to go - 8hr</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3070350.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>We made it - happy to be finished</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080354.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Ian Edmond and Nora Audra - 1st XO</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080358.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Dave Laurie and Andy Buchanan escorted home by vetter Phil Bones</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080361.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Champ Phil Wood showing good form near the finish</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080362.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Lindsay and Margaret Dempster, our farming hosts, prepared for the prizegiving</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080396.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Tim Farrant and Elisha Nuttall - 1st MJ and 1st team in the university Challenge</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080369.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Laurie Kennedy, Kathy Warburton and Bob Cumminghame - 1st XSV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080371.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Richard Robinson and Viv Prince - 1st XV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080373.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Nora Audra and Ian Edmond - 1st XO</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080375.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Kathrin Mueller, Trish Faulkner and Anne Kennedy - 1st WO, 1st WV and 1st WSV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080380.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Derick Morrison and Max Kerrison - 1st MV, 1st MSV</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080385.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Demon Brothers - Pim and Dennis de Monchy, 2nd Overall</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080388.JPG</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The Champs, Phil Wood and Ross Rotherham - 1st MO and 1st Overall</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\ResultsWeb\Pictures\P3080392.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>

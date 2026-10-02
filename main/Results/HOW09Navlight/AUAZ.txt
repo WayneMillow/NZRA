@@ -1,0 +1,31 @@
+Team No. 95	Tag ID = AUAZ   Tags=0014	Course 6hr
+Late Again: Jane Montgomery, Peter Montgomery
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:05:51 AM	         	BRIEFING. Score reset.
+   2	 32	 30	 4/07/2009 10:59:36 AM	  0:29:36	
+   3	 31	 30	 4/07/2009 11:21:07 AM	  0:21:31	
+   4	 54	 50	 4/07/2009 11:54:36 AM	  0:33:29	
+   5	 22	 20	 4/07/2009 12:19:18 PM	  0:24:42	
+   6	 62	 60	 4/07/2009 12:52:27 PM	  0:33:09	
+   7	 55	 50	 4/07/2009  1:08:17 PM 	  0:15:50	
+   8	 44	 40	 4/07/2009  2:05:02 PM 	  0:56:45	
+   9	 61	 60	 4/07/2009  2:30:07 PM 	  0:25:05	
+  10	 42	 40	 4/07/2009  2:50:23 PM 	  0:20:16	
+  11	 41	 40	 4/07/2009  3:00:45 PM 	  0:10:22	
+  12	 60	 60	 4/07/2009  3:10:49 PM 	  0:10:04	
+  13	 45	 40	 4/07/2009  4:06:52 PM 	  0:56:03	
+  14	108		 4/07/2009  4:28:02 PM 	  0:21:10	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:28:02 PM 
+Time on course   5:58:02
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

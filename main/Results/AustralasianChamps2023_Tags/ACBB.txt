@@ -1,0 +1,44 @@
+Team No. 102	Tag ID = ACBB   Tags=0023	Course 15hr
+The tailenders: Helen Dent, Ciara McAdden and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		16/12/2023 11:43:42 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	16/12/2023 12:19:46 PM	  0:19:46	
+   3	  88 	   80	16/12/2023 12:53:17 PM	  0:33:31	
+   4	  81 	   80	16/12/2023  2:42:18 PM	  1:49:01	
+   5	  74 	   70	16/12/2023  3:34:49 PM	  0:52:31	
+   6	 106 	  100	16/12/2023  4:28:44 PM	  0:53:55	
+   7	  60 	   60	16/12/2023  5:19:10 PM	  0:50:26	
+   8	  96 	   90	16/12/2023  5:32:58 PM	  0:13:48	
+   9	  30 	   30	16/12/2023  6:09:02 PM	  0:36:04	
+  10	  65 	   60	16/12/2023  6:58:18 PM	  0:49:16	
+  11	  47 	   40	16/12/2023  7:51:06 PM	  0:52:48	
+  12	  38 	   30	16/12/2023  8:09:44 PM	  0:18:38	
+  13	  22 	   20	16/12/2023  9:10:13 PM	  1:00:29	
+  14	  26 	   20	16/12/2023  9:39:14 PM	  0:29:01	
+  15	  18 		16/12/2023 10:22:50 PM	  0:43:36	FINISH TIME.
+  16	  15 		17/12/2023  6:22:12 AM	  7:59:22	DEPARTURE TIME.
+  17	  20 	   20	17/12/2023  6:54:52 AM	  0:32:40	
+  18	  46 	   40	17/12/2023  7:23:43 AM	  0:28:51	
+  19	 105 	  100	17/12/2023  7:56:36 AM	  0:32:53	
+  20	  62 	   60	17/12/2023  8:22:18 AM	  0:25:42	
+  21	  23 	   20	17/12/2023  9:02:08 AM	  0:39:50	
+  22	  35 	   30	17/12/2023  9:27:03 AM	  0:24:55	
+  23	  16 		17/12/2023  9:49:08 AM	  0:22:05	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  25
+Your score has been reduced by 20 points.
+
+
+Recognised Course time 17/12/2023 1:49:46 AM
+Time on course  13:49:46
+
+
+  950	Points Scored.
+     	No Time Penalty.
+20	Manual adjustment.
+
+
+FINAL SCORE = 970

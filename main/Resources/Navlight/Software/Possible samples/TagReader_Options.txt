@@ -1,0 +1,8 @@
+A4	Portrait	74	Lucida Console	8	
+Course #	Default Course 0	5/01/2008 12:30:00 PM	6/01/2008 12:30:00 PM	10	30	False	24:00:00	10	Slowest Tag
+Course #	24Hr	5/01/2008 12:30:00 PM	6/01/2008 12:30:00 PM	10	30	False	24:00:00	10	Slowest Tag
+Course #	6Hr	5/01/2008 3:00:00 PM	5/01/2008 9:00:00 PM	10	30	False	6:00:00	10	Slowest Tag
+Course #	15in23	5/01/2008 1:00:00 PM	6/01/2008 12:00:00 PM	10	30	True	15:00:00	10	Slowest Tag
+Course #	Time	5/01/2008 12:30:00 PM	6/01/2008 12:00:00 PM	10	30	False	23:30:00	10	Slowest Tag
+Course #	Last6	6/01/2008 3:00:00 AM	6/01/2008 9:00:00 AM	10	30	False	6:00:00	10	Slowest Tag
+Course #	Chain2	5/01/2008 3:00:00 PM	6/01/2008 9:00:00 AM	10	30	False	18:00:00	10	Slowest Tag	6Hr	Last6	=False

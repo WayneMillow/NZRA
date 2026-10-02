@@ -1,0 +1,30 @@
+Team No. 174	Tag ID = AWDG   Tags=0013	Course 6 hour
+Morris dancers: Jin Flanagan, Josie O'Callaghan and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:06:23 AM	  0:06:23	
+   2	  24 	   20	19/06/2021 11:15:36 AM	  0:09:13	
+   3	  39 	   30	19/06/2021 11:27:29 AM	  0:11:53	
+   4	  47 	   40	19/06/2021 11:44:53 AM	  0:17:24	
+   5	  80 	   80	19/06/2021 11:59:28 AM	  0:14:35	
+   6	 100 	  100	19/06/2021  1:11:26 PM	  1:11:58	
+   7	  41 	   40	19/06/2021  1:38:19 PM	  0:26:53	
+   8	  60 	   60	19/06/2021  2:19:47 PM	  0:41:28	
+   9	  96 	   90	19/06/2021  2:43:31 PM	  0:23:44	
+  10	  64 	   60	19/06/2021  3:58:17 PM	  1:14:46	
+  11	  77 	   70	19/06/2021  4:18:59 PM	  0:20:42	
+  12	  48 	   40	19/06/2021  4:52:52 PM	  0:33:53	
+  13	  97 		19/06/2021  5:02:46 PM	  0:09:54	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:02:46 PM
+Time on course   6:02:46
+
+
+  660	Points Scored.
+  -30	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

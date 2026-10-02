@@ -1,0 +1,24 @@
+Team No. 200	Tag ID = AYDJ   Tags=0027	Course 6 hour
+Testing: Test1, Test2
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  21	  10 		 7/06/2022  9:39:00 PM	         	BRIEFING. Score reset.
+  22	  38 	   30	 7/06/2022  9:39:18 PM	         	Punch clock failed.
+  23	  66 	   60	 7/06/2022  9:39:25 PM	         	Punch clock failed.
+  24	  56 	   50	 7/06/2022  9:39:31 PM	         	Punch clock failed.
+  25	  22 	   20	 7/06/2022  9:39:37 PM	         	Punch clock failed.
+  26	  46 	   40	 7/06/2022  9:39:41 PM	         	Punch clock failed.
+  27	  13 		 7/06/2022  9:40:20 PM	         	FINISH TIME.
+END
+
+
+Recognised finish time  7/06/2022  9:40:20 PM
+Time on course -85:19:40
+
+
+  200	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 200

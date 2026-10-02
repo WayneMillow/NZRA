@@ -1,0 +1,42 @@
+O/A	Team	Score	Time	 Team Members 	M	M	W	W	X	X	M	W	X	F	
+					O	V	O	V	O	V	J	J	J	O	
+															
+ 1	11	2670	   6:00:33	Nutrient Rescue (Darron Jones, Dave Quested.)	.	1	.	.	.	.	.	.	.	.	
+ 2	14	2110	   5:59:03	Tenacious Turtles (Nathan Harris, Ev Tolerton.)	1	.	.	.	.	.	.	.	.	.	
+ 3	36	1930	   5:48:45	Rock Hoppers (Guy de Lacey, Douglas Woods.)	.	2	.	.	.	.	.	.	.	.	
+ 4	29	1860	   5:48:54	Out and about (Connor Cleary, Peter Cleary.)	2	.	.	.	.	.	.	.	.	.	
+ 5	28	1830	   6:01:20	Always late (Rachel Horsburgh, Robert Lambie, Ben Morrison.)	.	.	.	.	1	.	.	.	.	.	
+ 6	30	1690	   5:57:38	Born Free (Aliesha Pile, Daniel Jessop.)	.	.	.	.	2	.	.	.	.	.	
+ 7	6	1610	   5:56:06	Ibuprofen Anonymous (Reon Nolan, Kevin O'Donnell, Daniel Eastwood, Fiona Stechmann.)	.	.	.	.	3	.	.	.	.	.	
+ 8	41	1590	   5:54:02	Nicole and Carey (Nicole Symons, Carey Lintott.)	.	.	1	.	.	.	.	.	.	.	
+ 9	2	1520	   5:51:57	Low Range Rovers (Rachel Brown, Jo Forbes, Rob Harrow.)	.	.	.	.	.	1	.	.	.	.	
+ 10	22	1510	   5:39:29	L & B (Bridget Guerin, Lisa Ainley.)	.	.	.	1	.	.	.	.	.	.	
+ 11	33	1510	   5:50:55	Big Dogs (Sarah Helmore, Simon Wilson, Mike Wilson.)	.	.	.	.	.	2	.	.	.	.	
+ 12	27	1480	   5:55:43	A bit Wonky (Colin Dixon, Chris Dixon.)	.	.	.	.	.	3	.	.	.	.	
+ 13	23	1470	   5:51:32	Doogues on the move (Matt Doogue, Charlotte Doogue.)	.	.	.	.	4	.	.	.	.	.	
+ 14	1	1460	   5:47:52	The Skilled Leading The Blind (Alan Steel, Kristina Arcus.)	.	.	.	.	5	.	.	.	.	.	
+ 15	12	1460	   5:53:40	Granny Franchise (Emma de Lacey, Josie Boland, Vivienne Prince.)	.	.	.	2	.	.	.	.	.	.	
+ 16	10	1450	   5:49:41	Where's the Sat Nav? (Miles Watson, Claire Le Grice.)	.	.	.	.	.	4	.	.	.	.	
+ 17	25	1420	   5:52:19	Mummy G.O.A.T.s (Jane Connell, Jackie Cohen, Erin Harrison.)	.	.	2	.	.	.	.	.	.	.	
+ 18	18	1390	   5:57:46	Beefit (Olivia Rutherford, Kristen Diederich.)	.	.	3	.	.	.	.	.	.	.	
+ 19	24	1370	   5:48:37	2 Old Phedders (Brandon Wilson, David Watt Brandex.)	.	3	.	.	.	.	.	.	.	.	
+ 20	17	1300	   5:55:06	Kopikopiko Chicks (Fiona McDonald, Janine Romano, Fiona Vetcher.)	.	.	.	3	.	.	.	.	.	.	
+ 21	34	1270	   5:43:19	McMe (Andrew McGowan, Trevor Merrifield.)	.	4	.	.	.	.	.	.	.	.	
+ 22	19	1270	   5:56:17	GRR & Kathrin (Kathrin Mueller, Graeme Read.)	.	.	.	.	.	5	.	.	.	.	
+ 23	35	1220	   5:52:25	Not Fast but Fabulous (kirsty muir, tine dahlmann, rachel watt.)	.	.	.	4	.	.	.	.	.	.	
+ 24	31	1190	   5:49:52	Day Trippers (Peter Hall, Richard Dove.)	.	5	.	.	.	.	.	.	.	.	
+ 25	13	1160	   5:53:22	Wicked Rogaines (Nora Audra, Ian Edmond, Oscar Edmond.)	.	.	.	.	.	.	.	.	.	1	
+ 26	16	1140	   5:55:52	Mac n Tonic (Tony Munnerley, Alison MacDonald, Nicola Hardaker.)	.	.	.	.	.	6	.	.	.	.	
+ 27	43	1090	   5:38:20	Team 1 (Alex Cameron, Kristine Marriott, Michelle Clyne.)	.	.	.	.	6	.	.	.	.	.	
+ 28	8	1040	   5:53:02	Jurassic Park (Emily Shaw, Emily Lane, Phoebe Sopp.)	.	.	4	.	.	.	.	.	.	.	
+ 29	37	1000	   5:45:26	Sole Mates (Michele Collins, Cheryl Monahan, Amber Garad.)	.	.	.	5	.	.	.	.	.	.	
+ 30	15	960	   5:54:59	AT (Tania Ross, Amy Brewer.)	.	.	5	.	.	.	.	.	.	.	
+ 31	26	950	   5:46:47	Faster than Snails (Emma Fissenden, Justine Schroder.)	.	.	.	6	.	.	.	.	.	.	
+ 32	5	800	   5:53:21	Wacky Racers (Mia Beswick, Tarsh Commons, Chrissy Campbell, Anne Commons.)	.	.	6	.	.	.	.	.	.	.	
+ 33	32	770	   5:34:11	Apple Pi (Sandra Appleby, Martin Cleland.)	.	.	.	.	.	7	.	.	.	.	
+ 34	20	750	   5:40:28	Be Back Soon (Claire McCarthy, Viv Gray.)	.	.	.	7	.	.	.	.	.	.	
+ 35	42	750	   5:52:03	Unnamed (Karen Gray, Natastha Jelbert, Emma Bradley.)	.	.	7	.	.	.	.	.	.	.	
+ 36	4	730	   5:53:28	Better at Running up a Tab (Kate Boyd, Kylee Habgood, Tara Abbott.)	.	.	8	.	.	.	.	.	.	.	
+ 37	38	680	   6:00:17	Yeah Nah (Jaega Banga, Sophie Norman, Jonny Brewer.)	.	.	.	.	7	.	.	.	.	.	
+ 38	9	550	   5:50:05	Heartless Bastards (Andy Griffiths, Steve Petty.)	.	6	.	.	.	.	.	.	.	.	
+ 39	3	390	   5:59:28	Sweat  regret and oxygen debt (Rebecca Burns, Michele Stevenson, Rachel Scott.)	.	.	.	8	.	.	.	.	.	.	

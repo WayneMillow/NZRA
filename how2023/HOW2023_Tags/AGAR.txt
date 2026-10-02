@@ -1,0 +1,25 @@
+Team No. 10	Tag ID = AGAR   Tags=0008	Course 6hr
+Giraffe's Can't Raft: Claudia Thomson, Stacey Wojtas and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:11:10 AM	  0:11:10	
+   2	  40 	   40	 1/07/2023 11:51:16 AM	  0:40:06	
+   3	  62 	   60	 1/07/2023 12:29:22 PM	  0:38:06	
+   4	  42 	   40	 1/07/2023  1:59:26 PM	  1:30:04	
+   5	  64 	   60	 1/07/2023  2:50:29 PM	  0:51:03	
+   6	  22 	   20	 1/07/2023  3:18:34 PM	  0:28:05	
+   7	  72 	   70	 1/07/2023  4:12:25 PM	  0:53:51	
+   8	  18 		 1/07/2023  4:56:18 PM	  0:43:53	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:56:18 PM
+Time on course   5:56:18
+
+
+  330	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 330

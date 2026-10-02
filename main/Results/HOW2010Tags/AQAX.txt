@@ -1,0 +1,31 @@
+Team No. 637	Tag ID = AQAX   Tags=0015	Course 6_HoW
+Mark Buckley, Daniel Buckley and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 23		26/06/2010 10:29:14 AM	         	BRIEFING. Score reset.
+   3	 76	 70	26/06/2010 11:21:08 AM	  0:21:08	 Punch  04 replaced by Group 76.
+   4	 86	 80	26/06/2010 12:25:57 PM	  1:04:49	
+   5	102	100	26/06/2010 12:50:08 PM	  0:24:11	
+   6	 77	 70	26/06/2010  1:04:28 PM 	  0:14:20	
+   7	 85	 80	26/06/2010  1:41:23 PM 	  0:36:55	
+   8	101	100	26/06/2010  2:09:57 PM 	  0:28:34	
+   9	 81	 80	26/06/2010  2:39:29 PM 	  0:29:32	
+  10	 73	 70	26/06/2010  3:03:38 PM 	  0:24:09	
+  11	 82	 80	26/06/2010  3:43:06 PM 	  0:39:28	
+  12	 74	 70	26/06/2010 11:16:27 AM	         	Split time negative.
+  13	 35	 30	26/06/2010  4:19:53 PM 	  5:03:26	
+  14	 34	 30	26/06/2010  4:34:35 PM 	  0:14:42	
+  15	 18		26/06/2010  4:57:56 PM 	  0:23:21	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:57:56 PM 
+Time on course   5:57:56
+
+
+  860	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 860

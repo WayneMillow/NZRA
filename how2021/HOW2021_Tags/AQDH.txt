@@ -1,0 +1,29 @@
+Team No. 183	Tag ID = AQDH   Tags=0013	Course 6 hour
+Mawhera Redemption: Jo Newton, Phaedra Robbins and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:10:52 AM	  0:10:52	
+   2	  24 	   20	19/06/2021 11:23:55 AM	  0:13:03	
+   3	  39 	   30	19/06/2021 11:39:29 AM	  0:15:34	
+   4	  47 	   40	19/06/2021 12:12:17 PM	  0:32:48	
+   5	  80 	   80	19/06/2021 12:28:16 PM	  0:15:59	
+   6	  49 	   40	19/06/2021  1:39:16 PM	  1:11:00	
+   7	  67 	   60	19/06/2021  2:31:26 PM	  0:52:10	
+   8	  35 	   30	19/06/2021  2:50:14 PM	  0:18:48	
+   9	 100 	  100	19/06/2021  3:06:24 PM	  0:16:10	
+  10	  77 	   70	19/06/2021  4:05:07 PM	  0:58:43	
+  11	  48 	   40	19/06/2021  4:46:25 PM	  0:41:18	
+  12	  57 		19/06/2021  4:57:36 PM	  0:11:11	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:57:36 PM
+Time on course   5:57:36
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

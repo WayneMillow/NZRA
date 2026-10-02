@@ -1,0 +1,29 @@
+Team No. 188	Tag ID = AADJ   Tags=0012	Course 3 hour
+Not Fast and slightly furious: Claire Spear, Linda Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:48:10 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:11:54 PM	  0:11:54	
+   3	  31 	   30	 7/07/2019 12:23:48 PM	  0:11:54	
+   4	  73 	   70	 7/07/2019 12:32:34 PM	  0:08:46	
+   5	  46 	   40	 7/07/2019 12:52:19 PM	  0:19:45	
+   6	  52 	   50	 7/07/2019 12:59:02 PM	  0:06:43	
+   7	  59 	   50	 7/07/2019  1:19:59 PM	  0:20:57	
+   8	  45 	   40	 7/07/2019  1:36:13 PM	  0:16:14	
+   9	  65 	   60	 7/07/2019  1:57:34 PM	  0:21:21	
+  10	  49 	   40	 7/07/2019  2:10:07 PM	  0:12:33	
+  11	  51 	   50	 7/07/2019  2:21:57 PM	  0:11:50	
+  12	  18 		 7/07/2019  2:41:28 PM	  0:19:31	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:41:28 PM
+Time on course   2:41:28
+
+
+  470	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

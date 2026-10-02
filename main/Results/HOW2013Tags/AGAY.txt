@@ -1,0 +1,36 @@
+Team No. 504	Tag ID = AGAY   Tags=0017	Course 6hr
+6hr Thick Thistlesticks: Chrys Horn, Jude  Wilson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 10:15:32 AM	         	BRIEFING. Score reset.
+   2	 86	 80	 8/06/2013 10:51:47 AM	  0:22:47	
+   3	 99	 90	 8/06/2013 11:50:21 AM	  0:58:34	
+   4	 31	 30	 8/06/2013 12:07:24 PM	  0:17:03	
+   5	 51	 50	 8/06/2013 12:17:25 PM	  0:10:01	
+   6	 33	 30	 8/06/2013 12:39:57 PM	  0:22:32	
+   7	102	100	 8/06/2013  1:00:38 PM 	  0:20:41	
+   8	 88	 80	 8/06/2013  1:21:13 PM 	  0:20:35	
+   9	 24	 20	 8/06/2013  1:40:38 PM 	  0:19:25	
+  10	 60	 60	 8/06/2013  2:02:00 PM 	  0:21:22	
+  11	 26	 20	 8/06/2013  2:27:44 PM 	  0:25:44	
+  12	 35	 30	 8/06/2013  2:47:32 PM 	  0:19:48	
+  13	 53	 50	 8/06/2013  3:05:13 PM 	  0:17:41	
+  14	 30	 30	 8/06/2013  3:27:21 PM 	  0:22:08	
+  15	 49	 40	 8/06/2013  4:01:07 PM 	  0:33:46	 Punch  12 replaced by Group 49.
+  16	 49		 8/06/2013  4:01:12 PM 	  0:00:05	     Punched on Line 15
+  17	 16		 8/06/2013  4:18:44 PM 	  0:17:32	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch71	70
+
+
+Recognised finish time  8/06/2013  4:18:44 PM 
+Time on course   5:49:44
+
+
+  870	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 870

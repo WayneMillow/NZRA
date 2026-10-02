@@ -1,0 +1,25 @@
+Team No. 107	Tag ID = ASBA   Tags=0008	Course 6hr
+Myra Daly, Graham Fennell
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 11		14/06/2008 10:47:44 AM	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008 11:10:36 AM	  0:10:36	
+   3	 67	 60	14/06/2008 11:34:16 AM	  0:23:40	
+   4	 51	 50	14/06/2008 12:05:14 PM	  0:30:58	
+   5	 41	 40	14/06/2008  1:12:06 PM 	  1:06:52	
+   6	 44	 40	14/06/2008  1:30:57 PM 	  0:18:51	
+   7	 73	 70	14/06/2008  2:42:08 PM 	  1:11:11	
+   8	109		14/06/2008  4:51:36 PM 	  2:09:28	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:51:36 PM 
+Time on course   5:51:36
+
+
+  290	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 290

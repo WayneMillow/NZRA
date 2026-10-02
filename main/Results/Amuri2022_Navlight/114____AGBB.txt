@@ -1,0 +1,31 @@
+Team No. 114	Tag ID = AGBB   Tags=0014	Course 3hr
+Hooligans: George Flintoft, Isaac Kelly and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:01:23 PM	  0:01:23	
+   2	  20 	   20	 3/07/2022 12:05:44 PM	  0:04:21	
+   3	  31 	   30	 3/07/2022 12:07:22 PM	  0:01:38	
+   4	  71 	   70	 3/07/2022 12:22:14 PM	  0:14:52	
+   5	  72 	   70	 3/07/2022 12:36:27 PM	  0:14:13	
+   6	  42 	   40	 3/07/2022 12:59:01 PM	  0:22:34	
+   7	  24 	   20	 3/07/2022  1:32:11 PM	  0:33:10	
+   8	  53 	   50	 3/07/2022  1:43:39 PM	  0:11:28	
+   9	  50 	   50	 3/07/2022  2:07:23 PM	  0:23:44	
+  10	  33 	   30	 3/07/2022  2:18:42 PM	  0:11:19	
+  11	  52 	   50	 3/07/2022  2:25:42 PM	  0:07:00	
+  12	  21 	   20	 3/07/2022  2:30:36 PM	  0:04:54	
+  13	  18 		 3/07/2022  2:53:02 PM	  0:22:26	FINISH TIME.
+  14	  19 		 3/07/2022  2:53:09 PM	  0:00:07	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  3/07/2022  2:53:02 PM
+Time on course   2:53:02
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

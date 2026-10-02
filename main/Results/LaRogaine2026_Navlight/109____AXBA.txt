@@ -1,0 +1,26 @@
+Team No. 109	Tag ID = AXBA   Tags=0009	Course 03 hour
+Lieberts have GRIT: Tobie Liebert, Robbie Liebert and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:47:37 am	         	BRIEFING. Score reset.
+   2	  30 	30	31/01/2026 11:19:58 am	  0:19:58	
+   3	  34 	30	31/01/2026 11:46:08 am	  0:26:10	
+   4	  94 	90	31/01/2026 12:24:42 pm	  0:38:34	
+   5	  44 	40	31/01/2026 12:48:12 pm	  0:23:30	
+   6	  44 		31/01/2026 12:53:20 pm	  0:05:08	     Punched on Line 5
+   7	 101 	100	31/01/2026  1:11:08 pm	  0:17:48	
+   8	  83 	80	31/01/2026  1:37:08 pm	  0:26:00	
+   9	  18 		31/01/2026  2:15:14 pm	  0:38:06	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  2:15:14 pm
+Time on course   3:15:14
+
+
+  370	Points Scored.
+ -160	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 210

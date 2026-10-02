@@ -1,0 +1,33 @@
+Team No. 2156	Tag ID = AWAZ   Tags=0016	Course 6Hr
+half way home: geoff inwood, Tania Lesley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:40:35 AM	         	BRIEFING. Score reset.
+   2	 20	 20	10/06/2017 11:23:08 AM	  0:23:08	
+   3	 31	 30	10/06/2017 11:41:55 AM	  0:18:47	
+   4	 42	 40	10/06/2017 12:03:56 PM	  0:22:01	
+   5	100	100	10/06/2017 12:24:25 PM	  0:20:29	
+   6	 60	 60	10/06/2017 12:52:19 PM	  0:27:54	
+   7	 37	 30	10/06/2017  1:12:01 PM	  0:19:42	
+   8	 80	 80	10/06/2017  1:32:18 PM	  0:20:17	
+   9	 51	 50	10/06/2017  1:51:24 PM	  0:19:06	
+  10	 28	 20	10/06/2017  2:04:46 PM	  0:13:22	
+  11	 91	 90	10/06/2017  2:34:39 PM	  0:29:53	
+  12	 81	 80	10/06/2017  2:58:32 PM	  0:23:53	
+  13	 23	 20	10/06/2017  4:00:50 PM	  1:02:18	
+  14	 22	 20	10/06/2017  4:33:32 PM	  0:32:42	
+  15	 27	 20	10/06/2017  4:50:16 PM	  0:16:44	
+  16	108		10/06/2017  4:55:50 PM	  0:05:34	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:55:50 PM
+Time on course   5:55:50
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

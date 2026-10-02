@@ -1,0 +1,30 @@
+Team No. 228	Tag ID = ARDR   Tags=0015	Course 6 hour
+The Drifters: Sarah Wright, Diane Dinnis
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 12:05:57 PM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:08:19 PM	  0:08:19	
+   3	  39 	   30	 7/11/2020  1:27:07 PM	  0:18:48	
+   4	 107 	  100	 7/11/2020  2:02:17 PM	  0:35:10	
+   5	  85 	   80	 7/11/2020  2:33:50 PM	  0:31:33	
+   6	  45 	   40	 7/11/2020  2:58:24 PM	  0:24:34	
+   7	  83 	   80	 7/11/2020  3:19:31 PM	  0:21:07	
+   8	  73 	   70	 7/11/2020  4:06:48 PM	  0:47:17	
+   9	  89 	   80	 7/11/2020  5:10:27 PM	  1:03:39	
+  10	  44 	   40	 7/11/2020  5:28:12 PM	  0:17:45	
+  11	 104 	  100	 7/11/2020  5:53:01 PM	  0:24:49	
+  12	  87 	   80	 7/11/2020  6:31:33 PM	  0:38:32	
+  13	  19 		 7/11/2020  7:05:02 PM	  0:33:29	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  7:05:02 PM
+Time on course   6:05:02
+
+
+  720	Points Scored.
+  -60	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

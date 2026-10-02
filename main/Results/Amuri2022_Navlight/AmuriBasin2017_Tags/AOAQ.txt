@@ -1,0 +1,29 @@
+Team No. 2101	Tag ID = AOAQ   Tags=0012	Course 3Hr
+Shankarabharana: Madhurika Nag, Abhishek Sooda and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:37:21 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:07:24 PM	  0:07:24	
+   3	  41 	   40	 9/07/2017 12:18:12 PM	  0:10:48	
+   4	  63 	   60	 9/07/2017 12:35:14 PM	  0:17:02	
+   5	  23 	   20	 9/07/2017 12:47:58 PM	  0:12:44	
+   6	  35 	   30	 9/07/2017 12:56:42 PM	  0:08:44	
+   7	  84 	   80	 9/07/2017  1:52:26 PM	  0:55:44	
+   8	  58 	   50	 9/07/2017  2:14:43 PM	  0:22:17	
+   9	  81 	   80	 9/07/2017  2:34:27 PM	  0:19:44	
+  10	  31 	   30	 9/07/2017  2:45:59 PM	  0:11:32	
+  11	  37 	   30	 9/07/2017  2:51:34 PM	  0:05:35	
+  12	 107 		 9/07/2017  2:58:18 PM	  0:06:44	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:58:18 PM
+Time on course   2:58:18
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

@@ -1,0 +1,28 @@
+Team No. 675	Tag ID = AUDF   Tags=0011	Course 6Hr
+Huntley Adamson, Alexandra Adamson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:47:50 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:13:38 AM	  0:13:38	
+   3	 68	 60	27/06/2015 12:14:21 PM	  1:00:43	
+   4	 85	 80	27/06/2015 12:40:21 PM	  0:26:00	
+   5	 55	 50	27/06/2015  1:03:36 PM	  0:23:15	
+   6	 86	 80	27/06/2015  2:35:41 PM	  1:32:05	
+   7	 58	 50	27/06/2015  2:59:18 PM	  0:23:37	
+   8	 48	 40	27/06/2015  3:20:47 PM	  0:21:29	
+   9	 28	 20	27/06/2015  3:50:30 PM	  0:29:43	
+  10	 27	 20	27/06/2015  4:36:05 PM	  0:45:35	
+  11	105		27/06/2015  4:45:23 PM	  0:09:18	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:45:23 PM
+Time on course   5:45:23
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

@@ -1,0 +1,33 @@
+Team No. 202	Tag ID = AODL   Tags=0016	Course 3 hour
+Crusty   Co: Connor Wilson, Simon Wilson and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:46:08 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:08:48 PM	  0:08:48	
+   3	  45 	   40	 7/07/2019 12:24:49 PM	  0:16:01	
+   4	  72 	   70	 7/07/2019 12:49:41 PM	  0:24:52	
+   5	  67 	   60	 7/07/2019  1:04:44 PM	  0:15:03	
+   6	  54 	   50	 7/07/2019  1:14:14 PM	  0:09:30	
+   7	  41 	   40	 7/07/2019  1:19:57 PM	  0:05:43	
+   8	  42 	   40	 7/07/2019  1:27:15 PM	  0:07:18	
+   9	  57 	   50	 7/07/2019  1:32:17 PM	  0:05:02	
+  10	  44 	   40	 7/07/2019  1:48:58 PM	  0:16:41	
+  11	  55 	   50	 7/07/2019  2:17:07 PM	  0:28:09	
+  12	  62 	   60	 7/07/2019  2:26:06 PM	  0:08:59	
+  13	  43 	   40	 7/07/2019  2:36:01 PM	  0:09:55	
+  14	  52 	   50	 7/07/2019  2:43:41 PM	  0:07:40	
+  15	  46 	   40	 7/07/2019  2:50:27 PM	  0:06:46	
+  16	  16 		 7/07/2019  3:03:48 PM	  0:13:21	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:03:48 PM
+Time on course   3:03:48
+
+
+  680	Points Scored.
+  -40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

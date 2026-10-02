@@ -1,0 +1,29 @@
+Team No. 4	Tag ID = AUAQ   Tags=0012	Course 6hr
+Still together: Ian Harrison, Jan Harrison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:07:33 AM	  0:07:33	
+   2	  64 	   60	 1/07/2023 11:30:28 AM	  0:22:55	
+   3	  22 	   20	 1/07/2023 11:46:04 AM	  0:15:36	
+   4	  91 	   90	 1/07/2023 12:01:53 PM	  0:15:49	
+   5	  72 	   70	 1/07/2023 12:36:49 PM	  0:34:56	
+   6	  65 	   60	 1/07/2023  1:10:28 PM	  0:33:39	
+   7	  73 	   70	 1/07/2023  1:42:27 PM	  0:31:59	
+   8	 103 	  100	 1/07/2023  2:07:17 PM	  0:24:50	
+   9	  58 	   50	 1/07/2023  2:58:03 PM	  0:50:46	
+  10	  77 	   70	 1/07/2023  3:22:32 PM	  0:24:29	
+  11	  85 	   80	 1/07/2023  3:54:04 PM	  0:31:32	
+  12	  18 		 1/07/2023  5:10:14 PM	  1:16:10	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  5:10:14 PM
+Time on course   6:10:14
+
+
+  710	Points Scored.
+ -220	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

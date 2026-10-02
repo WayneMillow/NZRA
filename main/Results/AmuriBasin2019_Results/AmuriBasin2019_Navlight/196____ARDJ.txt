@@ -1,0 +1,35 @@
+Team No. 196	Tag ID = ARDJ   Tags=0019	Course 3 hour
+The Twonies: Meagan Kelly, Kim Hamilton
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  12 		 7/07/2019 11:48:47 AM	         	BRIEFING. Score reset.
+   3	  47 	   40	 7/07/2019 12:06:03 PM	  0:06:03	
+   4	  31 	   30	 7/07/2019 12:14:43 PM	  0:08:40	
+   5	  73 	   70	 7/07/2019 12:20:37 PM	  0:05:54	
+   6	  46 	   40	 7/07/2019 12:32:11 PM	  0:11:34	
+   7	  52 	   50	 7/07/2019 12:37:40 PM	  0:05:29	
+   8	  43 	   40	 7/07/2019 12:58:03 PM	  0:20:23	
+   9	  62 	   60	 7/07/2019  1:16:51 PM	  0:18:48	
+  10	  55 	   50	 7/07/2019  1:31:41 PM	  0:14:50	
+  11	 102 	  100	 7/07/2019  1:44:26 PM	  0:12:45	
+  12	  44 	   40	 7/07/2019  2:12:45 PM	  0:28:19	
+  13	  57 	   50	 7/07/2019  2:23:32 PM	  0:10:47	
+  14	  42 	   40	 7/07/2019  2:30:05 PM	  0:06:33	
+  15	  41 	   40	 7/07/2019  2:35:51 PM	  0:05:46	
+  16	  54 	   50	 7/07/2019  2:43:31 PM	  0:07:40	
+  17	  26 	   20	 7/07/2019  2:58:04 PM	  0:14:33	
+  18	  19 		 7/07/2019  3:01:38 PM	  0:03:34	FINISH TIME.
+  19	  16 		 7/07/2019  3:01:45 PM	  0:00:07	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  7/07/2019  3:01:38 PM
+Time on course   3:01:38
+
+
+  720	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

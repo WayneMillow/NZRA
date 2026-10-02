@@ -1,0 +1,35 @@
+Team No. 71	Tag ID = AVAX   Tags=0018	Course 06 hour
+Tassie Devils: Liz Canning, Hugh Fitzgerald
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		31/01/2026  9:47:21 am	         	BRIEFING. Score reset.
+   2	  74 	70	31/01/2026 10:14:08 am	  0:14:08	
+   3	  24 	20	31/01/2026 10:35:21 am	  0:21:13	
+   4	  84 	80	31/01/2026 10:52:26 am	  0:17:05	
+   5	  77 	70	31/01/2026 11:05:42 am	  0:13:16	
+   6	 103 	100	31/01/2026 11:35:46 am	  0:30:04	
+   7	  55 	50	31/01/2026 11:57:25 am	  0:21:39	
+   8	  96 	90	31/01/2026 12:17:48 pm	  0:20:23	
+   9	 104 	100	31/01/2026 12:50:30 pm	  0:32:42	
+  10	  87 	80	31/01/2026  1:18:20 pm	  0:27:50	
+  11	  97 	90	31/01/2026  1:31:09 pm	  0:12:49	
+  12	  86 	80	31/01/2026  1:59:08 pm	  0:27:59	
+  13	  35 	30	31/01/2026  4:51:00 am	         	Punch clock failed.
+  14	  75 	70	31/01/2026  2:37:10 pm	  0:38:02	
+  15	  94 	90	31/01/2026  3:02:41 pm	  0:25:31	
+  16	  34 	30	31/01/2026  3:14:53 pm	  0:12:12	
+  17	  30 	30	31/01/2026  3:37:31 pm	  0:22:38	
+  18	  19 		31/01/2026  3:46:06 pm	  0:08:35	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  3:46:06 pm
+Time on course   5:46:06
+
+
+ 1080	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1080

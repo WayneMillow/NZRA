@@ -1,0 +1,25 @@
+Team No. 178	Tag ID = AFDH   Tags=0008	Course 6 hour
+Wednesday Walkers: Darlene Thomson (NZL), Sue Galloway (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		24/11/2018 11:41:13 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018 12:34:49 PM	  0:34:49	
+   3	  46 	   40	24/11/2018 12:58:56 PM	  0:24:07	
+   4	  75 	   70	24/11/2018  1:53:22 PM	  0:54:26	
+   5	  84 	   80	24/11/2018  2:23:05 PM	  0:29:43	
+   6	  97 	   90	24/11/2018  2:48:30 PM	  0:25:25	
+   7	  60 	   60	24/11/2018  4:44:35 PM	  1:56:05	
+   8	  17 		24/11/2018  5:46:42 PM	  1:02:07	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:46:42 PM
+Time on course   5:46:42
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

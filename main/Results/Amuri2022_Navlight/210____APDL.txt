@@ -1,0 +1,32 @@
+Team No. 210	Tag ID = APDL   Tags=0015	Course 1.5hr
+Lost lambs: Mac Langford, Angela de Ridder and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022  1:03:31 PM	  0:03:31	
+   2	  70 	   70	 3/07/2022  1:06:45 PM	  0:03:14	
+   3	  31 	   30	 3/07/2022  1:11:46 PM	  0:05:01	
+   4	  91 	   90	 3/07/2022  1:14:54 PM	  0:03:08	
+   5	  66 	   60	 3/07/2022  1:28:23 PM	  0:13:29	
+   6	  75 	   70	 3/07/2022  1:38:11 PM	  0:09:48	
+   7	  81 	   80	 3/07/2022  1:44:26 PM	  0:06:15	
+   8	  86 	   80	 3/07/2022  1:48:51 PM	  0:04:25	
+   9	  46 	   40	 3/07/2022  1:53:25 PM	  0:04:34	
+  10	  52 	   50	 3/07/2022  1:56:42 PM	  0:03:17	
+  11	  74 	   70	 3/07/2022  2:07:45 PM	  0:11:03	
+  12	  56 	   50	 3/07/2022  2:12:51 PM	  0:05:06	
+  13	  30 	   30	 3/07/2022  2:17:06 PM	  0:04:15	
+  14	  45 	   40	 3/07/2022  2:22:55 PM	  0:05:49	
+  15	  19 		 3/07/2022  2:25:53 PM	  0:02:58	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:25:53 PM
+Time on course   1:25:53
+
+
+  800	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 800

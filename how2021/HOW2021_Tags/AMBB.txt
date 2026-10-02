@@ -1,0 +1,30 @@
+Team No. 116	Tag ID = AMBB   Tags=0013	Course 6 hour
+Nashee Pears: Ashton Gainsford, Eva Rowe
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:12:48 AM	  0:12:48	
+   2	  25 	   20	19/06/2021 11:32:05 AM	  0:19:17	
+   3	  38 	   30	19/06/2021 12:07:46 PM	  0:35:41	
+   4	  89 	   80	19/06/2021 12:39:03 PM	  0:31:17	
+   5	  64 	   60	19/06/2021  1:12:36 PM	  0:33:33	
+   6	  77 	   70	19/06/2021  2:13:33 PM	  1:00:57	
+   7	  58 	   50	19/06/2021  2:48:39 PM	  0:35:06	
+   8	  49 	   40	19/06/2021  3:14:40 PM	  0:26:01	
+   9	  47 	   40	19/06/2021  3:30:15 PM	  0:15:35	
+  10	  39 	   30	19/06/2021  3:55:12 PM	  0:24:57	
+  11	  24 	   20	19/06/2021  4:13:17 PM	  0:18:05	
+  12	  33 	   30	19/06/2021  4:28:29 PM	  0:15:12	
+  13	  57 		19/06/2021  4:36:57 PM	  0:08:28	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:36:57 PM
+Time on course   5:36:57
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

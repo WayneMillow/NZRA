@@ -1,0 +1,26 @@
+Team No. 107	Tag ID = ASBA   Tags=0009	Course 03 hour
+The Whitecliffs Wanderer's: Ollie Thompson, Ricki Thompson and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:47:21 am	         	BRIEFING. Score reset.
+   2	  40 	40	31/01/2026 11:09:02 am	  0:09:02	
+   3	  60 	60	31/01/2026 11:20:06 am	  0:11:04	
+   4	  62 	60	31/01/2026 11:36:04 am	  0:15:58	
+   5	 100 	100	31/01/2026 12:08:43 pm	  0:32:39	
+   6	  92 	90	31/01/2026  1:00:35 pm	  0:51:52	
+   7	  54 	50	31/01/2026  1:17:34 pm	  0:16:59	
+   8	  64 	60	31/01/2026  1:42:06 pm	  0:24:32	
+   9	  17 		31/01/2026  2:01:24 pm	  0:19:18	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  2:01:24 pm
+Time on course   3:01:24
+
+
+  460	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

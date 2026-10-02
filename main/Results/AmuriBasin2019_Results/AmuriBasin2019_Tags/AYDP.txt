@@ -1,0 +1,29 @@
+Team No. 209	Tag ID = AYDP   Tags=0012	Course 3 hour
+Lets Be In: Zaya McDonald, Chantal Woodham and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:43:25 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 7/07/2019 12:04:46 PM	  0:04:46	
+   3	  47 	   40	 7/07/2019 12:13:47 PM	  0:09:01	
+   4	  31 	   30	 7/07/2019 12:26:03 PM	  0:12:16	
+   5	  73 	   70	 7/07/2019 12:33:47 PM	  0:07:44	
+   6	  46 	   40	 7/07/2019 12:53:45 PM	  0:19:58	
+   7	  52 	   50	 7/07/2019 12:59:39 PM	  0:05:54	
+   8	  43 	   40	 7/07/2019  1:38:14 PM	  0:38:35	
+   9	  62 	   60	 7/07/2019  2:10:07 PM	  0:31:53	
+  10	  41 	   40	 7/07/2019  2:36:31 PM	  0:26:24	
+  11	  54 	   50	 7/07/2019  2:46:27 PM	  0:09:56	
+  12	  19 		 7/07/2019  3:10:32 PM	  0:24:05	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:10:32 PM
+Time on course   3:10:32
+
+
+  440	Points Scored.
+ -110	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 330

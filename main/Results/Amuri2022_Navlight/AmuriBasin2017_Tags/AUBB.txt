@@ -1,0 +1,32 @@
+Team No. 1163	Tag ID = AUBB   Tags=0015	Course FAM 3Hr
+Mega Butties: Hebe Butland, Paul Butland and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:52:58 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:09:00 PM	  0:09:00	
+   3	  41 	   40	 9/07/2017 12:16:02 PM	  0:07:02	
+   4	  63 	   60	 9/07/2017 12:27:22 PM	  0:11:20	
+   5	  23 	   20	 9/07/2017 12:37:30 PM	  0:10:08	
+   6	  35 	   30	 9/07/2017 12:42:30 PM	  0:05:00	
+   7	  84 	   80	 9/07/2017  1:01:08 PM	  0:18:38	
+   8	  73 	   70	 9/07/2017  1:14:30 PM	  0:13:22	
+   9	  58 	   50	 9/07/2017  1:22:07 PM	  0:07:37	
+  10	  55 	   50	 9/07/2017  1:37:09 PM	  0:15:02	
+  11	  67 	   60	 9/07/2017  1:54:19 PM	  0:17:10	
+  12	  81 	   80	 9/07/2017  2:07:14 PM	  0:12:55	
+  13	  31 	   30	 9/07/2017  2:15:39 PM	  0:08:25	
+  14	  37 	   30	 9/07/2017  2:27:02 PM	  0:11:23	
+  15	 109 		 9/07/2017  2:35:50 PM	  0:08:48	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:35:50 PM
+Time on course   2:35:50
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

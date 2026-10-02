@@ -1,0 +1,35 @@
+Team No. 641	Tag ID = AQBC   Tags=0018	Course 6hr
+Brenda Pottinger, Jason Doughty
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		30/06/2012 10:43:42 AM	         	BRIEFING. Score reset.
+   2	 93	 90	30/06/2012 11:14:21 AM	  0:14:21	 Punch  97 replaced by Group 93.
+   3	 71	 70	30/06/2012 11:28:55 AM	  0:14:34	
+   4	 65	 60	30/06/2012 11:49:27 AM	  0:20:32	
+   5	 74	 70	30/06/2012 12:08:13 PM	  0:18:46	
+   6	 94	 90	30/06/2012 12:41:07 PM	  0:32:54	
+   7	 75	 70	30/06/2012  1:02:21 PM 	  0:21:14	
+   8	 30	 30	30/06/2012  1:25:04 PM 	  0:22:43	
+   9	 57	 50	30/06/2012  1:42:50 PM 	  0:17:46	
+  10	 80	 80	30/06/2012  2:35:32 PM 	  0:52:42	
+  11	 58	 50	30/06/2012  2:48:06 PM 	  0:12:34	
+  12	 90	 90	30/06/2012  3:02:55 PM 	  0:14:49	
+  13	 42	 40	30/06/2012  3:15:11 PM 	  0:12:16	
+  14	 20	 20	30/06/2012  3:47:37 PM 	  0:32:26	 Punch  79 replaced by Group 20.
+  15	 43	 40	30/06/2012  4:01:39 PM 	  0:14:02	 Punch  86 replaced by Group 43.
+  16	 12	 10	30/06/2012  4:19:41 PM 	  0:18:02	
+  17	 11	 10	30/06/2012  4:36:32 PM 	  0:16:51	
+  18	107		30/06/2012  4:44:51 PM 	  0:08:19	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:44:51 PM 
+Time on course   5:44:51
+
+
+  870	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 870

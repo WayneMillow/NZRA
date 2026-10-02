@@ -1,0 +1,29 @@
+Team No. 63	Tag ID = AFAX   Tags=0013	Course 6hr
+Follow Me: Emma Gambles, Stuart Gambles
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 13		 4/07/2009 10:08:47 AM	         	BRIEFING. Score reset.
+   3	 32	 30	 4/07/2009 11:35:15 AM	  1:05:15	
+   4	 31	 30	 4/07/2009 11:51:53 AM	  0:16:38	
+   5	 52	 50	 4/07/2009 12:27:01 PM	  0:35:08	
+   6	 43	 40	 4/07/2009 12:34:50 PM	  0:07:49	
+   7	 60	 60	 4/07/2009  1:22:26 PM 	  0:47:36	
+   8	 41	 40	 4/07/2009  1:43:31 PM 	  0:21:05	
+   9	 42	 40	 4/07/2009  2:06:39 PM 	  0:23:08	
+  10	 61	 60	 4/07/2009  2:36:46 PM 	  0:30:07	
+  11	 44	 40	 4/07/2009  2:57:00 PM 	  0:20:14	
+  12	 54	 50	 4/07/2009  3:27:16 PM 	  0:30:16	
+  13	105		 4/07/2009  4:15:53 PM 	  0:48:37	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:15:53 PM 
+Time on course   5:45:53
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

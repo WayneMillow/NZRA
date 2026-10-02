@@ -1,0 +1,85 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	M	W	W	W	W	X	X	X	X	M	W	X	
+						V	S	U		V	S	U		V	S	U	J	J	J	
+							V	V			V	V			V	V				
+ 1	114	1680	   5:50:46	Meat and 2 x Veges (Ryan Kiesanowski, Tim Pearson, Nathan Peterson.)	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	115	1570	   5:56:44	Not sure yet (Riki Cambridge, Tim Gruijters.)	2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	116	1560	   5:57:10	Ranga and the old man (Steve O'Neill, Toby O'Neill.)	3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 4	136	1560	   6:03:22	Big day out (Sophie Hart, Nick Ross.)	.	.	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 5	109	1480	   5:55:02	Pub? (Josh Couper, Catie Mason, Josh Pearson.)	.	.	.	.	.	.	.	.	2	.	.	.	.	.	1	
+ 6	141	1300	   5:54:25	perfect strangers (anita copplestone, simon francis, Craig Ginders, kirk mcdonald.)	.	.	.	.	.	.	.	.	3	.	.	.	.	.	.	
+ 7	36	1290	   6:13:19	In it for the dates & walnuts (Keith Green, Beth Hall, Natalie Paterson.)	.	.	.	.	.	.	.	.	4	.	.	.	.	.	.	
+ 8	151	1280	   5:55:14	Two Fat Lambs (Alister Holmes, Simon O'Sullivan.)	4	1	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 9	147	1270	   6:19:14	Which way is North? (Sarah Chisnall, Matthew Johnson.)	.	.	.	.	.	.	.	.	5	.	.	.	.	.	.	
+ 10	111	1260	   5:48:12	Freeman Fliers (Martin Freeman, Nicholas Freeman.)	5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 11	107	1230	   6:05:31	Groovy Platypi (Oliver Chinn, Isla Cook, Siobhan Maclennan, Tommaso Zamperini.)	.	.	.	.	.	.	.	.	6	.	.	.	.	.	2	
+ 12	131	1200	   5:56:34	Three ducks plus one (Emily Forne, Lynda Summerfield, Catherine Hayward, Neroli Wall.)	.	.	.	.	1	.	.	.	.	.	.	.	.	.	.	
+ 13	130	1190	   6:20:35	The Chatty Saddlebacks (Martin Peat, Nicole Symons.)	.	.	.	.	.	.	.	.	7	.	.	.	.	.	.	
+ 14	135	1180	   5:59:14	Always late to the start line (Rachel Horsburgh, Rob Lambie, Bree Purdie.)	.	.	.	.	.	.	.	.	8	.	.	.	.	.	.	
+ 15	105	1140	   5:54:58	Cunny Funts (Tom Harding, Amelia Houston, Jaxon Taylor.)	.	.	.	.	.	.	.	.	9	.	.	.	.	.	3	
+ 16	148	1140	   5:57:44	Wisdom Youth and the Joker (Grace Howell, Rob Howell, Nicky Page.)	.	.	.	.	.	.	.	.	10	.	.	.	.	.	.	
+ 17	108	1130	   5:53:37	Iplod (Juliet Freeman, Phoebe Hunt, Felix hunt, Jacob Knoef, Tyler McCavitt.)	.	.	.	.	.	.	.	.	11	.	.	.	.	.	4	
+ 18	154	1110	   5:46:01	Crazy Mad and Fast (Kate Anderson, Sheryl Fraser, Kate Rattray.)	.	.	.	.	2	1	.	.	.	.	.	.	.	.	.	
+ 19	175	1110	   5:53:38	Winter wanderers (Carmel Gunn, Nicola Mitchell, Sam Wayman.)	.	.	.	.	3	2	.	.	.	.	.	.	.	.	.	
+ 20	101	1110	   5:55:07	On Our Own (Matthew Clarke, Louie Howell.)	6	.	.	.	.	.	.	.	.	.	.	.	1	.	.	
+ 21	166	1110	   6:01:53	Running in circles (karyn berrill, emma jackson.)	.	.	.	.	4	3	.	.	.	.	.	.	.	.	.	
+ 22	160	1080	   5:49:59	Morris Dancers (Deb Felder, Jin Flanagan, Yvonne MacDonald, Josie O'Callaghan.)	.	.	.	.	5	4	.	.	.	.	.	.	.	.	.	
+ 23	103	1080	   5:53:45	Cashmere FLAK (Leo O'Neill, Karin Prince, Finn Van Keulen, Alice Vetcher.)	.	.	.	.	.	.	.	.	12	.	.	.	.	.	5	
+ 24	139	1060	   5:52:45	Go girls (Jen Bufford, Patrick Henkel, Ren Henkel, Richard York.)	.	.	.	.	.	.	.	.	13	.	.	.	.	.	.	
+ 25	35	1050	   5:58:21	Ibuprofen Anonymous (Josie Lewis, Fiona Stechmann.)	.	.	.	.	6	5	.	.	.	.	.	.	.	.	.	
+ 26	121	1040	   5:51:17	Better at Running Up a Tab (Jessica Earl, Kylee Habgood, Emily Shaw.)	.	.	.	.	7	.	.	.	.	.	.	.	.	.	.	
+ 27	122	1040	   5:52:15	Bury Wood (Olivia Barron, Vetti Fawcett, Sylvia McLaren.)	.	.	.	.	8	.	.	.	.	.	.	.	.	.	.	
+ 28	60	1030	   5:52:44	Kopikopiko Chicks (Fiona McDonald, Fiona Vetcher.)	.	.	.	.	9	6	.	.	.	.	.	.	.	.	.	
+ 29	123	1020	   5:52:09	Field Witches (Laura Irving, Aimee Keogh, Kris Kvick, Natalie McLean.)	.	.	.	.	10	.	.	.	.	.	.	.	.	.	.	
+ 30	163	1020	   5:56:10	Not over the hill yet (Els Coster, Rachel Simons.)	.	.	.	.	11	7	.	.	.	.	.	.	.	.	.	
+ 31	126	1010	   5:48:55	Mummy G.O.A.T's (Jane Connell, Abby Fulton, Erin Harrison.)	.	.	.	.	12	.	.	.	.	.	.	.	.	.	.	
+ 32	102	1010	   5:48:58	3 Silly Goats (Silas Jones, Kyla Moore, Millie Palmer.)	.	.	.	.	.	.	.	.	14	.	.	.	.	.	6	
+ 33	129	1010	   5:57:45	Slow and slower (Marisol Hunter, Chris Rowe.)	.	.	.	.	13	.	.	.	.	.	.	.	.	.	.	
+ 34	145	990	   5:55:25	Team Tortuga (Justine Carson-Iles, Jemma Hughes-Games, Hilary Iles.)	.	.	.	.	.	.	.	.	15	.	.	.	.	.	.	
+ 35	133	990	   6:01:06	WeSain Bolt (Sommer O'Shea, Kim Turney.)	.	.	.	.	14	.	.	.	.	.	.	.	.	.	.	
+ 36	132	980	   5:57:59	TryNations (Amira Mikhail, Becky Ward.)	.	.	.	.	15	.	.	.	.	.	.	.	.	.	.	
+ 37	177	920	   5:58:19	Mums on the Run Plus One (Fran Hobkirk, Jo Lochore, Jocelyn Thrower.)	.	.	.	.	16	8	.	.	.	.	.	.	.	.	.	
+ 38	182	910	   5:58:02	Such Fun Together (Ian Harrison, Jan Harrison.)	.	.	.	.	.	.	.	.	16	1	.	.	.	.	.	
+ 39	128	910	   6:13:05	Party Athletes (Aimee Baird, Sarah Blyth, Laura McPherson.)	.	.	.	.	17	.	.	.	.	.	.	.	.	.	.	
+ 40	125	890	   5:54:24	Lost Place (Hayley Dampney, Rachel Gaffaney, Sarah How, Natalie Lindsay.)	.	.	.	.	18	.	.	.	.	.	.	.	.	.	.	
+ 41	174	890	   5:58:26	Where the HEL? (Hayley Cooper, Liz McNeill, Erin Wilmshurst.)	.	.	.	.	19	9	.	.	.	.	.	.	.	.	.	
+ 42	164	890	   6:14:56	On the Wallaby (Brigette Bilbe, Liz Brady, Anna Maze.)	.	.	.	.	20	10	.	.	.	.	.	.	.	.	.	
+ 43	80	880	   6:06:47	Really? (Ken Livingston, Hubertien Wichers.)	.	.	.	.	.	.	.	.	17	2	1	.	.	.	.	
+ 44	113	870	   5:49:10	Greg Octane & the Wingmirrors (Colin Hunter, David Sturrock.)	7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 45	112	870	   6:08:52	George Onion & Windbreakers (Daniel Hunter, Jamie Hunter, Ryan Hunter.)	8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 46	150	860	   6:14:50	Pain Train 4.0 (Mark De Goldi, Greg O'Brien.)	9	2	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 47	183	840	   5:54:19	The Elite Team (Lisa Chubb, Val Fletcher, Jonathan Hunt.)	.	.	.	.	.	.	.	.	18	3	.	.	.	.	.	
+ 48	190	840	   5:56:05	Wild Goose Chase (Carol Fowler, Peter Keller, Karen Miles.)	.	.	.	.	.	.	.	.	19	4	2	.	.	.	.	
+ 49	117	830	   5:48:23	Yeah nah (Jaega Banga, Jonny Brewer, Daryl Sutton.)	10	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 50	165	820	   5:24:46	Rapid thigh movement (Sandi Dillon, Sally Yarwood.)	.	.	.	.	21	11	.	.	.	.	.	.	.	.	.	
+ 51	127	810	   5:55:34	Pacemakers (Sarah Mannion, Ronelle van Dongen, Georgie Walker.)	.	.	.	.	22	.	.	.	.	.	.	.	.	.	.	
+ 52	119	780	   6:08:56	Active activewear (Dusk Mains, Emma Soppit.)	.	.	.	.	23	.	.	.	.	.	.	.	.	.	.	
+ 53	169	770	   5:57:53	Team MVS (Charlotte Matthews, Jess Sanford.)	.	.	.	.	24	12	.	.	.	.	.	.	.	.	.	
+ 54	144	770	   6:00:59	Team Norts (Hamish Norton, Rachel Norton.)	.	.	.	.	.	.	.	.	20	.	.	.	.	.	.	
+ 55	159	750	   5:50:18	More lost than Found (Lyn Holmes, Mathilde O'Sullivan, Gaylene Saywell.)	.	.	.	.	25	13	.	.	.	.	.	.	.	.	.	
+ 56	188	740	   5:52:03	Random Choices (Greg Bristow, Carol Horgan.)	.	.	.	.	.	.	.	.	21	5	3	.	.	.	.	
+ 57	143	710	   5:27:08	Scratch Test (Penny Bloomberg, Walter Goldmyre.)	.	.	.	.	.	.	.	.	22	.	.	.	.	.	.	
+ 58	173	710	   5:59:43	Wednesday Girls (Jo Gooch, AJ Low, Shayne Gooch.)	.	.	.	.	26	14	.	.	.	.	.	.	.	.	.	
+ 59	110	680	   5:11:42	RTFC (Lexi Hooker, Matilda Johnson, Issy Marr, Stuart Marr.)	.	.	.	.	.	.	.	.	23	.	.	.	.	.	7	
+ 60	140	670	   5:18:48	Parents in Climb (Nico Dubois, Ira Sizova.)	.	.	.	.	.	.	.	.	24	.	.	.	.	.	.	
+ 61	178	650	   5:16:00	No Prawns Please (Sam Brown, John Williamson.)	.	.	.	.	.	.	.	.	25	6	.	.	.	.	.	
+ 62	158	650	   5:57:37	Magic Dragons (Clare Palmer, Charlotte Wright.)	.	.	.	.	27	15	.	.	.	.	.	.	.	.	.	
+ 63	184	620	   5:44:58	Twisted Sisters and Him (Nina Bradford, Colin Butler, Emma Butler.)	.	.	.	.	.	.	.	.	26	7	.	.	.	.	.	
+ 64	155	600	   5:56:44	Hoof Hearted (Kathy Hogarth, Nicky Hogarth, Pip Parkin.)	.	.	.	.	28	16	.	.	.	.	.	.	.	.	.	
+ 65	176	580	   5:31:58	Back to Basics (Leigh Power, William Power.)	.	.	.	.	.	.	.	.	27	8	.	.	.	.	.	
+ 66	191	580	   5:56:29	The Heartless Bastards (Andy Griffiths, Steve Petty, Kevin Stobbs, Rex Williams.)	11	3	1	1	.	.	.	.	.	.	.	.	.	.	.	
+ 67	170	540	   5:56:40	The Salty Chicks (Clare Hadley, Tanya Winter.)	.	.	.	.	29	17	.	.	.	.	.	.	.	.	.	
+ 68	142	520	   5:45:07	Runs on caffeine (Alyssa Beatty, Jason Doughty.)	.	.	.	.	.	.	.	.	28	.	.	.	.	.	.	
+ 69	161	520	   5:58:12	Nat and the Navigators (Emma Bradley, Karen Gray, Natasha Jelbert.)	.	.	.	.	30	18	.	.	.	.	.	.	.	.	.	
+ 70	146	480	   4:15:45	Welly Wanderers (Greg Bates, Jemima de Lacey, Alice Kearton, Ashley Kearton.)	.	.	.	.	.	.	.	.	29	.	.	.	.	.	.	
+ 71	172	470	   5:40:13	THREE TENACIOUS TARTS (ANNA NELSON, LISA PILGRIM, FIONA RAYNER.)	.	.	.	.	31	19	.	.	.	.	.	.	.	.	.	
+ 72	167	470	   6:01:46	Sweat; Regret and Oxygen Debt (Rebecca Burns, Michele Stevenson.)	.	.	.	.	32	20	.	.	.	.	.	.	.	.	.	
+ 73	153	470	   6:03:28	Coast Busters (Vicky Youngman, Bronwyn Newton, Jo Newton.)	.	.	.	.	33	21	.	.	.	.	.	.	.	.	.	
+ 74	189	420	   5:32:55	The Burrows (Karen Burrows, Paul Burrows.)	.	.	.	.	.	.	.	.	30	9	4	.	.	.	.	
+ 75	124	390	   5:52:38	Giraffes Can't Raft (Claudia Thomson, Josette Todd, Stacey Wojtas.)	.	.	.	.	34	.	.	.	.	.	.	.	.	.	.	
+ 76	157	390	   5:58:24	Lost in Vegas (Bridget Prendergast, Claire Smitheram, Melissa West.)	.	.	.	.	35	22	.	.	.	.	.	.	.	.	.	
+ 77	181	360	   5:31:37	Raro (Paula Munro, Jason Rakich.)	.	.	.	.	.	.	.	.	31	10	.	.	.	.	.	
+ 78	179	330	   5:20:32	Norfolk and clue (Aaron Berry, Sally Houston.)	.	.	.	.	.	.	.	.	32	11	.	.	.	.	.	
+ 79	168	300	   4:46:27	Team AHH (Kelly Seed, Vanessa Crean.)	.	.	.	.	36	23	.	.	.	.	.	.	.	.	.	
+ 80	200	200	 -85:19:40	.  1
+ 81	104	0	   6:31:05	Control freaks (Mya Bennet, Max Groer, John Laurie, Jack Vetcher.)
+ 82	138	0	   6:33:28	GAC (annabel crozier, glen crozier.)

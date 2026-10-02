@@ -1,0 +1,29 @@
+Team No. 594	Tag ID = APCK   Tags=0011	Course 2.5hr
+six abreast: Maryn Austin, Karen Hyde, Jo Syme
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 12:41:22 PM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013  1:06:54 PM 	  0:05:54	
+   3	 30	 30	 8/06/2013  1:33:37 PM 	  0:26:43	
+   4	 18	 10	 8/06/2013  1:40:11 PM 	  0:06:34	
+   5	 23	 20	 8/06/2013  2:00:27 PM 	  0:20:16	
+   6	 49	 40	 8/06/2013  2:11:57 PM 	  0:11:30	
+   7	 67	 60	 8/06/2013  2:32:41 PM 	  0:20:44	
+   8	 93	 90	 8/06/2013  2:47:41 PM 	  0:15:00	
+   9	 58	 50	 8/06/2013  3:14:21 PM 	  0:26:40	 Punch  10 replaced by Group 58.
+  10	 19	 10	 8/06/2013  3:19:12 PM 	  0:04:51	
+  11	 15		 8/06/2013  3:25:12 PM 	  0:06:00	FINISH TIME.
+END
+	AddedPunch94	90
+
+
+Recognised finish time  8/06/2013  3:25:12 PM 
+Time on course   2:24:12
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

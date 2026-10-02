@@ -1,0 +1,25 @@
+Team No. 663	Tag ID = AKCK   Tags=0008	Course 6Hr
+Ronda South, Michelle Fussell and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 91		27/06/2015 10:42:36 AM	         	BRIEFING. Score reset.
+   2	 95	 90	27/06/2015 12:26:52 PM	  1:26:52	
+   3	 48	 40	27/06/2015 12:47:05 PM	  0:20:13	
+   4	 69	 60	27/06/2015  1:15:35 PM	  0:28:30	
+   5	 20	 20	27/06/2015  2:23:23 PM	  1:07:48	
+   6	 87	 80	27/06/2015  2:50:59 PM	  0:27:36	
+   7	 28	 20	27/06/2015  3:26:58 PM	  0:35:59	
+   8	108		27/06/2015  4:14:48 PM	  0:47:50	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:14:48 PM
+Time on course   5:14:48
+
+
+  310	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 310

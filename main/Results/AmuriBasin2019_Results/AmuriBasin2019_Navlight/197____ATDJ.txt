@@ -1,0 +1,29 @@
+Team No. 197	Tag ID = ATDJ   Tags=0012	Course 3 hour
+The Three Possums: Sara Paris, Anna Jenkins and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:47:58 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:12:21 PM	  0:12:21	
+   3	  31 	   30	 7/07/2019 12:23:21 PM	  0:11:00	
+   4	  73 	   70	 7/07/2019 12:31:02 PM	  0:07:41	
+   5	  46 	   40	 7/07/2019 12:50:43 PM	  0:19:41	
+   6	  52 	   50	 7/07/2019 12:57:50 PM	  0:07:07	
+   7	  59 	   50	 7/07/2019  1:12:33 PM	  0:14:43	
+   8	  45 	   40	 7/07/2019  1:27:42 PM	  0:15:09	
+   9	  24 	   20	 7/07/2019  2:15:58 PM	  0:48:16	
+  10	  28 	   20	 7/07/2019  2:20:31 PM	  0:04:33	
+  11	  49 	   40	 7/07/2019  2:36:19 PM	  0:15:48	
+  12	  18 		 7/07/2019  2:54:00 PM	  0:17:41	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:54:00 PM
+Time on course   2:54:00
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

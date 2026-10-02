@@ -1,0 +1,39 @@
+ 1	11	Nutrient Rescue (Darron Jones, Dave Quested.)	   6:00:33	2670( 20)	MV1
+ 2	14	Tenacious Turtles (Nathan Harris, Ev Tolerton.)	   5:59:03	2110	MO1
+ 3	36	Rock Hoppers (Guy de Lacey, Douglas Woods.)	   5:48:45	1930	MV2
+ 4	29	Out and about (Connor Cleary, Peter Cleary.)	   5:48:54	1860	MO2
+ 5	28	Always late (Rachel Horsburgh, Robert Lambie, Ben Morrison.)	   6:01:20	1830( 40)	XO1
+ 6	30	Born Free (Aliesha Pile, Daniel Jessop.)	   5:57:38	1690	XO2
+ 7	6	Ibuprofen Anonymous (Reon Nolan, Kevin O'Donnell, Daniel Eastwood, Fiona Stechmann.)	   5:56:06	1610	XO3
+ 8	41	Nicole and Carey (Nicole Symons, Carey Lintott.)	   5:54:02	1590	WO1
+ 9	2	Low Range Rovers (Rachel Brown, Jo Forbes, Rob Harrow.)	   5:51:57	1520	XV1
+ 10	22	L & B (Bridget Guerin, Lisa Ainley.)	   5:39:29	1510	WV1
+ 11	33	Big Dogs (Sarah Helmore, Simon Wilson, Mike Wilson.)	   5:50:55	1510	XV2
+ 12	27	A bit Wonky (Colin Dixon, Chris Dixon.)	   5:55:43	1480	XV3
+ 13	23	Doogues on the move (Matt Doogue, Charlotte Doogue.)	   5:51:32	1470	XO4
+ 14	1	The Skilled Leading The Blind (Alan Steel, Kristina Arcus.)	   5:47:52	1460	XO5
+ 15	12	Granny Franchise (Emma de Lacey, Josie Boland, Vivienne Prince.)	   5:53:40	1460	WV2
+ 16	10	Where's the Sat Nav? (Miles Watson, Claire Le Grice.)	   5:49:41	1450	XV4
+ 17	25	Mummy G.O.A.T.s (Jane Connell, Jackie Cohen, Erin Harrison.)	   5:52:19	1420	WO2
+ 18	18	Beefit (Olivia Rutherford, Kristen Diederich.)	   5:57:46	1390	WO3
+ 19	24	2 Old Phedders (Brandon Wilson, David Watt Brandex.)	   5:48:37	1370	MV3
+ 20	17	Kopikopiko Chicks (Fiona McDonald, Janine Romano, Fiona Vetcher.)	   5:55:06	1300	WV3
+ 21	34	McMe (Andrew McGowan, Trevor Merrifield.)	   5:43:19	1270	MV4
+ 22	19	GRR & Kathrin (Kathrin Mueller, Graeme Read.)	   5:56:17	1270	XV5
+ 23	35	Not Fast but Fabulous (kirsty muir, tine dahlmann, rachel watt.)	   5:52:25	1220	WV4
+ 24	31	Day Trippers (Peter Hall, Richard Dove.)	   5:49:52	1190	MV5
+ 25	13	Wicked Rogaines (Nora Audra, Ian Edmond, Oscar Edmond.)	   5:53:22	1160	FO1
+ 26	16	Mac n Tonic (Tony Munnerley, Alison MacDonald, Nicola Hardaker.)	   5:55:52	1140	XV6
+ 27	43	Team 1 (Alex Cameron, Kristine Marriott, Michelle Clyne.)	   5:38:20	1090	XO6
+ 28	8	Jurassic Park (Emily Shaw, Emily Lane, Phoebe Sopp.)	   5:53:02	1040	WO4
+ 29	37	Sole Mates (Michele Collins, Cheryl Monahan, Amber Garad.)	   5:45:26	1000	WV5
+ 30	15	AT (Tania Ross, Amy Brewer.)	   5:54:59	960	WO5
+ 31	26	Faster than Snails (Emma Fissenden, Justine Schroder.)	   5:46:47	950	WV6
+ 32	5	Wacky Racers (Mia Beswick, Tarsh Commons, Chrissy Campbell, Anne Commons.)	   5:53:21	800	WO6
+ 33	32	Apple Pi (Sandra Appleby, Martin Cleland.)	   5:34:11	770	XV7
+ 34	20	Be Back Soon (Claire McCarthy, Viv Gray.)	   5:40:28	750	WV7
+ 35	42	Unnamed (Karen Gray, Natastha Jelbert, Emma Bradley.)	   5:52:03	750	WO7
+ 36	4	Better at Running up a Tab (Kate Boyd, Kylee Habgood, Tara Abbott.)	   5:53:28	730	WO8
+ 37	38	Yeah Nah (Jaega Banga, Sophie Norman, Jonny Brewer.)	   6:00:17	680( 20)	XO7
+ 38	9	Heartless Bastards (Andy Griffiths, Steve Petty.)	   5:50:05	550	MV6
+ 39	3	Sweat  regret and oxygen debt (Rebecca Burns, Michele Stevenson, Rachel Scott.)	   5:59:28	390	WV8

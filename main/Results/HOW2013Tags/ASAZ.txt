@@ -1,0 +1,38 @@
+Team No. 525	Tag ID = ASAZ   Tags=0019	Course 6hr
+Jack & Dad: David Bailey, Jack Drage
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:15:32 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:37:47 AM	  0:08:47	 Punch  10 replaced by Group 58.
+   3	 20	 20	 8/06/2013 10:55:10 AM	  0:17:23	
+   4	 76	 70	 8/06/2013 11:06:11 AM	  0:11:01	
+   5	 66	 60	 8/06/2013 11:25:15 AM	  0:19:04	
+   6	 74	 70	 8/06/2013 12:06:09 PM	  0:40:54	
+   7	100	100	 8/06/2013 12:23:02 PM	  0:16:53	
+   8	 65	 60	 8/06/2013 12:49:14 PM	  0:26:12	
+   9	 57	 50	 8/06/2013  1:03:43 PM 	  0:14:29	
+  10	 75	 70	 8/06/2013  1:23:55 PM 	  0:20:12	
+  11	 28	 20	 8/06/2013  1:41:12 PM 	  0:17:17	
+  12	 39	 30	 8/06/2013  1:50:21 PM 	  0:09:09	
+  13	 77	 70	 8/06/2013  2:25:25 PM 	  0:35:04	
+  14	 86	 80	 8/06/2013  2:48:41 PM 	  0:23:16	
+  15	 44	 40	 8/06/2013  3:06:17 PM 	  0:17:36	
+  16	 53	 50	 8/06/2013  3:17:25 PM 	  0:11:08	
+  17	 30	 30	 8/06/2013  3:35:44 PM 	  0:18:19	
+  18	 49	 40	 8/06/2013  4:06:12 PM 	  0:30:28	 Punch  12 replaced by Group 49.
+  19	 16		 8/06/2013  4:21:44 PM 	  0:15:32	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:21:44 PM 
+Time on course   5:52:44
+
+
+ 1080	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1080

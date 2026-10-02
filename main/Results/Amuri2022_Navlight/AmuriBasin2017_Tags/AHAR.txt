@@ -1,0 +1,31 @@
+Team No. 2124	Tag ID = AHAR   Tags=0014	Course 3Hr
+Scrambling Legs: Nigel Spear, Claire Spear
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:53:06 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:06:10 PM	  0:06:10	
+   3	  41 	   40	 9/07/2017 12:13:50 PM	  0:07:40	
+   4	  63 	   60	 9/07/2017 12:24:31 PM	  0:10:41	
+   5	  23 	   20	 9/07/2017 12:33:13 PM	  0:08:42	
+   6	  35 	   30	 9/07/2017 12:37:51 PM	  0:04:38	
+   7	  84 	   80	 9/07/2017 12:51:25 PM	  0:13:34	
+   8	  73 	   70	 9/07/2017  1:03:43 PM	  0:12:18	
+   9	  58 	   50	 9/07/2017  1:15:48 PM	  0:12:05	
+  10	  67 	   60	 9/07/2017  1:47:24 PM	  0:31:36	
+  11	  93 	   90	 9/07/2017  2:00:31 PM	  0:13:07	
+  12	  54 	   50	 4/07/2017  8:24:58 AM	         	0.149 Days early.
+  13	  81 	   80	 9/07/2017  2:57:43 PM	  0:57:12	
+  14	 108 		 9/07/2017  3:11:04 PM	  0:13:21	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:11:04 PM
+Time on course   3:11:04
+
+
+  650	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

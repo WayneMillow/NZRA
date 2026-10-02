@@ -1,0 +1,95 @@
+
+$header
+
+    Registration ID:  $reg_id
+    Team category: $gender_event$agegroup
+    Prequalification:  $prequal    
+                       Team Member $qualmem    $qualevent $qualcategory $qualplace  
+					   (Junk for irf or noqual, meaningful for byevent and qualsv)
+    $messagemail  
+        $comments
+
+
+      $realname    $gender1        $dob1    (Team Contact)
+	  $email        $country1
+
+    
+      $realname2    $gender2       $dob2
+	  $email2       $country2
+      
+  
+      $realname3    $gender3_show      $dob3_show
+	  $email3       $country3
+	  
+Website cut and paste stuff - manually remove st, nd, rd on qualplace
+<tr>
+<td align=center>$reg_id</td><td>$reg_date<br />$reg_time</td><td>$realname ($gender1)<br />$realname2 ($gender2)$webname3</td><td align=center>$gender_event$agegroup</td><td>$country1<br />$country2$webcountry3</td><td>$qualevent $qualcategory $qualplace</td><td align=center>H ($reg_date)</td></tr>
+
+Spreadsheet cut and paste stuff
+---------------Team Member 1
+$reg_id
+1
+$reg_date
+$realname
+$gender1
+$gender_event$agegroup
+$country1
+$qualevent $qualcategory $qualplace
+H
+$reg_date
+
+
+
+
+
+
+$prequal
+$qualmem
+$dob1
+$email
+---------------Team Member 2, include first dashes in cut and paste
+$reg_id
+2
+$reg_time
+$realname2
+$gender2
+
+$country2
+
+H
+
+
+
+
+
+
+
+
+
+$dob2
+$email2
+---------------Team Member 3, include first dashes in cut and paste; makes selection easier
+$reg_id
+3
+
+$realname3
+$gender3_show
+
+$country3
+
+H
+
+
+
+
+
+
+
+
+
+$dob3_show
+$email3
+--------------- End of Spreadsheet cut and paste; makes selection easier
+
+
+

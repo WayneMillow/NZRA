@@ -1,0 +1,39 @@
+Team No. 468	Tag ID = AYAV   Tags=0019	Course 6hr
+Weekend Tussock Jumpers: Andy  Macfarlane, David  Mavor, Peter  Mitchell, Ruben Syme
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:16:19 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:35:41 AM	  0:06:41	
+   3	 76	 70	 8/06/2013 10:55:15 AM	  0:19:34	
+   4	 66	 60	 8/06/2013 11:08:10 AM	  0:12:55	
+   5	 57	 50	 8/06/2013 11:26:58 AM	  0:18:48	
+   6	 74	 70	 8/06/2013 12:02:41 PM	  0:35:43	
+   7	100	100	 8/06/2013 12:16:29 PM	  0:13:48	
+   8	 47	 40	 8/06/2013 12:36:48 PM	  0:20:19	
+   9	 56	 50	 8/06/2013 12:48:57 PM	  0:12:09	
+  10	 83	 80	 8/06/2013  1:29:08 PM 	  0:40:11	
+  11	 38	 30	 8/06/2013  1:40:48 PM 	  0:11:40	
+  12	 28	 20	 8/06/2013  1:53:44 PM 	  0:12:56	
+  13	 39	 30	 8/06/2013  2:02:24 PM 	  0:08:40	
+  14	 77	 70	 8/06/2013  2:57:32 PM 	  0:55:08	
+  15	 86	 80	 8/06/2013  3:17:29 PM 	  0:19:57	
+  16	 44	 40	 8/06/2013  3:37:30 PM 	  0:20:01	
+  17	 53	 50	 8/06/2013  3:46:59 PM 	  0:09:29	
+  18	 49	 40	 8/06/2013  4:13:28 PM 	  0:26:29	
+  19	 13		 8/06/2013  4:22:36 PM 	  0:09:08	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch84	80
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  4:22:36 PM 
+Time on course   5:53:36
+
+
+ 1180	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1180

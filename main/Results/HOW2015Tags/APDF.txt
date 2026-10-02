@@ -1,0 +1,26 @@
+Team No. 673	Tag ID = APDF   Tags=0009	Course 6Hr
+Bryar Mackenzie, Deanna Mackenzie and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:49:22 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:11:18 AM	  0:11:18	
+   3	 47	 40	27/06/2015 11:55:34 AM	  0:44:16	
+   4	 95	 90	27/06/2015 12:12:00 PM	  0:16:26	
+   5	 48	 40	27/06/2015 12:33:05 PM	  0:21:05	
+   6	 58	 50	27/06/2015 12:54:19 PM	  0:21:14	
+   7	 86	 80	27/06/2015  1:24:19 PM	  0:30:00	
+   8	 38	 30	27/06/2015  1:45:52 PM	  0:21:33	
+   9	105		27/06/2015  2:05:41 PM	  0:19:49	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  2:05:41 PM
+Time on course   3:05:41
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

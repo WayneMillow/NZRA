@@ -1,0 +1,28 @@
+Team No. 2236	Tag ID = AGCK   Tags=0011	Course 6Hr
+Heights of where?: Martha Jolly, Nikki Colenso and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:38:08 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:06:23 AM	  0:06:23	
+   3	 21	 20	10/06/2017 11:17:42 AM	  0:11:19	
+   4	 40	 40	10/06/2017 11:46:02 AM	  0:28:20	
+   5	 31	 30	10/06/2017 12:15:18 PM	  0:29:16	
+   6	 42	 40	10/06/2017 12:53:02 PM	  0:37:44	
+   7	100	100	10/06/2017  1:18:34 PM	  0:25:32	
+   8	 61	 60	10/06/2017  2:02:15 PM	  0:43:41	
+   9	 23	 20	10/06/2017  2:58:37 PM	  0:56:22	
+  10	 70	 70	10/06/2017  3:35:54 PM	  0:37:17	
+  11	108		10/06/2017  5:01:20 PM	  1:25:26	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:01:20 PM
+Time on course   6:01:20
+
+
+  400	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 380

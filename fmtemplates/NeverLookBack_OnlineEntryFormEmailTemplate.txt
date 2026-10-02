@@ -1,0 +1,132 @@
+
+$header
+
+    Team Name: $teamname
+	Team category: $category
+    Event: $event
+    Total Fees: $$totalentryfee to be paid by $payment.
+
+    $messagemail  
+        $comments
+
+
+Team Members:
+ 
+      $realname    $email    (Team Contact)
+      $street1  $town1  $postcode1
+      $phone1
+      Entry fee - $$entryfee1
+    
+      $realname2    $email2
+      $street2  $town2  $postcode2
+      $phone2
+      Entry fee - $$entryfee2
+      
+      $realname3    $email3_message
+      $street3_message   $town3_message   $postcode3_message 
+      $phone3_message 
+      $entryfee3_message
+      
+      $realname4    $email4_message
+      $street4_message  $town4_message  $postcode4_message
+      $phone4_message
+      $entryfee4_message
+            
+      $realname5    $email5_message
+      $street5_message  $town5_message  $postcode5_message
+      $phone5_message
+      $entryfee5_message
+	  
+EVENT:  $event
+
+------  Spreadsheet copy and paste stuff  -------
+---------------Team Member 1 ---
+$reg_date
+$dc
+$chq
+$totalentryfee
+
+
+$category
+$NumberInTeam
+Y
+$realname
+$street1
+$town1
+$postcode1
+$phone1
+$email
+
+$teamname
+
+---------------Team Member 2  ---
+ --
+
+
+
+
+
+
+
+
+$realname2
+$street2
+$town2
+$postcode2
+$phone2
+$email2
+
+---------------Team Member 3  ---
+ --
+
+
+
+
+
+
+
+
+$realname3
+$street3_message
+$town3_message
+$postcode3_message
+$phone3_message
+$email3_message
+
+---------------Team Member 4  ---
+ --
+
+
+
+
+
+
+
+
+$realname4
+$street4_message
+$town4_message
+$postcode4_message
+$phone4_message
+$email4_message
+
+---------------Team Member 5 ---
+ --
+
+
+
+
+
+
+
+
+$realname5
+$street5_message
+$town5_message
+$postcode5_message
+$phone5_message
+$email5_message
+
+--------------- End of Spreadsheet copy and paste  ---
+
+

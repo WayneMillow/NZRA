@@ -1,0 +1,26 @@
+Team No. 200	Tag ID = AZDJ   Tags=0009	Course 6 hour
+Last Minute Chances: Orlaith Heron (NZL), Wendy Burke (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:38:31 AM	         	BRIEFING. Score reset.
+   2	  26 	   20	24/11/2018 12:26:16 PM	  0:26:16	
+   3	  38 	   30	24/11/2018 12:59:40 PM	  0:33:24	
+   4	  81 	   80	24/11/2018  1:43:32 PM	  0:43:52	
+   5	 103 	  100	24/11/2018  2:31:17 PM	  0:47:45	
+   6	  74 	   70	24/11/2018  3:25:20 PM	  0:54:03	
+   7	  75 	   70	24/11/2018  4:43:35 PM	  1:18:15	
+   8	  84 	   80	24/11/2018  4:59:31 PM	  0:15:56	
+   9	  19 		24/11/2018  5:45:08 PM	  0:45:37	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:45:08 PM
+Time on course   5:45:08
+
+
+  450	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 450

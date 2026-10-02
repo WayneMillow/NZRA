@@ -1,0 +1,29 @@
+Team No. 118	Tag ID = AQBB   Tags=0012	Course 6 hour
+The Bewilder People: Max Birchfield, Debbie Stone and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:16:20 AM	  0:16:20	
+   2	  25 	   20	19/06/2021 11:32:18 AM	  0:15:58	
+   3	  77 	   70	19/06/2021 12:16:46 PM	  0:44:28	
+   4	  58 	   50	19/06/2021 12:41:10 PM	  0:24:24	
+   5	  67 	   60	19/06/2021  1:13:58 PM	  0:32:48	
+   6	  35 	   30	19/06/2021  1:27:57 PM	  0:13:59	
+   7	 100 	  100	19/06/2021  1:42:56 PM	  0:14:59	
+   8	  63 	   60	19/06/2021  2:40:25 PM	  0:57:29	
+   9	  40 	   40	19/06/2021  3:08:26 PM	  0:28:01	
+  10	  50 	   50	19/06/2021  3:41:12 PM	  0:32:46	
+  11	  59 	   50	19/06/2021  4:25:23 PM	  0:44:11	
+  12	  57 		19/06/2021  4:56:46 PM	  0:31:23	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:56:46 PM
+Time on course   5:56:46
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

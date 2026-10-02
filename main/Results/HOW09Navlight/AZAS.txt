@@ -1,0 +1,27 @@
+Team No. 32	Tag ID = AZAS   Tags=0010	Course 6hr
+Lyndon Matthews, Eldon Matthews and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009 10:00:17 AM	         	BRIEFING. Score reset.
+   2	 45	 40	 4/07/2009 11:00:10 AM	  0:30:10	
+   3	 53	 50	 4/07/2009 11:20:35 AM	  0:20:25	
+   4	 32	 30	 4/07/2009 12:02:43 PM	  0:42:08	
+   5	 54	 50	 4/07/2009 12:35:33 PM	  0:32:50	
+   6	 22	 20	 4/07/2009  1:13:38 PM 	  0:38:05	
+   7	 62	 60	 4/07/2009  1:59:54 PM 	  0:46:16	
+   8	 34	 30	 4/07/2009  3:42:37 PM 	  1:42:43	
+   9	 21	 20	 4/07/2009  4:08:06 PM 	  0:25:29	
+  10	105		 4/07/2009  4:23:42 PM 	  0:15:36	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:23:42 PM 
+Time on course   5:53:42
+
+
+  300	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 300

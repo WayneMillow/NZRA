@@ -1,0 +1,26 @@
+Team No. 27	Tag ID = AQAS   Tags=0009	Course 7Hour
+SP squared: Stuart Payne, Steve Petty
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:51:57 AM	         	BRIEFING. Score reset.
+   2	 30	 30	16/02/2015  2:56:23 AM	         	Punch clock failed.
+   3	 41	 40	27/02/2016 11:56:16 AM	  0:56:16	
+   4	 76	 70	27/02/2016 12:39:13 PM	  0:42:57	
+   5	 80	 80	27/02/2016  1:53:38 PM	  1:14:25	
+   6	 46	 40	27/02/2016  2:16:59 PM	  0:23:21	
+   7	 44	 40	27/02/2016  3:18:24 PM	  1:01:25	
+   8	 21	 20	27/02/2016  4:55:00 PM	  1:36:36	
+   9	 18		27/02/2016  5:23:22 PM	  0:28:22	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:23:22 PM
+Time on course   6:23:22
+
+
+  320	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 320

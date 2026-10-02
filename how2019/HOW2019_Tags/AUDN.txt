@@ -1,0 +1,33 @@
+Team No. 223	Tag ID = AUDN   Tags=0016	Course 6hr
+The Rambler and The Ambler: George Elliott, Stuart Payne
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:52:38 AM	         	BRIEFING. Score reset.
+   2	  42 	   40	15/06/2019 11:15:26 AM	  0:15:26	
+   3	  31 	   30	15/06/2019 11:26:20 AM	  0:10:54	
+   4	  62 	   60	15/06/2019 11:36:25 AM	  0:10:05	
+   5	  64 	   60	15/06/2019 11:58:31 AM	  0:22:06	
+   6	  81 	   80	15/06/2019 12:29:23 PM	  0:30:52	
+   7	  93 	   90	15/06/2019 12:56:32 PM	  0:27:09	
+   8	  33 	   30	15/06/2019  1:12:22 PM	  0:15:50	
+   9	  74 	   70	15/06/2019  1:44:19 PM	  0:31:57	
+  10	  44 	   40	15/06/2019  2:04:55 PM	  0:20:36	
+  11	  53 	   50	15/06/2019  2:39:53 PM	  0:34:58	
+  12	  75 	   70	15/06/2019  3:03:59 PM	  0:24:06	
+  13	  91 	   90	15/06/2019  3:38:08 PM	  0:34:09	
+  14	  52 	   50	15/06/2019  4:09:14 PM	  0:31:06	
+  15	  72 	   70	15/06/2019  4:29:28 PM	  0:20:14	
+  16	  16 		15/06/2019  5:11:09 PM	  0:41:41	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  5:11:09 PM
+Time on course   6:11:09
+
+
+  830	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 710

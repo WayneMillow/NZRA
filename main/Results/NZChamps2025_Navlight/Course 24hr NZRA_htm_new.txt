@@ -1,0 +1,40 @@
+ 1	108	Bee Fast Honey Fuel (Jonty Mckinnel, Tiaan Mckinnel.)	 23:56:05	5080	M1
+ 2	115	The Young Guns (Greig Hamilton, Fergus O'Neill.)	 23:57:35	4490	M2
+ 3	101	Further Forests (Jamie Mountier, Michael Mitchell.)	 23:57:10	4470	M3
+ 4	117	Steve O'neill (Steve O'Neill, Martin Freeman.)	 23:41:12	3930	M4,MV1,MSV1
+ 5	104	Born Free (Aliesha Pile, Ben Brown.)	 23:48:31	3660	X1
+ 6	126	Joint Pain (Rachel Lynskey, Anna Yeoman, Vania Smith.)	 23:51:57	3660	W1,WV1
+ 7	134	Same Sam But Different (Sam Walton, Sam Eames.)	 23:21:36	3580	M5
+ 8	141	Finding The Mojo (Robert Harrow, Peter Montgomery.)	 23:21:58	3480	M6,MV2,MSV2
+ 9	113	Pete Performance Mark My Words (Pieter leigh, Mark Gardyne.)	 23:54:25	3370	M7
+ 10	116	Mumzy And Sunzy (Jack Davies, Jean Beaumont.)	 23:43:07	3280	X2
+ 11	136	L2 (Leon Perrie, Lara Shepherd.)	 23:49:17	3070	X3,XV1
+ 12	137	Resisting A Rest (Emma Rogers, Benjamin Still, Phill Wallis.)	 23:57:10	3050	X4
+ 13	121	Adventure Before Dementia (Jenni Blyleven, Anne Frankland.)	 23:26:16	3010	W2,WV2,WSV1
+ 14	107	Backcountry Studio (Ira Sizova, Alaina Morrison.)	 23:36:28	2960	W3
+ 15	105	Loose Moose (Daniel Johnston, Matt Johnson.)	 23:35:29	2950	M8,MV3
+ 16	138	Dark Side (Matthew Hall, Dave Hume.)	 23:54:16	2930	M9,MV4
+ 17	139	Totally Random (Dave Crofts, Mathew Bell.)	 23:23:35	2900	M10,MV5
+ 18	129	Wonky Donkeys (Chris Dixon, Caroline Elliott.)	 23:49:59	2890	W4,WV3,WSV2
+ 19	119	Alex Follows Meals With Mase (Alex, Mason Gray.)	 23:15:26	2860	M11,JM1
+ 20	118	Gerry And The Pacemakers (Peter Cleary, Callum Cleary, Gerard Cleary.)	 23:17:34	2840	M12
+ 21	135	Bad Jelly Witches (Jo Forbes, Jill Westenra, Antonia Wood, Mary McBride.)	 23:50:40	2810	W5,WV4,WSV3
+ 22	143	Racey Delaceys (Emma de Lacey, Guy de Lacey.)	 22:57:33	2700	X5,XV2,XSV1,XUV1
+ 23	131	Missing Bits (Douglas Woods, Colin Dixon.)	 23:39:39	2700	M13,MV6,MSV3,MUV1
+ 24	142	Frustration With The Declination - Fwd (Callum Irvine, Stephen Busby.)	 23:10:24	2600	M14,MV7,MSV4
+ 25	133	Strong Sassy And Dangerously Gassy (Genevieve Leech, Lisa Ainley, Fiona Shanhun.)	 23:55:18	2610	W6,WV5
+ 26	123	Pulp Friction (Darren Clay, Dave Cowie, Rob White.)	 23:31:51	2560	M15,MV8
+ 27	112	Up Schist Creek (Penny Smale, Rachael Baxter.)	 23:55:10	2560	W7,WV6
+ 28	125	St Pedro's Boys (John Mckinnel, Kevin Dugan.)	 23:15:01	2490	M16,MV9,MSV5
+ 29	103	Af No Problem (Pat Bodger, Steve John.)	 23:45:42	2400	M17,MV10,MSV6,MUV2
+ 30	111	Taranaki Toa (Anna Crawford, Stacey Colbourne, Laura Buttimore.)	 23:54:13	2400	W8
+ 31	110	Schotts (Victoria Stott, John Schollum.)	 23:40:35	2350	X6,XV3
+ 32	132	Gps - Grants Precious Sidekick (Grant Edmondson, Maya Edmondson.)	 22:09:46	2330	X7
+ 33	122	North Loburn Reunion (Louise O'Connell, Alister Metherell.)	 23:45:30	2050	X8,XV4,XSV2,XUV2
+ 34	127	Checkpoint 52 (Nicole Ranger, Glen Warner.)	 20:43:24	1900	X9,XV5
+ 35	114	Ganga & Marmalade (angus watson, grace seeley.)	 10:18:39	1730	X10
+ 36	120	Flutterbys (Kathrin Mueller, Val Rogers.)	 23:28:34	1640	W9,WV7,WSV4,WUV1
+ 37	130	Manager And Assistant (Nic Kerr, Abby Dixon.)	 23:10:30	1620	W10
+ 38	124	Cosmic Kiwis (Mathew Ludgate, Adam Ludgate.)	 22:15:18	1270	M18
+ 39	128	Mcme- Bats From Hell (Trevor Roy Merrifield, Andrew McGowan.)	 19:43:13	830	M19,MV11,MSV7,MUV3
+ 40	140	Powered By Chocolate (Anna Pellett, Bella Rentoul.)	 23:53:00	790	W11

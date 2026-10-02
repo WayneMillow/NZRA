@@ -1,0 +1,28 @@
+Team No. 2246	Tag ID = AZAV   Tags=0011	Course 3Hr
+Vino Girls: Louise Juniper, hayley scott
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:46:02 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 9/07/2017 12:10:25 PM	  0:10:25	
+   3	  81 	   80	 9/07/2017 12:23:46 PM	  0:13:21	
+   4	  54 	   50	 4/07/2017  6:56:07 AM	         	Punch clock failed.
+   5	  67 	   60	 9/07/2017  1:31:47 PM	  1:08:01	
+   6	  55 	   50	 9/07/2017  1:52:14 PM	  0:20:27	
+   7	  41 	   40	 9/07/2017  2:04:19 PM	  0:12:05	
+   8	  63 	   60	 9/07/2017  2:23:38 PM	  0:19:19	
+   9	  21 	   20	 9/07/2017  2:42:22 PM	  0:18:44	
+  10	  37 	   30	 9/07/2017  2:53:10 PM	  0:10:48	
+  11	 108 		 9/07/2017  2:59:30 PM	  0:06:20	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:59:30 PM
+Time on course   2:59:30
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

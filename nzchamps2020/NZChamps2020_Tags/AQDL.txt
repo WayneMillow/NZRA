@@ -1,0 +1,28 @@
+Team No. 231	Tag ID = AQDL   Tags=0011	Course 6 hour
+The Wright Family: Tim Wright, Anna Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 12:05:05 PM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:13:20 PM	  0:13:20	
+   3	  39 	   30	 7/11/2020  1:37:03 PM	  0:23:43	
+   4	 107 	  100	 7/11/2020  2:46:25 PM	  1:09:22	
+   5	  85 	   80	 7/11/2020  3:33:57 PM	  0:47:32	
+   6	  45 	   40	 7/11/2020  4:01:39 PM	  0:27:42	
+   7	  74 	   70	 7/11/2020  4:33:56 PM	  0:32:17	
+   8	  83 	   80	 7/11/2020  4:58:56 PM	  0:25:00	
+   9	  73 	   70	 7/11/2020  5:47:11 PM	  0:48:15	
+  10	  34 	   30	 7/11/2020  6:35:57 PM	  0:48:46	
+  11	  18 		 7/11/2020  6:59:03 PM	  0:23:06	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:59:03 PM
+Time on course   5:59:03
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

@@ -1,0 +1,28 @@
+Team No. 628	Tag ID = AYDK   Tags=0012	Course 6_HoW
+David Lyons, Abby Lyons
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 23		26/06/2010 10:32:17 AM	         	BRIEFING. Score reset.
+   3	 45	 40	26/06/2010 11:30:51 AM	  0:30:51	
+   4	 34	 30	26/06/2010 11:53:05 AM	  0:22:14	
+   5	 89	 80	26/06/2010 12:19:40 PM	  0:26:35	
+   6	 35	 30	26/06/2010 12:53:01 PM	  0:33:21	
+   7	 43	 40	26/06/2010  1:26:22 PM 	  0:33:21	
+   8	 21	 20	26/06/2010  1:45:49 PM 	  0:19:27	
+   9	 74	 70	26/06/2010 11:15:32 AM	         	Split time negative.
+  10	 20	 20	26/06/2010  4:08:05 PM 	  4:52:33	
+  11	 36	 30	26/06/2010  4:22:29 PM 	  0:14:24	 Punch  02 replaced by Group 36.
+  12	 15		26/06/2010  4:36:10 PM 	  0:13:41	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:36:10 PM 
+Time on course   5:36:10
+
+
+  360	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 360

@@ -1,0 +1,35 @@
+
+$header
+
+    Team category: $gender$agegroup
+    Event: $event
+    Entry fee: $$entryfee to be paid by $payment.
+
+
+Team Members:
+ 
+      $realname    $email    (Team Contact)
+      $street  $town
+      $phone
+
+
+      $realname2    $email2
+      $street2  $town2
+      $phone2
+
+
+      $realname3    $email3
+      $street3  $town3
+      $phone3
+
+
+      $realname4    $email4
+      $street4  $town4
+      $phone4
+
+
+      $realname5    $email5
+      $street5  $town5
+      $phone5
+
+

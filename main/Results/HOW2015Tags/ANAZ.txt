@@ -1,0 +1,27 @@
+Team No. 604	Tag ID = ANAZ   Tags=0010	Course 6Hr
+Kay McKeon, Emma Jackson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:43:33 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:16:09 AM	  0:16:09	
+   3	 66	 60	27/06/2015 12:03:33 PM	  0:47:24	
+   4	 54	 50	27/06/2015 12:16:10 PM	  0:12:37	
+   5	 53	 50	27/06/2015  1:26:49 PM	  1:10:39	
+   6	102	100	27/06/2015  1:50:57 PM	  0:24:08	
+   7	 73	 70	27/06/2015  2:15:42 PM	  0:24:45	
+   8	 24	 20	27/06/2015  3:09:03 PM	  0:53:21	
+   9	 46	 40	27/06/2015  3:36:59 PM	  0:27:56	
+  10	108		27/06/2015  4:46:42 PM	  1:09:43	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:46:42 PM
+Time on course   5:46:42
+
+
+  410	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

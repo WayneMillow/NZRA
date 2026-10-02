@@ -1,0 +1,30 @@
+Team No. 186	Tag ID = AWDH   Tags=0013	Course 6hr
+CLM: Melissa Temple, Chantal Rosenhart and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:46:46 AM	         	BRIEFING. Score reset.
+   2	  35 	   30	15/06/2019 11:19:34 AM	  0:19:34	
+   3	  20 	   20	15/06/2019 11:36:50 AM	  0:17:16	
+   4	  90 	   90	15/06/2019 12:08:27 PM	  0:31:37	
+   5	  40 	   40	15/06/2019 12:39:54 PM	  0:31:27	
+   6	  88 	   80	15/06/2019  1:13:51 PM	  0:33:57	
+   7	  50 	   50	15/06/2019  1:42:08 PM	  0:28:17	
+   8	  23 	   20	15/06/2019  2:16:19 PM	  0:34:11	
+   9	  72 	   70	15/06/2019  3:16:43 PM	  1:00:24	
+  10	  30 	   30	15/06/2019  3:59:38 PM	  0:42:55	
+  11	  31 	   30	15/06/2019  4:27:31 PM	  0:27:53	
+  12	  42 	   40	15/06/2019  4:37:48 PM	  0:10:17	
+  13	  19 		15/06/2019  4:50:59 PM	  0:13:11	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:50:59 PM
+Time on course   5:50:59
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

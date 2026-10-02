@@ -1,0 +1,29 @@
+Team No. 2	Tag ID = AQAQ   Tags=0013	Course 6 hour
+Muscles   Mascara: Juanita VASZILYKO, Stacey Cowan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:48:15 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 10:24:01 AM	  0:24:01	
+   3	  49 	   40	 7/07/2019 10:37:50 AM	  0:13:49	
+   4	  65 	   60	 7/07/2019 11:05:58 AM	  0:28:08	
+   5	  45 	   40	 7/07/2019 11:29:22 AM	  0:23:24	
+   6	  59 	   50	 7/07/2019 12:12:34 PM	  0:43:12	
+   7	  53 	   50	 7/07/2019  1:21:34 PM	  1:09:00	
+   8	  72 	   70	 7/07/2019  1:31:19 PM	  0:09:45	
+   9	  67 	   60	 7/07/2019  2:00:14 PM	  0:28:55	
+  10	  54 	   50	 7/07/2019  2:28:34 PM	  0:28:20	
+  11	  42 	   40	 7/07/2019  2:46:47 PM	  0:18:13	
+  12	  19 		 7/07/2019  3:55:21 PM	  1:08:34	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:55:21 PM
+Time on course   5:55:21
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

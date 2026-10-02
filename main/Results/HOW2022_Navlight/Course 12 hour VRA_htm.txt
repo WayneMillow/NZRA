@@ -1,0 +1,69 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	M	W	W	W	W	X	X	X	X	M	W	X	
+						V	S	U		V	S	U		V	S	U	J	J	J	
+							V	V			V	V			V	V				
+ 1	15	3320	 12:04:51	Sneaky Weasels (Tane Cambridge, Tim Farrant.)	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	11	3080	 11:55:04	Dean and Gerald (Tom Hadley, Rhys John.)	2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	25	3050	 12:03:09	Georgia and Sara (Sara Prince, Georgia Whitla.)	.	.	.	.	1	.	.	.	.	.	.	.	.	.	.	
+ 4	54	2960	 11:57:56	Team Looks Right Again (Marty Lukes, Tim Wright.)	3	1	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 5	20	2880	 11:52:56	Walladubies (Jonty Mckinnel, Tiaan Mckinnel.)	4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 6	49	2850	 11:50:48	3 Wise Men and Phil (Matt Bixley, Rob Harrow, Malcolm McLeod, Phil Wood.)	5	2	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 7	22	2790	 11:50:55	Bee Fit (Kristen Diederich, Belinda McCone, Ben O'Carroll.)	.	.	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 8	33	2770	 11:57:18	Born Free (Daniel Jessop, Aliesha Pile.)	.	.	.	.	.	.	.	.	2	.	.	.	.	.	.	
+ 9	17	2770	 11:57:23	Team Devold (Thomas Hughes, Jamie Mountier, Alan Steel.)	6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 10	13	2730	 11:42:40	Navlighters (Owain John, Chris Forne.)	7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 11	71	2620	 11:52:29	Punch Drunk (Peter Montgomery, Douglas Woods.)	8	3	1	.	.	.	.	.	.	.	.	.	.	.	.	
+ 12	56	2610	 11:31:46	The Return of Salt and Pepper (Harvey Brouard, Warwick Tuffnell.)	9	4	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 13	2	2560	 11:58:32	Fear Youth Male (Fynn Mitchell, Zac Pearson, Dean Stewart.)	10	.	.	.	.	.	.	.	.	.	.	.	1	.	.	
+ 14	39	2530	 11:49:27	Mixed nuts (Cam Algie, Lisa Algie.)	.	.	.	.	.	.	.	.	3	.	.	.	.	.	.	
+ 15	41	2520	 11:47:29	NAAR Society (Scott Barker, Hamish Brown, Nic Ewen, Jo Taylor.)	.	.	.	.	.	.	.	.	4	.	.	.	.	.	.	
+ 16	32	2470	 12:04:35	Alpine Gypsies (Lottie Armstrong, Chris Greenan.)	.	.	.	.	.	.	.	.	5	.	.	.	.	.	.	
+ 17	9	2460	 11:40:00	A Good Trail Snack (Liam Davidge, Ben Ellis, Mitch Green.)	11	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 18	18	2430	 11:53:42	Tenacious Turtles (Nathan Harris, Ev Tolerton.)	12	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 19	83	2310	 11:41:07	Any HOW (Emma de Lacey, Guy de Lacey.)	.	.	.	.	.	.	.	.	6	1	1	1	.	.	.	
+ 20	34	2260	 11:57:50	Happy Feet (Naomi Cranston, Michael Nuttall.)	.	.	.	.	.	.	.	.	7	.	.	.	.	.	.	
+ 21	40	2230	 11:43:26	Mo's Mob (Paul Humphreys, Di Johnston, Daniel Redmond, Sophie Richards.)	.	.	.	.	.	.	.	.	8	.	.	.	.	.	.	
+ 22	59	2150	 11:43:33	Clare & Sally (Sally Lochhead, Clare McLennan.)	.	.	.	.	2	1	.	.	.	.	.	.	.	.	.	
+ 23	72	2140	 11:47:58	too old men (Peter Cleary, Mike Harding.)	13	5	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 24	73	2140	 11:58:21	Tortilla Flat Track Club (Al Cory-Wright, Alistair Boyce, Jason Brown.)	14	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 25	43	2130	 11:21:57	not fast; just furious (Jessica Fabian, Tim Pope.)	.	.	.	.	.	.	.	.	9	.	.	.	.	.	.	
+ 26	10	2080	 11:27:22	Afraid of Heights (Dave Harrey, Izaak Wybourne.)	15	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 27	37	2050	 11:41:00	J.I. Jo (Josh Gordon, Jo Turnbull, Ian Walsh.)	.	.	.	.	.	.	.	.	10	.	.	.	.	.	.	
+ 28	65	2020	 11:25:58	Where's the Sat Nav (Claire Le Grice, Rache Schmack.)	.	.	.	.	3	2	.	.	.	.	.	.	.	.	.	
+ 29	38	2020	 11:48:00	M & L (Lauren Fearnley, Mitch Fearnley.)	.	.	.	.	.	.	.	.	11	.	.	.	.	.	.	
+ 30	55	2020	 11:50:34	The  Probes (Dave Taylor, Brandon Wilson.)	16	6	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 31	28	2010	 10:53:37	Team Kumho (Ruth Cornelius, Tina Frew.)	.	.	.	.	4	.	.	.	.	.	.	.	.	.	.	
+ 32	21	1970	   9:49:28	Wolf Pack (Josh Janssen, Blake McMillan.)	17	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 33	42	1960	 11:53:52	NOCturnal Cows (Maegan McIsaac, Daniel Penney.)	.	.	.	.	.	.	.	.	12	.	.	.	.	.	.	
+ 34	53	1930	 11:54:12	Skins Control Freaks (Aaron Ross, David Watt.)	18	7	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 35	70	1920	 11:41:25	FF no C (Richard Dove, Tony Watson.)	19	8	3	.	.	.	.	.	.	.	.	.	.	.	.	
+ 36	74	1900	 11:43:01	Adventure before dementia (Jenni Blyleven, Louise O'Connell.)	.	.	.	.	5	3	1	.	.	.	.	.	.	.	.	
+ 37	44	1850	 12:03:36	Sardine Racing (Sam Grummitt, Josie Norris.)	.	.	.	.	.	.	.	.	13	.	.	.	.	.	.	
+ 38	45	1840	 11:57:35	Trailfit (Luara Anderson, Simon Bloomberg, Chloe Quilliam, Nick Lane.)	.	.	.	.	.	.	.	.	14	.	.	.	.	.	.	
+ 39	64	1830	 11:53:27	The Flying Circus (Paulette Birchfield, Kathryn Conradson.)	.	.	.	.	6	4	.	.	.	.	.	.	.	.	.	
+ 40	24	1820	 11:43:54	Duck Duck Gooseberries (Laura Andrews, Carey Lintott, Ellen Plumtree.)	.	.	.	.	7	.	.	.	.	.	.	.	.	.	.	
+ 41	48	1790	 11:54:30	Yahooligans (Rebecca Ireland, Sam Richardson, Guy Sutherland.)	.	.	.	.	.	.	.	.	15	.	.	.	.	.	.	
+ 42	62	1780	 11:52:46	No The Other Left (Jo Forbes, Sarah Lyttle, Ange West, Mary McBride.)	.	.	.	.	8	5	.	.	.	.	.	.	.	.	.	
+ 43	82	1780	 11:53:07	Old Bones (Phil Bones, Stephen John.)	20	9	4	1	.	.	.	.	.	.	.	.	.	.	.	
+ 44	68	1780	 12:07:30	Which Way Where (Kath Kelly, John Mckinnel.)	.	.	.	.	.	.	.	.	16	2	.	.	.	.	.	
+ 45	6	1760	 12:04:05	Paw Patrol (Alex Braun, Adrian France, Hamish France, Maria Laurie, Daisy York.)	.	.	.	.	.	.	.	.	17	.	.	.	.	.	1	
+ 46	51	1750	 10:55:01	Fried Green Tomatoes (Glen Friery, Tony McGuire, Hayden Prattley, David Scarf.)	21	10	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 47	7	1750	 12:02:20	The shorter heights of winter (Anna Babington, Katherine Babington, Daniel Vickers, James Wright.)	.	.	.	.	.	.	.	.	18	.	.	.	.	.	2	
+ 48	66	1740	 11:54:54	Cameltoes (Polly Lock, Lea Vellenoweth.)	.	.	.	.	9	6	.	.	.	.	.	.	.	.	.	
+ 49	57	1660	 11:04:51	Banoffee Pie Scoffers (Lisa Ainley, Bridget Guerin.)	.	.	.	.	10	7	.	.	.	.	.	.	.	.	.	
+ 50	79	1640	 11:43:13	Over the hill (Alan Moore, Julia Moore, Lyn Stanton.)	.	.	.	.	.	.	.	.	19	3	2	.	.	.	.	
+ 51	78	1630	 11:17:23	hiikoi (Clare O'Regan, Desmond O'Regan, Hugo Young.)	.	.	.	.	.	.	.	.	20	4	3	.	.	.	.	
+ 52	67	1620	 11:01:41	The Dippers (Marcus Diprose, Caroline Diprose-Rea.)	.	.	.	.	.	.	.	.	21	5	.	.	.	.	.	
+ 53	81	1530	 11:51:57	McMee (Andrew McGowan, Trevor Merrifield.)	22	11	5	2	.	.	.	.	.	.	.	.	.	.	.	
+ 54	77	1490	 11:49:20	A bit wonky (Chris Dixon, Colin Dixon.)	.	.	.	.	.	.	.	.	22	6	4	.	.	.	.	
+ 55	84	1480	 11:27:14	The Wiz Kids (Liz Millow, Wayne Millow, Kathrin Mueller.)	.	.	.	.	.	.	.	.	23	7	5	2	.	.	.	
+ 56	75	1420	 11:16:18	Muttonbirds (Josie Boland, Viv Prince.)	.	.	.	.	11	8	2	.	.	.	.	.	.	.	.	
+ 57	61	1410	 12:03:45	Lady and the Trampers (Lynley Marks, Liz Atkins, Sue Courtney.)	.	.	.	.	12	9	.	.	.	.	.	.	.	.	.	
+ 58	26	1270	   8:50:11	Mad Muddy Mums (Kim Churton, Celia Hogan, Kate Purdie.)	.	.	.	.	13	.	.	.	.	.	.	.	.	.	.	
+ 59	47	1270	 11:10:41	Wicked Rogaines (Nora Audra, Ian Edmond, Oscar Edmond.)	.	.	.	.	.	.	.	.	24	.	.	.	.	.	.	
+ 60	58	1220	 11:57:47	Born to be Wild (Pip Depree, Sarah Helmore, Genevieve Leech.)	.	.	.	.	14	10	.	.	.	.	.	.	.	.	.	
+ 61	29	1200	 11:36:21	The EmVPs (Virginia Fleming, Penny Seager.)	.	.	.	.	15	.	.	.	.	.	.	.	.	.	.	
+ 62	27	1190	 12:03:15	Stepwise (Heather Dixon, Helen Jermy, Juliet Jones.)	.	.	.	.	16	.	.	.	.	.	.	.	.	.	.	
+ 63	156	890	   6:03:22	Lost in the car park (Philippa Bennett, Cheryl Black, Vic Struthers.)	.	.	.	.	17	11	.	.	.	.	.	.	.	.	.	
+ 64	63	840	   7:24:23	Tall Beans (Michelle Clyne, Kristine Marriott.)	.	.	.	.	18	12	.	.	.	.	.	.	.	.	.	
+ 65	52	0	 11:59:47	Nutrient Rescue (Darron Jones, Dave Quested, Kieran Hambrook.)
+ 66	30	0	 12:48:28	X&Y (Yvonne Grosch, Chris Hohe.)

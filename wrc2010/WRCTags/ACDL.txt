@@ -1,0 +1,33 @@
+Team No. 434	Tag ID = ACDL   Tags=0016	Course 0
+Edwin Stevens (NZL), Bruce Eyers (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 B5		20/11/2010 11:48:17 AM	         	BRIEFING. Score reset.
+   2	 29	 20	20/11/2010 12:10:31 PM	  0:10:31	
+   3	 58	 50	20/11/2010 12:30:09 PM	  0:19:38	
+   4	 94	 90	20/11/2010 12:39:26 PM	  0:09:17	
+   5	 25	 20	20/11/2010  1:07:06 PM 	  0:27:40	
+   6	102	100	20/11/2010  1:32:40 PM 	  0:25:34	
+   7	 83	 80	20/11/2010  2:08:23 PM 	  0:35:43	
+   8	105	100	20/11/2010  3:24:32 PM 	  1:16:09	
+   9	 45	 40	20/11/2010  4:51:35 PM 	  1:27:03	
+  10	 56	 50	20/11/2010  5:22:38 PM 	  0:31:03	
+  11	 60	 60	20/11/2010  5:59:48 PM 	  0:37:10	
+  12	 23	 20	20/11/2010  6:43:48 PM 	  0:44:00	
+  13	 85	 80	20/11/2010  7:35:10 PM 	  0:51:22	
+  14	104	100	20/11/2010  8:51:35 PM 	  1:16:25	
+  15	 F1		20/11/2010 11:58:28 PM	  3:06:53	FINISH TIME.
+  16	 F1		21/11/2010  0:44:26 AM	  0:45:58	FINISH TIME.
+END
+
+
+Recognised finish time 21/11/2010  0:44:26 AM
+Time on course  12:44:26
+
+
+  810	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 810

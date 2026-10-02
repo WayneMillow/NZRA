@@ -1,0 +1,38 @@
+Team No. 609	Tag ID = AYAV   Tags=0042	Course 6_HoW
+Katherine Pedley, David Pedley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  22	 23		26/06/2010 10:31:03 AM	         	BRIEFING. Score reset.
+  23	 46	 40	26/06/2010 11:14:34 AM	  0:14:34	
+  24	 94	 90	26/06/2010 11:24:58 AM	  0:10:24	 Punch  05 replaced by Group 94.
+  25	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+  26	 32	 30	26/06/2010 11:53:33 AM	  0:44:34	
+  27	 37	 30	24/06/2010  6:40:44 PM 	         	1.68  Days early.
+  28	 76	 70	26/06/2010 12:24:21 PM	  0:30:48	 Punch  04 replaced by Group 76.
+  29	 58	 50	26/06/2010 12:51:12 PM	  0:26:51	
+  30	 33	 30	26/06/2010  1:13:32 PM 	  0:22:20	
+  31	 66	 60	26/06/2010  1:36:12 PM 	  0:22:40	
+  32	 75	 70	26/06/2010  1:48:49 PM 	  0:12:37	
+  33	 43	 40	26/06/2010  2:12:17 PM 	  0:23:28	
+  34	 73	 70	26/06/2010  2:26:16 PM 	  0:13:59	
+  35	 82	 80	26/06/2010  2:42:42 PM 	  0:16:26	
+  36	 35	 30	26/06/2010  3:08:03 PM 	  0:25:21	
+  37	 89	 80	26/06/2010  3:31:13 PM 	  0:23:10	
+  38	 93	 90	26/06/2010  3:50:11 PM 	  0:18:58	
+  39	 56	 50	26/06/2010  4:02:03 PM 	  0:11:52	
+  40	 84	 80	26/06/2010  4:16:06 PM 	  0:14:03	
+  41	 45	 40	26/06/2010  4:27:39 PM 	  0:11:33	
+  42	 18		26/06/2010  4:49:57 PM 	  0:22:18	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:49:57 PM 
+Time on course   5:49:57
+
+
+ 1080	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1080

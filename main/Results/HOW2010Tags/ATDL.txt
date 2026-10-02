@@ -1,0 +1,35 @@
+Team No. 640	Tag ID = ATDL   Tags=0018	Course 6_HoW
+Berit Jensen, Anna Lindgren
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:28:52 AM	         	BRIEFING. Score reset.
+   2	 46	 40	26/06/2010 11:12:35 AM	  0:12:35	
+   3	 94	 90	26/06/2010 11:19:15 AM	  0:06:40	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 32	 30	26/06/2010 11:43:16 AM	  0:34:17	
+   6	 37	 30	24/06/2010  6:33:04 PM 	         	1.685 Days early.
+   7	 76	 70	26/06/2010 12:26:06 PM	  0:42:50	 Punch  04 replaced by Group 76.
+   8	 58	 50	26/06/2010 12:46:02 PM	  0:19:56	
+   9	 86	 80	26/06/2010  1:19:14 PM 	  0:33:12	
+  10	102	100	26/06/2010  1:53:42 PM 	  0:34:28	
+  11	 77	 70	26/06/2010  2:04:14 PM 	  0:10:32	
+  12	 85	 80	26/06/2010  2:28:32 PM 	  0:24:18	
+  13	 66	 60	26/06/2010  2:44:12 PM 	  0:15:40	
+  14	 75	 70	26/06/2010  3:05:40 PM 	  0:21:28	
+  15	 93	 90	26/06/2010  3:20:06 PM 	  0:14:26	
+  16	 34	 30	26/06/2010  3:37:24 PM 	  0:17:18	
+  17	 45	 40	26/06/2010  3:47:00 PM 	  0:09:36	
+  18	 16		26/06/2010  4:04:00 PM 	  0:17:00	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:04:00 PM 
+Time on course   5:04:00
+
+
+  980	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 980

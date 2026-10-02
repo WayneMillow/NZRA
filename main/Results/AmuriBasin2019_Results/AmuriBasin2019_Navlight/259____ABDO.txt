@@ -1,0 +1,30 @@
+Team No. 259	Tag ID = ABDO   Tags=0013	Course 1.5 hour
+Pinck Panthers: Henry Pinckney, Issy Pinckney
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:44:29 PM	         	BRIEFING. Score reset.
+   2	  21 	   20	 7/07/2019 12:58:12 PM	         	Punch clock failed.
+   3	  47 	   40	 7/07/2019  1:04:44 PM	  0:04:44	
+   4	  31 	   30	 7/07/2019  1:13:54 PM	  0:09:10	
+   5	  73 	   70	 7/07/2019  1:22:28 PM	  0:08:34	
+   6	  33 	   30	 7/07/2019  1:30:09 PM	  0:07:41	
+   7	  46 	   40	 7/07/2019  1:43:15 PM	  0:13:06	
+   8	  52 	   50	 7/07/2019  1:50:53 PM	  0:07:38	
+   9	  34 	   30	 7/07/2019  1:58:36 PM	  0:07:43	
+  10	  59 	   50	 7/07/2019  2:09:30 PM	  0:10:54	
+  11	  39 	   30	 7/07/2019  2:22:51 PM	  0:13:21	
+  12	  26 	   20	 7/07/2019  2:29:21 PM	  0:06:30	
+  13	  16 		 7/07/2019  2:32:18 PM	  0:02:57	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:32:18 PM
+Time on course   1:32:18
+
+
+  410	Points Scored.
+  -15	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 395

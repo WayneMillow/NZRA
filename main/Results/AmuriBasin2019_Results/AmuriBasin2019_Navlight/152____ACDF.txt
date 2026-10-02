@@ -1,0 +1,28 @@
+Team No. 152	Tag ID = ACDF   Tags=0011	Course 3 hour
+Moov faster: Claire Calderwood, Gemma Chick and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:43:16 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:11:17 PM	  0:11:17	
+   3	  49 	   40	 7/07/2019 12:17:49 PM	  0:06:32	
+   4	  65 	   60	 7/07/2019 12:30:28 PM	  0:12:39	
+   5	  45 	   40	 7/07/2019 12:48:08 PM	  0:17:40	
+   6	  59 	   50	 7/07/2019 12:58:06 PM	  0:09:58	
+   7	  53 	   50	 7/07/2019  1:27:13 PM	  0:29:07	
+   8	  46 	   40	 7/07/2019  2:23:23 PM	  0:56:10	
+   9	  73 	   70	 7/07/2019  2:36:46 PM	  0:13:23	
+  10	  31 	   30	 7/07/2019  2:41:19 PM	  0:04:33	
+  11	  16 		 7/07/2019  2:51:21 PM	  0:10:02	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:51:21 PM
+Time on course   2:51:21
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

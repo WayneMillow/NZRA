@@ -1,0 +1,31 @@
+Team No. 37	Tag ID = ACAV   Tags=0014	Course Office
+Meg Mason, Jo Youl
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		 4/12/2011  9:13:55 AM 	         	BRIEFING. Score reset.
+   2	 30	 30	 4/12/2011  9:40:34 AM 	  0:10:34	
+   3	 21	 20	 4/12/2011  9:50:30 AM 	  0:09:56	
+   4	 40	 40	 4/12/2011  9:56:27 AM 	  0:05:57	
+   5	 10	 10	 4/12/2011 10:11:42 AM	  0:15:15	
+   6	 70	 70	 4/12/2011 10:54:37 AM	  0:42:55	
+   7	 20	 20	 4/12/2011 11:34:48 AM	  0:40:11	
+   8	 60	 60	 4/12/2011 11:54:52 AM	  0:20:04	
+   9	 31	 30	 4/12/2011 12:11:25 PM	  0:16:33	
+  10	 80	 80	 4/12/2011 12:28:08 PM	  0:16:43	
+  11	 24	 20	 4/12/2011 12:56:44 PM	  0:28:36	
+  12	 43	 40	 4/12/2011  1:16:00 PM 	  0:19:16	
+  13	 23	 20	 4/12/2011  1:38:25 PM 	  0:22:25	
+  14	107		 4/12/2011  2:39:44 PM 	  1:01:19	FINISH TIME.
+END
+
+
+Recognised finish time  4/12/2011  2:39:44 PM 
+Time on course   5:09:44
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

@@ -1,0 +1,27 @@
+Team No. 201	Tag ID = AEDL   Tags=0010	Course 6 hour
+The Holy Rollers: Kevin Stobbs, Steve Petty and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:06:35 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:12:19 PM	  0:12:19	
+   3	  39 	   30	 7/11/2020  1:35:06 PM	  0:22:47	
+   4	  24 	   20	 7/11/2020  2:01:09 PM	  0:26:03	
+   5	  75 	   70	 7/11/2020  2:32:04 PM	  0:30:55	
+   6	  45 	   40	 7/11/2020  3:14:19 PM	  0:42:15	
+   7	  83 	   80	 7/11/2020  3:48:48 PM	  0:34:29	
+   8	  73 	   70	 7/11/2020  4:48:52 PM	  1:00:04	
+   9	  87 	   80	 7/11/2020  6:06:38 PM	  1:17:46	
+  10	  17 		 7/11/2020  6:58:17 PM	  0:51:39	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:58:17 PM
+Time on course   5:58:17
+
+
+  410	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

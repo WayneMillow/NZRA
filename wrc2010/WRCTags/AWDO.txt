@@ -1,0 +1,33 @@
+Team No. 532	Tag ID = AWDO   Tags=0016	Course 0
+Sergey Yashchenko (RUS), Evgeny Gavrilov (RUS)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 B2		20/11/2010 11:44:51 AM	         	BRIEFING. Score reset.
+   2	 29	 20	20/11/2010 12:07:40 PM	  0:07:40	
+   3	 46	 40	20/11/2010 12:19:13 PM	  0:11:33	
+   4	 25	 20	20/11/2010 12:44:18 PM	  0:25:05	
+   5	102	100	20/11/2010  1:04:41 PM 	  0:20:23	
+   6	 70	 70	20/11/2010  1:26:48 PM 	  0:22:07	
+   7	 65	 60	20/11/2010  1:53:41 PM 	  0:26:53	
+   8	 33	 30	20/11/2010  2:12:23 PM 	  0:18:42	
+   9	 74	 70	20/11/2010  2:30:32 PM 	  0:18:09	
+  10	 55	 50	20/11/2010  2:47:53 PM 	  0:17:21	
+  11	 27	 20	20/11/2010  3:04:56 PM 	  0:17:03	
+  12	104	100	20/11/2010  3:26:56 PM 	  0:22:00	
+  13	 89	 80	20/11/2010  4:02:54 PM 	  0:35:58	
+  14	 44	 40	20/11/2010  4:40:53 PM 	  0:37:59	
+  15	 85	 80	20/11/2010  5:24:03 PM 	  0:43:10	
+  16	 F1		20/11/2010  8:12:36 PM 	  2:48:33	FINISH TIME.
+END
+
+
+Recognised finish time 20/11/2010  8:12:36 PM 
+Time on course   8:12:36
+
+
+  780	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

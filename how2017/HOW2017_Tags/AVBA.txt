@@ -1,0 +1,24 @@
+Team No. 2178	Tag ID = AVBA   Tags=0008	Course 6Hr
+JeanAndJanGoRompingInTheHills: Jan Harrison, Jean Cory-Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 18		10/06/2017 10:44:29 AM	         	BRIEFING. Score reset.
+   3	 21	 20	10/06/2017 11:08:43 AM	  0:08:43	
+   4	 40	 40	10/06/2017 11:23:54 AM	  0:15:11	
+   5	 31	 30	10/06/2017 11:38:12 AM	  0:14:18	
+   6	 42	 40	10/06/2017 11:58:12 AM	  0:20:00	
+   7	100	100	10/06/2017 12:18:36 PM	  0:20:24	
+   8	108		10/06/2017  4:34:33 PM	  4:15:57	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:34:33 PM
+Time on course   5:34:33
+
+
+  230	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 230

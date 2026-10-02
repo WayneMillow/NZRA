@@ -1,0 +1,25 @@
+Team No. 39	Tag ID = AHAV   Tags=0008	Course 7Hour
+Day and Night: Allan Grant, Annie Grant
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 95		27/02/2016 10:48:29 AM	         	BRIEFING. Score reset.
+   2	 52	 50	27/02/2016 11:49:02 AM	  0:49:02	
+   3	 93	 90	27/02/2016  1:13:37 PM	  1:24:35	
+   4	 55	 50	27/02/2016  2:02:57 PM	  0:49:20	
+   5	 56	 50	27/02/2016  3:13:21 PM	  1:10:24	
+   6	 43	 40	27/02/2016  4:12:56 PM	  0:59:35	
+   7	 70	 70	27/02/2016  5:02:04 PM	  0:49:08	
+   8	 18		27/02/2016  6:40:40 PM	  1:38:36	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  6:40:40 PM
+Time on course   7:40:40
+
+
+  350	Points Scored.
+ -350	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

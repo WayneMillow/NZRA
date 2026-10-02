@@ -1,0 +1,25 @@
+Team No. 133	Tag ID = AVBC   Tags=0008	Course 6 hour
+Hungry Harrys: Nat Christensen, Kate Bennett and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:16:05 AM	  0:16:05	
+   2	  25 	   20	19/06/2021 11:38:47 AM	  0:22:42	
+   3	  77 	   70	19/06/2021 12:33:37 PM	  0:54:50	
+   4	  26 	   20	19/06/2021 12:57:07 PM	  0:23:30	
+   5	  64 	   60	19/06/2021  1:21:32 PM	  0:24:25	
+   6	  35 	   30	19/06/2021  2:13:26 PM	  0:51:54	
+   7	  67 	   60	19/06/2021  2:38:45 PM	  0:25:19	
+   8	  97 		19/06/2021  4:15:05 PM	  1:36:20	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:15:05 PM
+Time on course   5:15:05
+
+
+  300	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 300

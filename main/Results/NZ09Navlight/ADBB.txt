@@ -1,0 +1,29 @@
+Team No. 112	Tag ID = ADBB   Tags=0012	Course 8 Hour
+Jim Nugteren, Helen Nugteren
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 10:46:26 AM	         	BRIEFING. Score reset.
+   2	 30	 30	 7/03/2009 11:17:16 AM	  0:17:16	
+   3	 54	 50	 7/03/2009 11:54:34 AM	  0:37:18	
+   4	 75	 70	 7/03/2009 12:53:42 PM	  0:59:08	
+   5	 76	 70	 7/03/2009  1:52:55 PM 	  0:59:13	
+   6	 65	 60	 7/03/2009  2:47:04 PM 	  0:54:09	
+   7	 83	 80	 7/03/2009  3:32:41 PM 	  0:45:37	
+   8	 41	 40	 7/03/2009  4:30:40 PM 	  0:57:59	
+   9	 46	 40	 7/03/2009  5:06:29 PM 	  0:35:49	
+  10	 31	 30	 7/03/2009  5:39:02 PM 	  0:32:33	
+  11	 21	 20	 7/03/2009  6:22:43 PM 	  0:43:41	
+  12	 F		 7/03/2009  6:44:13 PM 	  0:21:30	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:44:13 PM 
+Time on course   7:44:13
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

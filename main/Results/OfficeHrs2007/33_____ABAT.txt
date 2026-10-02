@@ -1,0 +1,32 @@
+Team No. 33	Tag ID = ABAT   Tags=0014	Course 
+Pat McIntosh, Calum McIntosh
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 2/12/2007  8:46:58 AM 	         	BRIEFING. Score reset.
+   2	 41	 40	 2/12/2007  9:17:30 AM 	  0:17:30	
+   3	 91	 90	 2/12/2007  9:45:55 AM 	  0:28:25	
+   4	 50	 50	 2/12/2007  9:58:41 AM 	  0:12:46	
+   5	 35	 30	 2/12/2007 10:36:48 AM	  0:38:07	
+   6	102	100	 2/12/2007 11:06:36 AM	  0:29:48	
+   7	 24	 20	 2/12/2007 11:46:13 AM	  0:39:37	
+   8	 70	 70	 2/12/2007 12:23:45 PM	  0:37:32	
+   9	 36	 30	 2/12/2007 12:54:15 PM	  0:30:30	
+  10	 44	 40	 2/12/2007  1:23:25 PM 	  0:29:10	
+  11	 42	 40	 2/12/2007  2:16:56 PM 	  0:53:31	
+  12	 34	 30	 2/12/2007  2:49:08 PM 	  0:32:12	
+  13	 25	 20	 2/12/2007  3:08:54 PM 	  0:19:46	
+  14	 19		 2/12/2007  3:20:51 PM 	  0:11:57	FINISH TIME.
+END
+	AddedPunch45	40
+
+
+Recognised finish time  2/12/2007  3:20:51 PM 
+Time on course   6:20:51
+
+
+  600	Points Scored.
+   40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

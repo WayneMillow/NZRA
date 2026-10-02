@@ -1,0 +1,28 @@
+Team No. 56	Tag ID = ARAW   Tags=0011	Course 6hr
+Mapworld ""D""team: Sandra Appleby, Neville Jones
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009 10:12:59 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009 10:46:45 AM	  0:16:45	
+   3	 34	 30	 4/07/2009 11:13:50 AM	  0:27:05	
+   4	 22	 20	 4/07/2009 12:41:24 PM	  1:27:34	
+   5	 55	 50	 4/07/2009  1:09:11 PM 	  0:27:47	
+   6	 62	 60	 4/07/2009  1:44:10 PM 	  0:34:59	
+   7	 78	 70	 4/07/2009  2:00:28 PM 	  0:16:18	
+   8	 23	 20	 4/07/2009  2:40:15 PM 	  0:39:47	
+   9	 58	 50	 4/07/2009  3:20:04 PM 	  0:39:49	
+  10	 81	 80	 4/07/2009  3:55:29 PM 	  0:35:25	
+  11	105		 4/07/2009  4:15:02 PM 	  0:19:33	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:15:02 PM 
+Time on course   5:45:02
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

@@ -1,0 +1,24 @@
+Team No. 84	Tag ID = AXAY   Tags=0008	Course 6hr
+Sharon Morrison, Greg Rooney and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 15		 4/07/2009  9:54:51 AM 	         	BRIEFING. Score reset.
+   3	 81	 80	 4/07/2009 10:54:02 AM	  0:24:02	
+   4	 33	 30	 4/07/2009 11:39:15 AM	  0:45:13	
+   5	 34	 30	 4/07/2009 12:17:14 PM	  0:37:59	
+   6	 21	 20	 4/07/2009  3:22:38 PM 	  3:05:24	
+   7	 10	 10	 4/07/2009  3:57:58 PM 	  0:35:20	
+   8	105		 4/07/2009  4:08:17 PM 	  0:10:19	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:08:17 PM 
+Time on course   5:38:17
+
+
+  170	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 170

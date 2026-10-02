@@ -1,0 +1,29 @@
+Team No. 52	Tag ID = AJAW   Tags=0012	Course 6hr
+Joy Talbot, Dave Evans
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009  9:57:18 AM 	         	BRIEFING. Score reset.
+   2	 45	 40	 4/07/2009 11:00:24 AM	  0:30:24	
+   3	 53	 50	 4/07/2009 11:23:19 AM	  0:22:55	
+   4	 32	 30	 4/07/2009 11:48:44 AM	  0:25:25	
+   5	 54	 50	 4/07/2009 12:13:26 PM	  0:24:42	
+   6	 44	 40	 4/07/2009 12:40:51 PM	  0:27:25	
+   7	 61	 60	 4/07/2009  1:04:43 PM 	  0:23:52	
+   8	 55	 50	 4/07/2009  2:20:47 PM 	  1:16:04	
+   9	 62	 60	 4/07/2009  2:42:03 PM 	  0:21:16	
+  10	 58	 50	 4/07/2009  3:28:56 PM 	  0:46:53	
+  11	 81	 80	 4/07/2009  3:59:17 PM 	  0:30:21	
+  12	106		 4/07/2009  4:26:44 PM 	  0:27:27	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:26:44 PM 
+Time on course   5:56:44
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

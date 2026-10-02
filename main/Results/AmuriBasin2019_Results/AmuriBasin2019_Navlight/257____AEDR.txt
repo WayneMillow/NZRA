@@ -1,0 +1,30 @@
+Team No. 257	Tag ID = AEDR   Tags=0013	Course 1.5 hour
+Three Blind Mice: Molly McKenzie, Honor McKenzie and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:43:42 PM	         	BRIEFING. Score reset.
+   2	  21 	   20	 7/07/2019 12:59:18 PM	         	Punch clock failed.
+   3	  47 	   40	 7/07/2019  1:05:28 PM	  0:05:28	
+   4	  31 	   30	 7/07/2019  1:17:33 PM	  0:12:05	
+   5	  73 	   70	 7/07/2019  1:27:38 PM	  0:10:05	
+   6	  33 	   30	 7/07/2019  1:36:41 PM	  0:09:03	
+   7	  23 	   20	 7/07/2019  1:43:21 PM	  0:06:40	
+   8	  51 	   50	 7/07/2019  1:53:29 PM	  0:10:08	
+   9	  32 	   30	 7/07/2019  2:03:54 PM	  0:10:25	
+  10	  49 	   40	 7/07/2019  2:08:56 PM	  0:05:02	
+  11	  26 	   20	 7/07/2019  2:17:31 PM	  0:08:35	
+  12	  22 	   20	 7/07/2019  2:24:09 PM	  0:06:38	
+  13	  16 		 7/07/2019  2:26:55 PM	  0:02:46	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:26:55 PM
+Time on course   1:26:55
+
+
+  370	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

@@ -1,0 +1,28 @@
+Team No. 144	Tag ID = AJAY   Tags=0012	Course 7hr
+Supersonic Tuataras: Jonathan Wood (NZL), Neville Hore (NZL) and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  104		11/02/2017 10:50:30 AM	         	BRIEFING. Score reset.
+   3	  309	   30	11/02/2017 11:23:13 AM	  0:23:13	
+   4	  509	   50	11/02/2017 11:51:25 AM	  0:28:12	
+   5	  803	   80	11/02/2017 12:30:24 PM	  0:38:59	
+   6	  511	   50	11/02/2017 12:51:56 PM	  0:21:32	
+   7	  607	   60	11/02/2017  1:12:02 PM	  0:20:06	
+   8	  510	   50	11/02/2017  2:02:13 PM	  0:50:11	
+   9	  903	   90	11/02/2017  3:04:10 PM	  1:01:57	
+  10	  709	   70	11/02/2017  4:22:38 PM	  1:18:28	
+  11	  405	   40	11/02/2017  5:13:45 PM	  0:51:07	
+  12	   19		11/02/2017  5:57:34 PM	  0:43:49	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  5:57:34 PM
+Time on course   6:57:34
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

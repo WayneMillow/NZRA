@@ -1,0 +1,25 @@
+Team No. 61	Tag ID = ABAX   Tags=0008	Course 6hr
+Spin Girls: Brylea Bostock, Kirstina Moore
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  38 	   30	 1/07/2023 11:15:10 AM	  0:15:10	
+   2	  21 	   20	 1/07/2023 11:32:13 AM	  0:17:03	
+   3	  54 	   50	 1/07/2023 12:02:59 PM	  0:30:46	
+   4	 101 	  100	30/06/2023  3:44:37 PM	         	Punch clock failed.
+   5	  93 	   90	 1/07/2023  1:41:00 PM	  1:38:01	
+   6	  45 	   40	 1/07/2023  2:05:09 PM	  0:24:09	
+   7	  76 	   70	 1/07/2023  2:30:17 PM	  0:25:08	
+   8	  16 		 1/07/2023  6:23:34 PM	  3:53:17	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  6:23:34 PM
+Time on course   7:23:34
+
+
+  400	Points Scored.
+ -400	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400 LATE

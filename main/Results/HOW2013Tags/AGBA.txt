@@ -1,0 +1,37 @@
+Team No. 533	Tag ID = AGBA   Tags=0019	Course 6hr
+Beetroot Faces: Kellie Coakley, Lucy Sinclair
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:17:22 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:36:50 AM	  0:07:50	
+   3	 76	 70	 8/06/2013 10:58:56 AM	  0:22:06	
+   4	 66	 60	 8/06/2013 11:14:10 AM	  0:15:14	
+   5	 74	 70	 8/06/2013 11:48:48 AM	  0:34:38	
+   6	100	100	 8/06/2013 12:06:01 PM	  0:17:13	
+   7	 65	 60	 8/06/2013 12:23:37 PM	  0:17:36	
+   8	 57	 50	 8/06/2013 12:37:18 PM	  0:13:41	
+   9	 75	 70	 8/06/2013  1:05:07 PM 	  0:27:49	
+  10	 28	 20	 8/06/2013  1:21:56 PM 	  0:16:49	
+  11	 39	 30	 8/06/2013  1:30:16 PM 	  0:08:20	
+  12	 34	 30	 8/06/2013  1:44:03 PM 	  0:13:47	
+  13	 77	 70	 8/06/2013  2:11:06 PM 	  0:27:03	
+  14	 68	 60	 8/06/2013  2:37:48 PM 	  0:26:42	
+  15	 86	 80	 8/06/2013  2:57:04 PM 	  0:19:16	
+  16	 44	 40	 8/06/2013  3:13:51 PM 	  0:16:47	
+  17	 53	 50	 8/06/2013  3:36:48 PM 	  0:22:57	
+  18	 21	 20	 8/06/2013  4:00:33 PM 	  0:23:45	 Punch  11 replaced by Group 21.
+  19	 13		 8/06/2013  4:06:32 PM 	  0:05:59	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:06:32 PM 
+Time on course   5:37:32
+
+
+ 1010	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1010

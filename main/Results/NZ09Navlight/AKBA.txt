@@ -1,0 +1,27 @@
+Team No. 103	Tag ID = AKBA   Tags=0010	Course 8 Hour
+Nathan Harris, Mohan Krishnan and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 10:46:12 AM	         	BRIEFING. Score reset.
+   2	 31	 30	 7/03/2009 11:16:21 AM	  0:16:21	
+   3	 46	 40	 7/03/2009 11:44:28 AM	  0:28:07	
+   4	 41	 40	 7/03/2009 12:22:01 PM	  0:37:33	
+   5	 80	 80	 7/03/2009 12:58:46 PM	  0:36:45	
+   6	 92	 90	 7/03/2009  2:02:14 PM 	  1:03:28	
+   7	 65	 60	 7/03/2009  3:19:28 PM 	  1:17:14	
+   8	 76	 70	 7/03/2009  4:04:25 PM 	  0:44:57	
+   9	 75	 70	 7/03/2009  4:52:35 PM 	  0:48:10	
+  10	 F		 7/03/2009  6:51:45 PM 	  1:59:10	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:51:45 PM 
+Time on course   7:51:45
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

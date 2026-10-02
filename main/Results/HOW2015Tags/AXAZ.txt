@@ -1,0 +1,32 @@
+Team No. 609	Tag ID = AXAZ   Tags=0015	Course 6Hr
+Emma Wilson, Amy Winter and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:44:52 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:10:16 AM	  0:10:16	
+   3	 68	 60	27/06/2015  1:00:34 PM	  1:50:18	
+   4	 85	 80	27/06/2015  1:30:51 PM	  0:30:17	
+   5	 55	 50	27/06/2015  1:49:28 PM	  0:18:37	
+   6	 56	 50	16/06/2014  3:03:18 AM	         	Scored before Start.
+   7	 94	 90	27/06/2015  2:34:21 PM	  0:44:53	
+   8	 76	 70	27/06/2015  2:51:13 PM	  0:16:52	
+   9	 58	 50	27/06/2015  3:22:19 PM	  0:31:06	
+  10	 48	 40	27/06/2015  3:38:48 PM	  0:16:29	
+  11	 95	 90	27/06/2015  3:59:08 PM	  0:20:20	
+  12	 47	 40	27/06/2015  4:13:33 PM	  0:14:25	
+  13	 27	 20	27/06/2015  4:29:03 PM	  0:15:30	
+  14	 25	 20	27/06/2015  4:48:00 PM	  0:18:57	
+  15	106		27/06/2015  4:53:32 PM	  0:05:32	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:53:32 PM
+Time on course   5:53:32
+
+
+  680	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 680

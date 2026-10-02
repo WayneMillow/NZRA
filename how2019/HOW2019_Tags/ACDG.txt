@@ -1,0 +1,29 @@
+Team No. 164	Tag ID = ACDG   Tags=0013	Course 6hr
+Turtles: Lara Scott, Katie Smithson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:51:59 AM	         	BRIEFING. Score reset.
+   2	  35 	   30	15/06/2019 11:31:07 AM	  0:31:07	
+   3	  20 	   20	15/06/2019 11:48:36 AM	  0:17:29	
+   4	  90 	   90	15/06/2019  1:23:24 PM	  1:34:48	
+   5	  41 	   40	15/06/2019  1:40:18 PM	  0:16:54	
+   6	  92 	   90	15/06/2019  2:03:34 PM	  0:23:16	
+   7	  69 	   60	15/06/2019  2:27:48 PM	  0:24:14	
+   8	  73 	   70	15/06/2019  3:00:17 PM	  0:32:29	
+   9	  82 	   80	15/06/2019  3:37:54 PM	  0:37:37	
+  10	  43 	   40	15/06/2019  4:12:42 PM	  0:34:48	
+  11	  21 	   20	15/06/2019  4:26:21 PM	  0:13:39	
+  12	  19 		15/06/2019  4:53:36 PM	  0:27:15	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:53:36 PM
+Time on course   5:53:36
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

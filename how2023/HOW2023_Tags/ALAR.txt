@@ -1,0 +1,23 @@
+Team No. 12	Tag ID = ALAR   Tags=0006	Course 6hr
+Over Dunn: Karolyne Dunn, Amy Dunn
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  43 	   40	 1/07/2023 11:13:22 AM	  0:13:22	
+   2	  38 	   30	 1/07/2023 11:22:39 AM	  0:09:17	
+   3	  21 	   20	 1/07/2023 11:41:00 AM	  0:18:21	
+   4	  42 	   40	 1/07/2023  1:36:43 PM	  1:55:43	
+   5	  63 	   60	 1/07/2023  1:57:36 PM	  0:20:53	
+   6	  17 		 1/07/2023  2:57:10 PM	  0:59:34	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  2:57:10 PM
+Time on course   3:57:10
+
+
+  190	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

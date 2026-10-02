@@ -1,0 +1,33 @@
+Team No. 173	Tag ID = AUDG   Tags=0017	Course 3 hour
+The Nortys: Holly Norton, Ned Norton and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:38:47 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:06:23 PM	  0:06:23	
+   3	  31 	   30	 7/07/2019 12:15:30 PM	  0:09:07	
+   4	  73 	   70	 7/07/2019 12:22:54 PM	  0:07:24	
+   5	  46 	   40	 7/07/2019 12:37:13 PM	  0:14:19	
+   6	  52 	   50	 7/07/2019 12:43:45 PM	  0:06:32	
+   7	  43 	   40	 7/07/2019 12:58:41 PM	  0:14:56	
+   8	  62 	   60	 7/07/2019  1:10:08 PM	  0:11:27	
+   9	  66 	   60	 7/07/2019  1:23:58 PM	  0:13:50	
+  10	 102 	  100	 7/07/2019  1:43:11 PM	  0:19:13	
+  11	  55 	   50	 7/07/2019  1:56:14 PM	  0:13:03	
+  12	  86 	   80	 7/07/2019  2:05:41 PM	  0:09:27	
+  13	  75 	   70	 7/07/2019  2:16:00 PM	  0:10:19	
+  14	  53 	   50	 7/07/2019  2:34:53 PM	  0:18:53	
+  15	  49 	   40	 7/07/2019  2:45:17 PM	  0:10:24	
+  16	  16 		 7/07/2019  2:53:47 PM	  0:08:30	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:53:47 PM
+Time on course   2:53:47
+
+
+  780	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

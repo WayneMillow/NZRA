@@ -1,0 +1,31 @@
+Team No. 42	Tag ID = ANAV   Tags=0014	Course 6hr
+Unnamed: Karen Gray, Natastha Jelbert and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  43 	   40	 3/07/2022 10:30:09 AM	  0:30:09	
+   2	  44 	   40	 3/07/2022 10:42:27 AM	  0:12:18	
+   3	  55 	   50	 3/07/2022 10:50:56 AM	  0:08:29	
+   4	  97 	   90	 3/07/2022 11:05:35 AM	  0:14:39	
+   5	  67 	   60	 3/07/2022 11:17:29 AM	  0:11:54	
+   6	  58 	   50	 3/07/2022 11:53:39 AM	  0:36:10	
+   7	  82 	   80	 3/07/2022 12:02:48 PM	  0:09:09	
+   8	 103 	  100	 3/07/2022 12:57:47 PM	  0:54:59	
+   9	  28 	   20	 3/07/2022  1:15:58 PM	  0:18:11	
+  10	  38 	   30	 3/07/2022  2:12:23 PM	  0:56:25	
+  11	  73 	   70	 3/07/2022  2:35:50 PM	  0:23:27	
+  12	 101 	  100	 3/07/2022  2:51:27 PM	  0:15:37	
+  13	  25 	   20	 3/07/2022  3:06:13 PM	  0:14:46	
+  14	  18 		 3/07/2022  3:52:03 PM	  0:45:50	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:52:03 PM
+Time on course   5:52:03
+
+
+  750	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 750

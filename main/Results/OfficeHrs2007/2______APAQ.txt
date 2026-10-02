@@ -1,0 +1,34 @@
+Team No. 2	Tag ID = APAQ   Tags=0017	Course 
+Sandra Flamank, Terry Connolly
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 2/12/2007  8:58:51 AM 	         	BRIEFING. Score reset.
+   2	 25	 20	 2/12/2007  9:05:04 AM 	  0:05:04	
+   3	 34	 30	 2/12/2007  9:15:02 AM 	  0:09:58	
+   4	 34		 2/12/2007  9:15:11 AM 	  0:00:09	     Punched on Line 6
+   5	 80	 80	 2/12/2007  9:43:51 AM 	  0:28:40	
+   6	 42	 40	 2/12/2007  9:59:16 AM 	  0:15:25	
+   7	 44	 40	 2/12/2007 10:33:01 AM	  0:33:45	
+   8	 92	 90	 2/12/2007 11:07:06 AM	  0:34:05	
+   9	 36	 30	 2/12/2007 11:38:02 AM	  0:30:56	
+  10	 24	 20	 2/12/2007 11:48:24 AM	  0:10:22	
+  11	 70	 70	 2/12/2007 12:13:01 PM	  0:24:37	
+  12	 84	 80	 2/12/2007 12:50:30 PM	  0:37:29	
+  13	 48	 40	 2/12/2007  1:20:40 PM 	  0:30:10	
+  14	 50	 50	 2/12/2007  1:42:17 PM 	  0:21:37	
+  15	 91	 90	 2/12/2007  1:58:35 PM 	  0:16:18	
+  16	 41	 40	 2/12/2007  2:58:07 PM 	  0:59:32	
+  17	 18		 2/12/2007  3:12:36 PM 	  0:14:29	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:12:36 PM 
+Time on course   6:12:36
+
+
+  720	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 720

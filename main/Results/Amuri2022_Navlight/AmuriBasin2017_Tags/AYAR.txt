@@ -1,0 +1,35 @@
+Team No. 2172	Tag ID = AYAR   Tags=0017	Course 3Hr
+college Hoons: Gemma Deiderich, Emma Hartnell and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 9/07/2017 12:03:21 PM	  0:03:21	Manual BRIEF allowed.
+   2	  41 	   40	 9/07/2017 12:11:32 PM	  0:08:11	
+   3	  63 	   60	 9/07/2017 12:23:49 PM	  0:12:17	
+   4	  23 	   20	 9/07/2017 12:33:21 PM	  0:09:32	
+   5	  35 	   30	 9/07/2017 12:37:26 PM	  0:04:05	
+   6	  84 	   80	 9/07/2017 12:49:12 PM	  0:11:46	
+   7	  58 	   50	 9/07/2017  1:08:42 PM	  0:19:30	
+   8	  42 	   40	 9/07/2017  1:25:54 PM	  0:17:12	
+   9	  66 	   60	 9/07/2017  1:51:52 PM	  0:25:58	
+  10	  53 	   50	 9/07/2017  2:09:28 PM	  0:17:36	
+  11	  71 	   70	 9/07/2017  2:17:52 PM	  0:08:24	
+  12	  51 	   50	 9/07/2017  2:28:18 PM	  0:10:26	
+  13	  24 	   20	 9/07/2017  2:38:15 PM	  0:09:57	
+  14	  43 	   40	 9/07/2017  2:43:27 PM	  0:05:12	
+  15	  33 	   30	 9/07/2017  2:47:37 PM	  0:04:10	
+  16	  31 	   30	 9/07/2017  2:51:51 PM	  0:04:14	
+  17	 107 		 9/07/2017  2:57:20 PM	  0:05:29	FINISH TIME.
+END
+	Manual BRIEF Accepted on line 1
+
+
+Recognised finish time  9/07/2017  2:57:20 PM
+Time on course   2:57:20
+
+
+  690	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 690

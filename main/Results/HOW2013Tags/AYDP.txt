@@ -1,0 +1,32 @@
+Team No. 670	Tag ID = AYDP   Tags=0015	Course 2.5hr
+Social Climbers: Elspeth Jaine, Judith Somerville, Suzanne Churchward, Shirley Thomas
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	104		 8/06/2013 12:44:07 PM	         	BRIEFING. Score reset.
+   2	 19	 10	 8/06/2013  1:05:22 PM 	  0:04:22	
+   3	 58	 50	 8/06/2013  1:09:41 PM 	  0:04:19	
+   4	 20	 20	 8/06/2013  1:25:27 PM 	  0:15:46	
+   5	 85	 80	 8/06/2013  1:32:22 PM 	  0:06:55	
+   6	 75	 70	 8/06/2013  1:50:11 PM 	  0:17:49	
+   7	 40	 40	 8/06/2013  1:59:10 PM 	  0:08:59	
+   8	 97	 90	 8/06/2013  2:07:04 PM 	  0:07:54	
+   9	 65	 60	 8/06/2013  2:17:50 PM 	  0:10:46	
+  10	 57	 50	 8/06/2013  2:31:24 PM 	  0:13:34	
+  11	 36	 30	 8/06/2013  2:42:09 PM 	  0:10:45	
+  12	 66	 60	 8/06/2013  2:51:10 PM 	  0:09:01	
+  13	 76	 70	 8/06/2013  3:02:47 PM 	  0:11:37	
+  14	 27	 20	 8/06/2013  3:08:22 PM 	  0:05:35	
+  15	 16		 8/06/2013  3:30:49 PM 	  0:22:27	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:30:49 PM 
+Time on course   2:29:49
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

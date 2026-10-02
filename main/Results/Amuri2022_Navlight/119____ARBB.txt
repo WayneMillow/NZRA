@@ -1,0 +1,28 @@
+Team No. 119	Tag ID = ARBB   Tags=0011	Course 3hr
+Hurunui Hogs: Hugh Shand, Blake Clisby and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:01:40 PM	  0:01:40	
+   2	  71 	   70	 3/07/2022 12:14:06 PM	  0:12:26	
+   3	  64 	   60	 3/07/2022 12:27:28 PM	  0:13:22	
+   4	  72 	   70	 3/07/2022 12:41:42 PM	  0:14:14	
+   5	  22 	   20	 3/07/2022  1:10:14 PM	  0:28:32	
+   6	  60 	   60	 3/07/2022  1:23:50 PM	  0:13:36	
+   7	  40 	   40	 3/07/2022  1:28:36 PM	  0:04:46	
+   8	  42 	   40	 3/07/2022  1:50:23 PM	  0:21:47	
+   9	  84 	   80	 3/07/2022  2:20:04 PM	  0:29:41	
+  10	  65 	   60	 3/07/2022  2:29:21 PM	  0:09:17	
+  11	  19 		 3/07/2022  3:06:20 PM	  0:36:59	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:06:20 PM
+Time on course   3:06:20
+
+
+  540	Points Scored.
+  -70	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

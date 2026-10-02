@@ -1,0 +1,32 @@
+Team No. 613	Tag ID = ALDG   Tags=0022	Course 6hr
+Are we there yet?: Nadeine Dommisse, Kirsty Huxford
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   8	104		 8/06/2013 10:20:39 AM	         	BRIEFING. Score reset.
+   9	 21	 20	 8/06/2013 10:33:32 AM	  0:04:32	
+  10	 86	 80	 8/06/2013 10:59:45 AM	  0:26:13	
+  11	 68	 60	 8/06/2013 11:22:07 AM	  0:22:22	
+  12	 34	 30	 8/06/2013 12:27:50 PM	  1:05:43	
+  13	 78	 70	 8/06/2013  1:04:38 PM 	  0:36:48	
+  14	 78		 8/06/2013  1:15:26 PM 	  0:10:48	     Punched on Line 13
+  15	 32	 30	 8/06/2013  1:32:14 PM 	  0:16:48	
+  16	 96	 90	 8/06/2013  1:46:04 PM 	  0:13:50	
+  17	 50	 50	 8/06/2013  2:07:56 PM 	  0:21:52	
+  18	 87	 80	 8/06/2013  2:32:28 PM 	  0:24:32	
+  19	 69	 60	 8/06/2013  2:53:55 PM 	  0:21:27	
+  20	101	100	 8/06/2013  3:15:16 PM 	  0:21:21	
+  21	 44	 40	 8/06/2013  4:00:16 PM 	  0:45:00	
+  22	 14		 8/06/2013  4:21:18 PM 	  0:21:02	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:21:18 PM 
+Time on course   5:52:18
+
+
+  710	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 710

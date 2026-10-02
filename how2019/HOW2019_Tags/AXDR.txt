@@ -1,0 +1,32 @@
+Team No. 211	Tag ID = AXDR   Tags=0015	Course 6hr
+Bredes bunch mark 2.: Gilda Otway, Carli Richter
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:49:44 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	15/06/2019 11:12:03 AM	  0:12:03	
+   3	  73 	   70	15/06/2019 11:53:20 AM	  0:41:17	
+   4	  69 	   60	15/06/2019 12:05:56 PM	  0:12:36	
+   5	  92 	   90	15/06/2019 12:22:10 PM	  0:16:14	
+   6	  41 	   40	15/06/2019 12:45:32 PM	  0:23:22	
+   7	  90 	   90	15/06/2019 12:59:54 PM	  0:14:22	
+   8	  40 	   40	15/06/2019  1:22:58 PM	  0:23:04	
+   9	  88 	   80	15/06/2019  1:56:14 PM	  0:33:16	
+  10	  70 	   70	15/06/2019  2:26:33 PM	  0:30:19	
+  11	  50 	   50	15/06/2019  3:02:53 PM	  0:36:20	
+  12	  52 	   50	15/06/2019  3:37:44 PM	  0:34:51	
+  13	  72 	   70	15/06/2019  3:49:53 PM	  0:12:09	
+  14	  30 	   30	15/06/2019  4:16:47 PM	  0:26:54	
+  15	  19 		15/06/2019  4:37:14 PM	  0:20:27	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:37:14 PM
+Time on course   5:37:14
+
+
+  760	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

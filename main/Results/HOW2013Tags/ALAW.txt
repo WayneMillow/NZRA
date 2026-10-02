@@ -1,0 +1,31 @@
+Team No. 478	Tag ID = ALAW   Tags=0014	Course 6hr
+Fab 5: Meg Cadillac, Chris Cumming, Sonya Hazlett, Mary anne Turner, Liz Woodhouse
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:20:11 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:40:25 AM	  0:11:25	 Punch  10 replaced by Group 58.
+   3	 76	 70	 8/06/2013 11:08:02 AM	  0:27:37	
+   4	 66	 60	 8/06/2013 11:34:55 AM	  0:26:53	
+   5	 74	 70	 8/06/2013 12:03:32 PM	  0:28:37	
+   6	100	100	 8/06/2013 12:29:43 PM	  0:26:11	
+   7	 65	 60	 8/06/2013 12:50:39 PM	  0:20:56	
+   8	 75	 70	 8/06/2013  1:14:40 PM 	  0:24:01	
+   9	 28	 20	 8/06/2013  1:36:37 PM 	  0:21:57	
+  10	 39	 30	 8/06/2013  1:58:58 PM 	  0:22:21	
+  11	 34	 30	 8/06/2013  2:24:15 PM 	  0:25:17	
+  12	 68	 60	 8/06/2013  3:28:20 PM 	  1:04:05	
+  13	 86	 80	 8/06/2013  3:45:07 PM 	  0:16:47	
+  14	 15		 8/06/2013  4:24:33 PM 	  0:39:26	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:24:33 PM 
+Time on course   5:55:33
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

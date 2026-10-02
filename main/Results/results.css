@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+@import
+	url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,300,600)
+	;
+
+body {
+	width: 90%;
+	margin: 0 auto;
+	border: solid;
+	padding: 0.5em;
+}
+#header {
+	background-color: #e6e6e6;
+}
+
+#footer {
+	background-color: #e6e6e6;
+	margin-top: 1em;
+}
+
+#header h1 {
+  text-align: center;	
+}
+#header h2 {
+  text-align: center; 
+}
+#header h3 {
+  text-align: center; 
+}
+#header h4 {
+  text-align: center; 
+}
+
+#main {
+	
+}
+
+.dataTable {
+	width: 100%;
+}
+
+.dataTable tr:nth-child(even) {
+	background-color: #e6e6e6;
+}
+
+.dataTable th, td {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.dataTable th.column-left, td.column-left {
+	text-align: left;
+}
+
+.dataTable th.column-center, td.column-center {
+	text-align: center;
+}
+
+.dataTable th.column-right, td.column-right {
+	text-align: right;
+}
+
+.dataTable .button {
+	margin: 0;
+}
+
+.dataTable caption {
+	caption-side: top;
+	text-align: left;
+	padding-bottom: 0.2rem;
+	font-size: 0.9rem;
+	font-weight: bold;
+}

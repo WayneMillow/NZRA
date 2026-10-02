@@ -1,0 +1,33 @@
+Team No. 1	Tag ID = ANAQ   Tags=0015	Course 
+Lisa Nicholl, Grant Bowers
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 2/12/2007  8:39:44 AM 	         	BRIEFING. Score reset.
+   2	 25	 20	 2/12/2007  9:04:44 AM 	  0:04:44	
+   3	 34	 30	 2/12/2007  9:14:03 AM 	  0:09:19	
+   4	 80	 80	 2/12/2007  9:52:43 AM 	  0:38:40	
+   5	 42	 40	 2/12/2007 10:13:56 AM	  0:21:13	
+   6	 24	 20	 2/12/2007 11:01:26 AM	  0:47:30	
+   7	 35	 30	 2/12/2007 11:36:06 AM	  0:34:40	
+   8	102	100	 2/12/2007 12:00:42 PM	  0:24:36	
+   9	 32	 30	 2/12/2007 12:32:56 PM	  0:32:14	
+  10	 82	 80	 2/12/2007 12:46:44 PM	  0:13:48	
+  11	 91	 90	 2/12/2007  2:15:34 PM 	  1:28:50	
+  12	 41	 40	 2/12/2007  2:45:28 PM 	  0:29:54	
+  13	 23	 20	 2/12/2007  3:17:23 PM 	  0:31:55	
+  14	 46	 40	 2/12/2007  3:27:55 PM 	  0:10:32	
+  15	 16		 2/12/2007  3:40:01 PM 	  0:12:06	FINISH TIME.
+END
+	AddedPunch45	40
+
+
+Recognised finish time  2/12/2007  3:40:01 PM 
+Time on course   6:40:01
+
+
+  660	Points Scored.
+   40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

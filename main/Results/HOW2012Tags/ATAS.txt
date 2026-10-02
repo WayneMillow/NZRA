@@ -1,0 +1,32 @@
+Team No. 601	Tag ID = ATAS   Tags=0015	Course 6hr
+Westie Wanderers: Sarah Watson, Adele King and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		30/06/2012 10:48:44 AM	         	BRIEFING. Score reset.
+   2	 10	 10	30/06/2012 11:14:30 AM	  0:14:30	 Punch  67 replaced by Group 10.
+   3	 20	 20	30/06/2012 11:19:43 AM	  0:05:13	 Punch  79 replaced by Group 20.
+   4	 42	 40	30/06/2012 11:35:09 AM	  0:15:26	
+   5	 90	 90	30/06/2012 11:52:44 AM	  0:17:35	
+   6	 51	 50	30/06/2012 12:12:12 PM	  0:19:28	
+   7	 50	 50	30/06/2012 12:32:10 PM	  0:19:58	
+   8	 40	 40	30/06/2012 12:45:16 PM	  0:13:06	
+   9	 41	 40	30/06/2012  2:20:28 PM 	  1:35:12	
+  10	 60	 60	30/06/2012  2:37:19 PM 	  0:16:51	
+  11	100	100	30/06/2012  3:04:52 PM 	  0:27:33	
+  12	 30	 30	30/06/2012  3:35:40 PM 	  0:30:48	
+  13	 74	 70	30/06/2012  3:56:43 PM 	  0:21:03	
+  14	 93	 90	30/06/2012  4:42:10 PM 	  0:45:27	
+  15	108		30/06/2012  4:53:22 PM 	  0:11:12	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:53:22 PM 
+Time on course   5:53:22
+
+
+  690	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 690

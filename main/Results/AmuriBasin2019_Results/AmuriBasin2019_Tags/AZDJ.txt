@@ -1,0 +1,30 @@
+Team No. 200	Tag ID = AZDJ   Tags=0013	Course 3 hour
+Need Oxygen: Linda Loffhagen, Timothy Harris
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:46:44 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:11:43 PM	  0:11:43	
+   3	  49 	   40	 7/07/2019 12:20:08 PM	  0:08:25	
+   4	  65 	   60	 7/07/2019 12:32:21 PM	  0:12:13	
+   5	  45 	   40	 7/07/2019 12:47:27 PM	  0:15:06	
+   6	  59 	   50	 7/07/2019  1:01:34 PM	  0:14:07	
+   7	  43 	   40	 7/07/2019  1:32:03 PM	  0:30:29	
+   8	  52 	   50	 7/07/2019  1:47:58 PM	  0:15:55	
+   9	  46 	   40	 7/07/2019  1:55:35 PM	  0:07:37	
+  10	  73 	   70	 7/07/2019  2:16:44 PM	  0:21:09	
+  11	  31 	   30	 7/07/2019  2:25:26 PM	  0:08:42	
+  12	  47 	   40	 7/07/2019  2:34:35 PM	  0:09:09	
+  13	  16 		 7/07/2019  2:45:20 PM	  0:10:45	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:45:20 PM
+Time on course   2:45:20
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

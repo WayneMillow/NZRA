@@ -1,0 +1,32 @@
+Team No. 121	Tag ID = AVBB   Tags=0015	Course 6hr
+Martin Etherington, Samuel Etherington and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008 10:44:57 AM	         	BRIEFING. Score reset.
+   2	 22	 20	14/06/2008 11:05:37 AM	  0:05:37	
+   3	 49	 40	14/06/2008 11:16:39 AM	  0:11:02	
+   4	 59	 50	14/06/2008 11:35:37 AM	  0:18:58	
+   5	 31	 30	14/06/2008 11:46:14 AM	  0:10:37	
+   6	 75	 70	14/06/2008 12:17:17 PM	  0:31:03	
+   7	 35	 30	14/06/2008 12:52:48 PM	  0:35:31	
+   8	 81	 80	14/06/2008  1:19:54 PM 	  0:27:06	
+   9	101	100	14/06/2008  1:43:05 PM 	  0:23:11	
+  10	 45	 40	14/06/2008  2:37:11 PM 	  0:54:06	
+  11	 64	 60	14/06/2008  3:08:12 PM 	  0:31:01	
+  12	 67	 60	14/06/2008  3:48:15 PM 	  0:40:03	
+  13	 50	 50	14/06/2008  4:16:18 PM 	  0:28:03	
+  14	 30	 30	14/06/2008  4:33:29 PM 	  0:17:11	
+  15	108		14/06/2008  4:44:59 PM 	  0:11:30	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:44:59 PM 
+Time on course   5:44:59
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

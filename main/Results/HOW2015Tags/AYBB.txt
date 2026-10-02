@@ -1,0 +1,32 @@
+Team No. 636	Tag ID = AYBB   Tags=0015	Course 6Hr
+Andy Collins, Rachael Collins
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:43:02 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:12:38 AM	  0:12:38	
+   3	 85	 80	27/06/2015 12:15:33 PM	  1:02:55	
+   4	 55	 50	27/06/2015 12:39:37 PM	  0:24:04	
+   5	 56	 50	16/06/2014  1:59:42 AM	         	Scored before Start.
+   6	 94	 90	27/06/2015  1:30:28 PM	  0:50:51	
+   7	 76	 70	27/06/2015  1:50:04 PM	  0:19:36	
+   8	 86	 80	27/06/2015  2:19:39 PM	  0:29:35	
+   9	 58	 50	27/06/2015  2:44:41 PM	  0:25:02	
+  10	 48	 40	27/06/2015  3:05:56 PM	  0:21:15	
+  11	 95	 90	27/06/2015  3:29:25 PM	  0:23:29	
+  12	 47	 40	27/06/2015  3:40:55 PM	  0:11:30	
+  13	 27	 20	27/06/2015  4:13:54 PM	  0:32:59	
+  14	 23	 20	27/06/2015  4:44:07 PM	  0:30:13	
+  15	108		27/06/2015  4:52:47 PM	  0:08:40	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:52:47 PM
+Time on course   5:52:47
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

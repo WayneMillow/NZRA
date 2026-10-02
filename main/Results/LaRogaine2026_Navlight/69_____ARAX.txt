@@ -1,0 +1,35 @@
+Team No. 69	Tag ID = ARAX   Tags=0018	Course 06 hour
+Slow Grind: Nicole Owen, Campbell Potter
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026  9:52:22 am	         	BRIEFING. Score reset.
+   2	  31 	20	31/01/2026 10:09:59 am	  0:09:59	
+   3	  20 	30	31/01/2026 10:01:06 am	         	Split time negative.
+   4	  80 	80	31/01/2026 10:30:55 am	  0:29:49	
+   5	  50 	50	31/01/2026 10:57:27 am	  0:26:32	
+   6	  70 	70	31/01/2026 11:06:05 am	  0:08:38	
+   7	  41 	40	31/01/2026 11:36:16 am	  0:30:11	
+   8	 100 	100	31/01/2026 12:13:50 pm	  0:37:34	
+   9	  92 	90	31/01/2026 12:59:23 pm	  0:45:33	
+  10	  54 	50	31/01/2026  1:18:13 pm	  0:18:50	
+  11	  93 	90	31/01/2026  1:37:36 pm	  0:19:23	
+  12	  83 	80	31/01/2026  2:03:38 pm	  0:26:02	
+  13	 101 	100	31/01/2026  2:39:40 pm	  0:36:02	
+  14	  44 	40	31/01/2026  2:50:03 pm	  0:10:23	
+  15	  94 	90	31/01/2026  3:04:52 pm	  0:14:49	
+  16	  34 	30	31/01/2026  3:17:21 pm	  0:12:29	
+  17	  84 	80	31/01/2026  3:32:29 pm	  0:15:08	
+  18	  18 		31/01/2026  3:58:13 pm	  0:25:44	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  3:58:13 pm
+Time on course   5:58:13
+
+
+ 1040	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1040

@@ -1,0 +1,31 @@
+Team No. 46	Tag ID = AWAV   Tags=0014	Course 24 Hour
+Te Mata Gannets: James Robertson, William Robertson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		23/11/2019 11:39:45 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	23/11/2019 12:10:42 PM	  0:10:42	
+   3	  29 	   20	23/11/2019 12:24:15 PM	  0:13:33	
+   4	  42 	   40	23/11/2019 12:46:11 PM	  0:21:56	
+   5	  51 	   50	23/11/2019  1:19:23 PM	  0:33:12	
+   6	  62 	   60	23/11/2019  1:46:21 PM	  0:26:58	
+   7	  72 	   70	23/11/2019  2:09:23 PM	  0:23:02	
+   8	  58 	   50	23/11/2019  3:04:27 PM	  0:55:04	
+   9	  85 	   80	23/11/2019  6:22:33 PM	  3:18:06	
+  10	  65 	   60	23/11/2019  7:35:45 PM	  1:13:12	
+  11	  73 	   70	23/11/2019  8:12:24 PM	  0:36:39	
+  12	 102 	  100	23/11/2019 10:54:21 PM	  2:41:57	
+  13	  71 	   70	24/11/2019  5:43:18 AM	  6:48:57	
+  14	  19 		24/11/2019  7:30:49 AM	  1:47:31	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2019  7:30:49 AM
+Time on course  19:30:49
+
+
+  690	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 690

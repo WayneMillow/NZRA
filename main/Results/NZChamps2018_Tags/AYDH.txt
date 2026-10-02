@@ -1,0 +1,24 @@
+Team No. 187	Tag ID = AYDH   Tags=0007	Course 6 hour
+No Mates: Amie Manning (NZL), Amie's Mate (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:38:15 AM	         	BRIEFING. Score reset.
+   2	  30 	   30	24/11/2018 12:22:00 PM	  0:22:00	
+   3	  83 	   80	24/11/2018  2:02:00 PM	  1:40:00	
+   4	  60 	   60	24/11/2018  2:30:36 PM	  0:28:36	
+   5	  46 	   40	24/11/2018  3:34:00 PM	  1:03:24	
+   6	  67 	   60	24/11/2018  3:54:09 PM	  0:20:09	
+   7	  17 		24/11/2018  5:05:36 PM	  1:11:27	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:05:36 PM
+Time on course   5:05:36
+
+
+  270	Points Scored.
+     	No Time Penalty.
+50	Manual adjustment.
+
+
+FINAL SCORE = 320

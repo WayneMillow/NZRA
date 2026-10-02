@@ -1,0 +1,30 @@
+Team No. 172	Tag ID = ATDG   Tags=0013	Course 6hr
+chafing the dream: annabel crozier, kristina townsend
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:51:40 AM	         	BRIEFING. Score reset.
+   2	  30 	   30	15/06/2019 11:22:23 AM	  0:22:23	
+   3	  72 	   70	15/06/2019 11:55:48 AM	  0:33:25	
+   4	  52 	   50	15/06/2019 12:07:21 PM	  0:11:33	
+   5	  91 	   90	15/06/2019 12:44:38 PM	  0:37:17	
+   6	  75 	   70	15/06/2019  1:15:11 PM	  0:30:33	
+   7	  94 	   90	15/06/2019  1:32:48 PM	  0:17:37	
+   8	  55 	   50	15/06/2019  2:07:13 PM	  0:34:25	
+   9	  85 	   80	15/06/2019  2:43:06 PM	  0:35:53	
+  10	  46 	   40	15/06/2019  2:54:00 PM	  0:10:54	
+  11	  23 	   20	15/06/2019  3:29:37 PM	  0:35:37	
+  12	  35 	   30	15/06/2019  4:33:16 PM	  1:03:39	
+  13	  19 		15/06/2019  4:51:45 PM	  0:18:29	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:51:45 PM
+Time on course   5:51:45
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

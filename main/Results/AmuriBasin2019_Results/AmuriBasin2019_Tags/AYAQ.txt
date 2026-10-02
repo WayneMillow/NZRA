@@ -1,0 +1,29 @@
+Team No. 6	Tag ID = AYAQ   Tags=0012	Course 6 hour
+Chafing the dream: Michelle Anderson, Annabel Crozier and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:42:36 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 10:14:16 AM	  0:14:16	
+   3	  65 	   60	 7/07/2019 10:29:09 AM	  0:14:53	
+   4	  45 	   40	 7/07/2019 10:42:34 AM	  0:13:25	
+   5	  53 	   50	 7/07/2019 11:02:08 AM	  0:19:34	
+   6	  67 	   60	 7/07/2019 11:27:30 AM	  0:25:22	
+   7	  86 	   80	 7/07/2019 12:47:20 PM	  1:19:50	
+   8	  57 	   50	 7/07/2019  1:12:38 PM	  0:25:18	
+   9	  42 	   40	 7/07/2019  1:21:18 PM	  0:08:40	
+  10	  54 	   50	 7/07/2019  1:37:27 PM	  0:16:09	
+  11	  49 	   40	 7/07/2019  2:04:09 PM	  0:26:42	
+  12	  16 		 7/07/2019  2:22:34 PM	  0:18:25	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:22:34 PM
+Time on course   4:22:34
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

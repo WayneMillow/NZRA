@@ -1,0 +1,30 @@
+Team No. 167	Tag ID = AJDG   Tags=0013	Course 6 hour
+Sweat; Regret and Oxygen Debt: Rebecca Burns, Michele Stevenson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		11/06/2022 10:17:45 AM	         	BRIEFING. Score reset.
+   2	  56 	   50	11/06/2022 11:13:23 AM	  0:13:23	
+   3	  23 	   20	11/06/2022 11:26:40 AM	  0:13:17	
+   4	  77 	   70	11/06/2022 11:49:33 AM	  0:22:53	
+   5	  67 	   60	11/06/2022 12:19:50 PM	  0:30:17	
+   6	  90 	   90	11/06/2022  1:12:12 PM	  0:52:22	
+   7	  40 	   40	11/06/2022  1:40:09 PM	  0:27:57	
+   8	  50 	   50	11/06/2022  2:30:50 PM	  0:50:41	
+   9	  20 	   20	11/06/2022  3:04:41 PM	  0:33:51	
+  10	  30 	   30	11/06/2022  3:46:34 PM	  0:41:53	
+  11	  42 	   40	11/06/2022  4:10:42 PM	  0:24:08	
+  12	  27 	   20	11/06/2022  4:36:25 PM	  0:25:43	
+  13	  13 		11/06/2022  5:01:46 PM	  0:25:21	FINISH TIME.
+END
+
+
+Recognised finish time 11/06/2022  5:01:46 PM
+Time on course   6:01:46
+
+
+  490	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

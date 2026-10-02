@@ -1,0 +1,32 @@
+Team No. 105	Tag ID = APBA   Tags=0014	Course 24 hour
+Oldies: Pete Squires (NZL), Anne Kennedy (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:39:10 AM	         	BRIEFING. Score reset.
+   2	  30 	   30	24/11/2018 12:19:09 PM	  0:19:09	
+   3	  83 	   80	24/11/2018  1:33:27 PM	  1:14:18	
+   4	 109 	   40	24/11/2018  1:52:33 PM	  0:19:06	
+   5	  89 	   80	24/11/2018  2:23:33 PM	  0:31:00	
+   6	  69 	   60	24/11/2018  3:24:27 PM	  1:00:54	
+   7	 100 	  100	24/11/2018  4:02:53 PM	  0:38:26	
+   8	  18 		24/11/2018  7:13:00 PM	  3:10:07	FINISH TIME.
+   9	  49 	   40	25/11/2018  7:55:41 AM	 12:42:41	
+  10	  39 	   30	25/11/2018  8:27:11 AM	  0:31:30	
+  11	  77 	   70	25/11/2018 10:09:48 AM	  1:42:37	
+  12	  40 	   40	25/11/2018 10:42:03 AM	  0:32:15	
+  13	  58 	   50	25/11/2018 11:05:49 AM	  0:23:46	
+  14	  19 		25/11/2018 11:22:35 AM	  0:16:46	FINISH TIME.
+END
+	AddedPunch55	50
+
+
+Recognised finish time 25/11/2018 11:22:35 AM
+Time on course  23:22:35
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

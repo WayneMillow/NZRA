@@ -1,0 +1,31 @@
+Team No. 215	Tag ID = AOCK   Tags=0011	Course 15hr
+Nevermind: Andrew Collins, Connor Bootsma and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		16/12/2023 11:40:36 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	16/12/2023 12:14:56 PM	  0:14:56	
+   3	  75 	   70	16/12/2023  2:02:04 PM	  1:47:08	
+   4	 103 	  100	16/12/2023  3:16:34 PM	  1:14:30	
+   5	  44 	   40	16/12/2023  8:06:38 PM	  4:50:04	
+   6	  18 		16/12/2023 10:21:21 PM	  2:14:43	FINISH TIME.
+   7	  15 		17/12/2023  7:18:29 AM	  8:57:08	DEPARTURE TIME.
+   8	  23 	   20	17/12/2023  9:02:42 AM	  1:44:13	
+   9	  35 	   30	17/12/2023 11:00:38 AM	  1:57:56	
+  10	  18 		17/12/2023 11:15:55 AM	  0:15:17	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  25,75,103,44,23,35
+Your score has been reduced by 280 points.
+
+
+Recognised Course time 17/12/2023 2:18:47 AM
+Time on course  14:18:47
+
+
+    0	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

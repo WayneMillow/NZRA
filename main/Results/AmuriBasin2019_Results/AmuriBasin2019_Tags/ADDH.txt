@@ -1,0 +1,32 @@
+Team No. 177	Tag ID = ADDH   Tags=0015	Course 3 hour
+Mountain Goats: Harry Glasson, Sarah Glasson and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:40:51 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:09:19 PM	  0:09:19	
+   3	  49 	   40	 7/07/2019 12:17:31 PM	  0:08:12	
+   4	  28 	   20	 7/07/2019 12:30:56 PM	  0:13:25	
+   5	  54 	   50	 7/07/2019 12:42:56 PM	  0:12:00	
+   6	  41 	   40	 7/07/2019 12:53:05 PM	  0:10:09	
+   7	  42 	   40	 7/07/2019 12:59:41 PM	  0:06:36	
+   8	  57 	   50	 7/07/2019  1:12:16 PM	  0:12:35	
+   9	  44 	   40	 7/07/2019  1:28:24 PM	  0:16:08	
+  10	  85 	   80	 7/07/2019  1:41:49 PM	  0:13:25	
+  11	  48 	   40	 7/07/2019  1:55:52 PM	  0:14:03	
+  12	  55 	   50	 7/07/2019  2:15:06 PM	  0:19:14	
+  13	  62 	   60	 7/07/2019  2:30:50 PM	  0:15:44	
+  14	  43 	   40	 7/07/2019  2:41:16 PM	  0:10:26	
+  15	  18 		 7/07/2019  3:08:01 PM	  0:26:45	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:08:01 PM
+Time on course   3:08:01
+
+
+  600	Points Scored.
+  -90	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

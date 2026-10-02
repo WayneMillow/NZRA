@@ -1,0 +1,29 @@
+Team No. 113	Tag ID = AFBB   Tags=0013	Course 8 Hour
+Tim Jowett, Russell Nicholls
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 S		 7/03/2009 10:46:09 AM	         	BRIEFING. Score reset.
+   3	 31	 30	 7/03/2009 11:17:12 AM	  0:17:12	
+   4	 46	 40	 7/03/2009 11:47:38 AM	  0:30:26	
+   5	 41	 40	 7/03/2009 12:23:41 PM	  0:36:03	
+   6	 80	 80	 7/03/2009  1:02:34 PM 	  0:38:53	
+   7	 83	 80	 7/03/2009  2:22:02 PM 	  1:19:28	
+   8	 57	 50	 7/03/2009  3:10:52 PM 	  0:48:50	
+   9	 35	 30	 7/03/2009  4:05:52 PM 	  0:55:00	
+  10	 54	 50	 7/03/2009  4:52:52 PM 	  0:47:00	
+  11	 30	 30	 7/03/2009  5:43:41 PM 	  0:50:49	
+  12	 21	 20	 7/03/2009  6:03:49 PM 	  0:20:08	
+  13	 F		 7/03/2009  6:31:48 PM 	  0:27:59	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:31:48 PM 
+Time on course   7:31:48
+
+
+  450	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 450

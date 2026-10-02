@@ -1,0 +1,29 @@
+Team No. 118	Tag ID = AQBB   Tags=0012	Course 6hr
+Akiko Sasanuma, Anna Keeling
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:09:58 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009 10:50:24 AM	  0:20:24	
+   3	 33	 30	 4/07/2009 11:13:07 AM	  0:22:43	
+   4	 34	 30	 4/07/2009 11:46:01 AM	  0:32:54	
+   5	 22	 20	 4/07/2009  1:04:24 PM 	  1:18:23	
+   6	 62	 60	 4/07/2009  1:35:59 PM 	  0:31:35	
+   7	 55	 50	 4/07/2009  2:00:41 PM 	  0:24:42	
+   8	 61	 60	 4/07/2009  2:51:43 PM 	  0:51:02	
+   9	 44	 40	 4/07/2009  3:20:12 PM 	  0:28:29	
+  10	 54	 50	 4/07/2009  3:47:26 PM 	  0:27:14	
+  11	 32	 30	 4/07/2009  4:02:44 PM 	  0:15:18	
+  12	107		 4/07/2009  4:25:51 PM 	  0:23:07	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:25:51 PM 
+Time on course   5:55:51
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

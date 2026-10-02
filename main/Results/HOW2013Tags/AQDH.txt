@@ -1,0 +1,27 @@
+Team No. 632	Tag ID = AQDH   Tags=0010	Course 6hr
+The QAMs: Nick  Dollin, Krishna Prasad, Kelby Rogers
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 72	 70	16/06/2013  2:01:43 AM 	183:32:43	After course closure.
+   2	 21	 20	 8/06/2013 10:35:28 AM	         	Split time negative.
+   3	 53	 50	 8/06/2013 10:57:36 AM	  0:22:08	
+   4	 99	 90	 8/06/2013 11:47:52 AM	  0:50:16	
+   5	 31	 30	 8/06/2013 12:08:30 PM	  0:20:38	
+   6	 51	 50	 8/06/2013 12:18:36 PM	  0:10:06	
+   7	102	100	 8/06/2013 12:48:47 PM	  0:30:11	
+   8	 88	 80	 8/06/2013  1:25:12 PM 	  0:36:25	
+   9	 42	 40	 8/06/2013  1:58:59 PM 	  0:33:47	
+  10	 14		 8/06/2013  4:28:03 PM 	  2:29:04	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:28:03 PM 
+Time on course   5:59:03
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

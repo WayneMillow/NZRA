@@ -1,0 +1,22 @@
+Team No. 116	Tag ID = ALBB   Tags=0006	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 88		12/06/2006  4:44:46 PM 	        	BRIEFING. Score reset.
+   2	 23	 20	16/06/2007 10:09:39 AM	  0:09:39	
+   3	 37	 30	16/06/2007 10:34:20 AM	  0:24:41	
+   4	 47	 40	16/06/2007 11:08:26 AM	  0:34:06	
+   5	 66	 60	16/06/2007 11:32:02 AM	  0:23:36	
+   6	 97		16/06/2007  1:27:36 PM 	  1:55:34	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  1:27:36 PM 
+Time on course   3:27:36
+
+
+  150	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 150

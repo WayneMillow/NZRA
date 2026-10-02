@@ -1,0 +1,33 @@
+Team No. 649	Tag ID = AXBC   Tags=0017	Course 6Hr
+Gillian McCloy, Sam McCloy and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 94		27/06/2015 10:48:03 AM	         	BRIEFING. Score reset.
+   3	 23	 20	27/06/2015 11:13:52 AM	  0:13:52	
+   4	 65	 60	27/06/2015 11:32:35 AM	  0:18:43	
+   5	 34	 30	27/06/2015 11:54:57 AM	  0:22:22	
+   6	 53	 50	27/06/2015 12:38:36 PM	  0:43:39	
+   7	 45	 40	27/06/2015  1:00:48 PM	  0:22:12	
+   8	 92	 90	27/06/2015  1:35:38 PM	  0:34:50	
+   9	 54	 50	27/06/2015  2:12:34 PM	  0:36:56	
+  10	 66	 60	27/06/2015  2:24:08 PM	  0:11:34	
+  11	 57	 50	27/06/2015  2:54:25 PM	  0:30:17	
+  12	 95	 90	27/06/2015  3:29:10 PM	  0:34:45	
+  13	 47	 40	27/06/2015  3:41:33 PM	  0:12:23	
+  14	 86	 80	27/06/2015  4:05:01 PM	  0:23:28	
+  15	 38	 30	27/06/2015  4:22:34 PM	  0:17:33	
+  16	 26	 20	27/06/2015  4:39:15 PM	  0:16:41	
+  17	108		27/06/2015  4:47:46 PM	  0:08:31	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:47:46 PM
+Time on course   5:47:46
+
+
+  710	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 710

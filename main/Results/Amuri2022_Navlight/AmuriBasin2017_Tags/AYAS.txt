@@ -1,0 +1,29 @@
+Team No. 2215	Tag ID = AYAS   Tags=0012	Course 3Hr
+Procision Guesswork: Bridget tempero, Julie Aitken and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:55:36 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:06:40 PM	  0:06:40	
+   3	  55 	   50	 9/07/2017 12:22:45 PM	  0:16:05	
+   4	  42 	   40	 9/07/2017  1:06:54 PM	  0:44:09	
+   5	  66 	   60	 9/07/2017  1:23:30 PM	  0:16:36	
+   6	  53 	   50	 9/07/2017  1:38:26 PM	  0:14:56	
+   7	  71 	   70	 9/07/2017  2:00:05 PM	  0:21:39	
+   8	  51 	   50	 9/07/2017  2:16:45 PM	  0:16:40	
+   9	  24 	   20	 9/07/2017  2:33:15 PM	  0:16:30	
+  10	  43 	   40	 9/07/2017  2:38:47 PM	  0:05:32	
+  11	  31 	   30	 9/07/2017  2:42:54 PM	  0:04:07	
+  12	 109 		 9/07/2017  2:53:17 PM	  0:10:23	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:53:17 PM
+Time on course   2:53:17
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

@@ -1,0 +1,31 @@
+Team No. 116	Tag ID = ALBB   Tags=0014	Course 6hr
+Ross Barnett, Jamie Pearce
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		14/06/2008 10:44:56 AM	         	BRIEFING. Score reset.
+   2	 49	 40	14/06/2008 11:15:25 AM	  0:15:25	
+   3	 31	 30	14/06/2008 11:29:18 AM	  0:13:53	
+   4	 59	 50	14/06/2008 11:38:27 AM	  0:09:09	
+   5	 63	 60	14/06/2008 11:57:00 AM	  0:18:33	
+   6	 75	 70	14/06/2008 12:27:33 PM	  0:30:33	
+   7	 35	 30	14/06/2008 12:48:08 PM	  0:20:35	
+   8	 61	 60	14/06/2008  1:22:27 PM 	  0:34:19	
+   9	 80	 80	14/06/2008  1:51:43 PM 	  0:29:16	
+  10	 81	 80	14/06/2008  2:59:34 PM 	  1:07:51	
+  11	 64	 60	14/06/2008  3:39:51 PM 	  0:40:17	
+  12	 50	 50	14/06/2008  4:02:59 PM 	  0:23:08	
+  13	 30	 30	14/06/2008  4:27:30 PM 	  0:24:31	
+  14	106		14/06/2008  4:42:09 PM 	  0:14:39	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:42:09 PM 
+Time on course   5:42:09
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

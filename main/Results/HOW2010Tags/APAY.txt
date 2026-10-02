@@ -1,0 +1,26 @@
+Team No. 659	Tag ID = APAY   Tags=0009	Course 6_HoW
+Rachel Rimmer, Debbie Robertson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:49:49 AM	         	BRIEFING. Score reset.
+   2	 84	 80	26/06/2010 11:47:20 AM	  0:47:20	
+   3	 56	 50	26/06/2010 12:20:40 PM	  0:33:20	
+   4	 93	 90	26/06/2010 12:54:21 PM	  0:33:41	
+   5	 66	 60	26/06/2010  2:01:14 PM 	  1:06:53	
+   6	 33	 30	26/06/2010  2:36:50 PM 	  0:35:36	
+   7	 58	 50	26/06/2010  3:11:43 PM 	  0:34:53	
+   8	 76	 70	26/06/2010  4:06:33 PM 	  0:54:50	 Punch  04 replaced by Group 76.
+   9	 18		26/06/2010  4:31:45 PM 	  0:25:12	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:31:45 PM 
+Time on course   5:31:45
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

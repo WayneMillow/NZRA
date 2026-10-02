@@ -1,0 +1,31 @@
+Team No. 36	Tag ID = AAAV   Tags=0014	Course 6 hour
+Three Wise Women: Helen Rouse, Raewyn Moss and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:45:22 AM	         	BRIEFING. Score reset.
+   2	  49 	   40	 7/07/2019 10:14:49 AM	  0:14:49	
+   3	  54 	   50	 7/07/2019 10:37:41 AM	  0:22:52	
+   4	  42 	   40	 7/07/2019 11:03:24 AM	  0:25:43	
+   5	  57 	   50	 7/07/2019 11:21:47 AM	  0:18:23	
+   6	  44 	   40	 7/07/2019 11:48:55 AM	  0:27:08	
+   7	  48 	   40	 7/07/2019 12:20:51 PM	  0:31:56	
+   8	 102 	  100	 7/07/2019  1:16:11 PM	  0:55:20	
+   9	  55 	   50	 7/07/2019  1:33:43 PM	  0:17:32	
+  10	  86 	   80	 7/07/2019  1:54:26 PM	  0:20:43	
+  11	  75 	   70	 7/07/2019  2:20:18 PM	  0:25:52	
+  12	  65 	   60	 7/07/2019  3:11:08 PM	  0:50:50	
+  13	  51 	   50	 7/07/2019  3:30:33 PM	  0:19:25	
+  14	  16 		 7/07/2019  3:44:48 PM	  0:14:15	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:44:48 PM
+Time on course   5:44:48
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

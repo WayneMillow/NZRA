@@ -1,0 +1,36 @@
+Team No. 439	Tag ID = AMAS   Tags=0016	Course 6hr
+Two fridges and a heater: Diana Conner, Yvonne Mcdonald, Jan Riley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 10:17:42 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:39:42 AM	  0:10:42	
+   3	 76	 70	 8/06/2013 11:01:47 AM	  0:22:05	
+   4	 66	 60	 8/06/2013 11:19:23 AM	  0:17:36	
+   5	 74	 70	 8/06/2013 12:05:08 PM	  0:45:45	
+   6	100	100	 8/06/2013 12:20:09 PM	  0:15:01	
+   7	 56	 50	 8/06/2013  1:14:27 PM 	  0:54:18	
+   8	 83	 80	 8/06/2013  1:27:34 PM 	  0:13:07	
+   9	 38	 30	 8/06/2013  1:47:51 PM 	  0:20:17	
+  10	 28	 20	 8/06/2013  2:04:23 PM 	  0:16:32	
+  11	 65	 60	 8/06/2013  2:21:02 PM 	  0:16:39	
+  12	 57	 50	 8/06/2013  2:38:27 PM 	  0:17:25	
+  13	 75	 70	 8/06/2013  2:54:26 PM 	  0:15:59	
+  14	 20	 20	 8/06/2013  3:08:33 PM 	  0:14:07	
+  15	 49	 40	 8/06/2013  4:05:53 PM 	  0:57:20	 Punch  12 replaced by Group 49.
+  16	 15		 8/06/2013  4:21:24 PM 	  0:15:31	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch84	80
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  4:21:24 PM 
+Time on course   5:52:24
+
+
+ 1020	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1020

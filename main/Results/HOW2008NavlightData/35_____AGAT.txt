@@ -1,0 +1,27 @@
+Team No. 35	Tag ID = AGAT   Tags=0011	Course 12hr
+Susy Stokes, Nicole Marsh
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 11		14/06/2008  8:40:33 AM 	         	BRIEFING. Score reset.
+   3	 57	 50	14/06/2008 10:51:34 AM	  1:51:34	
+   4	 91	 90	14/06/2008 11:24:40 AM	  0:33:06	
+   5	 73	 70	14/06/2008 12:12:25 PM	  0:47:45	
+   6	 64	 60	14/06/2008  1:12:48 PM 	  1:00:23	
+   7	 41	 40	14/06/2008  2:19:42 PM 	  1:06:54	
+   8	 44	 40	14/06/2008  2:43:43 PM 	  0:24:01	
+   9	 82	 80	14/06/2008  3:31:08 PM 	  0:47:25	
+  10	 51	 50	14/06/2008  4:06:02 PM 	  0:34:54	
+  11	109		14/06/2008  7:24:37 PM 	  3:18:35	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  7:24:37 PM 
+Time on course  10:24:37
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

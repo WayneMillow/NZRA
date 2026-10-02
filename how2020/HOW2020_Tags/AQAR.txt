@@ -1,0 +1,33 @@
+Team No. 117	Tag ID = AQAR   Tags=0016	Course 6hrA
+JJMJ: Mel Jarratt, Jon Jarratt
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020  8:57:34 AM	         	BRIEFING. Score reset.
+   2	  34 	   30	 4/07/2020  9:08:43 AM	  0:08:43	
+   3	  56 	   50	 4/07/2020  9:32:29 AM	  0:23:46	
+   4	 105 	  100	 4/07/2020 10:13:14 AM	  0:40:45	
+   5	  31 	   30	 4/07/2020 10:22:03 AM	  0:08:49	
+   6	  56 		 4/07/2020 10:45:55 AM	  0:23:52	     Punched on Line 3
+   7	  28 	   20	 4/07/2020 11:13:20 AM	  0:27:25	
+   8	  42 	   40	 4/07/2020 11:30:22 AM	  0:17:02	
+   9	  15 	   10	 4/07/2020 11:43:55 AM	  0:13:33	
+  10	  74 	   70	 4/07/2020 12:01:46 PM	  0:17:51	
+  11	  39 	   30	 4/07/2020 12:43:10 PM	  0:41:24	
+  12	  78 	   70	 4/07/2020  1:17:43 PM	  0:34:33	
+  13	  33 	   30	 4/07/2020  1:44:57 PM	  0:27:14	
+  14	  29 	   20	 4/07/2020  1:59:41 PM	  0:14:44	
+  15	  27 	   20	 4/07/2020  2:38:57 PM	  0:39:16	
+  16	  18 		 4/07/2020  2:46:25 PM	  0:07:28	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  2:46:25 PM
+Time on course   5:46:25
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

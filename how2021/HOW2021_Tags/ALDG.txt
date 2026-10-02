@@ -1,0 +1,27 @@
+Team No. 168	Tag ID = ALDG   Tags=0010	Course 6 hour
+Cirque du sore legs: Lucy Pooch, Belinda Mitchell and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:15:35 AM	  0:15:35	
+   2	  25 	   20	19/06/2021 11:33:38 AM	  0:18:03	
+   3	  24 	   20	19/06/2021 12:04:32 PM	  0:30:54	
+   4	  39 	   30	19/06/2021 12:22:03 PM	  0:17:31	
+   5	  59 	   50	19/06/2021 12:44:12 PM	  0:22:09	
+   6	  61 	   60	19/06/2021  1:25:38 PM	  0:41:26	
+   7	  72 	   70	19/06/2021  1:55:42 PM	  0:30:04	
+   8	  52 	   50	19/06/2021  2:19:59 PM	  0:24:17	
+   9	 102 	  100	19/06/2021  2:42:15 PM	  0:22:16	
+  10	  57 		19/06/2021  5:51:24 PM	  3:09:09	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:51:24 PM
+Time on course   6:51:24
+
+
+  440	Points Scored.
+ -440	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440 LATE

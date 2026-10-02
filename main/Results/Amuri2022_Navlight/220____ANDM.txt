@@ -1,0 +1,30 @@
+Team No. 220	Tag ID = ANDM   Tags=0013	Course 1.5hr
+Mighty Munchins: Gary Johnson, Alex and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022  1:03:57 PM	  0:03:57	
+   2	  70 	   70	 3/07/2022  1:07:33 PM	  0:03:36	
+   3	  31 	   30	 3/07/2022  1:12:22 PM	  0:04:49	
+   4	  20 	   20	 3/07/2022  1:17:02 PM	  0:04:40	
+   5	  66 	   60	 3/07/2022  1:27:48 PM	  0:10:46	
+   6	  75 	   70	 3/07/2022  1:36:16 PM	  0:08:28	
+   7	  81 	   80	 3/07/2022  1:46:22 PM	  0:10:06	
+   8	  86 	   80	 3/07/2022  1:53:33 PM	  0:07:11	
+   9	  46 	   40	 3/07/2022  1:58:00 PM	  0:04:27	
+  10	  52 	   50	 3/07/2022  2:01:48 PM	  0:03:48	
+  11	  21 	   20	 3/07/2022  2:09:05 PM	  0:07:17	
+  12	  35 	   30	 3/07/2022  2:13:24 PM	  0:04:19	
+  13	  19 		 3/07/2022  2:18:17 PM	  0:04:53	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:18:17 PM
+Time on course   1:18:17
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

@@ -1,0 +1,30 @@
+Team No. 2160	Tag ID = AYAZ   Tags=0013	Course 6Hr
+2 Frew da Woods: Kelly Woods, Nic Kerr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 17		10/06/2017 10:43:25 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:05:50 AM	  0:05:50	 Punch  11 replaced by Group 27.
+   3	 22	 20	10/06/2017 11:28:55 AM	  0:23:05	
+   4	 30	 30	10/06/2017 11:48:41 AM	  0:19:46	
+   5	 26	 20	10/06/2017 12:26:31 PM	  0:37:50	
+   6	 70	 70	10/06/2017  1:01:32 PM	  0:35:01	
+   7	100	100	10/06/2017  2:11:24 PM	  1:09:52	
+   8	 60	 60	10/06/2017  2:45:44 PM	  0:34:20	
+   9	 37	 30	10/06/2017  3:17:46 PM	  0:32:02	
+  10	 90	 90	10/06/2017  3:43:46 PM	  0:26:00	
+  11	 20	 20	10/06/2017  4:21:39 PM	  0:37:53	
+  12	 29	 20	10/06/2017  4:36:44 PM	  0:15:05	 Punch  50 replaced by Group 29.
+  13	107		10/06/2017  4:40:51 PM	  0:04:07	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:40:51 PM
+Time on course   5:40:51
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

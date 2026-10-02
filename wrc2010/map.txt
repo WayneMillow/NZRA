@@ -1,0 +1,52 @@
+Key for browser apps (with referers)
+API key: 	
+AIzaSyA3vMNUpzysZO4e01MmZ8UoFN1pjmKIqDA
+Referers: 	
+*.rogaine.org.nz/*
+Activated on: 	Feb 23, 2013 11:15 PM
+Activated by: 	bill.kennedy@wrc2010.org.nz – you
+
+    Generate new key...
+    Edit allowed referers...
+    Delete key...
+
+Key for browser apps (with referers)
+API key: 	
+AIzaSyDJsK4m1gG0CuwqR9lDXT49nA9wRvp-3rw
+Referers: 	
+Any referer allowed
+Activated on: 	Feb 23, 2013 11:11 PM
+Activated by: 	bill.kennedy@wrc2010.org.nz – you 
+
+
+
+https://developers.google.com/maps/documentation/javascript/v2/introduction#Obtaining_Key
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 100% }
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&sensor=SET_TO_TRUE_OR_FALSE">
+    </script>
+    <script type="text/javascript">
+      function initialize() {
+        var mapOptions = {
+          center: new google.maps.LatLng(-34.397, 150.644),
+          zoom: 8,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(document.getElementById("map_canvas"),
+            mapOptions);
+      }
+    </script>
+  </head>
+  <body onload="initialize()">
+    <div id="map_canvas" style="width:100%; height:100%"></div>
+  </body>
+</html>

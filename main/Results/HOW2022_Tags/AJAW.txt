@@ -1,0 +1,30 @@
+Team No. 52	Tag ID = AJAW   Tags=0013	Course 06 hour
+GRRE: Graeme Read, Richard English
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		31/01/2026  9:47:35 am	         	BRIEFING. Score reset.
+   2	  74 	70	31/01/2026 10:15:26 am	  0:15:26	
+   3	  24 	20	31/01/2026 10:33:44 am	  0:18:18	
+   4	  77 	70	31/01/2026 10:54:39 am	  0:20:55	
+   5	 103 	100	31/01/2026 11:28:23 am	  0:33:44	
+   6	  55 	50	31/01/2026 11:52:35 am	  0:24:12	
+   7	  96 	90	31/01/2026 12:26:04 pm	  0:33:29	
+   8	 104 	100	31/01/2026  1:00:44 pm	  0:34:40	
+   9	  87 	80	31/01/2026  1:27:06 pm	  0:26:22	
+  10	  97 	90	31/01/2026  1:53:49 pm	  0:26:43	
+  11	  66 	60	31/01/2026  2:19:30 pm	  0:25:41	
+  12	  46 	40	31/01/2026  2:53:13 pm	  0:33:43	
+  13	  18 		31/01/2026  4:16:34 pm	  1:23:21	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  4:16:34 pm
+Time on course   6:16:34
+
+
+  770	Points Scored.
+ -255	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 515

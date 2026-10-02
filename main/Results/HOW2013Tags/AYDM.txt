@@ -1,0 +1,32 @@
+Team No. 686	Tag ID = AYDM   Tags=0015	Course 2.5hr
+Evelyn Plows, Campbell Plows, Mike Plows
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	104		 8/06/2013 12:52:23 PM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013  1:05:40 PM 	  0:04:40	
+   3	 17	 10	 8/06/2013  1:11:51 PM 	  0:06:11	
+   4	 49	 40	 8/06/2013  1:23:27 PM 	  0:11:36	 Punch  12 replaced by Group 49.
+   5	 67	 60	 8/06/2013  1:32:03 PM 	  0:08:36	
+   6	 93	 90	 8/06/2013  1:38:54 PM 	  0:06:51	
+   7	 27	 20	 8/06/2013  1:54:19 PM 	  0:15:25	
+   8	 76	 70	 8/06/2013  2:04:01 PM 	  0:09:42	
+   9	 66	 60	 8/06/2013  2:24:15 PM 	  0:20:14	
+  10	 36	 30	 8/06/2013  2:32:06 PM 	  0:07:51	
+  11	 85	 80	 8/06/2013  2:44:21 PM 	  0:12:15	
+  12	 20	 20	 8/06/2013  2:52:48 PM 	  0:08:27	
+  13	 58	 50	 8/06/2013  3:08:34 PM 	  0:15:46	
+  14	 19	 10	 8/06/2013  3:13:11 PM 	  0:04:37	
+  15	 16		 8/06/2013  3:19:51 PM 	  0:06:40	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:19:51 PM 
+Time on course   2:18:51
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

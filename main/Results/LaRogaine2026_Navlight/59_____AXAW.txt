@@ -1,0 +1,27 @@
+Team No. 59	Tag ID = AXAW   Tags=0010	Course 06 hour
+Frilly Frillers: Connor Fearon, Alice Webster
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		31/01/2026  9:48:16 am	         	BRIEFING. Score reset.
+   2	  40 	40	31/01/2026 10:09:39 am	  0:09:39	
+   3	  62 	60	31/01/2026 10:35:32 am	  0:25:53	
+   4	 100 	100	31/01/2026 10:58:54 am	  0:23:22	
+   5	  51 	50	31/01/2026  1:02:29 pm	  2:03:35	
+   6	  72 	70	31/01/2026  1:53:51 pm	  0:51:22	
+   7	  23 	20	31/01/2026  2:14:06 pm	  0:20:15	
+   8	  63 	60	31/01/2026  2:29:17 pm	  0:15:11	
+   9	  92 	90	31/01/2026  3:14:36 pm	  0:45:19	
+  10	  19 		31/01/2026  3:54:16 pm	  0:39:40	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  3:54:16 pm
+Time on course   5:54:16
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

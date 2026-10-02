@@ -1,0 +1,29 @@
+Team No. 20	Tag ID = ABAS   Tags=0012	Course 6hr
+Be Back Soon: Claire McCarthy, Viv Gray
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  64 	   60	 3/07/2022 10:25:01 AM	  0:25:01	
+   2	  93 	   90	 3/07/2022 10:46:35 AM	  0:21:34	
+   3	 102 	  100	 3/07/2022 11:12:23 AM	  0:25:48	
+   4	  88 	   80	 3/07/2022 11:33:25 AM	  0:21:02	
+   5	  98 	   90	 3/07/2022  3:56:21 AM	         	Punch clock failed.
+   6	  27 	   20	 3/07/2022 12:41:37 PM	  1:08:12	
+   7	  68 	   60	 3/07/2022  1:03:53 PM	  0:22:16	
+   8	  85 	   80	 3/07/2022  1:37:39 PM	  0:33:46	
+   9	  72 	   70	 3/07/2022  2:08:26 PM	  0:30:47	
+  10	  63 	   60	 3/07/2022  2:46:02 PM	  0:37:36	
+  11	  42 	   40	 3/07/2022  3:01:08 PM	  0:15:06	
+  12	  19 		 3/07/2022  3:40:28 PM	  0:39:20	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:40:28 PM
+Time on course   5:40:28
+
+
+  750	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 750

@@ -1,0 +1,29 @@
+Team No. 1190	Tag ID = AXBB   Tags=0013	Course FAM 3Hr
+Whipper Snappers: Xanthe Saunders, Hazel Saunders and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  13 		 9/07/2017 11:57:54 AM	         	BRIEFING. Score reset.
+   3	  21 	   20	 9/07/2017 12:08:23 PM	  0:08:23	
+   4	  41 	   40	 9/07/2017 12:21:19 PM	  0:12:56	
+   5	  63 	   60	 9/07/2017 12:39:49 PM	  0:18:30	
+   6	  23 	   20	 9/07/2017 12:54:01 PM	  0:14:12	
+   7	  35 	   30	 9/07/2017  1:00:47 PM	  0:06:46	
+   8	  61 	   60	 9/07/2017  1:15:12 PM	  0:14:25	
+   9	  84 	   80	 9/07/2017  1:44:29 PM	  0:29:17	
+  10	  73 	   70	 9/07/2017  2:05:36 PM	  0:21:07	
+  11	  58 	   50	 9/07/2017  2:22:47 PM	  0:17:11	
+  12	  55 	   50	 9/07/2017  2:36:32 PM	  0:13:45	
+  13	 108 		 9/07/2017  2:52:56 PM	  0:16:24	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:52:56 PM
+Time on course   2:52:56
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

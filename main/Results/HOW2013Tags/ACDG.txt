@@ -1,0 +1,34 @@
+Team No. 609	Tag ID = ACDG   Tags=0018	Course 2.5hr
+Diamonds in the Rough: Katie Cory-wright, Annaliese Elliot
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	108		 8/06/2013 12:45:59 PM	         	BRIEFING. Score reset.
+   3	 19	 10	 8/06/2013  1:04:26 PM 	  0:03:26	
+   4	 58	 50	 8/06/2013  1:09:54 PM 	  0:05:28	
+   5	 27	 20	 8/06/2013  1:20:20 PM 	  0:10:26	
+   6	 76	 70	 8/06/2013  1:27:18 PM 	  0:06:58	
+   7	 85	 80	 8/06/2013  1:33:59 PM 	  0:06:41	
+   8	 36	 30	 8/06/2013  1:44:47 PM 	  0:10:48	
+   9	 57	 50	 8/06/2013  1:59:00 PM 	  0:14:13	
+  10	 65	 60	 8/06/2013  2:12:08 PM 	  0:13:08	
+  11	100	100	 8/06/2013  2:24:31 PM 	  0:12:23	
+  12	 38	 30	 8/06/2013  2:35:25 PM 	  0:10:54	
+  13	 97	 90	 8/06/2013  2:50:14 PM 	  0:14:49	
+  14	 28	 20	 8/06/2013  2:54:47 PM 	  0:04:33	
+  15	 40	 40	 8/06/2013  2:58:23 PM 	  0:03:36	
+  16	 29	 20	 8/06/2013  3:03:31 PM 	  0:05:08	
+  17	 21	 20	 8/06/2013  3:23:28 PM 	  0:19:57	
+  18	 16		 8/06/2013  3:26:54 PM 	  0:03:26	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:26:54 PM 
+Time on course   2:25:54
+
+
+  690	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 690

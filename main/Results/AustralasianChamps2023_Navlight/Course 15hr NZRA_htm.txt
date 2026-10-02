@@ -1,0 +1,30 @@
+ 1	224	The bros (Alan Friedman, Andrew Friedman.)	 14:30:40	2440	M1
+ 2	220	SALAR (Sam Walton, Lauren Walton.)	 14:27:28	2160	X1
+ 3	42	K2 (Katie  Wright, Konrad  Legge.)	 14:39:38	2140	X2
+ 4	223	Team Littleridge (Brett Penridge, Rebecca Penridge.)	 14:26:29	2090	X3
+ 5	222	Team Dixon (Dave Dixon, Jessica Dixon.)	 14:59:16	2060	X4
+ 6	230	Natural Gas (Andrew Kerr, Angus Kerr.)	 14:41:35	1900	M2
+ 7	212	Mum's on Holiday (Olivia McLeod, Vania Smith.)	 14:31:18	1820	W1
+ 8	205	Dated Loaf and Pikelet (Rob Garden, Marquita Gelderman, Cath Heppelthwaite.)	 14:42:29	1800	X5,XV1,XSV1
+ 9	229	Souther Traverse (Gwylfa  Moore, Amy Hore.)	 14:37:25	1750	W2
+ 10	217	Reunited Beavers (Janet Musker, Lesa Muir.)	 14:49:18	1650	W3,WV1
+ 11	226	Tri Adventure Aunties (Jan Leverton, Kim  Beckinsale.)	 14:43:18	1550	W4,WV2,WSV1
+ 12	200	About Time (Twyla Kingan, Claire Muir.)	 14:46:47	1520	W5,WV3
+ 13	213	Mums on the run (Elke Braun-Elwert, Adiella Stewart.)	 12:48:49	1490	W6
+ 14	227	Triple Word Score (Heather Smith, Dusk Mains, Emma Soppit.)	 14:32:33	1350	W7
+ 15	207	Happy Horses Run Wild (Rob Horsenail, Jodi Horsenail.)	 14:34:13	1290	X6
+ 16	201	CherryGaines (Clayton  Cherry, Paige Cherry.)	 14:12:07	1180	X7
+ 17	221	Scrambled legs (Paul Burrows, Karen Burrows.)	 14:34:13	1130	X8,XV2,XSV2
+ 18	216	Powered by Chocolate (Anna Pellett, Bella Rentoul.)	 13:15:06	1120	W8
+ 19	209	JEM (Jas Robb, Emma Power.)	 14:31:08	1060	W9
+ 20	202	Crash Team Racing (Amy White, John White.)	   6:10:52	970	X9
+ 21	102	The tailenders (Helen Dent, Ciara McAdden, Andrea Atkinson, Zhi Jin Jin Tan.)	 13:49:46	970	W10
+ 22	208	JDog (Jen Weaver, Andre Hill.)	 13:19:28	890	X10
+ 23	225	The Gold Coasters (Jane Briscoe, Andrew Browne, Andrew  McGill, Maria  Vera, Zoe  Richards.)	 12:50:31	760	X11
+ 24	218	Rex & Co (Peter Jackson, Rex Williams, Vincent Pooch.)	   5:51:54	640	M3,MV1,MSV1,MUV1
+ 25	228	UTSOAC/1NS: Everymore All the Day (Salome  Hussein, Ehren  Holgersson.)	   8:20:07	590	X12
+ 26	210	Lost bearings (Kalle Pokkinen, Tapio Sorsa, Manoj Patel, James Crabb, Brian Andrews.)	 14:28:19	210	M4,MV2
+ 27	215	Nevermind (Andrew Collins, Connor Bootsma, Natasha Walters.)	 14:19:25	0	
+ 28	206	Green Eggs and Ham (Sharon Morrison, Gary Lister, Stu Patterson.)	 LATE	280
+ 29	204	DaMtastic (Michael Speck, Daniel Jessop.)	 14:50:28	-1930	M5
+ 30	203	Cuzzie Bros (Mathew Smith, Steve Smith.)	 LATE	0

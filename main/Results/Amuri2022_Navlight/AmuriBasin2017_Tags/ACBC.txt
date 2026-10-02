@@ -1,0 +1,24 @@
+Team No. 1216	Tag ID = ACBC   Tags=0007	Course FAM 3Hr
+Ibbetson: Bradley Ibbetson, Susan Ibbetson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:45:42 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:09:10 PM	  0:09:10	
+   3	  41 	   40	 9/07/2017 12:27:02 PM	  0:17:52	
+   4	  63 	   60	 9/07/2017 12:54:13 PM	  0:27:11	
+   5	  23 	   20	 9/07/2017  1:12:40 PM	  0:18:27	
+   6	  84 	   80	 9/07/2017  1:55:32 PM	  0:42:52	
+   7	 108 		 9/07/2017  2:52:14 PM	  0:56:42	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:52:14 PM
+Time on course   2:52:14
+
+
+  220	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 220

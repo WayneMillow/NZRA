@@ -1,0 +1,33 @@
+Team No. 162	Tag ID = AYDF   Tags=0016	Course 3 hour
+Racy Rascals: Lauren Brinsford, Tara Abbott and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:48:25 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:07:14 PM	  0:07:14	
+   3	  31 	   30	 7/07/2019 12:17:13 PM	  0:09:59	
+   4	  73 	   70	 7/07/2019 12:25:50 PM	  0:08:37	
+   5	  46 	   40	 7/07/2019 12:38:43 PM	  0:12:53	
+   6	  52 	   50	 7/07/2019 12:43:55 PM	  0:05:12	
+   7	  43 	   40	 7/07/2019  1:07:41 PM	  0:23:46	
+   8	  62 	   60	 7/07/2019  1:26:35 PM	  0:18:54	
+   9	  66 	   60	 7/07/2019  1:40:05 PM	  0:13:30	
+  10	  48 	   40	 7/07/2019  2:02:40 PM	  0:22:35	
+  11	  85 	   80	 7/07/2019  2:11:04 PM	  0:08:24	
+  12	  57 	   50	 7/07/2019  2:24:26 PM	  0:13:22	
+  13	  41 	   40	 7/07/2019  2:34:47 PM	  0:10:21	
+  14	  24 	   20	 7/07/2019  2:48:08 PM	  0:13:21	
+  15	  26 	   20	 7/07/2019  2:57:52 PM	  0:09:44	
+  16	  19 		 7/07/2019  3:01:47 PM	  0:03:55	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:01:47 PM
+Time on course   3:01:47
+
+
+  640	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

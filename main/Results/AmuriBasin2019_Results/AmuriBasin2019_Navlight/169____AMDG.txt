@@ -1,0 +1,31 @@
+Team No. 169	Tag ID = AMDG   Tags=0014	Course 3 hour
+GandS: Stephanie Farrant, Greg Smithson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:48:35 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:12:40 PM	  0:12:40	
+   3	  49 	   40	 7/07/2019 12:21:13 PM	  0:08:33	
+   4	  65 	   60	 7/07/2019 12:32:45 PM	  0:11:32	
+   5	  45 	   40	 7/07/2019 12:48:03 PM	  0:15:18	
+   6	  59 	   50	 7/07/2019  1:00:20 PM	  0:12:17	
+   7	  53 	   50	 7/07/2019  1:18:49 PM	  0:18:29	
+   8	  38 	   30	 7/07/2019  1:44:14 PM	  0:25:25	
+   9	  43 	   40	 7/07/2019  2:05:28 PM	  0:21:14	
+  10	  52 	   50	 7/07/2019  2:17:07 PM	  0:11:39	
+  11	  46 	   40	 7/07/2019  2:23:39 PM	  0:06:32	
+  12	  73 	   70	 7/07/2019  2:39:52 PM	  0:16:13	
+  13	  31 	   30	 7/07/2019  2:46:16 PM	  0:06:24	
+  14	  18 		 7/07/2019  2:58:56 PM	  0:12:40	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:58:56 PM
+Time on course   2:58:56
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

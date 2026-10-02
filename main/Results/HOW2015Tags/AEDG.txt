@@ -1,0 +1,32 @@
+Team No. 680	Tag ID = AEDG   Tags=0015	Course 6Hr
+Cheryl Black, Philippa Bennett and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:45:14 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:13:33 AM	  0:13:33	
+   3	 47	 40	27/06/2015 11:50:49 AM	  0:37:16	
+   4	 95	 90	27/06/2015 12:04:23 PM	  0:13:34	
+   5	 48	 40	27/06/2015 12:21:35 PM	  0:17:12	
+   6	 87	 80	27/06/2015 12:44:32 PM	  0:22:57	
+   7	 60	 60	27/06/2015  1:05:47 PM	  0:21:15	
+   8	 21	 20	27/06/2015  1:33:23 PM	  0:27:36	
+   9	 64	 60	27/06/2015  2:17:34 PM	  0:44:11	
+  10	 33	 30	27/06/2015  2:35:52 PM	  0:18:18	
+  11	 44	 40	27/06/2015  2:55:56 PM	  0:20:04	
+  12	 81	 80	27/06/2015  3:30:51 PM	  0:34:55	
+  13	 32	 30	27/06/2015  3:52:05 PM	  0:21:14	
+  14	 28	 20	27/06/2015  4:06:34 PM	  0:14:29	
+  15	104		27/06/2015  4:43:07 PM	  0:36:33	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:43:07 PM
+Time on course   5:43:07
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

@@ -1,0 +1,23 @@
+Team No. 20	Tag ID = ABAS   Tags=0006	Course 6hr
+Team MVS: Charlotte Matthews, Michelle Verkaaik and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:04:34 AM	  0:04:34	
+   2	  63 	   60	 1/07/2023 11:13:39 AM	  0:09:05	
+   3	  52 	   50	 1/07/2023 12:15:26 PM	  1:01:47	
+   4	  40 	   40	 1/07/2023  1:28:45 PM	  1:13:19	
+   5	  62 	   60	 1/07/2023  2:01:39 PM	  0:32:54	
+   6	  18 		 1/07/2023  2:56:54 PM	  0:55:15	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  2:56:54 PM
+Time on course   3:56:54
+
+
+  250	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 250

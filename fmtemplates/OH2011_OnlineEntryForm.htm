@@ -1,0 +1,463 @@
+<html>
+<head><title>NZRA - Office Hours 2011 On-line Entry Form</title>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<link href="../../stylesheet.css" type=text/css rel=stylesheet>
+<style>
+.sgB {FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #606060; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.mgB {FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #606060; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.lgB {FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #606060; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}	
+</style>
+
+<!-- <SCRIPT LANGUAGE = JavaScript>  -->
+<script language=JavaScript>
+<!-- 
+function adduptest(){}
+function addup(){
+
+// To test whether JS is enabled in the user's browser
+OnlineEntryForm.JStest.value = "JS_OK";
+             
+OnlineEntryForm.totalentryfee.value = Number(OnlineEntryForm.entryfee1.value) + Number(OnlineEntryForm.entryfee2.value)  + Number(OnlineEntryForm.entryfee3.value) + Number(OnlineEntryForm.entryfee4.value) + Number(OnlineEntryForm.entryfee5.value)
+//   alert("Total is: " + OnlineEntryForm.totalentryfee.value)
+}
+
+function runonsubmit(){
+// Calculate the number of members in a team. The form conditions testing ensures there must be at least 2 members
+// and that if there is no member 3 then there will not be 4 or 5; if no 4 then will be no 5. Also the condition testing 
+// checks that entryfee is zero for a member that doesn't exist.
+	OnlineEntryForm.NumberInTeam.value = 2;
+	if (OnlineEntryForm.entryfee3.value != 0){OnlineEntryForm.NumberInTeam.value = 3};
+	if (OnlineEntryForm.entryfee4.value != 0){OnlineEntryForm.NumberInTeam.value = 4};
+    if (OnlineEntryForm.entryfee5.value != 0){OnlineEntryForm.NumberInTeam.value = 5};
+	
+// Return which payment option selected to note payment method in spreadsheet.
+	OnlineEntryForm.dc.value = "";
+	if (OnlineEntryForm.payment[0].checked){OnlineEntryForm.dc.value = "DC"};
+	
+	OnlineEntryForm.chq.value = "";
+	if (OnlineEntryForm.payment[1].checked){OnlineEntryForm.chq.value = "CHQ"};
+	
+//	alert("DC is: " + OnlineEntryForm.dc.value + "  CHQ is: " + OnlineEntryForm.chq.value)
+}
+//  -->
+</script>
+
+</head>
+
+
+<body class="medium" style="background: #A9BAC3">
+
+<!--  <form method="post" action="sendform816WRC.php" name="OnlineEntryForm" onsubmit="runonsubmit()">  --> <!-- Homepc version  -->
+<form method="post" action="/main/SendForm8.php" name="OnlineEntryForm" onSubmit="runonsubmit()">   <!-- NZRA website version -->
+
+<input type="hidden" name="mail_options" value="PlainTemplate=OH2011_OnlineEntryFormEmailTemplate.txt,TemplateMissing=" /> 
+
+<input type="hidden" name="recipients" value="nzra.entriesFMNP6WQ2gmail.com, kennedyzFMNP6WQ2xtra.co.nz" />
+<!-- <input type="hidden" name="recipients" value="kennedyzFMNP6WQ2xtra.co.nz, petersquiresFMNP6WQ2ihug.co.nz" />  -->
+<!-- <input type="hidden" name="recipients" value="kennedyzFMNP6WQ2xtra.co.nz,petersquiresFMNP6WQ2ihug.co.nz,g.hunterFMNP6WQ2clear.net.nz,
+merrifieldFMNP6WQ2ihug.co.nz,lauriefamFMNP6WQ2xtra.co.nz" />  -->
+
+<input type="hidden" name="subject" value="Office Hours 2011 Entry" />
+
+<input type="hidden" name="JStest" value="" />
+<input type="hidden" name="NumberInTeam" value="" />
+<input type="hidden" name="dc" value="" />
+<input type="hidden" name="chq" value="" />
+
+<input type="hidden" name="good_template" value="OH2011_OnlineEntryFormResponse.htm" />
+<!--  <input type="hidden" name="good_url" value="Events/HOW2008_OnlineEntryFormResponse.htm" />  -->
+
+<input type="hidden" name="bad_template" value="OH2011_OnlineEntryFormIncomplete.htm" />
+
+  <!--  RESPONSES ABOUT MEMBERS 3, 4 OR 5 TO USER, AND IN EMAIL, ONLY IF MEMBERS 3, 4 OR 5 EXIST.
+       TEST FOR SAME NAMES ONLY IF 3 AND 4 EXIST (5 COMPARED AGAINST SO NOT NEEDED); IF EMPTY NAMES WOULD APPEAR EQUAL SO MAKE        THEM 3, 4 AS SHOWN; TESTING IS CASE SENSITIVE  -->
+<input type="hidden" name="derive_fields" value="
+header= %'Office Hours 2011 entry sent on '%.%dayname%.%2C%+%date%+%'at'%+%time%,
+reg_date = %dom%.%'-'%.%month%,
+realname = firstname1 + lastname1,
+realname2 = firstname2 + lastname2,
+realname3 = firstname3 + lastname3,
+realname4 = firstname4 + lastname4,
+realname5 = firstname5 + lastname5,
+webname3 = %2C%+firstname3.%'&amp;nbsp;'%.lastname3,
+webname4 = %2C%+firstname4.%'&amp;nbsp;'%.lastname4,
+webname5 = %2C%+firstname5.%'&amp;nbsp;'%.lastname5,
+webname3_post = %if(realname3;webname3;%''%)%,
+webname4_post = %if(realname4;webname4;%''%)%,
+webname5_post = %if(realname5;webname5;%''%)%,
+email = email1,
+email3_message=%if(realname3;email3;%''%)%,
+street3_message=%if(realname3;street3;%''%)%,
+town3_message=%if(realname3;town3;%''%)%,
+postcode3_message=%if(realname3;postcode3;%''%)%,
+phone3_message=%if(realname3;phone3;%''%)%,
+xentryfee3_message=%'Entry fee - $'%.entryfee3,
+entryfee3_message=%if(realname3;xentryfee3_message;%''%)%,
+email4_message=%if(realname4;email4;%''%)%,
+street4_message=%if(realname4;street4;%''%)%,
+town4_message=%if(realname4;town4;%''%)%,
+postcode4_message=%if(realname4;postcode4;%''%)%,
+phone4_message=%if(realname4;phone4;%''%)%,
+xentryfee4_message=%'Entry fee - $'%.entryfee4,
+entryfee4_message=%if(realname4;xentryfee4_message;%''%)%,
+email5_message=%if(realname5;email5;%''%)%,
+street5_message=%if(realname5;street5;%''%)%,
+town5_message=%if(realname5;town5;%''%)%,
+postcode5_message=%if(realname5;postcode5;%''%)%,
+phone5_message=%if(realname5;phone5;%''%)%,
+xentryfee5_message=%'Entry fee - $'%.entryfee5,
+entryfee5_message=%if(realname5;xentryfee5_message;%''%)%,
+calc_messagemail=%if(JStest;%'Calculated automatically'%;%'Manually calculated'%)%,
+calc_messageresponse=%if(JStest;%'The total team fees are'%;%'You calculated the total team fees to be'%)%,
+messagemail=%if(comments;%'Message: '%;%'Message: none'%)%,
+messageresponse=%if(comments;%'You provided the following message: '%;%'You have no message'%)%,
+empty=%''%,
+zero=%'0'%" />
+
+
+<!-- CONDITIONS  -->
+
+<input type="hidden" name="conditions1" value=":@@TEST@firstname1@the firstname of Team Member1@
+:@TEST@lastname1@the lastname of Team Member 1@
+:@TEST@street1@the street address of Team Member 1@
+:@TEST@town1@the town of Team Member 1@
+:@TEST@email1@the email address of Team Member 1@
+:@TEST@phone1@the phone number of Team Member 1@
+:@TEST@firstname2@the firstname of Team Member 2@
+:@TEST@lastname2@the lastname of Team Member 2@
+:@TEST@street2@the street address of Team Member 2@
+:@TEST@town2@the town of Team Member 2@
+:@TEST@email2@the email address of Team Member 2@
+:@TEST@phone2@the phone number of Team Member 2@" />
+
+
+<input type="hidden" name="conditions2" value=":@@IF@realname4@realname3@@You have a Team Member 4 but no Member 3. Please supply the details of Member 3@
+:@IF@realname5@realname3@@You have a Team Member 5 but no Member 3. Please supply the details of Member 3@
+:@IF@realname3@firstname3@@Enter the firstname of Team Member 3@
+:@IF@realname3@lastname3@@Enter the lastname of Team Member 3@
+:@IF@realname3@street3@@Enter the street address of Team Member 3@
+:@IF@realname3@town3@@Enter the town of Team Member 3@
+:@IF@realname3@email3@@Enter the email address of Team Member 3@
+:@IF@realname3@phone3@@Enter the phone number of Team Member 3@" />
+
+<input type="hidden" name="conditions3" value=":@@IF@realname5@realname4@@You have a Team Member 5 but no Member 4. Please supply the details of Member 4@
+:@IF@realname4@firstname4@@Enter the firstname of Team Member 4@
+:@IF@realname4@lastname4@@Enter the lastname of Team Member 4@
+:@IF@realname4@street4@@Enter the street address of Team Member 4@
+:@IF@realname4@town4@@Enter the town of Team Member 4@
+:@IF@realname4@email4@@Enter the email address of Team Member 4@
+:@IF@realname4@phone4@@Enter the phone number of Team Member 4@" />
+
+<input type="hidden" name="conditions4" value=":@@IF@realname5@firstname5@@Enter the firstname of Team Member 5@
+:@IF@realname5@lastname5@@Please supply the lastname for Team Member 5@
+:@IF@realname5@street5@@Please supply the street address for Team Member 5@
+:@IF@realname5@town5@@Enter a town for Team Member 5@
+:@IF@realname5@email5@@Enter the email address of Team Member 5@
+:@IF@realname5@phone5@@Enter the phone number of Team Member 5@" />
+
+<input type="hidden" name="conditions5" value=":@@TEST@category@Please enter the category of the team@" />
+
+<!-- Tests are in two stages so message makes sense.  -->
+<input type="hidden" name="conditions6" value=":@@IF@realname3@entryfee3#!=0@@Please select non-zero entry fee for Member 3@
+:@IF@realname4@entryfee4#!=0@@Please select non-zero entry fee for Member 4@
+:@IF@realname5@entryfee5#!=0@@Please select non-zero entry fee for Member 5@
+:@IF@realname3@@entryfee3#=0@No Member 3 - set that entry fee to zero@
+:@IF@realname4@@entryfee4#=0@No Member 4 - set that entry fee to zero@
+:@IF@realname5@@entryfee5#=0@No Member 5 - set that entry fee to zero@" />
+
+
+<input type="hidden" name="conditions7" value=":@@IF@category ~ /Junior/@entryfee1#!=40@@Member 1 - incorrect entry fee for Junior category@
+:@IF@category ~ /Junior/@entryfee2#!=40@@Member 2 - incorrect entry fee for Junior category@
+:@IF@category ~ /Junior/@entryfee3#!=40@@Member 3 - incorrect entry fee for Junior category@
+:@IF@category ~ /Junior/@entryfee4#!=40@@Member 4 - incorrect entry fee for Junior category@
+:@IF@category ~ /Junior/@entryfee5#!=40@@Member 5 - incorrect entry fee for Junior category@" />
+
+
+<!-- IN CASE JAVASCRIPT IS DISABLED. 
+Manual entry of total fees. Test only works if Total Entry Fee is blank. Better than nothing but cannot test for incorrect entry fee. -->
+<input type="hidden" name="conditions8" value=":@@TEST@totalentryfee@Javascript is disabled in your browser so please enter the total entry fees manually. (Since Javascript is disabled the 'Return to Form' button will not work. You will need to return to the form using the BACK button in your browser)@" />
+<!-- END OF IN CASE JAVASCRIPT IS DISABLED -->
+
+<input type="hidden" name="conditions9" value=":@@TEST@payment@Please select payment by Direct Credit or Cheque@" />
+<input type="hidden" name="conditions10" value=":@@TEST@acceptance@The Team Contact must agree to distribute event information. 
+Please tick the final box@" /> 
+
+<!-- END OF CONDITIONS  -->  <!-- END OF CONDITIONS  -->  <!-- END OF CONDITIONS  -->
+
+
+
+<!-- FORM CONTROL FINISHED; NOW PRESENT THE FORM DATA-->  <!-- FORM CONTROL FINISHED; NOW PRESENT THE FORM DATA-->
+ <!-- Frame the complete form -->
+<div  class="medium" style="width: 700px; border: 1px solid; margin: 20px auto; padding: 30px 50px 50px 50px; background: #F8F8F8;">
+	
+<table width="100%" border="0">
+<tr>
+<td align="center"><img name="logo" src="Logo3_130x118.gif"></td>
+<td width="80%" align="center" valign="middle"><font class="header" style="font-size: 36px; color: grey;">Office Hours 2011</font><br /><font class="title" style="color: grey;">On-line Entry Form</font></td></tr></table>
+
+<br clear=both>
+
+<table align=center border=0>
+<tr>
+<td align="right"><font class=mediumB>Event Enquiries to:&nbsp;&nbsp;</font></td><td><font class=medium>Grant Hunter, <a href="mailto:g.hunter@clear.net.nz">g.hunter@clear.net.nz</a>, ph. (03) 351 6369</font></td></tr>
+<tr>
+<td align="right"><font class=medium>or&nbsp;&nbsp;</font></td><td><font class=medium>Chrys Horn, <a href="mailto:chrys.horn@xtra.co.nz">chrys.horn@xtra.co.nz</a>, ph. (03) 338 0313	</font></td></tr>
+<tr>
+<td align="right"><font class=mediumB>Entry Enquiries to:&nbsp;&nbsp;</font></td><td><font class=medium>Bill Kennedy, <a href="mailto:nzra.entries@gmail.com">nzra.entries@gmail.com</a>, ph. (03) 337 0364</font></td></tr>
+</table>
+<br clear="all">
+
+
+<p class="mediumB">Entries close 5pm Friday 25th November.<br /> <span class="smaller">(Late entries at organiser’s discretion - $15 late fee per person)</span></p>
+
+<!-- <p class="mediumB">Entry Fees:<span class="medium">&nbsp;&nbsp;&nbsp;&nbsp;Adult - $40 per person,&nbsp;&nbsp;&nbsp;Junior (under 20 on event day) - $20 per person</span></p>  -->
+
+<table align="left" border="0">
+<tr><td align="right" valign="top" class="mediumB">Entry Fees:</td><td class="medium">Adult - $40 per person<br />Junior (under 20 on event day) - $20 per person</td></tr>
+</table>
+
+<br clear="all"><br />
+
+<p class="mgB">All information requested below must be completed.</p>
+
+
+
+<table align=left border=0>
+
+          <!-- TEAM MEMBER 1 (CONTACT) -->	  
+<tr> 
+<td class=lgB align=left colspan=9>Team Contact:</td></tr>
+<tr> 
+<td width="30px">&nbsp;</td>
+<td align=right class=sgB>Firstname: </td>
+<td><input type="text" name="firstname1" size=12 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Lastname: </td>
+<td align=left colspan=5><input type="text" name="lastname1" size=20 style="font-size: 12px;"></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Street: </td>
+<td colspan=2><input type="text" name="street1" size=30 style="font-size: 12px;"></td>
+<td align=right class=sgB>Town: </td>
+<td colspan=2><input type=text name="town1" size=20 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Postcode: </td>
+<td><input type=text name="postcode1" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Email: </td>
+<td colspan=2><input type="text" name="email1" size=30 style="font-size: 12px;">
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Phone:</td>
+<td align=left colspan=2><input type=text name="phone1" size=15 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Entry fee:</td>
+<td width=100 valign=top align=center class=larger><select name="entryfee1" onchange="addup()" style="font-size: 12px;">
+<option value="40">Adult - $40
+<option value="20">Junior - $20</select></td></tr>
+
+
+          <!-- TEAM MEMBER 2 -->
+<tr> 
+<td class=lgB align=left colspan=9><br /><br />Team Member 2:</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Firstname: </td>
+<td><input type="text" name="firstname2" size=12 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Lastname: </td>
+<td align=left colspan=5><input type="text" name="lastname2" size=20 style="font-size: 12px;"></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Street: </td>
+<td colspan=2><input type="text" name="street2" size=30 style="font-size: 12px;"></td>
+<td align=right class=sgB>Town: </td>
+<td colspan=2><input type=text name="town2" size=20 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Postcode: </td>
+<td><input type=text name="postcode2" size=8 style="font-size: 12px;"></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Email: </td>
+<td colspan=2><input type="text" name="email2" size=30 style="font-size: 12px;">
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Phone:</td>
+<td align=left colspan=2><input type=text name="phone2" size=15 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Entry fee:</td>
+<td width=100 valign=top align=center class=larger><select name="entryfee2" onchange="addup()" style="font-size: 12px;">
+<option value="40">Adult - $40
+<option value="20">Junior - $20</select></td></tr>
+		  
+		             <!-- TEAM MEMBER 3 -->
+<tr> 
+<td class=lgB align=left colspan=9><br /><br />Team Member 3:</td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Firstname: </td>
+<td><input type="text" name="firstname3" size=12 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Lastname: </td>
+<td align=left colspan=5><input type="text" name="lastname3" size=20 style="font-size: 12px;"></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Street: </td>
+<td colspan=2><input type="text" name="street3" size=30 style="font-size: 12px;"></td>
+<td align=right class=sgB>Town: </td>
+<td colspan=2><input type=text name="town3" size=20 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Postcode: </td>
+<td><input type=text name="postcode3" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Email: </td>
+<td colspan=2><input type="text" name="email3" size=30 style="font-size: 12px;">
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Phone:</td>
+<td align=left colspan=2><input type=text name="phone3" size=15 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Entry fee:</td>
+<td width=100 valign=top align=center class=larger><select name="entryfee3" onchange="addup()" style="font-size: 12px;">
+<option value="0">0
+<option value="40">Adult - $40
+<option value="20">Junior - $20</select></td></tr>	
+				 
+					            <!-- TEAM MEMBER 4 -->							
+<tr> 
+<td class=lgB align=left colspan=9><br /><br />Team Member 4:</td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Firstname: </td>
+<td><input type="text" name="firstname4" size=12 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Lastname: </td>
+<td align=left colspan=5><input type="text" name="lastname4" size=20 style="font-size: 12px;"></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Street: </td>
+<td colspan=2><input type="text" name="street4" size=30 style="font-size: 12px;"></td>
+<td align=right class=sgB>Town: </td>
+<td colspan=2><input type=text name="town4" size=20 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Postcode: </td>
+<td><input type=text name="postcode4" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Email: </td>
+<td colspan=2><input type="text" name="email4" size=30 style="font-size: 12px;">
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Phone:</td>
+<td align=left colspan=2><input type=text name="phone4" size=15 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Entry fee:</td>
+<td width=100 valign=top align=center class=larger><select name="entryfee4" onchange="addup()" style="font-size: 12px;">
+<option value="0">0
+<option value="40">Adult - $40
+<option value="20">Junior - $20</select></td></tr>
+
+								<!-- TEAM MEMBER 5 -->
+<tr> 
+<td class=lgB align=left colspan=9><br /><br />Team Member 5:</td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Firstname: </td>
+<td><input type="text" name="firstname5" size=12 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Lastname: </td>
+<td align=left colspan=5><input type="text" name="lastname5" size=20 style="font-size: 12px;"></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td align=right class=sgB>Street: </td>
+<td colspan=2><input type="text" name="street5" size=30 style="font-size: 12px;"></td>
+<td align=right class=sgB>Town: </td>
+<td colspan=2><input type=text name="town5" size=20 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Postcode: </td>
+<td><input type=text name="postcode5" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td>&nbsp;</td>
+<td align=right class=sgB>Email: </td>
+<td colspan=2><input type="text" name="email5" size=30 style="font-size: 12px;">
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Phone:</td>
+<td align=left colspan=2><input type=text name="phone5" size=15 style="font-size: 12px;"></td>
+<td align=right class=sgB>&nbsp;&nbsp;&nbsp;&nbsp;Entry fee:</td>
+<td width=100 valign=top align=center class=larger><select name="entryfee5" onchange="addup()" style="font-size: 12px;">
+<option value="0">0
+<option value="40">Adult - $40
+<option value="20">Junior - $20</select></td></tr>
+</table>
+<br clear=both><br /><br /><br />
+
+          <!-- TEAM DETAILS -->
+
+<table align=left border="0">
+<tr> 
+<td align=left colspan="4"><font class=lgB>Team Category:</font></td></tr>
+<tr>
+<td width="50">&nbsp;</td>
+<td width=100><input type="radio" name="category" value= "Men"><font class=sgb>Men</font></td>
+<td width=100><input type="radio" name="category" value= "Women"><font class=sgb>Women</font></td>
+<td><input type="radio" name="category" value= "Mixed"><font class=sgb>miXed</font></td></tr>
+<tr>
+<td width=30>&nbsp;</td>
+<td colspan="3"><input type="radio" name="category" value= "Junior"><font class=sgb>Junior (all team members under 20 on event day. No gender distinction)</font></td></tr>
+<tr>
+<td colspan="4">&nbsp;</td></tr>
+</table>
+
+<br clear="all"><br />
+
+
+          <!-- TOTAL FEES -->
+<p class="lgb">Total Entry Fees:&nbsp;&nbsp;$&nbsp;<input type="text" name="totalentryfee" size=5 style="font-size: 12px;">
+<span class=smaller>&nbsp;&nbsp;&nbsp;If your browser does not calculate the total entry fee (because Javascript is not enabled) then please calculate it yourself and enter it manually</span></p>
+
+
+          <!-- PAYMENT -->
+<div style="margin-left: 50px;">
+<table align=left width=90% border=0>
+<tr>
+<td class=mgB align=left colspan=3>Select method of payment:</td></tr>
+<tr>
+<td width=20>&nbsp;</td>
+<td width=20 valign="top"><input type="radio" name="payment" value="direct credit"></td><td><font class=sgB>Direct credit to NZRA Account No. 03 0674 0197735 00. Please use the Team Contact's name as reference to identify your payment.</font></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td><input type="radio" name="payment" value="cheque"></td><td><font class=sgB>Cheque payable to New Zealand Rogaining Association. Send to  <!-- Print and include this entry form with your cheque and mail to: --></font></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><table><tr><td width=50></td><td><font class=medium>Office Hours 2011<br />c/o Bill Kennedy<br />360 Riverlaw Tce.<br />Christchurch 8022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email:&nbsp;&nbsp;<a href="mailto:nzra.entries@gmail.com">nzra.entries@gmail.com</a></font></td></tr></table>
+</td></tr>
+</table></div>
+
+<br clear="all"><br />
+
+<p class=lgB>Confirmation of entry: <span class="medium">&nbsp;&nbsp;&nbsp;Your entry will be confirmed, after payment has been received, by posting it in the <a target=_blank href="OH2011_Entrants.htm">list of entrants</a> on the NZRA website.</span></p>
+
+<br clear="all"><br />
+
+
+          <!-- COMMENTS -->
+<table align=left width=600 border=0> 
+<tr><td colspan=2 align=center class=lgB valign=top>If you have any message for the organisers please type it here</td></tr>
+<tr><td width=100>&nbsp;</td><td align=left style="font-size: 12px;"> <textarea name="comments" class=smaller style="font-size=12px;" COLS=65 ROWS=6 wrap=physical></textarea></td></tr>
+</table>
+
+<br clear=left><br /><br />
+
+          <!-- ACCEPTANCE -->
+<table align=left width=600 border=0>
+<tr>
+<td valign=top width=50><font class=mediumB>Note:</font></td>
+<td valign=top><font class=smaller>Each competitor must be a member of a Rogaining Association or an Orienteering Club, or must become a member of the NZ Rogaining Association (free), and hereby agrees to abide by the NZRA rules and Code of Conduct. These can be found at www.rogaine.org.nz where information and online membership are available. Your attention is drawn particularly to the condition of membership that you enter all events entirely at your own risk. All participants will be required to sign an indemnity that neither the Association, the organisers, nor the landowners will be held responsible for any accident or injury which may occur.</font></td></tr></table>
+
+<br clear="both"><br />
+
+<table align=left width=600 border=0>
+<tr>
+<td width=80 align=center valign=top><input type="checkbox" name="acceptance" value="accept"><br /><font class=medium>(tick)</font></td>
+<td width=500><font class=medium>I (the Team Contact) undertake to ensure all team members have seen or been fully advised of the written event briefing information distributed to me and available at www.rogaine.org.nz before the event. </font></td></tr>
+</table>
+
+<br clear="both"><br /><br />
+
+<p><center><input type="submit" value="  Submit  "> <input type="reset" onmouseout="addup()" value="Clear Form"><br />
+ <font class=medium>Processing may take up to 10 seconds, please wait...</font>
+<!-- <font class=smaller> <br><br> 
+[<a href="" onClick="window.close()">Close this window</a>]</font>  -->
+</center></p>
+
+<p class=smaller style="color:black"><br>Powered by free <a target=_blank href="http://www.tectite.com/">FormMail</a> from www.tectite.com</p>
+
+</div>
+</form>
+
+<script language=JavaScript>
+<!-- 
+onLoad = addup()
+//  -->
+</script>  
+</body> </html>  

@@ -1,0 +1,17 @@
+Team No. 35	Tag ID = AGAT   Tags=0000	Course 24 Hour
+Outrageous Mixed Fortunes: Kirstin Cooper, Stephen Cooper and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+END
+
+
+Recognised finish time 24/11/2019 12:31:00 PM
+Time on course   0:00:00
+
+
+    0	Points Scored.
+    0	Late Time Disqualification.
+  Withdrawn.	Manual adjustment.
+
+
+FINAL SCORE = 0 Withdrawn.

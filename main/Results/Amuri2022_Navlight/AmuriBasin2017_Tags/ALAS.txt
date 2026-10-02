@@ -1,0 +1,31 @@
+Team No. 2207	Tag ID = ALAS   Tags=0014	Course 3Hr
+Rabbit and Turtle: Penny Suckling, Stephanie Suckling
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:45:53 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:07:48 PM	  0:07:48	
+   3	  41 	   40	 9/07/2017 12:22:57 PM	  0:15:09	
+   4	  63 	   60	 9/07/2017 12:40:17 PM	  0:17:20	
+   5	  23 	   20	 9/07/2017 12:58:10 PM	  0:17:53	
+   6	  35 	   30	 9/07/2017  1:03:41 PM	  0:05:31	
+   7	  84 	   80	 9/07/2017  1:16:35 PM	  0:12:54	
+   8	  73 	   70	 9/07/2017  1:31:15 PM	  0:14:40	
+   9	  58 	   50	 9/07/2017  1:48:25 PM	  0:17:10	
+  10	  55 	   50	 9/07/2017  2:03:34 PM	  0:15:09	
+  11	  81 	   80	 9/07/2017  2:17:59 PM	  0:14:25	
+  12	  31 	   30	 9/07/2017  2:41:09 PM	  0:23:10	
+  13	  37 	   30	 9/07/2017  2:50:48 PM	  0:09:39	
+  14	 109 		 9/07/2017  2:57:09 PM	  0:06:21	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:57:09 PM
+Time on course   2:57:09
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

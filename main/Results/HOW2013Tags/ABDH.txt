@@ -1,0 +1,26 @@
+Team No. 621	Tag ID = ABDH   Tags=0030	Course 2.5hr
+Mackenzie Jedan: Luke  Howat, Jayden Warner
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  22	108		 8/06/2013 12:45:30 PM	         	BRIEFING. Score reset.
+  23	 17	 10	 8/06/2013  1:19:06 PM 	  0:18:06	
+  24	 49	 40	 8/06/2013  1:38:39 PM 	  0:19:33	 Punch  12 replaced by Group 49.
+  25	 67	 60	 8/06/2013  2:02:05 PM 	  0:23:26	
+  26	 27	 20	 8/06/2013  2:25:37 PM 	  0:23:32	
+  27	 76	 70	 8/06/2013  2:36:51 PM 	  0:11:14	
+  28	 85	 80	 8/06/2013  2:43:57 PM 	  0:07:06	
+  29	 19	 10	 8/06/2013  3:19:20 PM 	  0:35:23	
+  30	 16		 8/06/2013  3:24:16 PM 	  0:04:56	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:24:16 PM 
+Time on course   2:23:16
+
+
+  290	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 290

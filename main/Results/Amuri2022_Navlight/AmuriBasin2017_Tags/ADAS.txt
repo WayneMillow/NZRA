@@ -1,0 +1,33 @@
+Team No. 2189	Tag ID = ADAS   Tags=0015	Course 3Hr
+Wives Gone off: Viki Holland, Jo McKenzie and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 9/07/2017 12:03:46 PM	  0:03:46	Manual BRIEF allowed.
+   2	  41 	   40	 9/07/2017 12:11:29 PM	  0:07:43	
+   3	  63 	   60	 9/07/2017 12:20:22 PM	  0:08:53	
+   4	  23 	   20	 9/07/2017 12:29:13 PM	  0:08:51	
+   5	  35 	   30	 9/07/2017 12:34:23 PM	  0:05:10	
+   6	  61 	   60	 9/07/2017 12:41:29 PM	  0:07:06	
+   7	  91 	   90	 9/07/2017  1:09:50 PM	  0:28:21	
+   8	  45 	   40	 9/07/2017  1:24:59 PM	  0:15:09	
+   9	  83 	   80	 8/07/2017  1:24:32 PM	         	Punch clock failed.
+  10	  44 	   40	 9/07/2017  1:52:17 PM	  0:27:18	
+  11	 102 	  100	 9/07/2017  2:07:41 PM	  0:15:24	
+  12	  52 	   50	 9/07/2017  2:17:26 PM	  0:09:45	
+  13	  34 	   30	 9/07/2017  2:23:24 PM	  0:05:58	
+  14	  58 	   50	 9/07/2017  2:42:43 PM	  0:19:19	
+  15	 108 		 9/07/2017  2:56:57 PM	  0:14:14	FINISH TIME.
+END
+	Manual BRIEF Accepted on line 1
+
+
+Recognised finish time  9/07/2017  2:56:57 PM
+Time on course   2:56:57
+
+
+  710	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 710

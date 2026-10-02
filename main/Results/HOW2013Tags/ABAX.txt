@@ -1,0 +1,28 @@
+Team No. 487	Tag ID = ABAX   Tags=0011	Course 6hr
+Girls & boys Aloud: Martin  Cocks, Vanessa Crean, Sue Curtin
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:25:38 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:36:33 AM	  0:07:33	
+   3	 86	 80	 8/06/2013 11:25:05 AM	  0:48:32	
+   4	 68	 60	 8/06/2013 12:03:44 PM	  0:38:39	
+   5	101	100	 8/06/2013 12:48:10 PM	  0:44:26	
+   6	 34	 30	 8/06/2013  1:58:37 PM 	  1:10:27	
+   7	 77	 70	 8/06/2013  2:14:31 PM 	  0:15:54	
+   8	 44	 40	 8/06/2013  2:53:22 PM 	  0:38:51	
+   9	 53	 50	 8/06/2013  3:18:30 PM 	  0:25:08	
+  10	 30	 30	 8/06/2013  3:40:11 PM 	  0:21:41	
+  11	 15		 8/06/2013  4:02:01 PM 	  0:21:50	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:02:01 PM 
+Time on course   5:33:01
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

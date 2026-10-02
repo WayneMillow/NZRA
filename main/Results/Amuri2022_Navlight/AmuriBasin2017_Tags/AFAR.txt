@@ -1,0 +1,32 @@
+Team No. 2121	Tag ID = AFAR   Tags=0015	Course 3Hr
+Tri-ing: Kerryn Mercer, Pete Leonard and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:43:30 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	 9/07/2017 12:07:42 PM	  0:07:42	
+   3	  31 	   30	 9/07/2017 12:16:53 PM	  0:09:11	
+   4	  33 	   30	 9/07/2017 12:25:32 PM	  0:08:39	
+   5	  43 	   40	 9/07/2017 12:31:32 PM	  0:06:00	
+   6	  24 	   20	 9/07/2017 12:36:53 PM	  0:05:21	
+   7	  46 	   40	 9/07/2017 12:59:40 PM	  0:22:47	
+   8	 103 	  100	 9/07/2017  1:35:47 PM	  0:36:07	
+   9	  71 	   70	 9/07/2017  1:49:05 PM	  0:13:18	
+  10	  53 	   50	 9/07/2017  2:06:48 PM	  0:17:43	
+  11	  66 	   60	 9/07/2017  2:14:32 PM	  0:07:44	
+  12	  42 	   40	 9/07/2017  2:35:30 PM	  0:20:58	
+  13	  58 	   50	 9/07/2017  2:43:26 PM	  0:07:56	
+  14	  21 	   20	 9/07/2017  2:55:14 PM	  0:11:48	
+  15	 108 		 9/07/2017  3:00:12 PM	  0:04:58	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:00:12 PM
+Time on course   3:00:12
+
+
+  580	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

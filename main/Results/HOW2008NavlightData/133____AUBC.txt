@@ -1,0 +1,31 @@
+Team No. 133	Tag ID = AUBC   Tags=0014	Course 6hr
+Jenny Maclaren, Piers Maclaren
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		14/06/2008 10:44:40 AM	         	BRIEFING. Score reset.
+   2	 50	 50	14/06/2008 11:35:42 AM	  0:35:42	
+   3	 75	 70	14/06/2008 11:57:46 AM	  0:22:04	
+   4	 35	 30	14/06/2008 12:21:28 PM	  0:23:42	
+   5	 81	 80	14/06/2008 12:44:14 PM	  0:22:46	
+   6	101	100	14/06/2008  1:10:45 PM 	  0:26:31	
+   7	 45	 40	14/06/2008  1:51:24 PM 	  0:40:39	
+   8	 91	 90	14/06/2008  2:15:41 PM 	  0:24:17	
+   9	 73	 70	14/06/2008  2:37:58 PM 	  0:22:17	
+  10	 64	 60	14/06/2008  3:04:49 PM 	  0:26:51	
+  11	 67	 60	14/06/2008  3:49:16 PM 	  0:44:27	
+  12	 30	 30	14/06/2008  4:13:19 PM 	  0:24:03	
+  13	 22	 20	14/06/2008  4:41:54 PM 	  0:28:35	     Group 22 replaces 97.
+  14	106		14/06/2008  4:50:00 PM 	  0:08:06	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:50:00 PM 
+Time on course   5:50:00
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

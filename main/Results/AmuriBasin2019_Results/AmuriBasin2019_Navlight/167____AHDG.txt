@@ -1,0 +1,33 @@
+Team No. 167	Tag ID = AHDG   Tags=0016	Course 3 hour
+Buzzy Bee's: Milly DC, Belinda McCone and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:43:47 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:09:46 PM	  0:09:46	
+   3	  31 	   30	 7/07/2019 12:21:54 PM	  0:12:08	
+   4	  73 	   70	 7/07/2019 12:30:13 PM	  0:08:19	
+   5	  46 	   40	 7/07/2019 12:50:21 PM	  0:20:08	
+   6	  52 	   50	 7/07/2019 12:56:28 PM	  0:06:07	
+   7	  43 	   40	 7/07/2019  1:10:14 PM	  0:13:46	
+   8	  75 	   70	 7/07/2019  1:25:19 PM	  0:15:05	
+   9	  41 	   40	 7/07/2019  1:36:56 PM	  0:11:37	
+  10	  42 	   40	 7/07/2019  1:44:44 PM	  0:07:48	
+  11	  57 	   50	 7/07/2019  1:51:48 PM	  0:07:04	
+  12	  54 	   50	 7/07/2019  2:07:53 PM	  0:16:05	
+  13	  28 	   20	 7/07/2019  2:21:02 PM	  0:13:09	
+  14	  49 	   40	 7/07/2019  2:31:53 PM	  0:10:51	
+  15	  51 	   50	 7/07/2019  2:40:30 PM	  0:08:37	
+  16	  16 		 7/07/2019  2:50:20 PM	  0:09:50	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:50:20 PM
+Time on course   2:50:20
+
+
+  630	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

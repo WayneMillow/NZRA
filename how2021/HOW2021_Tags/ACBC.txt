@@ -1,0 +1,26 @@
+Team No. 124	Tag ID = ACBC   Tags=0010	Course 6 hour
+Salty Chicks: Tanya Winter, Clare Hadley and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:15:08 AM	  0:15:08	
+   2	  25 	   20	19/06/2021 11:37:36 AM	  0:22:28	
+   3	  77 	   70	19/06/2021 12:39:29 PM	  1:01:53	
+   4	  26 	   20	19/06/2021 12:59:14 PM	  0:19:45	
+   5	  64 	   60	19/06/2021  1:29:14 PM	  0:30:00	
+   6	  60 	   60	19/06/2021  2:34:40 PM	  1:05:26	
+   7	 100 	  100	19/06/2021  3:39:27 PM	  1:04:47	
+   8	  35 	   30	19/06/2021  4:04:22 PM	  0:24:55	
+   9	  57 		19/06/2021  5:03:56 PM	  0:59:34	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:03:56 PM
+Time on course   6:03:56
+
+
+  400	Points Scored.
+  -40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 360

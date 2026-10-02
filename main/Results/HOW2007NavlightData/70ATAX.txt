@@ -1,0 +1,28 @@
+Team No. 70	Tag ID = ATAX   Tags=0012	Course 12hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 84		12/06/2006  3:44:23 PM 	        	BRIEFING. Score reset.
+   2	 10	 10	16/06/2007  9:10:49 AM 	  0:10:49	
+   3	 41	 40	16/06/2007  9:31:16 AM 	  0:20:27	
+   4	 45	 40	16/06/2007  9:54:03 AM 	  0:22:47	
+   5	 65	 60	16/06/2007 10:26:21 AM	  0:32:18	
+   6	 72	 70	16/06/2007 11:01:06 AM	  0:34:45	
+   7	 43	 40	16/06/2007 11:33:44 AM	  0:32:38	
+   8	 62	 60	16/06/2007 12:10:05 PM	  0:36:21	
+   9	 53	 50	16/06/2007 12:58:38 PM	  0:48:33	
+  10	 30	 30	16/06/2007  1:14:21 PM 	  0:15:43	
+  11	 11	 10	16/06/2007  2:03:21 PM 	  0:49:00	
+  12	 		16/06/2007  2:45:06 PM 	  0:41:45	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  2:45:06 PM 
+Time on course   5:45:06
+
+
+  410	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

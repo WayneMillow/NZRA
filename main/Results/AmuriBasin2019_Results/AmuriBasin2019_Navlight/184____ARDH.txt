@@ -1,0 +1,33 @@
+Team No. 184	Tag ID = ARDH   Tags=0016	Course 3 hour
+Max Attack: Jeremy Grooby, Jordan Grooby and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:45:23 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:11:24 PM	  0:11:24	
+   3	  49 	   40	 7/07/2019 12:18:56 PM	  0:07:32	
+   4	  65 	   60	 7/07/2019 12:28:29 PM	  0:09:33	
+   5	  45 	   40	 7/07/2019 12:38:20 PM	  0:09:51	
+   6	  34 	   30	 7/07/2019 12:56:44 PM	  0:18:24	
+   7	  59 	   50	 7/07/2019  1:09:20 PM	  0:12:36	
+   8	  53 	   50	 7/07/2019  1:21:18 PM	  0:11:58	
+   9	  67 	   60	 7/07/2019  1:49:51 PM	  0:28:33	
+  10	  43 	   40	 7/07/2019  2:07:25 PM	  0:17:34	
+  11	  52 	   50	 7/07/2019  2:19:13 PM	  0:11:48	
+  12	  46 	   40	 7/07/2019  2:23:52 PM	  0:04:39	
+  13	  73 	   70	 7/07/2019  2:36:16 PM	  0:12:24	
+  14	  31 	   30	 7/07/2019  2:40:44 PM	  0:04:28	
+  15	  47 	   40	 7/07/2019  2:45:50 PM	  0:05:06	
+  16	  16 		 7/07/2019  2:53:03 PM	  0:07:13	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:53:03 PM
+Time on course   2:53:03
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

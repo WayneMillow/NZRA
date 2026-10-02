@@ -1,0 +1,35 @@
+Team No. 650	Tag ID = AXDJ   Tags=0017	Course 6hr
+The Rainbow Warriors: Andy  Marshall, Craig Marshall, Christy Mckessar, Miri Wood
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	104		 8/06/2013 10:21:15 AM	         	BRIEFING. Score reset.
+   3	 58	 50	 8/06/2013 10:35:47 AM	  0:06:47	
+   4	 76	 70	 8/06/2013 10:59:00 AM	  0:23:13	
+   5	 66	 60	 8/06/2013 11:18:36 AM	  0:19:36	
+   6	 74	 70	 8/06/2013 11:56:04 AM	  0:37:28	
+   7	100	100	 8/06/2013 12:07:52 PM	  0:11:48	
+   8	 72	 70	 8/06/2013 12:47:14 PM	  0:39:22	
+   9	 90	 90	 8/06/2013  1:10:43 PM 	  0:23:29	
+  10	 45	 40	 8/06/2013  1:31:03 PM 	  0:20:20	
+  11	 63	 60	 8/06/2013  1:51:26 PM 	  0:20:23	
+  12	 56	 50	 8/06/2013  2:34:44 PM 	  0:43:18	
+  13	 83	 80	 8/06/2013  2:49:42 PM 	  0:14:58	
+  14	 28	 20	 8/06/2013  3:23:15 PM 	  0:33:33	
+  15	 65	 60	 8/06/2013  3:39:25 PM 	  0:16:10	
+  16	 75	 70	 8/06/2013  4:04:12 PM 	  0:24:47	
+  17	 13		 8/06/2013  4:26:04 PM 	  0:21:52	FINISH TIME.
+END
+	AddedPunch84	80
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  4:26:04 PM 
+Time on course   5:57:04
+
+
+ 1050	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1050

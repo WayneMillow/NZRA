@@ -1,0 +1,31 @@
+Team No. 230	Tag ID = AMDR   Tags=0014	Course 6 hour
+F K J: James Wright, Felix Hunt and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:24:11 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:07:49 PM	  0:07:49	
+   3	  39 	   30	 7/11/2020  1:25:49 PM	  0:18:00	
+   4	  24 	   20	 7/11/2020  2:28:58 PM	  1:03:09	
+   5	  75 	   70	 7/11/2020  2:56:27 PM	  0:27:29	
+   6	  85 	   80	 7/11/2020  3:39:58 PM	  0:43:31	
+   7	  45 	   40	 7/11/2020  4:01:24 PM	  0:21:26	
+   8	  74 	   70	 7/11/2020  4:24:21 PM	  0:22:57	
+   9	  83 	   80	 7/11/2020  4:43:49 PM	  0:19:28	
+  10	  53 	   50	 7/11/2020  5:10:31 PM	  0:26:42	
+  11	  73 	   70	 7/11/2020  5:49:35 PM	  0:39:04	
+  12	  44 	   40	 7/11/2020  6:18:04 PM	  0:28:29	
+  13	  87 	   80	 7/11/2020  6:37:21 PM	  0:19:17	
+  14	  18 		 7/11/2020  6:58:21 PM	  0:21:00	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:58:21 PM
+Time on course   5:58:21
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

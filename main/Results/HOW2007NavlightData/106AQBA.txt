@@ -1,0 +1,29 @@
+Team No. 106	Tag ID = AQBA   Tags=0013	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 88		12/06/2006  5:01:43 PM 	        	BRIEFING. Score reset.
+   2	 11	 10	16/06/2007 10:13:51 AM	  0:13:51	
+   3	 26	 20	16/06/2007 10:39:21 AM	  0:25:30	
+   4	 32	 30	16/06/2007 11:14:58 AM	  0:35:37	
+   5	 25	 20	16/06/2007 11:32:48 AM	  0:17:50	
+   6	 54	 50	16/06/2007 11:59:11 AM	  0:26:23	
+   7	 50	 50	16/06/2007 12:44:30 PM	  0:45:19	
+   8	 20	 20	16/06/2007  1:03:38 PM 	  0:19:08	
+   9	 42	 40	16/06/2007  1:36:19 PM 	  0:32:41	
+  10	 63	 60	16/06/2007  1:55:50 PM 	  0:19:31	
+  11	 51	 50	16/06/2007  2:54:03 PM 	  0:58:13	
+  12	 24	 20	16/06/2007  3:18:45 PM 	  0:24:42	
+  13	 96		16/06/2007  3:43:15 PM 	  0:24:30	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:43:15 PM 
+Time on course   5:43:15
+
+
+  370	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

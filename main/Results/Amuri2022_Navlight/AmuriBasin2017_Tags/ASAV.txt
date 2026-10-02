@@ -1,0 +1,29 @@
+Team No. 2240	Tag ID = ASAV   Tags=0012	Course 3Hr
+The long and the short of it: Clare Ohagan, Nick Ross
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:53:02 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:08:42 PM	  0:08:42	
+   3	  41 	   40	 9/07/2017 12:18:52 PM	  0:10:10	
+   4	  63 	   60	 9/07/2017 12:31:35 PM	  0:12:43	
+   5	  23 	   20	 9/07/2017 12:43:31 PM	  0:11:56	
+   6	  35 	   30	 9/07/2017 12:47:37 PM	  0:04:06	
+   7	  55 	   50	 9/07/2017  1:29:08 PM	  0:41:31	
+   8	  58 	   50	 9/07/2017  1:42:22 PM	  0:13:14	
+   9	  42 	   40	 9/07/2017  1:53:10 PM	  0:10:48	
+  10	  93 	   90	 9/07/2017  2:06:20 PM	  0:13:10	
+  11	  67 	   60	 9/07/2017  2:19:08 PM	  0:12:48	
+  12	 108 		 9/07/2017  2:49:21 PM	  0:30:13	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:49:21 PM
+Time on course   2:49:21
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

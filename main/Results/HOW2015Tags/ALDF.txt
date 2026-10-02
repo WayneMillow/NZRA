@@ -1,0 +1,29 @@
+Team No. 671	Tag ID = ALDF   Tags=0012	Course 6Hr
+Genevieve Leech, Kirstina Moore
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 94		27/06/2015 10:45:33 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:15:35 AM	  0:15:35	
+   3	 65	 60	27/06/2015 11:36:46 AM	  0:21:11	
+   4	 34	 30	27/06/2015 11:59:36 AM	  0:22:50	
+   5	 53	 50	27/06/2015 12:29:36 PM	  0:30:00	
+   6	 45	 40	27/06/2015  1:02:49 PM	  0:33:13	
+   7	 54	 50	27/06/2015  1:29:19 PM	  0:26:30	
+   8	 31	 30	27/06/2015  2:11:41 PM	  0:42:22	
+   9	 42	 40	27/06/2015  2:52:32 PM	  0:40:51	
+  10	 28	 20	27/06/2015  3:32:32 PM	  0:40:00	
+  11	 27	 20	27/06/2015  4:25:44 PM	  0:53:12	
+  12	106		27/06/2015  4:48:00 PM	  0:22:16	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:48:00 PM
+Time on course   5:48:00
+
+
+  360	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 360

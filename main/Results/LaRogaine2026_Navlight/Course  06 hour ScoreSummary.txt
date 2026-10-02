@@ -1,0 +1,27 @@
+63	CRS 06 hour	1650	 0	 1650 Points.	Finish 31/01/2026  3:59:25 pm	AEAX,AFAX
+75	CRS 06 hour	1550	 0	 1550 Points.	Finish 31/01/2026  3:55:23 pm	AEAY,ADAY
+65	CRS 06 hour	1550	 0	 1550 Points.	Finish 31/01/2026  3:58:21 pm	AJAX,AKAX
+64	CRS 06 hour	1480	-45	 1435 Points.	Finish 31/01/2026  4:02:17 pm	AGAX,AHAX
+66	CRS 06 hour	1320	 0	 1320 Points.	Finish 31/01/2026  3:53:58 pm	AMAX,ALAX
+58	CRS 06 hour	1220	 0	 1220 Points.	Finish 31/01/2026  3:59:34 pm	AUAW,AVAW
+70	CRS 06 hour	1240	-30	 1210 Points.	Finish 31/01/2026  4:01:07 pm	AUAX,ATAX
+54	CRS 06 hour	1120	 0	 1120 Points.	Finish 31/01/2026  3:59:01 pm	AMAW,ANAW
+74	CRS 06 hour	1110	 0	 1110 Points.	Finish 31/01/2026  3:39:10 pm	ABAY,ACAY
+71	CRS 06 hour	1080	 0	 1080 Points.	Finish 31/01/2026  3:46:06 pm	AVAX,AWAX
+69	CRS 06 hour	1040	 0	 1040 Points.	Finish 31/01/2026  3:58:16 pm	ARAX,ASAX
+55	CRS 06 hour	960	 0	  960 Points.	Finish 31/01/2026  3:59:36 pm	APAW,AOAW
+72	CRS 06 hour	970	-15	  955 Points.	Finish 31/01/2026  4:00:46 pm	AUHB,AMCK
+57	CRS 06 hour	940	 0	  940 Points.	Finish 31/01/2026  3:58:30 pm	ASAW,ATAW
+79	CRS 06 hour	920	 0	  920 Points.	Finish 31/01/2026  3:54:27 pm	AMAY,ANAY
+77	CRS 06 hour	930	-15	  915 Points.	Finish 31/01/2026  4:01:00 pm	AJAY,AHAY
+56	CRS 06 hour	880	 0	  880 Points.	Finish 31/01/2026  3:56:01 pm	ARAW,AQAW
+51	CRS 06 hour	740	 0	  740 Points.	Finish 31/01/2026  3:54:14 pm	AGAW,AFAW
+61	CRS 06 hour	730	 0	  730 Points.	Finish 31/01/2026  3:54:58 pm	ABAX,AAAX
+53	CRS 06 hour	650	 0	  650 Points.	Finish 31/01/2026  3:51:26 pm	AKAW,ALAW
+52	CRS 06 hour	770	-255	  515 Points.	Finish 31/01/2026  4:16:35 pm	AJAW,AHAW
+59	CRS 06 hour	490	 0	  490 Points.	Finish 31/01/2026  3:54:16 pm	AWAW,AXAW
+68	CRS 06 hour	760	-285	  475 Points.	Finish 31/01/2026  4:18:24 pm	AQAX,APAX
+73	CRS 06 hour	380	 0	  380 Points.	Finish 31/01/2026  3:59:31 pm	APDR,AAAY
+60	CRS 06 hour	240	 0	  240 Points.	Finish 31/01/2026  3:53:22 pm	AZAW,AYAW
+76	CRS 06 hour	500	-405	   95 Points.	Finish 31/01/2026  4:26:27 pm	AFAY,AGAY
+ NUMBER OF LINES IS 26

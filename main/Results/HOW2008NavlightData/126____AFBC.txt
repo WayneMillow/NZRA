@@ -1,0 +1,32 @@
+Team No. 126	Tag ID = AFBC   Tags=0015	Course 6hr
+Nadine Voice, Nadia MacLaren
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		14/06/2008 10:45:49 AM	         	BRIEFING. Score reset.
+   2	 22	 20	14/06/2008 11:06:52 AM	  0:06:52	     Group 22 replaces 97.
+   3	 49	 40	14/06/2008 11:17:50 AM	  0:10:58	
+   4	 59	 50	14/06/2008 11:43:56 AM	  0:26:06	
+   5	 31	 30	14/06/2008 11:51:38 AM	  0:07:42	
+   6	 75	 70	14/06/2008 12:30:41 PM	  0:39:03	
+   7	 35	 30	14/06/2008  1:04:03 PM 	  0:33:22	
+   8	 81	 80	14/06/2008  1:31:36 PM 	  0:27:33	
+   9	101	100	14/06/2008  1:51:47 PM 	  0:20:11	
+  10	 45	 40	14/06/2008  2:39:11 PM 	  0:47:24	
+  11	 73	 70	14/06/2008  3:01:31 PM 	  0:22:20	
+  12	 64	 60	14/06/2008  3:27:10 PM 	  0:25:39	
+  13	 67	 60	14/06/2008  4:07:43 PM 	  0:40:33	
+  14	 50	 50	14/06/2008  4:35:19 PM 	  0:27:36	
+  15	106		14/06/2008  4:53:35 PM 	  0:18:16	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:53:35 PM 
+Time on course   5:53:35
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

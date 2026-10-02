@@ -1,0 +1,6 @@
+ 1	102	Lost Banditos (Mark McCulloch, Deryk Cleland.)	 14:33:54	1510	MO1,MV1
+ 2	32	Checkpoint 52 (Ellen Mary Puller, Nicole Ranger, Glen Warner.)	 14:20:46	1320	XO1
+ 3	103	Fab Four (Darrell Thomson, Peter Bylsma, Cindy Baker, Esther Bylsma.)	 13:52:39	1020	XO2,XV1
+ 4	104	Red Hot Hilly Trekkers (Anna Squires, Nick Offerd.)	 14:07:01	880	XO3,XV2
+ 5	101	You said 'retreat'. (Alane Sue Paterson, Shelley Friedrich, Jo Bradley.)	 14:53:22	610	WO1,WV1
+ 6	105	Let's Not Get Lost This Time (Christopher Dewhurst, Gemma Green.)	   5:30:22	340	XO4,XJ1

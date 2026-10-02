@@ -1,0 +1,25 @@
+Team No. 155	Tag ID = APAY   Tags=0008	Course 7hr
+HMT: Helen Thayer (NZL), Myles Thayer (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  105		11/02/2017 10:42:06 AM	         	BRIEFING. Score reset.
+   2	  406	   40	11/02/2017 11:37:17 AM	  0:37:17	
+   3	  507	   50	11/02/2017 12:01:43 PM	  0:24:26	
+   4	  604	   60	11/02/2017 12:47:46 PM	  0:46:03	
+   5	  307	   30	11/02/2017  1:31:05 PM	  0:43:19	
+   6	  603	   60	11/02/2017  2:38:39 PM	  1:07:34	
+   7	 1001	  100	11/02/2017  3:53:52 PM	  1:15:13	
+   8	   18		11/02/2017  5:34:59 PM	  1:41:07	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  5:34:59 PM
+Time on course   6:34:59
+
+
+  340	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 340

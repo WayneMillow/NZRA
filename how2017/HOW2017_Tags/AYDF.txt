@@ -1,0 +1,26 @@
+Team No. 2261	Tag ID = AYDF   Tags=0009	Course 6Hr
+Total3call: Sharyn Foster, Susan O'Connor
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 17		10/06/2017 10:43:17 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:06:35 AM	  0:06:35	
+   3	 22	 20	10/06/2017 11:30:46 AM	  0:24:11	
+   4	 30	 30	10/06/2017 12:10:33 PM	  0:39:47	
+   5	 70	 70	10/06/2017  2:27:15 PM	  2:16:42	
+   6	 25	 20	10/06/2017  3:04:06 PM	  0:36:51	
+   7	 21	 20	10/06/2017  3:59:11 PM	  0:55:05	
+   8	 29	 20	10/06/2017  4:20:32 PM	  0:21:21	
+   9	108		10/06/2017  4:34:06 PM	  0:13:34	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:34:06 PM
+Time on course   5:34:06
+
+
+  200	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 200

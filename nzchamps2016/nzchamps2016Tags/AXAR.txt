@@ -1,0 +1,28 @@
+Team No. 18	Tag ID = AXAR   Tags=0011	Course NZChamps
+Lightning Speed Robots: Kelvin Thiele, Richard Persson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 11:55:08 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 12:14:05 PM	  0:14:05	
+   3	 70	 70	27/02/2016 12:56:01 PM	  0:41:56	
+   4	 43	 40	27/02/2016  1:14:16 PM	  0:18:15	
+   5	104	100	27/02/2016  1:30:25 PM	  0:16:09	
+   6	 56	 50	27/02/2016  1:46:33 PM	  0:16:08	
+   7	 55	 50	27/02/2016  2:11:05 PM	  0:24:32	
+   8	 93	 90	27/02/2016  2:34:39 PM	  0:23:34	
+   9	 52	 50	27/02/2016  3:18:10 PM	  0:43:31	
+  10	 60	 60	27/02/2016  4:15:01 PM	  0:56:51	
+  11	 16		27/02/2016  5:46:09 PM	  1:31:08	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:46:09 PM
+Time on course   5:46:09
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

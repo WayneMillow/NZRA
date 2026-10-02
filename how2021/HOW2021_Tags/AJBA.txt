@@ -1,0 +1,33 @@
+Team No. 102	Tag ID = AJBA   Tags=0016	Course 6 hour
+Over the Hill: Andrew 2 Hay, Scott Babbington and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:10:07 AM	  0:10:07	
+   2	  25 	   20	19/06/2021 11:24:20 AM	  0:14:13	
+   3	  38 	   30	19/06/2021 11:52:33 AM	  0:28:13	
+   4	  89 	   80	19/06/2021 12:17:48 PM	  0:25:15	
+   5	  44 	   40	19/06/2021 12:45:18 PM	  0:27:30	
+   6	  85 	   80	19/06/2021  1:13:24 PM	  0:28:06	
+   7	  30 	   30	19/06/2021  1:55:54 PM	  0:42:30	
+   8	 105 	  100	19/06/2021  2:09:31 PM	  0:13:37	
+   9	  86 	   80	19/06/2021  2:26:30 PM	  0:16:59	
+  10	  93 	   90	19/06/2021  2:51:25 PM	  0:24:55	
+  11	  54 	   50	19/06/2021  3:03:24 PM	  0:11:59	
+  12	  73 	   70	19/06/2021  3:23:47 PM	  0:20:23	
+  13	  96 	   90	19/06/2021  3:37:55 PM	  0:14:08	
+  14	 100 	  100	19/06/2021  4:11:06 PM	  0:33:11	
+  15	  47 	   40	19/06/2021  4:52:14 PM	  0:41:08	
+  16	  57 		19/06/2021  5:33:36 PM	  0:41:22	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:33:36 PM
+Time on course   6:33:36
+
+
+  940	Points Scored.
+ -940	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 940 LATE

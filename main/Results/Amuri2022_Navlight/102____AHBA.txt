@@ -1,0 +1,28 @@
+Team No. 102	Tag ID = AHBA   Tags=0011	Course 3hr
+Desperately seeking: Robyn Frost, Louise Sue
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  52 	   50	 3/07/2022 12:07:38 PM	  0:07:38	
+   2	  33 	   30	 3/07/2022 12:14:32 PM	  0:06:54	
+   3	  43 	   40	 3/07/2022 12:31:13 PM	  0:16:41	
+   4	  44 	   40	 3/07/2022 12:42:24 PM	  0:11:11	
+   5	  55 	   50	 3/07/2022 12:48:26 PM	  0:06:02	
+   6	  97 	   90	 3/07/2022  1:01:37 PM	  0:13:11	
+   7	  54 	   50	 3/07/2022  1:13:39 PM	  0:12:02	
+   8	 101 	  100	 3/07/2022  1:33:52 PM	  0:20:13	
+   9	  23 	   20	 3/07/2022  6:02:12 AM	         	Punch clock failed.
+  10	  53 	   50	 3/07/2022  2:27:17 PM	  0:53:25	
+  11	  19 		 3/07/2022  2:51:24 PM	  0:24:07	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:51:24 PM
+Time on course   2:51:24
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

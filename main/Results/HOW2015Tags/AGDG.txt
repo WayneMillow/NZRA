@@ -1,0 +1,25 @@
+Team No. 681	Tag ID = AGDG   Tags=0008	Course 6Hr
+Anne MORGAN, Chris Bridges and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:42:25 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:24:35 AM	  0:24:35	
+   3	 66	 60	27/06/2015 12:18:28 PM	  0:53:53	
+   4	 54	 50	27/06/2015 12:35:54 PM	  0:17:26	
+   5	 92	 90	27/06/2015  1:33:52 PM	  0:57:58	
+   6	102	100	27/06/2015  2:51:29 PM	  1:17:37	
+   7	 45	 40	27/06/2015  4:11:47 PM	  1:20:18	
+   8	108		27/06/2015  5:07:25 PM	  0:55:38	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  5:07:25 PM
+Time on course   6:07:25
+
+
+  360	Points Scored.
+  -80	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

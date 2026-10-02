@@ -1,0 +1,30 @@
+Team No. 51	Tag ID = AGAW   Tags=0013	Course 06 hour
+Still Crazy: Jac Woudberg, Lesley Woudberg
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		31/01/2026  9:47:28 am	         	BRIEFING. Score reset.
+   2	  30 	30	31/01/2026 10:15:02 am	  0:15:02	
+   3	  34 	30	31/01/2026 10:41:05 am	  0:26:03	
+   4	  94 	90	31/01/2026 10:54:43 am	  0:13:38	
+   5	  44 	40	31/01/2026 11:15:29 am	  0:20:46	
+   6	  65 	60	31/01/2026 11:40:22 am	  0:24:53	
+   7	  95 	90	31/01/2026  9:32:49 am	         	Punch clock failed.
+   8	  85 	80	31/01/2026 12:32:41 pm	  0:52:19	
+   9	 101 	100	31/01/2026  1:01:53 pm	  0:29:12	
+  10	  83 	80	31/01/2026  1:39:08 pm	  0:37:15	
+  11	  93 	90	31/01/2026  2:19:00 pm	  0:39:52	
+  12	  54 	50	31/01/2026  2:40:21 pm	  0:21:21	
+  13	  18 		31/01/2026  3:54:06 pm	  1:13:45	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  3:54:06 pm
+Time on course   5:54:06
+
+
+  740	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

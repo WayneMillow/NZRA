@@ -1,0 +1,32 @@
+Team No. 113	Tag ID = AFBB   Tags=0015	Course 3hr
+The Copplestone: Dan Harris, Anita Copplestone
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:02:25 PM	  0:02:25	
+   2	  52 	   50	 3/07/2022 12:05:24 PM	  0:02:59	
+   3	  33 	   30	 3/07/2022 12:10:09 PM	  0:04:45	
+   4	  53 	   50	 3/07/2022 12:24:00 PM	  0:13:51	
+   5	  43 	   40	 3/07/2022 12:33:03 PM	  0:09:03	
+   6	  25 	   20	 3/07/2022 12:45:26 PM	  0:12:23	
+   7	  44 	   40	 3/07/2022 12:53:42 PM	  0:08:16	
+   8	  55 	   50	 3/07/2022  1:01:10 PM	  0:07:28	
+   9	  97 	   90	 3/07/2022  1:09:21 PM	  0:08:11	
+  10	  54 	   50	 3/07/2022  1:17:22 PM	  0:08:01	
+  11	 101 	  100	 3/07/2022  1:54:49 PM	  0:37:27	
+  12	  23 	   20	 3/07/2022  6:02:01 AM	         	Punch clock failed.
+  13	  65 	   60	 3/07/2022  2:12:32 PM	  0:17:43	
+  14	  84 	   80	 3/07/2022  2:27:17 PM	  0:14:45	
+  15	  19 		 3/07/2022  3:04:51 PM	  0:37:34	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:04:51 PM
+Time on course   3:04:51
+
+
+  700	Points Scored.
+  -50	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

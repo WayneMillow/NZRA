@@ -1,0 +1,79 @@
+ 1	55*	Old & Haggard (Chris Forne, Greig Hamilton.)	 23:51:37	3750	MO1,MV1
+ 2	76	Tim and Jo (Jo Williams, Tim Farrant.)	 23:47:17	3300	XO1
+ 3	26	Sneaky twitchers (Struan Webb, Rhys John.)	 23:57:45	3260	MO2
+ 4	20	Gin and Tonic (Georgia Whitla, Tane Cambridge.)	 22:15:49	3060	XO2
+ 5	81	Where's Ali? (Eryn Cutler, Patrick Garceau, Brandon Purdue.)	 23:28:28	2710	MO3
+ 6	2	HLTR (Angus Watson, Sam Walton.)	 23:14:57	2560	MO4
+ 7	61	Simon and Simon (simon bloomberg, simon h bloomberg.)	 23:48:07	2500	MO5
+ 8	44	Free dinner (Owen Warburton, Byron Munro.)	 22:07:22	2490	MO6
+ 9	16	Searching for Panthers (Jake Stow, Dave Quested, John O'Regan.)	 21:16:52	2440	MO7
+ 10	21	Victory Vets Nelson (Adam Stanyer, Brendan Hickman, Angus Jennings.)	 21:22:14	2430	MO8
+ 11	80	Born Free (Aliesha Pile, Daniel Jessop.)	 21:55:57	2310	XO3
+ 12	36	Azimuths (Zefa Fa'avae, Nathan Fa'avae.)	 23:50:18	2210	MO9
+ 13	63	Walladubies (Jonty Mckinnel, Zach Mason, Tiaan Mckinnel.)	 23:13:29	2200	MO10,MJ1
+ 14	56	Moervark (Corbus van Zyl, Louise Mark.)	 23:41:50	2140	XO4,XV1
+ 15	34	Starborough (Glenn Blackmore, Andrew Jones.)	 21:46:48	2080	MO11,MV2
+ 16	74	Genius Beasts (Jason Mouat, Rolf Boswell.)	 23:49:16	2020	MO12,MV3
+ 17	71	Teeming (Vetti Fawcett, Alex Morgan.)	 21:24:51	1990	XO5
+ 18	52	Hanmer Kings (Patrick Marsh, Sam Bain.)	 21:45:28	1990	MO13,MJ2
+ 19	17	Lost in the Wood! (Stephen John, Simon Woods.)	 22:01:12	1940	MO14,MV4,MSV1
+ 20	43	What’s the matter Gary (Peter Montgomery, Steve Tripp.)	 20:17:17	1890	MO15,MV5,MSV2
+ 21	41	MitoQ girls (Kelly Munro, Hannah Norton.)	 21:02:23	1890	WO1
+ 22	50	Fernsiders (Peter Cleary, Callum Cleary.)	 22:47:31	1800	MO16
+ 23	30	Valkyries (Courtney Prestage, Megan Carter.)	 22:53:37	1800	WO2
+ 24	19	The Omen (Matt Ogden, Duncan Morrison.)	 16:41:33	1760	MO17
+ 25	6	Ian and Craig (Ian Huntsman, Craig Cox.)	 23:21:03	1750	MO18,MV6
+ 26	66	Would Phil go West in Anger? (Phil Wood, Ange West.)	 23:40:04	1750	XO6,XV2
+ 27	83	Team Jason (Jason Brown, Jason Gradwell.)	 21:30:45	1730	MO19
+ 28	25	L2 (Lara Shepherd, Leon Perrie.)	 23:38:30	1730	XO7,XV3
+ 29	13	Tidswell Twins (Will Tidswell, Jenna Tidswell.)	 23:04:28	1720	XO8,XJ1
+ 30	39	NZBRothers (Matthew Adams, Daniel Nogueira.)	 21:07:03	1710	MO20,MJ3
+ 31	69	Which Way For S.P.G (John Mckinnel, Kevin Duggan.)	 23:49:46	1640	MO21,MV7,MSV3
+ 32	18	Tussock Jumpers (Kieran Hickman, Mandy Macfarlane.)	 23:49:45	1620	XO9,XV4
+ 33	10	Partners in climb (Nicolas Dubois, Irina Sizova.)	 17:47:05	1610	XO10
+ 34	22	Hedley and Rupert (Hedley Wilton, Rupert MacLachlan.)	 19:32:31	1600	MO22
+ 35	78	CIC Financial (Melissa Nuttall, Nathan Hay, Luke Nuttall, Kieran Sutherland.)	 17:16:45	1590	XO11
+ 36	9	Complete Podiatry (Sam Eames, Sam Durrant.)	 16:54:38	1560	MO23
+ 37	64	Choppa's Slaves (Vivienne Prince, Dave Armstrong.)	 17:45:48	1560	XO12,XV5,XSV1
+ 38	59	Nga Rakau (Annette Windross, Mark Struthers.)	 21:58:57	1510	XO13,XV6,XSV2
+ 39	70	Over the Hill (Alan Moore, Richard Malloch.)	 23:04:37	1510	MO24,MV8
+ 40	12	Jenni and Wendy (Wendy Riach, Jenni Blyleven.)	 18:52:31	1490	WO3,WV1,WSV1
+ 41	46	R & B (Ross Friedrich, Baden Bickers.)	 22:59:25	1490	MO25,MV9,MSV4
+ 42	68	Hardly Walking (Mike Harding, Susan Walker.)	 16:11:38	1470	XO14,XV7
+ 43	5	Alpine Gypsies (Lottie Armstrong, Chris Greenan.)	 20:47:41	1440	XO15
+ 44	53	You can cry but keep moving! (Sakkie Meyer, Tim Cochrane.)	 18:55:21	1400	MO26,MV10
+ 45	67	Freedom Fitness and Coaching (Richard Dove, Tony Watson, Simon Lewis.)	 20:11:09	1400	MO27,MV11
+ 46	8	Scrambled Legs (Hamish Cotter, Charlotte Cotter, Emily Lynch-Sutherland, Grace Cotter.)	 17:36:31	1370	XO16
+ 47	11	Team Silky (Victoria Shelling, Callum Irvine, Andrew Riddell, Stephen Busby.)	 21:02:34	1370	XO17
+ 48	57	Waimea College Adventure Racing (Olivia Lambert, Luis Schneider, Daniel Crimp.)	 23:51:39	1350	XO18,XJ2
+ 49	58	Tiger Musketeers (Derek Hartley, Chris Hohe, Yvonne Grosch.)	 23:24:02	1290	XO19
+ 50	27	Mo's Mob (Jayden Meads, Samantha Fairhall, Paul Humphreys, Dean Stewart.)	 21:39:21	1280	XO20
+ 51	73	K-Racey (Kathryn Buckenberg, Caleb racey Hill, Roar Kristofferson, Kieran Hambrook.)	 23:28:08	1260	XO21
+ 52	72	Chipping Away (Ben Crossley, James McCone.)	 12:46:43	1250	MO28
+ 53	54	Scooby Snacks (Anne Murphy, Michelle McConnon.)	 23:37:51	1250	WO4,WV2
+ 54	33	Well Tracked (Simon Rea, Dick Dinsdale.)	 20:43:09	1220	MO29,MV12,MSV5
+ 55	75	The wonky donkeys minus one (Caroline Elliott, Anne Frankland.)	 18:29:38	1210	WO5,WV3
+ 56	60	M & M (Martin Pattison, Mitch Fearnley.)	 20:07:13	1210	MO30
+ 57	82	Mad - Marvellous adventures (Neil Murray, Anya Murray, Isaac Pawley.)	 21:34:20	1200	XO22
+ 58	1	Not a witty name (Paul Kelly, Alistair Boyce.)	 19:00:38	1190	MO31,MV13
+ 59	4	GU - RILLAS (Destry Harte, Karl Brown.)	 23:14:48	1180	MO32,MV14
+ 60	7	The M & M s (Liz Millow, Trevor Merrifield, Wayne Millow.)	 23:52:41	1140	XO23,XV8,XSV3
+ 61	35	Dora and the explorers (Alicia Cowey, Rachel Simons, Anne Commons.)	 16:47:30	1130	WO6,WV4
+ 62	51	SnP (Penelope Koroi, Sarah Green.)	 19:37:11	1120	WO7
+ 63	77	Girls Night Out (Zoe Marshall-Means, Marina Comeskey.)	 21:49:39	1090	WO8,WJ1
+ 64	29	Flyin Hawaiians (Marcus Dunnett, Ian Evans.)	 15:50:07	1070	MO33
+ 65	45	Cameltoes (Steve Lock, Polly Lock.)	 16:38:18	1030	XO24,XV9
+ 66	14	Long Black and Porter (Sarah Millar, Hedley Meacheam.)	 13:49:04	1010	XO25,XV10
+ 67	28	Vapro Bros (Mondo Kopua, David Mangnall.)	 17:41:55	1010	MO34,MV15,MSV6
+ 68	38	Liv & Neroli (Neroli Wall, Olivia Dower-Tylee.)	 21:57:19	1010	WO9
+ 69	79	Team RAB (Riley O’Connor, Kyla Rayward, Charlie Maclennan.)	 22:17:39	1010	XO26,XJ3
+ 70	40	Flutterbys (Kathrin Mueller, Val Rogers.)	 22:24:54	1010	WO10,WV5,WSV2,WUV1
+ 71	65	Mispeeled team naem (Amelia Rolfe, Stefan Przychodzko, Hovey Dickson, Jeffrey Wise, Harry O'neil.)	 18:50:50	940	XO27,XJ4
+ 72	31	Hurry Slowly (Ryan Hunter, Natalie Colville, David Sturrock, Mark Englefield.)	 17:45:04	920	XO28,XV11
+ 73	3	Hot Flash (Jane Lambert, Karolyne Dunn.)	 20:09:34	910	WO11,WV6
+ 74	47	Around the clock (Danielle Blackmore, Annabelle Latz.)	 21:24:14	850	WO12
+ 75	24	Shining Light On The Dark (Sarah Helmore, David Bennison, Ashley Cassin.)	 20:15:00	750	XO29
+ 76	48	Mooses (Alannah McGuinness, Daisy York, Isabella Zinzan-Dickie.)	 21:28:30	740	WO13,WJ2
+ 77	106	Dusty Wonders (Anthony Cummings, Ben Fletcher, Darius Mortimer-Webster, Max Truell.)	 22:36:48	560	MO35,MJ4
+ 78	15	Caffeine Aftershocks (Kelly Ashley, Shane Ashley.)	   9:55:24	150	XO30,XV12
+ 79	23	Strangers in the night (Tom Downey, Kirk McDonald, Melanie Hansen.)	 LATE	0

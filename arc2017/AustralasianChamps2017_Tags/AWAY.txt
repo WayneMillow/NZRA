@@ -1,0 +1,28 @@
+Team No. 162	Tag ID = AWAY   Tags=0011	Course 7hr
+Charlotte and Emily: Charlotte Cotter (NZL), Emily Lynch-Sutherland (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  104		11/02/2017 10:46:11 AM	         	BRIEFING. Score reset.
+   2	  310	   30	11/02/2017 11:13:32 AM	  0:13:32	
+   3	  407	   40	11/02/2017 11:38:37 AM	  0:25:05	
+   4	  203	   20	11/02/2017 12:08:06 PM	  0:29:29	
+   5	  505	   50	 5/02/2017  3:23:33 PM	         	Punch clock failed.
+   6	  202	   20	11/02/2017 12:58:46 PM	  0:50:40	
+   7	  601	   60	11/02/2017  1:42:05 PM	  0:43:19	
+   8	  901	   90	11/02/2017  2:29:54 PM	  0:47:49	
+   9	  807	   80	11/02/2017  3:32:09 PM	  1:02:15	
+  10	  207	   20	11/02/2017  5:55:08 PM	  2:22:59	
+  11	   19		11/02/2017  7:03:25 PM	  1:08:17	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  7:03:25 PM
+Time on course   8:03:25
+
+
+  410	Points Scored.
+ -410	Course Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

@@ -1,0 +1,32 @@
+Team No. 120	Tag ID = ATBB   Tags=0015	Course 24 hour
+Re-Entrants: Peter Jackson (NZL), Vincent pooch (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:38:57 AM	         	BRIEFING. Score reset.
+   2	  49 	   40	24/11/2018 12:15:58 PM	  0:15:58	
+   3	  58 	   50	24/11/2018 12:31:06 PM	  0:15:08	
+   4	  37 	   30	24/11/2018  1:40:55 PM	  1:09:49	
+   5	  67 	   60	24/11/2018  2:00:48 PM	  0:19:53	
+   6	  46 	   40	24/11/2018  2:22:27 PM	  0:21:39	
+   7	  68 	   60	24/11/2018  2:52:49 PM	  0:30:22	
+   8	  69 	   60	24/11/2018  4:40:29 PM	  1:47:40	
+   9	 100 	  100	24/11/2018  5:03:40 PM	  0:23:11	
+  10	  75 	   70	24/11/2018  6:56:33 PM	  1:52:53	
+  11	  84 	   80	24/11/2018  7:20:26 PM	  0:23:53	
+  12	  97 	   90	24/11/2018  7:48:17 PM	  0:27:51	
+  13	  72 	   70	24/11/2018  8:46:03 PM	  0:57:46	
+  14	  65 	   60	24/11/2018  9:57:51 PM	  1:11:48	
+  15	  18 		25/11/2018  0:14:51 AM	  2:17:00	FINISH TIME.
+END
+
+
+Recognised finish time 25/11/2018  0:14:51 AM
+Time on course  12:14:51
+
+
+  810	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 810

@@ -1,0 +1,29 @@
+Team No. 42	Tag ID = ANAV   Tags=0012	Course 6 hour
+K   C smashing it: Kristal Richards, Campbell Crimp
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:45:41 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 7/07/2019 10:16:40 AM	  0:16:40	
+   3	  51 	   50	 7/07/2019 10:42:22 AM	  0:25:42	
+   4	  49 	   40	 7/07/2019 10:53:02 AM	  0:10:40	
+   5	  45 	   40	 7/07/2019 11:46:21 AM	  0:53:19	
+   6	  53 	   50	 7/07/2019  1:20:11 PM	  1:33:50	
+   7	  72 	   70	 7/07/2019  1:31:36 PM	  0:11:25	
+   8	  54 	   50	 7/07/2019  2:01:06 PM	  0:29:30	
+   9	  42 	   40	 7/07/2019  2:20:57 PM	  0:19:51	
+  10	  57 	   50	 7/07/2019  2:31:08 PM	  0:10:11	
+  11	  21 	   20	 7/07/2019  3:22:31 PM	  0:51:23	
+  12	  18 		 7/07/2019  3:26:59 PM	  0:04:28	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:26:59 PM
+Time on course   5:26:59
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

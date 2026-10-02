@@ -1,0 +1,31 @@
+Team No. 225	Tag ID = AVDF   Tags=0014	Course 15hr
+The Gold Coasters: Jane Briscoe, Andrew Browne and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		16/12/2023 11:41:27 AM	         	BRIEFING. Score reset.
+   2	  22 	   20	16/12/2023 12:30:16 PM	  0:30:16	
+   3	  65 	   60	16/12/2023  1:26:53 PM	  0:56:37	
+   4	  51 	   50	16/12/2023  2:03:09 PM	  0:36:16	
+   5	  73 	   70	16/12/2023  2:40:19 PM	  0:37:10	
+   6	  41 	   40	16/12/2023  3:22:35 PM	  0:42:16	
+   7	  80 	   80	16/12/2023  4:23:35 PM	  1:01:00	
+   8	 100 	  100	16/12/2023  5:13:36 PM	  0:50:01	
+   9	  72 	   70	16/12/2023  6:28:00 PM	  1:14:24	
+  10	  91 	   90	16/12/2023  7:46:39 PM	  1:18:39	
+  11	  66 	   60	16/12/2023  9:29:18 PM	  1:42:39	
+  12	  96 	   90	16/12/2023 10:39:23 PM	  1:10:05	
+  13	  30 	   30	16/12/2023 10:55:25 PM	  0:16:02	
+  14	  18 		17/12/2023  0:50:15 AM	  1:54:50	FINISH TIME.
+END
+
+
+Recognised Course time 17/12/2023 12:50:15 AM
+Time on course  12:50:15
+
+
+  760	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

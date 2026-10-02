@@ -1,0 +1,29 @@
+Team No. 167	Tag ID = AJDG   Tags=0012	Course 6hr
+Lost in Loburn: Eleanor Power, Rachel Fahey
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		15/06/2019 10:38:39 AM	         	BRIEFING. Score reset.
+   2	  30 	   30	15/06/2019 11:23:07 AM	  0:23:07	
+   3	  72 	   70	15/06/2019 11:58:31 AM	  0:35:24	
+   4	  52 	   50	15/06/2019 12:12:32 PM	  0:14:01	
+   5	  23 	   20	15/06/2019 12:46:43 PM	  0:34:11	
+   6	  46 	   40	15/06/2019  1:10:17 PM	  0:23:34	
+   7	  85 	   80	15/06/2019  1:24:03 PM	  0:13:46	
+   8	  55 	   50	15/06/2019  1:58:06 PM	  0:34:03	
+   9	  94 	   90	15/06/2019  2:30:15 PM	  0:32:09	
+  10	  75 	   70	15/06/2019  2:57:03 PM	  0:26:48	
+  11	  80 	   80	15/06/2019  3:32:46 PM	  0:35:43	
+  12	  19 		15/06/2019  5:05:43 PM	  1:32:57	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  5:05:43 PM
+Time on course   6:05:43
+
+
+  580	Points Scored.
+  -60	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

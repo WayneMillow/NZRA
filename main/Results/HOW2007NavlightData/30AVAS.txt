@@ -1,0 +1,36 @@
+Team No. 30	Tag ID = AVAS   Tags=0020	Course 12hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	HMH		12/06/2006  3:11:11 PM 	        	BRIEFING. Score reset.
+   2	HMJ		12/06/2006  3:10:09 PM 	        	BRIEFING. Score reset.
+   3	DMG		12/06/2006  3:10:55 PM 	        	BRIEFING. Score reset.
+   4	100		16/06/2007  8:41:33 AM 	        	     Test tag.
+   5	101		16/06/2007  8:41:38 AM 	        	     Test tag.
+   6	 31	 30	16/06/2007  9:23:09 AM 	  0:23:09	
+   7	 23	 20	16/06/2007  9:48:35 AM 	  0:25:26	
+   8	 37	 30	16/06/2007 10:13:03 AM	  0:24:28	
+   9	 28	 20	16/06/2007 10:38:01 AM	  0:24:58	
+  10	 29	 20	16/06/2007 11:00:56 AM	  0:22:55	
+  11	 36	 30	16/06/2007 11:29:43 AM	  0:28:47	
+  12	 36		16/06/2007 11:29:47 AM	  0:00:04	     Punched on Line 11
+  13	 27	 20	16/06/2007 12:46:21 PM	  1:16:34	
+  14	 64	 60	16/06/2007  1:30:38 PM 	  0:44:17	
+  15	 71	 70	16/06/2007  2:40:29 PM 	  1:09:51	
+  16	 34	 30	16/06/2007  3:41:43 PM 	  1:01:14	
+  17	 35	 30	16/06/2007  4:00:34 PM 	  0:18:51	
+  18	 11	 10	16/06/2007  5:51:10 PM 	  1:50:36	
+  19	 26	 20	16/06/2007  6:41:29 PM 	  0:50:19	
+  20	AMH		16/06/2007  7:18:43 PM 	  0:37:14	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  7:18:43 PM 
+Time on course  10:18:43
+
+
+  390	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

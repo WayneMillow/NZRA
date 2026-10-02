@@ -1,0 +1,29 @@
+Team No. 130	Tag ID = APBC   Tags=0012	Course 6 hour
+Wade Up: Wayne Glover, Denise Glover
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:09:38 AM	  0:09:38	
+   2	  39 	   30	19/06/2021 11:30:49 AM	  0:21:11	
+   3	  59 	   50	19/06/2021 11:52:27 AM	  0:21:38	
+   4	  61 	   60	19/06/2021 12:29:06 PM	  0:36:39	
+   5	  72 	   70	19/06/2021  1:03:53 PM	  0:34:47	
+   6	  52 	   50	19/06/2021  1:28:59 PM	  0:25:06	
+   7	 102 	  100	19/06/2021  1:52:59 PM	  0:24:00	
+   8	  42 	   40	19/06/2021  2:31:37 PM	  0:38:38	
+   9	  62 	   60	19/06/2021  2:56:10 PM	  0:24:33	
+  10	  31 	   30	19/06/2021  3:25:57 PM	  0:29:47	
+  11	  47 	   40	19/06/2021  4:25:41 PM	  0:59:44	
+  12	  57 		19/06/2021  5:07:22 PM	  0:41:41	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:07:22 PM
+Time on course   6:07:22
+
+
+  560	Points Scored.
+  -80	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

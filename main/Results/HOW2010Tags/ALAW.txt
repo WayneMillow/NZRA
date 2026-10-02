@@ -1,0 +1,32 @@
+Team No. 616	Tag ID = ALAW   Tags=0014	Course 6_HoW
+Anne Hann, Sue Bates and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:29:48 AM	         	BRIEFING. Score reset.
+   2	 76	 70	26/06/2010 11:23:15 AM	  0:23:15	
+   3	 84	 80	26/06/2010 11:43:53 AM	  0:20:38	
+   4	 56	 50	26/06/2010 12:17:01 PM	  0:33:08	
+   5	 93	 90	26/06/2010 12:33:55 PM	  0:16:54	
+   6	 75	 70	26/06/2010 12:57:51 PM	  0:23:56	
+   7	 43	 40	26/06/2010  1:21:26 PM 	  0:23:35	
+   8	 73	 70	26/06/2010  1:36:22 PM 	  0:14:56	
+   9	 82	 80	26/06/2010  2:22:56 PM 	  0:46:34	
+  10	 74	 70	26/06/2010 11:15:40 AM	         	Split time negative.
+  11	 35	 30	26/06/2010  3:31:48 PM 	  4:16:08	
+  12	 34	 30	26/06/2010  3:57:02 PM 	  0:25:14	
+  13	 45	 40	26/06/2010  4:12:53 PM 	  0:15:51	
+  14	 18		26/06/2010  4:41:51 PM 	  0:28:58	FINISH TIME.
+END
+	AddedPunch63	60
+
+
+Recognised finish time 26/06/2010  4:41:51 PM 
+Time on course   5:41:51
+
+
+  780	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

@@ -1,0 +1,25 @@
+Team No. 30	Tag ID = AWAS   Tags=0008	Course 7Hour
+Team Orange Pig: Julie Grant, Hayden Titchener
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:49:49 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:17:48 AM	  0:17:48	
+   3	 52	 50	27/02/2016 11:35:35 AM	  0:17:47	
+   4	 93	 90	27/02/2016 12:12:29 PM	  0:36:54	
+   5	 61	 60	27/02/2016 12:40:08 PM	  0:27:39	
+   6	 53	 50	27/02/2016  1:16:49 PM	  0:36:41	
+   7	 45	 40	27/02/2016  1:59:37 PM	  0:42:48	
+   8	 16		27/02/2016  4:42:49 PM	  2:43:12	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  4:42:49 PM
+Time on course   5:42:49
+
+
+  310	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 310

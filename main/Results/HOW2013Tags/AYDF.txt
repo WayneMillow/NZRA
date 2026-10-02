@@ -1,0 +1,37 @@
+Team No. 607	Tag ID = AYDF   Tags=0041	Course 6hr
+Rapid thigh movement: Sarah Crawford, Joedy Nicholl, Sally Yarwood
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  23	108		 8/06/2013 10:15:50 AM	         	BRIEFING. Score reset.
+  24	 21	 20	 8/06/2013 10:32:52 AM	  0:03:52	
+  25	 30	 30	 8/06/2013 10:44:06 AM	  0:11:14	
+  26	 49	 40	 8/06/2013 11:10:25 AM	  0:26:19	 Punch  12 replaced by Group 49.
+  27	 67	 60	 8/06/2013 11:19:26 AM	  0:09:01	
+  28	 76	 70	 8/06/2013 11:42:03 AM	  0:22:37	
+  29	 66	 60	 8/06/2013 12:05:38 PM	  0:23:35	
+  30	 74	 70	 8/06/2013 12:42:43 PM	  0:37:05	
+  31	100	100	 8/06/2013  1:01:11 PM 	  0:18:28	
+  32	 47	 40	 8/06/2013  1:20:42 PM 	  0:19:31	
+  33	 56	 50	 8/06/2013  1:35:54 PM 	  0:15:12	
+  34	 83	 80	 8/06/2013  1:52:26 PM 	  0:16:32	
+  35	 38	 30	 8/06/2013  2:06:56 PM 	  0:14:30	
+  36	 65	 60	 8/06/2013  2:34:00 PM 	  0:27:04	
+  37	 57	 50	 8/06/2013  2:52:13 PM 	  0:18:13	
+  38	 75	 70	 8/06/2013  3:15:04 PM 	  0:22:51	
+  39	 20	 20	 8/06/2013  3:32:03 PM 	  0:16:59	
+  40	 58	 50	 8/06/2013  3:52:06 PM 	  0:20:03	
+  41	 16		 8/06/2013  4:05:33 PM 	  0:13:27	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:05:33 PM 
+Time on course   5:36:33
+
+
+  980	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 980

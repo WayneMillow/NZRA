@@ -1,0 +1,25 @@
+Team No. 256	Tag ID = AHDL   Tags=0008	Course 1.5 hour
+Rotherham Rascals: Ginny Macfarlane, Riley Mason and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:44:12 PM	         	BRIEFING. Score reset.
+   2	  26 	   20	 7/07/2019  1:01:52 PM	  0:01:52	
+   3	  32 	   30	 7/07/2019  1:12:47 PM	  0:10:55	
+   4	  49 	   40	 7/07/2019  1:16:41 PM	  0:03:54	
+   5	  65 	   60	 7/07/2019  1:42:01 PM	  0:25:20	
+   6	  45 	   40	 7/07/2019  1:58:37 PM	  0:16:36	
+   7	  39 	   30	 7/07/2019  2:11:15 PM	  0:12:38	
+   8	  16 		 7/07/2019  2:25:06 PM	  0:13:51	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:25:06 PM
+Time on course   1:25:06
+
+
+  220	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 220

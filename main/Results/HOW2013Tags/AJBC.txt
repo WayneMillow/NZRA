@@ -1,0 +1,35 @@
+Team No. 565	Tag ID = AJBC   Tags=0017	Course 6hr
+Ramblers: Shane Carroll, Mark Suckling
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	105		 8/06/2013 10:18:01 AM	         	BRIEFING. Score reset.
+   3	 21	 20	 8/06/2013 10:36:20 AM	  0:07:20	 Punch  11 replaced by Group 21.
+   4	 44	 40	 8/06/2013 10:52:01 AM	  0:15:41	
+   5	 53	 50	 8/06/2013 11:22:52 AM	  0:30:51	
+   6	 26	 20	 8/06/2013 11:39:25 AM	  0:16:33	
+   7	 60	 60	 8/06/2013 11:58:12 AM	  0:18:47	
+   8	 51	 50	 8/06/2013 12:06:07 PM	  0:07:55	
+   9	 33	 30	 8/06/2013 12:26:16 PM	  0:20:09	
+  10	102	100	 8/06/2013 12:43:40 PM	  0:17:24	
+  11	 31	 30	 8/06/2013  1:02:35 PM 	  0:18:55	
+  12	 99	 90	 8/06/2013  1:26:54 PM 	  0:24:19	
+  13	 62	 60	 8/06/2013  1:49:35 PM 	  0:22:41	
+  14	 86	 80	 8/06/2013  3:14:47 PM 	  1:25:12	
+  15	 68	 60	 8/06/2013  3:36:02 PM 	  0:21:15	
+  16	 39	 30	 8/06/2013  4:03:44 PM 	  0:27:42	
+  17	 14		 8/06/2013  4:29:09 PM 	  0:25:25	FINISH TIME.
+END
+	AddedPunch80	80
+	AddedPunch71	70
+
+
+Recognised finish time  8/06/2013  4:29:09 PM 
+Time on course   6:00:09
+
+
+  870	Points Scored.
+   20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 850

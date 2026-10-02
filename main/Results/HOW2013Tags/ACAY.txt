@@ -1,0 +1,26 @@
+Team No. 502	Tag ID = ACAY   Tags=0009	Course 6hr
+Two Thirds Ready: Sophia  Beale, Amanda Richards
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 11:22:35 AM	         	BRIEFING. Score reset.
+   2	 53	 50	 8/06/2013 11:50:10 AM	  0:27:35	
+   3	 44	 40	 8/06/2013 12:15:37 PM	  0:25:27	
+   4	 86	 80	 8/06/2013  1:12:52 PM 	  0:57:15	
+   5	 68	 60	 8/06/2013  1:36:04 PM 	  0:23:12	
+   6	101	100	 8/06/2013  2:22:01 PM 	  0:45:57	
+   7	 31	 30	 8/06/2013  3:28:19 PM 	  1:06:18	
+   8	 99	 90	 8/06/2013  3:49:28 PM 	  0:21:09	
+   9	 16		 8/06/2013  4:39:15 PM 	  0:49:47	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:39:15 PM 
+Time on course   6:10:15
+
+
+  450	Points Scored.
+  220	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 230

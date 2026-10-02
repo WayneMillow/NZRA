@@ -1,0 +1,30 @@
+Team No. 135	Tag ID = AZBC   Tags=0013	Course 3hr
+The Blind leading the blind: Sam Irani, Aranzazuas Pagalday
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	 3/07/2022 12:09:03 PM	  0:09:03	
+   2	  53 	   50	 3/07/2022 12:24:18 PM	  0:15:15	
+   3	  43 	   40	 3/07/2022 12:36:11 PM	  0:11:53	
+   4	  44 	   40	 3/07/2022 12:45:20 PM	  0:09:09	
+   5	  55 	   50	 3/07/2022 12:51:32 PM	  0:06:12	
+   6	  97 	   90	 3/07/2022  1:00:41 PM	  0:09:09	
+   7	  54 	   50	 3/07/2022  1:12:41 PM	  0:12:00	
+   8	 101 	  100	 3/07/2022  1:29:44 PM	  0:17:03	
+   9	  73 	   70	 3/07/2022  1:45:11 PM	  0:15:27	
+  10	  23 	   20	 3/07/2022  5:57:18 AM	         	Punch clock failed.
+  11	  65 	   60	 3/07/2022  2:17:40 PM	  0:32:29	
+  12	  41 	   40	 3/07/2022  2:51:40 PM	  0:34:00	
+  13	  19 		 3/07/2022  2:54:53 PM	  0:03:13	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:54:53 PM
+Time on course   2:54:53
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

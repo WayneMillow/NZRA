@@ -1,0 +1,33 @@
+Team No. 2213	Tag ID = AVAS   Tags=0016	Course 3Hr
+Walking in circles: Rebecca Dobbs, Bess White and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:37:27 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:05:34 PM	  0:05:34	
+   3	  55 	   50	 9/07/2017 12:15:12 PM	  0:09:38	
+   4	  58 	   50	 9/07/2017 12:28:28 PM	  0:13:16	
+   5	  73 	   70	 9/07/2017 12:39:14 PM	  0:10:46	
+   6	  84 	   80	 9/07/2017 12:55:43 PM	  0:16:29	
+   7	  35 	   30	 9/07/2017  1:09:41 PM	  0:13:58	
+   8	  61 	   60	 9/07/2017  1:22:27 PM	  0:12:46	
+   9	  23 	   20	 9/07/2017  1:38:50 PM	  0:16:23	
+  10	  64 	   60	 9/07/2017  1:50:04 PM	  0:11:14	
+  11	  63 	   60	 9/07/2017  2:00:48 PM	  0:10:44	
+  12	  41 	   40	 9/07/2017  2:10:52 PM	  0:10:04	
+  13	  81 	   80	 9/07/2017  2:25:59 PM	  0:15:07	
+  14	  31 	   30	 9/07/2017  2:37:43 PM	  0:11:44	
+  15	  37 	   30	 9/07/2017  2:45:07 PM	  0:07:24	
+  16	 108 		 9/07/2017  2:49:46 PM	  0:04:39	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:49:46 PM
+Time on course   2:49:46
+
+
+  680	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 680

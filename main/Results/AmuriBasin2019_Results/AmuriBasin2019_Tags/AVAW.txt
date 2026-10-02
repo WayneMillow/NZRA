@@ -1,0 +1,30 @@
+Team No. 58	Tag ID = AVAW   Tags=0013	Course 6 hour
+Rogaining Rookies: Roger Williams, Rebecca Mansfield and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:56:03 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 7/07/2019 10:17:57 AM	  0:17:57	
+   3	  51 	   50	 7/07/2019 10:36:28 AM	  0:18:31	
+   4	  49 	   40	 7/07/2019 10:48:59 AM	  0:12:31	
+   5	  65 	   60	 7/07/2019 11:13:42 AM	  0:24:43	
+   6	  45 	   40	 7/07/2019 11:39:42 AM	  0:26:00	
+   7	  46 	   40	 7/07/2019 12:21:37 PM	  0:41:55	
+   8	  34 	   30	 7/07/2019  1:14:16 PM	  0:52:39	
+   9	  42 	   40	 7/07/2019  2:11:11 PM	  0:56:55	
+  10	  57 	   50	 7/07/2019  2:23:45 PM	  0:12:34	
+  11	  54 	   50	 7/07/2019  2:44:26 PM	  0:20:41	
+  12	  67 	   60	 7/07/2019  3:17:24 PM	  0:32:58	
+  13	  18 		 7/07/2019  3:59:09 PM	  0:41:45	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:59:09 PM
+Time on course   5:59:09
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

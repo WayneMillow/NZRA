@@ -1,0 +1,54 @@
+<HTML>
+<HEAD><TITLE>NZRA - Leave NZRA Membership</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<LINK href="../stylesheet.css" type=text/css rel=stylesheet>
+</HEAD>
+
+<!-- There are quite a few absolutes in this form, eg. redirect address, server address, form recipient.  -->
+
+<BODY  class=medium bgColor=lightblue>
+
+<!-- WKK... site dependence -->
+<form method=POST action="/cgi-bin/FormMail.pl">
+
+<!-- WKK... site dependence -->
+<input type=hidden name="recipient" value="P.Squires@xtra.co.nz,Kennedyz@xtra.co.nz,Jude.Elliot@xtra.co.nz">
+
+<input type=hidden name="subject" value="Remove me from NZRA Membership"> 
+<input type=hidden name="required" value="realname,email">
+<input type=hidden name="print_config" value="subject">
+<!--  <input type=hidden name="print_config" value="realname">  -->
+
+<!-- WKK... site dependence -->
+<!-- Note that the following two addresses cannot be relative because it is Perl that refers to them. -->
+<input type=hidden name="redirect" value="/main/LeaveMemberFormResponse.htm">
+<input type=hidden name="missing_fields_redirect" value="/main/ResponseIncomplete.htm">
+
+
+<center><font class=subtitle><u>Please remove me from the<br> NZRA Membership List</u> </font></center><br>
+
+<table align=center border=0>
+<tr> 
+<th align=left class=medium colspan=2>Please note that BOTH name and email address are needed for us to ensure that you are removed from the Membership list.<br>&nbsp;<br></th></tr> 
+<tr> 
+<th align=right class=mediumB>**Name: </th><td><input type=text name="realname" size=40 style="font-size: 12px;"></td></tr>
+<tr> 
+<th align=right class=mediumB>**E-Mail: </th><td><input type=text name="email" size=40 style="font-size: 12px;"></td></tr>
+<tr> 
+<th align=right class=mediumB>Phone: </th><td><input type=text name="Phone" size=20 style="font-size: 12px;"></td></tr>
+</table> 
+
+<hr size=1> 
+<center><table border=0> 
+<tr><th class=largerB align=left valign=top>Do you have any comments?</th></tr>
+<tr><td style="font-size: 12px;"> <textarea name="Comments" class=medium style="font-size=12px;" COLS=60 ROWS=9 wrap=physical>
+ To:   New Zealand Rogaining Association........
+
+</textarea></td></tr></table></center> 
+
+<center><input type="submit" value="Send Message"> <input type="reset" value="Clear Form">
+<font class=smaller> <br><br> 
+[<a href="" onClick="window.close()">Close this window</a>] 
+</font></center></form>
+</body> 
+</html>  

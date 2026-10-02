@@ -1,0 +1,32 @@
+Team No. 1155	Tag ID = AMAS   Tags=0015	Course 12Hr
+Ian and Wendy: Ian Huntsman, Wendy Riach
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017  8:43:17 AM	         	BRIEFING. Score reset.
+   2	 29	 20na	10/06/2017  9:02:32 AM	  0:02:32	 Punch  50 replaced by Group 29.
+   3	 20	 20na	10/06/2017  9:15:14 AM	  0:12:42	
+   4	 31	 30na	10/06/2017  9:30:57 AM	  0:15:43	
+   5	 42	 40na	10/06/2017  9:48:55 AM	  0:17:58	
+   6	100	100na	10/06/2017 10:10:04 AM	  0:21:09	
+   7	 60	 60na	10/06/2017 10:26:43 AM	  0:16:39	
+   8	 81	 80na	10/06/2017 11:08:33 AM	  0:41:50	
+   9	 91	 90na	10/06/2017 11:33:15 AM	  0:24:42	
+  10	 62	 60na	10/06/2017 12:21:30 PM	  0:48:15	
+  11	 93	 90na	10/06/2017 12:53:42 PM	  0:32:12	
+  12	 72	 70na	10/06/2017  1:18:54 PM	  0:25:12	
+  13	 44	 40na	10/06/2017  1:36:16 PM	  0:17:22	
+  14	 53	 50na	10/06/2017  2:26:51 PM	  0:50:35	
+  15	 10	 10na	10/06/2017  2:42:00 PM	  0:15:09	
+END					(WARNING - No FINISH Punch found.)
+
+
+Recognised finish time 10/06/2017  9:31:00 PM
+Time on course   0:00:00	(No FINISH Punch found.)
+
+
+    0	Points Scored. (Ignores 760 points punched after Finish Time.)
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

@@ -1,0 +1,32 @@
+Team No. 179	Tag ID = AHDH   Tags=0015	Course 3 hour
+Which way is South Georgia?: Susan Alexander, Keith Alexander
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:40:40 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:10:39 PM	  0:10:39	
+   3	  49 	   40	 7/07/2019 12:18:28 PM	  0:07:49	
+   4	  65 	   60	 7/07/2019 12:27:32 PM	  0:09:04	
+   5	  54 	   50	 7/07/2019 12:52:20 PM	  0:24:48	
+   6	  41 	   40	 7/07/2019  1:01:24 PM	  0:09:04	
+   7	  42 	   40	 7/07/2019  1:17:47 PM	  0:16:23	
+   8	  43 	   40	 7/07/2019  1:41:30 PM	  0:23:43	
+   9	  52 	   50	 7/07/2019  1:54:13 PM	  0:12:43	
+  10	  46 	   40	 7/07/2019  2:07:15 PM	  0:13:02	
+  11	  59 	   50	 7/07/2019  2:14:37 PM	  0:07:22	
+  12	  73 	   70	 7/07/2019  2:38:19 PM	  0:23:42	
+  13	  31 	   30	 7/07/2019  2:44:43 PM	  0:06:24	
+  14	  47 	   40	 7/07/2019  2:51:36 PM	  0:06:53	
+  15	  16 		 7/07/2019  2:57:02 PM	  0:05:26	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:57:02 PM
+Time on course   2:57:02
+
+
+  600	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

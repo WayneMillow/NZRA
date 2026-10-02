@@ -1,0 +1,30 @@
+Team No. 2265	Tag ID = AEDG   Tags=0013	Course 6Hr
+Hoki hillbillies: Kathryn Conradson, Carla Glass and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:43:17 AM	         	BRIEFING. Score reset.
+   2	 29	 20	10/06/2017 11:03:21 AM	  0:03:21	
+   3	 20	 20	10/06/2017 11:16:20 AM	  0:12:59	
+   4	 31	 30	10/06/2017 11:35:26 AM	  0:19:06	
+   5	 42	 40	10/06/2017 12:00:20 PM	  0:24:54	
+   6	100	100	10/06/2017 12:24:45 PM	  0:24:25	
+   7	 60	 60	10/06/2017  1:17:54 PM	  0:53:09	
+   8	 80	 80	10/06/2017  1:44:38 PM	  0:26:44	
+   9	 51	 50	10/06/2017  2:03:20 PM	  0:18:42	
+  10	 28	 20	10/06/2017  2:17:37 PM	  0:14:17	
+  11	 91	 90	10/06/2017  2:43:43 PM	  0:26:06	
+  12	 81	 80	10/06/2017  3:04:52 PM	  0:21:09	
+  13	108		10/06/2017  5:23:10 PM	  2:18:18	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:23:10 PM
+Time on course   6:23:10
+
+
+  590	Points Scored.
+ -240	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

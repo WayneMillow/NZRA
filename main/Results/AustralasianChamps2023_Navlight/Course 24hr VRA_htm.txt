@@ -1,0 +1,120 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	W	X	M	W	X	
+						V	S		V	S		V	S	J	J	J	U	U	U	
+							V			V			V				V	V	V	
+ 1	35	4630	 23:31:58	Greig and Chris (Greig Hamilton, Chris Forne.)	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	64	4260	 23:50:32	Nutrient Rescue (Darron Jones, Dave Quested.)	2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	115	4070	 23:37:06	Windmills and whirlpools (Arran Whiteford, Hamish Laing.)	3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 4	77	3880	 23:17:57	QuinnBaldwin (Julie Quinn, David Baldwin.)	.	.	.	.	.	.	1	1	.	.	.	.	.	.	.	
+ 5	79	3820	 23:23:58	Rab Wahine (Georgia Whitla, Emily Wilson.)	.	.	.	1	.	.	.	.	.	.	.	.	.	.	.	
+ 6	60	3740	 23:39:42	Mr & Mr Smith (Nick Smith, Scott Smith.)	4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 7	99	3740	 23:53:40	The Kiwi and the Finn (Tim Farrant, Mikko Eklund, Molly Spark.)	.	.	.	.	.	.	2	.	.	.	.	.	.	.	.	
+ 8	19	3670	 23:32:19	Can't hear you (Phil Wood, Malcolm Mcleod.)	5	1	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 9	11	3600	 23:37:47	Barefoot Brorks (Mitch Nissen, Calvin Deacon.)	6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 10	94	3550	 22:38:59	Team Devold (Jamie Mountier, Tim Sikma.)	7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 11	123	3460	 23:06:12	FEAR Youth (Fynn  Mitchell, Josh  Pearson.)	8	.	.	.	.	.	.	.	.	1	.	.	.	.	.	
+ 12	84	3460	 23:30:32	Rob and Rachel (Rachel Lynskey, Rob Lei.)	.	.	.	.	.	.	3	.	.	.	.	.	.	.	.	
+ 13	44	3450	 23:50:19	Kendra's Krew (Angus Watson, Grace Seeley.)	.	.	.	.	.	.	4	.	.	.	.	.	.	.	.	
+ 14	22	3340	 23:31:33	CMC (Thomas  Hughes, George  Hedley.)	9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 15	72	3300	 23:34:56	Pete and Dave Show (David Slater, Peter Menis.)	10	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 16	98	3240	 23:41:15	The Burgers (Barry Burger, Louie Burger.)	11	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 17	55	3200	 23:41:33	Mazel Tov (Monty Montgomery, Rob Harrow.)	12	2	1	.	.	.	.	.	.	.	.	.	.	.	.	
+ 18	96	3180	 23:29:08	Tenacious Turtles (Ev  Tolerton, Nathan Harris.)	13	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 19	109	3110	 23:14:15	Washed up Orienteers (Fergus O'Neill, Ryan Moore.)	14	.	.	.	.	.	.	.	.	2	.	.	.	.	.	
+ 20	39	3060	 22:08:54	Inching Along (Steve Tripp, Chris  Taylor.)	15	3	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 21	124	3040	 23:18:54	Estonian Ace Development (Glen Mitchell, Adrian  Braaksma.)	16	4	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 22	101	3000	 23:06:26	The lost beekeepers (Roland Eveleens, Kat Holmes.)	.	.	.	.	.	.	5	.	.	.	.	.	.	.	.	
+ 23	80	2990	 23:13:21	Racey Delaceys (Emma De Lacey, Guy de Lacey.)	.	.	.	.	.	.	6	2	1	.	.	.	.	.	1	
+ 24	9	2920	 23:45:01	Backcountry Studio (Nico Dubois, Ira Sizova.)	.	.	.	.	.	.	7	.	.	.	.	.	.	.	.	
+ 25	74	2900	 23:52:34	Port Hills Posse (Scott Condron, Tim Mulliner.)	17	5	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 26	3	2880	 21:20:35	3POC (Gary  Sutherland, Cint Falla.)	18	6	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 27	1	2860	 23:31:22	San Pedro`s Boys (John Mckinnel, Kevin  Duggan.)	19	7	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 28	2	2840	 22:21:25	2 Wise Men and Steve (Steve O'Neill, Peter Mitchell, Alan Moore.)	20	8	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 29	76	2820	 22:19:39	Pulp Friction (Dave  Cowie, Darren Clay.)	21	9	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 30	7	2820	 22:24:27	Alpine Gypsies (Christopher Greenan, Lottie Armstrong.)	.	.	.	.	.	.	8	.	.	.	.	.	.	.	.	
+ 31	12	2790	 22:42:00	Bearwings (Robyn Eyster, Teddy Eyster.)	.	.	.	.	.	.	9	.	.	.	.	.	.	.	.	
+ 32	112	2790	 22:49:56	What's a Rogaine? (Jarrod  McLauchlan, Brooke Thomas.)	.	.	.	.	.	.	10	.	.	.	.	.	.	.	.	
+ 33	28	2770	 23:39:57	Far Two Ambitious (Paul Guard, Sally Lochhead.)	.	.	.	.	.	.	11	3	.	.	.	.	.	.	.	
+ 34	8	2760	 22:48:28	BAAH (Hamish France, Adrian France, Alex Braun, Ben Hay.)	22	.	.	.	.	.	.	.	.	3	.	.	.	.	.	
+ 35	48	2760	 23:16:48	La llama es una quadrupido (Craig Pelvin, Andrew Lonie.)	23	10	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 36	5	2690	 23:31:26	Alice and Simon (simon bloomberg, Alice Brice.)	.	.	.	.	.	.	12	4	.	.	.	.	.	.	.	
+ 37	110	2660	 22:51:35	Weasties (Peter Cleary, Connor Clearty.)	24	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 38	70	2650	 22:50:33	Path Finders (Blake McMillan, Jacob Takuira-Mita, Cameron Morriss, Mark Lewis.)	25	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 39	73	2600	 23:20:18	Plan-it (Jo Forbes, Antonia Wood, Mary McBride.)	.	.	.	2	1	.	.	.	.	.	.	.	.	.	.	
+ 40	78	2580	 22:31:28	R & S (Ross Friedrich, Steve Pyatt.)	26	11	3	.	.	.	.	.	.	.	.	.	1	.	.	
+ 41	43	2530	 22:41:45	Kauri Coasters Youth plus old fella (Graeme Ewenson, Hayden Ewenson, Alex Watson.)	27	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 42	4	2510	 23:22:14	Adventure before dementia (Jenni Blyleven, Suzanne McLister.)	.	.	.	3	2	1	.	.	.	.	.	.	.	.	.	
+ 43	61	2490	 22:30:25	Nga Rakau (Mark Struthers, Annette Windross.)	.	.	.	.	.	.	13	5	2	.	.	.	.	.	.	
+ 44	81	2440	 23:34:52	Rapid Thigh Movement (Dena Bakkenes, Jacques Bakkenes.)	.	.	.	.	.	.	14	.	.	.	.	.	.	.	.	
+ 45	47	2430	 23:30:35	L2 (Leon Perrie, Lara Shepherd.)	.	.	.	.	.	.	15	6	.	.	.	.	.	.	.	
+ 46	83	2340	 18:18:33	Resisting A Rest (Emma Rogers, Dave Hume, John West, Mira Schwill, Chris McHarg and 1 other.)	.	.	.	.	.	.	16	.	.	.	.	.	.	.	.	
+ 47	13	2320	 22:45:56	Birthday Trip (Lisa Haycock, Tui Hambrook, Lauren Assink.)	.	.	.	4	.	.	.	.	.	.	.	.	.	.	.	
+ 48	65	2320	 23:04:36	Old Dog And The Pup. (Terry Davis, Ben Wallbank.)	28	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 49	67	2310	 22:29:02	Older and wiser (Richard Dove, Simon Lewis.)	29	12	4	.	.	.	.	.	.	.	.	.	.	.	.	
+ 50	59	2310	 22:29:59	moose on the loose (Daniel Johnston, Tim Lusk.)	30	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 51	33	2310	 23:08:10	Generation X-cellers (Mark  Watson, Michelle Watson, Vicky Sandford.)	.	.	.	.	.	.	17	7	.	.	.	.	.	.	.	
+ 52	71	2310	 23:20:06	Perfect Strangers (Kirk  McDonald, Anita  Copplestone.)	.	.	.	.	.	.	18	8	.	.	.	.	.	.	.	
+ 53	106	2260	 23:23:55	Vivid Dick (Richard Robinson, Vivienne Prince.)	.	.	.	.	.	.	19	9	3	.	.	.	.	.	2	
+ 54	58	2250	 23:39:05	Missing Bits (Douglas Woods, Colin Dixon.)	31	13	5	.	.	.	.	.	.	.	.	.	.	.	.	
+ 55	21	2240	 23:28:23	Cirque Du Sore Legs (Lisa Ainley, Genevieve  Leech.)	.	.	.	5	.	.	.	.	.	.	.	.	.	.	.	
+ 56	125	2240	 23:36:25	Chain Hills Rogaine Club (Hamish Cotter, Sarah Unwin, Tom Logie.)	.	.	.	.	.	.	20	.	.	.	.	.	.	.	.	
+ 57	41	2210	 22:32:37	K&R (Kaye Harding, Richard Spelman.)	.	.	.	.	.	.	21	10	.	.	.	.	.	.	.	
+ 58	108	2200	 23:05:33	Wandering Watsons (Philip Watson, Catherine Watson.)	.	.	.	.	.	.	22	11	.	.	.	.	.	.	.	
+ 59	16	2180	 23:19:53	Busy Bees (Bruce Barnett, Monika Binder.)	.	.	.	.	.	.	23	12	4	.	.	.	.	.	.	
+ 60	116	2170	 23:14:32	Wonky Donkeys (Chris Dixon, Caroline  Elliott.)	.	.	.	6	3	.	.	.	.	.	.	.	.	.	.	
+ 61	54	2160	 21:24:08	Marvellous Adventures MAD (Neil Murray, Anya  Murray.)	.	.	.	.	.	.	24	.	.	.	.	.	.	.	.	
+ 62	24	2160	 21:42:07	Courtney & Olivia (Courtney Prestage, Olivia Hammond.)	.	.	.	7	.	.	.	.	.	.	.	.	.	.	.	
+ 63	51	2150	 20:07:11	Los Callejeros (Thomas Paul, Max Butchers.)	32	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 64	34	2140	 22:29:52	Got wood? (Mia  Gordon, Dom Cleary.)	.	.	.	.	.	.	25	.	.	.	.	1	.	.	.	
+ 65	92	2140	 23:17:29	Tamdy (Tamsin Barnes, Wendy Riach.)	.	.	.	8	4	.	.	.	.	.	.	.	.	.	.	
+ 66	45	2120	 22:27:49	Kiwifruits (Jimmy Sewell, Anna Sewell.)	.	.	.	.	.	.	26	.	.	.	.	.	.	.	.	
+ 67	114	2090	 17:56:22	Which way's North? (Anna Scheirlinck, Steph Scheirlinck.)	.	.	.	9	.	.	.	.	.	.	.	.	.	.	.	
+ 68	53	2080	 21:45:33	Maptastrophe (Claire Le Grice, Megan Farndale.)	.	.	.	10	.	.	.	.	.	.	.	.	.	.	.	
+ 69	95*	2020	 22:58:20	Team Logs (Will Payne, Sarah  Hamilton, Matthew  Broad.)	.	.	.	.	.	.	27	.	.	.	.	.	.	.	.	
+ 70	14	2010	 23:14:43	Bodjohn (Pat Bodger, Steve John.)	33	14	6	.	.	.	.	.	.	.	.	.	2	.	.	
+ 71	75	2000	 23:27:50	Prickly pair (Eamon Barrett, Jackson Jolly.)	34	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 72	93	1980	 22:04:04	Team Cameltoes (Polly Lock, Steve Lock.)	.	.	.	.	.	.	28	13	.	.	.	.	.	.	.	
+ 73	117	1980	 22:15:54	Worst Pace Scenario (Sarah Smith, Megan  Brown.)	.	.	.	11	.	.	.	.	.	.	.	.	.	.	.	
+ 74	23	1970	 23:14:48	CoLliSiOn CoUrSe (Hadani  Woodruff, Matt Hall.)	.	.	.	.	.	.	29	14	.	.	.	.	.	.	.	
+ 75	26	1900	 23:22:48	Devil may care (Liz Canning, Hugh Fitzgerald.)	.	.	.	.	.	.	30	15	5	.	.	.	.	.	.	
+ 76	37	1890	 21:01:44	Here for the sneers (Stephen Busby, Callum Irvine, Paul Dukes.)	35	15	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 77	36	1890	 23:20:38	Gritty girls (Rachel Simons, Nicola Mitchell.)	.	.	.	12	5	.	.	.	.	.	.	.	.	.	.	
+ 78	6	1870	 23:05:57	All Nighters (Simon Vandestadt, John Evans.)	36	16	7	.	.	.	.	.	.	.	.	.	.	.	.	
+ 79	15	1860	 23:09:59	Brendon & Jo (Brendon Roxburgh, Joelle Ward.)	.	.	.	.	.	.	31	.	.	.	.	.	.	.	.	
+ 80	100	1840	 23:04:14	The Lasses (Jean Douglass, Peggy Douglass.)	.	.	.	13	6	2	.	.	.	.	.	.	.	1	.	
+ 81	40	1830	 18:55:30	JMC A (Jack Sandford, Simon  Tomkins.)	37	.	.	.	.	.	.	.	.	4	.	.	.	.	.	
+ 82	32	1830	 20:02:33	Gains Train (Tom  Higgins, Ethan Bloemen.)	38	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 83	118	1820	 22:17:47	Control Freaks (Isabella Lilford, Abby Kidson, Chloe Woodburn.)	.	.	.	14	.	.	.	.	.	.	1	.	.	.	.	
+ 84	105	1800	 22:50:58	Uncoursed Shortranked (Chrissy Hohe, Yvonne  Grosch.)	.	.	.	15	.	.	.	.	.	.	.	.	.	.	.	
+ 85	49	1790	 22:17:09	Located (Graham Atkins, Clayton Gumbrell.)	39	17	8	.	.	.	.	.	.	.	.	.	.	.	.	
+ 86	18	1610	 19:36:34	CAJ Apples Ettrick (Flynn Goodger, Tiaan  McKinnel.)	40	.	.	.	.	.	.	.	.	5	.	.	.	.	.	
+ 87	20	1610	 21:45:39	Checkpoint 52 (Nicole Ranger, Glen Warner.)	.	.	.	.	.	.	32	.	.	.	.	.	.	.	.	
+ 88	63	1590	 22:10:52	North Loburn Reunion (Alister Metherell, Louise O'Connell.)	.	.	.	.	.	.	33	16	6	.	.	.	.	.	.	
+ 89	25	1590	 22:45:28	Dad & Daughter Duo (Grant Edmondson, Maya Edmondson.)	.	.	.	.	.	.	34	.	.	.	.	.	.	.	.	
+ 90	66	1590	 23:26:21	Old Time Wanderers (Andy Buchanan, Dave Laurie.)	41	18	9	.	.	.	.	.	.	.	.	.	3	.	.	
+ 91	31	1570	 22:31:23	Flutterbys (Val Rogers, Kathrin Mueller.)	.	.	.	16	7	3	.	.	.	.	.	.	.	2	.	
+ 92	27	1520	 20:49:46	Edge of Tomorrow (David Rowlands, Alexander Rowlands.)	42	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 93	111	1520	 22:19:30	Well Tracked (Simon Rea, Michael Wood, Dick Dinsdale.)	43	19	10	.	.	.	.	.	.	.	.	.	4	.	.	
+ 94	68	1490	 18:08:44	Optically Challenged (Mondo Kopua, David Mangnall.)	44	20	11	.	.	.	.	.	.	.	.	.	.	.	.	
+ 95	50	1470	 18:20:16	Long Black and Porter (Sarah Millar, Hedley  Meacheam.)	.	.	.	.	.	.	35	17	.	.	.	.	.	.	.	
+ 96	85	1470	 18:51:39	Shining Lights - Old & New (Alistair Boyce, Sarah Helmore.)	.	.	.	.	.	.	36	.	.	.	.	.	.	.	.	
+ 97	97*	1460	 14:46:36	The Bald and The Boney (Ben  O'Sullivan, Callum  Kingan.)	45	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 98	62	1450	 21:27:00	Nic and Soph (Nicole Owen, Sophie  Harrison.)	.	.	.	17	.	.	.	.	.	.	.	.	.	.	.	
+ 99	38	1440	 23:31:38	If found return to Canberra (Dylan  Smedley, Arun  Murali, Tim Bovaird, Jeevan Haikerwal.)	46	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 100	107	1430	 22:25:32	Vortex Divas (Elizabeth Woodgate, Fiona Croft-Trollope.)	.	.	.	18	8	.	.	.	.	.	.	.	.	.	.	
+ 101	91	1390	 19:12:13	Swag Addiction (August  Brey, Gypsy  Cook, Darcy  Gay, Daniel Harvey, Aidan  Soo.)	.	.	.	.	.	.	37	.	.	.	.	2	.	.	.	
+ 102	122	1390	 23:23:20	ReST: Real Social Time (E Wen Wong, Thomas James.)	.	.	.	.	.	.	38	.	.	.	.	3	.	.	.	
+ 103	57	1370	 21:46:12	Megvan! (Sue Clarke, Walter Kelemen.)	.	.	.	.	.	.	39	18	7	.	.	.	.	.	3	
+ 104	29	1270	 21:19:21	Father & Son (Martin Etherington, Samuel Etherington.)	47	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 105	104	1240	 22:23:58	The Wiz Kids (Wayne Millow, Liz Millow.)	.	.	.	.	.	.	40	19	8	.	.	.	.	.	4	
+ 106	86	1230	 22:44:33	Shortcuts (Geoff Morrison, Sean Morrison.)	48	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 107	88	1220	 22:04:22	Sore Back Sore Knee let's see (Brian Wilson, Els Coster.)	.	.	.	.	.	.	41	20	9	.	.	.	.	.	.	
+ 108	56	1210	 19:05:38	McMe (Trevor  Merrifield, Andrew  McGowan.)	49	21	12	.	.	.	.	.	.	.	.	.	5	.	.	
+ 109	69	1210	 21:05:51	Out for a good day (alex huffadine, Hilary  Pearson.)	.	.	.	19	.	.	.	.	.	.	.	.	.	.	.	
+ 110	82	1200	 23:09:06	Really? (Ken Livingston, Hube Wichers.)	.	.	.	.	.	.	42	21	10	.	.	.	.	.	.	
+ 111	10	1180	 23:20:13	Bain's on Rogaines (Deb Bain, Charlotte Bain.)	.	.	.	20	.	.	.	.	.	.	.	.	.	.	.	
+ 112	89	1170	 14:58:28	Southern Shellfish (Starfish Blake, Pipi Rowden, Toheroa Goldsmith.)	.	.	.	.	.	.	43	.	.	.	.	.	.	.	.	
+ 113	52	1000	 19:18:47	Lost & Found (Lance Knauf, Gustav Kircher.)	50	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 114	90	1000	 23:03:52	Summer Fun (Chris Mansell, Celia Fitzgerald.)	.	.	.	.	.	.	44	22	11	.	.	.	.	.	.	
+ 115	30	960	 17:23:56	Flaming Marshmallows (William Hart, Sarah Graham.)	.	.	.	.	.	.	45	.	.	.	.	.	.	.	.	
+ 116	103	780	 21:01:01	The Wilderpeople (Brad Thiele, Tom  Irvine.)	51	.	.	.	.	.	.	.	.	6	.	.	.	.	.	
+ 117	17	640	 22:12:31	Caffeine Aftershocks (Shane Ashley, Kelly Ashley.)	.	.	.	.	.	.	46	23	.	.	.	.	.	.	.	

@@ -1,0 +1,62 @@
+A:link {text-decoration: underline;}
+A:visited {text-decoration: underline;}
+A:active {text-decoration: none;}
+A:hover {text-decoration: none;} 
+ 
+	
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: maroon; FONT-FAMILY: Arial MT, Arial, Helvetica, sans-serif}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: black; FONT-FAMILY: Arial MT, Arial, Helvetica, sans-serif}
+.subsub {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Arial MT, Arial, Helvetica, sans-serif}
+
+
+.largest {
+	FONT-WEIGHT: normal; FONT-SIZE: 16px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.larger {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.medium {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.smaller {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}	
+.smallest {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+
+
+.largerB {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.mediumB {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.smallerB {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+
+	
+/* Use codes xxl,xl,l,m,s,xs,xxs to denote relative size */	
+
+.tocH {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: yellow; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;}
+.tocm {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; padding-left: 1ex; COLOR: whitesmoke; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;}
+.tocs {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: whitesmoke; padding-left: 4ex; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;}
+.toclinespace {
+	FONT-WEIGHT: normal; FONT-SIZE: 3px; COLOR: white; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+.linespace {
+	FONT-WEIGHT: normal; FONT-SIZE: 1px; COLOR: white; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}		
+
+
+.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: whitesmoke; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;}
+.menuSmaller {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: whitesmoke; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;}
+
+.smallerWhite {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none}
+	
+.smallWhite {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: white; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none}
+	
+.logo {padding-right: 30px; background-color: #cccccc ;}

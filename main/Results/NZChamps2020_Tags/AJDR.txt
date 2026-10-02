@@ -1,0 +1,28 @@
+Team No. 217	Tag ID = AJDR   Tags=0011	Course 6 hour
+UltraGrr's: Graeme Read, Richard English
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  7:54:50 PM	         	BRIEFING. Score reset.
+   2	  87 	   80	 7/11/2020  1:46:27 PM	  0:46:27	
+   3	 104 	  100	 7/11/2020  2:47:16 PM	  1:00:49	
+   4	  44 	   40	 7/11/2020  3:15:50 PM	  0:28:34	
+   5	  89 	   80	 7/11/2020  3:37:44 PM	  0:21:54	
+   6	  73 	   70	 7/11/2020  4:12:47 PM	  0:35:03	
+   7	  83 	   80	 7/11/2020  5:07:44 PM	  0:54:57	
+   8	  45 	   40	 7/11/2020  5:25:11 PM	  0:17:27	
+   9	  85 	   80	 7/11/2020  5:44:10 PM	  0:18:59	
+  10	 107 	  100	 7/11/2020  6:25:30 PM	  0:41:20	
+  11	  19 		 7/11/2020  6:59:07 PM	  0:33:37	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:59:07 PM
+Time on course   5:59:07
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

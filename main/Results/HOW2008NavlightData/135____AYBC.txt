@@ -1,0 +1,27 @@
+Team No. 135	Tag ID = AYBC   Tags=0010	Course 6hr
+Clare Revell, Amy Jones and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008 10:44:59 AM	         	BRIEFING. Score reset.
+   2	 22	 20	14/06/2008 11:07:03 AM	  0:07:03	     Group 22 replaces 97.
+   3	 49	 40	14/06/2008 11:20:10 AM	  0:13:07	
+   4	 59	 50	14/06/2008 11:38:36 AM	  0:18:26	
+   5	 32	 30	14/06/2008 12:22:52 PM	  0:44:16	
+   6	 62	 60	14/06/2008  1:42:54 PM 	  1:20:02	
+   7	 39	 30	14/06/2008  2:22:44 PM 	  0:39:50	
+   8	 23	 20	14/06/2008  3:00:09 PM 	  0:37:25	
+   9	 71	 70	14/06/2008  3:36:06 PM 	  0:35:57	
+  10	106		14/06/2008  4:44:07 PM 	  1:08:01	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:44:07 PM 
+Time on course   5:44:07
+
+
+  320	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 320

@@ -1,0 +1,30 @@
+Team No. 197	Tag ID = ATDJ   Tags=0013	Course 6 hour
+Tweedle dum & tweedle dee: Sue Courtney, Lynley Marks
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:07:49 AM	  0:07:49	
+   2	  24 	   20	19/06/2021 11:19:39 AM	  0:11:50	
+   3	  39 	   30	19/06/2021 11:31:45 AM	  0:12:06	
+   4	  59 	   50	19/06/2021 11:49:09 AM	  0:17:24	
+   5	  61 	   60	19/06/2021 12:23:15 PM	  0:34:06	
+   6	  72 	   70	19/06/2021 12:46:15 PM	  0:23:00	
+   7	  52 	   50	19/06/2021  1:07:54 PM	  0:21:39	
+   8	 102 	  100	19/06/2021  1:22:54 PM	  0:15:00	
+   9	  42 	   40	19/06/2021  1:57:10 PM	  0:34:16	
+  10	  62 	   60	19/06/2021  2:21:10 PM	  0:24:00	
+  11	  84 	   80	19/06/2021  2:42:42 PM	  0:21:32	
+  12	  63 	   60	19/06/2021  3:07:05 PM	  0:24:23	
+  13	  97 		19/06/2021  5:23:08 PM	  2:16:03	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:23:08 PM
+Time on course   6:23:08
+
+
+  650	Points Scored.
+ -240	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

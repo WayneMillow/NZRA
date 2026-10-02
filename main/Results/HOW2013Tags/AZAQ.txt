@@ -1,0 +1,35 @@
+Team No. 415	Tag ID = AZAQ   Tags=0017	Course 6hr
+Two Old Girls and Rebecca: Rebecca Mansfield, Jane Melville, Christine Taylor
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	104		 8/06/2013 10:17:33 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:38:04 AM	  0:09:04	
+   3	 76	 70	 8/06/2013 11:00:04 AM	  0:22:00	
+   4	 66	 60	 8/06/2013 11:20:35 AM	  0:20:31	
+   5	 74	 70	 8/06/2013 12:06:30 PM	  0:45:55	
+   6	100	100	 8/06/2013 12:24:30 PM	  0:18:00	
+   7	 47	 40	 8/06/2013 12:45:44 PM	  0:21:14	
+   8	 56	 50	 8/06/2013  1:04:51 PM 	  0:19:07	
+   9	 83	 80	 8/06/2013  1:23:47 PM 	  0:18:56	
+  10	 38	 30	 8/06/2013  1:40:29 PM 	  0:16:42	
+  11	 28	 20	 8/06/2013  1:55:30 PM 	  0:15:01	
+  12	 39	 30	 8/06/2013  2:06:26 PM 	  0:10:56	
+  13	 34	 30	 8/06/2013  2:27:32 PM 	  0:21:06	
+  14	 77	 70	 8/06/2013  3:21:20 PM 	  0:53:48	
+  15	 68	 60	 8/06/2013  3:39:13 PM 	  0:17:53	
+  16	 86	 80	 8/06/2013  3:55:45 PM 	  0:16:32	
+  17	 14		 8/06/2013  4:17:54 PM 	  0:22:09	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:17:54 PM 
+Time on course   5:48:54
+
+
+  920	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 920

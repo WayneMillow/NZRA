@@ -1,0 +1,31 @@
+Team No. 2212	Tag ID = ATAS   Tags=0014	Course 3Hr
+Scrambled Legs: linda wright, susan fitzmaurice
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:47:06 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:06:17 PM	  0:06:17	
+   3	  41 	   40	 9/07/2017 12:17:06 PM	  0:10:49	
+   4	  63 	   60	 9/07/2017 12:32:28 PM	  0:15:22	
+   5	  23 	   20	 9/07/2017 12:44:57 PM	  0:12:29	
+   6	  35 	   30	 9/07/2017 12:55:06 PM	  0:10:09	
+   7	  84 	   80	 9/07/2017  1:10:48 PM	  0:15:42	
+   8	  73 	   70	 9/07/2017  1:28:53 PM	  0:18:05	
+   9	  58 	   50	 9/07/2017  1:46:08 PM	  0:17:15	
+  10	  67 	   60	 9/07/2017  2:14:12 PM	  0:28:04	
+  11	  81 	   80	 9/07/2017  2:31:20 PM	  0:17:08	
+  12	  31 	   30	 9/07/2017  2:40:04 PM	  0:08:44	
+  13	  37 	   30	 9/07/2017  2:51:44 PM	  0:11:40	
+  14	 109 		 9/07/2017  2:58:25 PM	  0:06:41	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:58:25 PM
+Time on course   2:58:25
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

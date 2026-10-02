@@ -1,0 +1,11 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	W	W	F	
+					O	V	S	O	V	S	O	V	S	J	J	X	O	
+							V			V			V					
+ 1	102	730	   7:54:45	Samwhere with Esther (Sam McNally, Esther McNally.)	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 2	105	510	   8:04:08	Otolk (Caleb Jones, Rhys Jones.)	.	.	.	.	.	.	.	.	.	.	.	.	1	
+ 3	107	440	   8:01:25	The Whitecliffs Wanderer's (Ollie Thompson, Ricki Thompson, Frank Gallagher, Jared Gallagher.)	.	.	.	.	.	.	.	.	.	.	.	.	2	
+ 4	104	290	   7:56:17	GOATs and co (Annabelle Clark, Kendra Cocksedge, Charlie Harrison.)	.	.	.	1	.	.	.	.	.	.	.	.	.	
+ 5	106	250	   7:50:37	La Foxes (Alexander Wright, Griffin de Lange, Cooper Hunt, Ryan de Lange.)	.	.	.	.	.	.	.	.	.	.	.	.	3	
+ 6	109	210	   8:15:14	Lieberts have GRIT (Tobie Liebert, Robbie Liebert, Emilia Liebert.)	.	.	.	.	.	.	.	.	.	.	.	.	4	
+ 7	103	190	   8:15:21	Woop Woop (Kim de Graaf, Catherine Low.)	.	.	.	2	1	.	.	.	.	.	.	.	.	
+ 8	108	130	   7:53:08	Peak Predators (Nikolai Wright, Jane Wright, Wilbur Gallagher, Jodie Gallagher.)	.	.	.	.	.	.	.	.	.	.	.	.	5	

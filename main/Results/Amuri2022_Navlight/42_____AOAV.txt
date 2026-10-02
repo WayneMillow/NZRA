@@ -1,0 +1,31 @@
+Team No. 42	Tag ID = AOAV   Tags=0014	Course 6hr
+Unnamed: Karen Gray, Natastha Jelbert and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  43 	   40	 3/07/2022 10:30:24 AM	  0:30:24	
+   2	  44 	   40	 3/07/2022 10:42:24 AM	  0:12:00	
+   3	  55 	   50	 3/07/2022 10:50:51 AM	  0:08:27	
+   4	  97 	   90	 3/07/2022 11:05:33 AM	  0:14:42	
+   5	  67 	   60	 3/07/2022 11:17:26 AM	  0:11:53	
+   6	  58 	   50	 3/07/2022 11:53:35 AM	  0:36:09	
+   7	  82 	   80	 3/07/2022 12:02:50 PM	  0:09:15	
+   8	 103 	  100	 3/07/2022 12:57:39 PM	  0:54:49	
+   9	  28 	   20	 3/07/2022  1:15:49 PM	  0:18:10	
+  10	  38 	   30	 3/07/2022  2:12:26 PM	  0:56:37	
+  11	  73 	   70	 3/07/2022  2:36:23 PM	  0:23:57	
+  12	 101 	  100	 3/07/2022  2:51:21 PM	  0:14:58	
+  13	  25 	   20	 3/07/2022  3:05:22 PM	  0:14:01	
+  14	  18 		 3/07/2022  3:52:00 PM	  0:46:38	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:52:00 PM
+Time on course   5:52:00
+
+
+  750	Points Scored.
+     	No Time Penalty.
+85	Manual adjustment.
+
+
+FINAL SCORE = 835

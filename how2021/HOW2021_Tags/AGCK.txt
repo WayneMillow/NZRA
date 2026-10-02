@@ -1,0 +1,31 @@
+Team No. 146	Tag ID = AGCK   Tags=0014	Course 6 hour
+Mummy Bears: Jacqui Inder, Paula Eden and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:08:25 AM	  0:08:25	
+   2	  24 	   20	19/06/2021 11:19:53 AM	  0:11:28	
+   3	  39 	   30	19/06/2021 11:33:37 AM	  0:13:44	
+   4	  47 	   40	19/06/2021 11:55:04 AM	  0:21:27	
+   5	  80 	   80	19/06/2021 12:04:45 PM	  0:09:41	
+   6	  50 	   50	19/06/2021 12:50:16 PM	  0:45:31	
+   7	  35 	   30	19/06/2021  1:30:23 PM	  0:40:07	
+   8	 100 	  100	19/06/2021  1:47:08 PM	  0:16:45	
+   9	  20 	   20	19/06/2021  2:14:47 PM	  0:27:39	
+  10	  64 	   60	19/06/2021  2:59:09 PM	  0:44:22	
+  11	  26 	   20	19/06/2021  3:16:09 PM	  0:17:00	
+  12	  77 	   70	19/06/2021  3:31:37 PM	  0:15:28	
+  13	  48 	   40	19/06/2021  4:31:38 PM	  1:00:01	
+  14	  57 		19/06/2021  4:46:55 PM	  0:15:17	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:46:55 PM
+Time on course   5:46:55
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

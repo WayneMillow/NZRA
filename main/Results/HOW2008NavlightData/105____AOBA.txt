@@ -1,0 +1,27 @@
+Team No. 105	Tag ID = AOBA   Tags=0010	Course 6hr
+Tony Mckay, Ian Macdonald and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 11		14/06/2008 10:45:36 AM	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008 11:13:06 AM	  0:13:06	
+   3	 67	 60	14/06/2008 11:35:12 AM	  0:22:06	
+   4	 51	 50	14/06/2008 12:14:26 PM	  0:39:14	
+   5	 82	 80	14/06/2008 12:48:22 PM	  0:33:56	
+   6	 44	 40	14/06/2008  1:23:13 PM 	  0:34:51	
+   7	 91	 90	14/06/2008  2:25:05 PM 	  1:01:52	
+   8	 73	 70	14/06/2008  2:44:35 PM 	  0:19:30	
+   9	 64	 60	14/06/2008  3:07:14 PM 	  0:22:39	
+  10	107		14/06/2008  4:34:10 PM 	  1:26:56	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:34:10 PM 
+Time on course   5:34:10
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

@@ -1,0 +1,25 @@
+Team No. 676	Tag ID = AWDF   Tags=0008	Course 6Hr
+Tom Speers, Ethan Speers and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:47:34 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:22:58 AM	  0:22:58	
+   3	 55	 50	27/06/2015 11:55:01 AM	  0:32:03	
+   4	 56	 50	27/06/2015 12:14:51 PM	  0:19:50	
+   5	 85	 80	27/06/2015  1:03:41 PM	  0:48:50	
+   6	 68	 60	27/06/2015  3:17:56 PM	  2:14:15	
+   7	 25	 20	27/06/2015  4:05:25 PM	  0:47:29	
+   8	108		27/06/2015  4:28:16 PM	  0:22:51	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:28:16 PM
+Time on course   5:28:16
+
+
+  280	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

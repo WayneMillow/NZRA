@@ -1,0 +1,31 @@
+Team No. 48	Tag ID = AAAW   Tags=0013	Course 7Hour
+Southern Strollers: Jonathan Wood, Michael Wood and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:51:10 AM	         	BRIEFING. Score reset.
+   2	 44	 40	27/02/2016 11:31:58 AM	  0:31:58	
+   3	 70	 70	27/02/2016 12:47:57 PM	  1:15:59	
+   4	 43	 40	27/02/2016  1:15:38 PM	  0:27:41	
+   5	104	100	27/02/2016  1:44:27 PM	  0:28:49	
+   6	 56	 50	27/02/2016  2:09:28 PM	  0:25:01	
+   7	 56		27/02/2016  2:19:35 PM	  0:10:07	     Punched on Line 6
+   8	 55	 50	27/02/2016  2:52:41 PM	  0:33:06	
+   9	 93	 90	27/02/2016  3:33:38 PM	  0:40:57	
+  10	 61	 60	27/02/2016  4:07:59 PM	  0:34:21	
+  11	 52	 50	27/02/2016  4:56:14 PM	  0:48:15	
+  12	 21	 20	27/02/2016  5:16:00 PM	  0:19:46	
+  13	 18		27/02/2016  5:38:13 PM	  0:22:13	FINISH TIME.
+END
+	AddedPunch47	40
+
+
+Recognised finish time 27/02/2016  5:38:13 PM
+Time on course   6:38:13
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

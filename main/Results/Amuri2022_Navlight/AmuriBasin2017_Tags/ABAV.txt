@@ -1,0 +1,28 @@
+Team No. 2222	Tag ID = ABAV   Tags=0011	Course 3Hr
+Waihi Adventurers: Archie Tayler, Hugh Saunders
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:45:47 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:04:01 PM	  0:04:01	
+   3	  41 	   40	 9/07/2017 12:11:22 PM	  0:07:21	
+   4	  55 	   50	 9/07/2017 12:15:48 PM	  0:04:26	
+   5	  64 	   60	 9/07/2017 12:41:08 PM	  0:25:20	
+   6	  63 	   60	 9/07/2017 12:51:58 PM	  0:10:50	
+   7	  23 	   20	 9/07/2017  1:06:29 PM	  0:14:31	
+   8	  35 	   30	 9/07/2017  1:10:50 PM	  0:04:21	
+   9	  61 	   60	 9/07/2017  1:27:13 PM	  0:16:23	
+  10	  45 	   40	 9/07/2017  2:09:58 PM	  0:42:45	
+  11	 108 		 9/07/2017  2:53:18 PM	  0:43:20	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:53:18 PM
+Time on course   2:53:18
+
+
+  380	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 380

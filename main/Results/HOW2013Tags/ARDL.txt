@@ -1,0 +1,33 @@
+Team No. 685	Tag ID = ARDL   Tags=0015	Course 2.5hr
+Laura Gilmour, Anna Gilmour
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 12:55:41 PM	         	BRIEFING. Score reset.
+   2	 17	 10	 8/06/2013  1:05:16 PM 	  0:04:16	
+   3	 30	 30	 8/06/2013  1:18:34 PM 	  0:13:18	
+   4	 18	 10	 8/06/2013  1:23:18 PM 	  0:04:44	
+   5	 23	 20	 8/06/2013  1:41:32 PM 	  0:18:14	
+   6	 49	 40	 8/06/2013  1:50:18 PM 	  0:08:46	 Punch  12 replaced by Group 49.
+   7	 67	 60	 8/06/2013  2:02:18 PM 	  0:12:00	
+   8	 93	 90	 8/06/2013  2:09:18 PM 	  0:07:00	
+   9	 27	 20	 8/06/2013  2:25:09 PM 	  0:15:51	
+  10	 76	 70	 8/06/2013  2:33:02 PM 	  0:07:53	
+  11	 66	 60	 8/06/2013  2:53:41 PM 	  0:20:39	
+  12	 85	 80	 8/06/2013  3:12:07 PM 	  0:18:26	
+  13	 20	 20	 8/06/2013  3:19:46 PM 	  0:07:39	
+  14	 19	 10	 8/06/2013  3:26:21 PM 	  0:06:35	
+  15	 15		 8/06/2013  3:30:06 PM 	  0:03:45	FINISH TIME.
+END
+	AddedPunch94	90
+
+
+Recognised finish time  8/06/2013  3:30:06 PM 
+Time on course   2:29:06
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

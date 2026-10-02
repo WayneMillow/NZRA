@@ -1,0 +1,30 @@
+Team No. 116	Tag ID = AMBB   Tags=0014	Course 6hr
+Mangled Badgers: Liam Gahan, Michelle McMIllan and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 13		 4/07/2009  9:54:35 AM 	         	BRIEFING. Score reset.
+   3	 81	 80	 4/07/2009 10:52:05 AM	  0:22:05	
+   4	 58	 50	 4/07/2009 11:31:41 AM	  0:39:36	
+   5	 66	 60	 4/07/2009 11:53:29 AM	  0:21:48	
+   6	 47	 40	 4/07/2009 12:18:42 PM	  0:25:13	
+   7	 57	 50	 4/07/2009 12:38:53 PM	  0:20:11	
+   8	 38	 30	 4/07/2009  1:07:28 PM 	  0:28:35	
+   9	 46	 40	 4/07/2009  1:46:56 PM 	  0:39:28	
+  10	 23	 20	 4/07/2009  2:31:44 PM 	  0:44:48	
+  11	 62	 60	 4/07/2009  2:42:34 PM 	  0:10:50	
+  12	 22	 20	 4/07/2009  3:10:45 PM 	  0:28:11	
+  13	 54	 50	 4/07/2009  3:28:28 PM 	  0:17:43	
+  14	106		 4/07/2009  4:25:37 PM 	  0:57:09	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:25:37 PM 
+Time on course   5:55:37
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

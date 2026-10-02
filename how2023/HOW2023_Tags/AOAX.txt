@@ -1,0 +1,27 @@
+Team No. 67	Tag ID = AOAX   Tags=0010	Course 6hr
+No Nuts: Lynley Marks, Sue Courtney and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:09:15 AM	  0:09:15	
+   2	  64 	   60	 1/07/2023 11:47:39 AM	  0:38:24	
+   3	  22 	   20	 1/07/2023 12:03:41 PM	  0:16:02	
+   4	  91 	   90	 1/07/2023 12:25:03 PM	  0:21:22	
+   5	  72 	   70	 1/07/2023 12:55:26 PM	  0:30:23	
+   6	  73 	   70	 1/07/2023  1:32:46 PM	  0:37:20	
+   7	 103 	  100	 1/07/2023  2:01:50 PM	  0:29:04	
+   8	  65 	   60	 1/07/2023  3:52:32 PM	  1:50:42	
+   9	  38 	   30	 1/07/2023  4:21:37 PM	  0:29:05	
+  10	  16 		 1/07/2023  4:38:55 PM	  0:17:18	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:38:55 PM
+Time on course   5:38:55
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

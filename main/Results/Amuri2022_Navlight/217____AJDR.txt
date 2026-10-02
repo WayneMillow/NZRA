@@ -1,0 +1,32 @@
+Team No. 217	Tag ID = AJDR   Tags=0015	Course 1.5hr
+Team Clisby: Nadia Clisby, Gus Clisby and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  45 	   40	 3/07/2022  1:01:06 PM	  0:01:06	
+   2	  26 	   20	 3/07/2022  1:04:28 PM	  0:03:22	
+   3	  30 	   30	 3/07/2022  1:07:20 PM	  0:02:52	
+   4	  56 	   50	 3/07/2022  1:10:37 PM	  0:03:17	
+   5	  74 	   70	 3/07/2022  1:13:48 PM	  0:03:11	
+   6	  33 	   30	 3/07/2022  1:22:52 PM	  0:09:04	
+   7	  61 	   60	 3/07/2022  2:03:48 PM	  0:40:56	
+   8	 105 	  100	 3/07/2022  2:11:24 PM	  0:07:36	
+   9	  50 	   50	 3/07/2022  2:14:25 PM	  0:03:01	
+  10	  90 	   90	 3/07/2022  2:17:23 PM	  0:02:58	
+  11	  80 	   80	 3/07/2022  2:20:38 PM	  0:03:15	
+  12	  46 	   40	 3/07/2022  2:29:02 PM	  0:08:24	
+  13	  81 	   80	 3/07/2022  2:32:54 PM	  0:03:52	
+  14	  35 	   30	 3/07/2022  2:35:25 PM	  0:02:31	
+  15	  18 		 3/07/2022  2:36:50 PM	  0:01:25	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:36:50 PM
+Time on course   1:36:50
+
+
+  770	Points Scored.
+  -70	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

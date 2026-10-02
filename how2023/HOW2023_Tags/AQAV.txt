@@ -1,0 +1,32 @@
+Team No. 43	Tag ID = AQAV   Tags=0014	Course 6hr
+STAC Attack: Adam Macfarlane, Ethan Griffin and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:03:26 AM	  0:03:26	
+   2	  22 	   20	 1/07/2023 11:35:11 AM	  0:31:45	
+   3	  91 	   90	 1/07/2023 11:51:53 AM	  0:16:42	
+   4	  47 	   40	 1/07/2023 12:16:05 PM	  0:24:12	
+   5	  72 	   70	 1/07/2023 12:40:38 PM	  0:24:33	
+   6	  65 	   60	 1/07/2023  1:06:37 PM	  0:25:59	
+   7	  73 	   70	 1/07/2023  1:26:00 PM	  0:19:23	
+   8	 103 	  100	 1/07/2023  1:41:54 PM	  0:15:54	
+   9	  58 	   50	 1/07/2023  2:22:15 PM	  0:40:21	
+  10	  77 	   70	 1/07/2023  2:36:50 PM	  0:14:35	
+  11	  45 	   40	 1/07/2023  3:41:18 PM	  1:04:28	
+  12	  93 	   90	 1/07/2023  4:07:58 PM	  0:26:40	
+  13	 101 	  100	30/06/2023  7:25:07 PM	         	Punch clock failed.
+  14	  17 		 1/07/2023  5:05:17 PM	  0:57:19	FINISH TIME.
+END
+	AddedPunch64	60
+
+
+Recognised finish time  1/07/2023  5:05:17 PM
+Time on course   6:05:17
+
+
+  900	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

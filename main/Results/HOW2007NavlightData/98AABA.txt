@@ -1,0 +1,28 @@
+Team No. 98	Tag ID = AABA   Tags=0012	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	100		16/06/2007  9:33:05 AM 	        	     Test tag.
+   2	 11		16/06/2007 10:05:58 AM	  0:05:58	No BRIEF Punch. No score.
+   3	 26	 20	16/06/2007 10:24:55 AM	  0:18:57	
+   4	 51	 50	16/06/2007 10:56:40 AM	  0:31:45	
+   5	 63	 60	16/06/2007 11:51:21 AM	  0:54:41	
+   6	 42	 40	16/06/2007 12:07:58 PM	  0:16:37	
+   7	 70	 70	16/06/2007 12:42:14 PM	  0:34:16	
+   8	 91	 90	16/06/2007  1:25:14 PM 	  0:43:00	
+   9	 20	 20	16/06/2007  1:42:18 PM 	  0:17:04	
+  10	 20		16/06/2007  1:42:20 PM 	  0:00:02	     Punched on Line 9
+  11	 32	 30	16/06/2007  3:14:28 PM 	  1:32:08	
+  12	 96		16/06/2007  3:44:19 PM 	  0:29:51	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:44:19 PM 
+Time on course   5:44:19
+
+
+  380	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 380

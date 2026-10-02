@@ -1,0 +1,30 @@
+Team No. 122	Tag ID = AYBB   Tags=0013	Course 12hr
+The Three Musketeers: Jo Allan, Heather Poole and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  8:52:32 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009  9:16:15 AM 	  0:11:15	
+   3	 65	 60	 4/07/2009 10:04:19 AM	  0:48:04	
+   4	 25	 20	 4/07/2009 10:26:05 AM	  0:21:46	
+   5	 66	 60	 4/07/2009 11:24:40 AM	  0:58:35	
+   6	 58	 50	 4/07/2009 12:06:52 PM	  0:42:12	
+   7	 23	 20	 4/07/2009  1:26:44 PM 	  1:19:52	
+   8	 62	 60	 4/07/2009  1:52:03 PM 	  0:25:19	
+   9	 55	 50	 4/07/2009  2:31:19 PM 	  0:39:16	
+  10	 61	 60	 4/07/2009  4:15:03 PM 	  1:43:44	
+  11	 44	 40	 4/07/2009  4:51:25 PM 	  0:36:22	
+  12	 54	 50	 4/07/2009  5:46:10 PM 	  0:54:45	
+  13	109		 4/07/2009  8:33:49 PM 	  2:47:39	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  8:33:49 PM 
+Time on course  11:28:49
+
+
+  480	Points Scored.
+ -480	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

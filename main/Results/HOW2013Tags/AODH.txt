@@ -1,0 +1,27 @@
+Team No. 631	Tag ID = AODH   Tags=0010	Course 2.5hr
+Tangowahine Taniwha: Trudy Norrish, Emelia Ruddell, Grace Ruddell
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	104		 8/06/2013 12:44:44 PM	         	BRIEFING. Score reset.
+   3	 17	 10	 8/06/2013  1:08:31 PM 	  0:07:31	
+   4	 93	 90	 8/06/2013  1:34:47 PM 	  0:26:16	
+   5	 67	 60	 8/06/2013  1:46:01 PM 	  0:11:14	
+   6	 49	 40	 8/06/2013  2:09:59 PM 	  0:23:58	 Punch  12 replaced by Group 49.
+   7	 23	 20	 8/06/2013  2:21:17 PM 	  0:11:18	
+   8	 18	 10	 8/06/2013  2:52:37 PM 	  0:31:20	
+   9	 30	 30	 8/06/2013  2:59:54 PM 	  0:07:17	
+  10	 15		 8/06/2013  3:30:35 PM 	  0:30:41	FINISH TIME.
+END
+	AddedPunch94	90
+
+
+Recognised finish time  8/06/2013  3:30:35 PM 
+Time on course   2:29:35
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

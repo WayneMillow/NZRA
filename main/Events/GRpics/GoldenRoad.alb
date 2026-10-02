@@ -1,0 +1,63 @@
+<webalbum version="1.8.2">
+  <title>Golden Road</title>
+  <description>
+    <line>Pre-event photos</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <outputdirectory>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GRpics\GoldenRoad\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000500_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000501_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000502_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000504_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000505_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000506_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000507_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000508_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000509_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000510_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000511_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000512_Orig.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Public\Documents\Rogaine\GoldenRoad\GoldenRoad2014\GoldenRoadPictures\GRpics\P1000513_Orig.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>

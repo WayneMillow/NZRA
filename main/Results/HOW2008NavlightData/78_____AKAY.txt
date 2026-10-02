@@ -1,0 +1,32 @@
+Team No. 78	Tag ID = AKAY   Tags=0015	Course 12hr
+Neroli Wall, Ashley Mangos
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008  8:44:39 AM 	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008  9:09:51 AM 	  0:09:51	
+   3	 50	 50	14/06/2008  9:29:37 AM 	  0:19:46	
+   4	 67	 60	14/06/2008  9:44:22 AM 	  0:14:45	
+   5	 51	 50	14/06/2008 10:08:39 AM	  0:24:17	
+   6	 82	 80	14/06/2008 10:24:45 AM	  0:16:06	
+   7	 41	 40	14/06/2008 10:57:34 AM	  0:32:49	
+   8	 44	 40	14/06/2008 11:14:36 AM	  0:17:02	
+   9	 91	 90	14/06/2008 12:14:19 PM	  0:59:43	
+  10	 73	 70	14/06/2008 12:55:43 PM	  0:41:24	
+  11	 45	 40	14/06/2008  1:23:04 PM 	  0:27:21	
+  12	101	100	14/06/2008  2:06:37 PM 	  0:43:33	
+  13	 72	 70	14/06/2008  2:34:55 PM 	  0:28:18	
+  14	 35	 30	14/06/2008  4:39:10 PM 	  2:04:15	
+  15	108		14/06/2008  8:54:00 PM 	  4:14:50	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  8:54:00 PM 
+Time on course  11:54:00
+
+
+  750	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 750

@@ -1,0 +1,32 @@
+Team No. 193	Tag ID = AKDJ   Tags=0015	Course 3 hour
+Mums on a Mish: Hannah Sumner, Liss Shaw
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:45:55 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:07:44 PM	  0:07:44	
+   3	  31 	   30	 7/07/2019 12:15:14 PM	  0:07:30	
+   4	  73 	   70	 7/07/2019 12:20:43 PM	  0:05:29	
+   5	  46 	   40	 7/07/2019 12:31:49 PM	  0:11:06	
+   6	  52 	   50	 7/07/2019 12:36:09 PM	  0:04:20	
+   7	  43 	   40	 7/07/2019 12:56:59 PM	  0:20:50	
+   8	  62 	   60	 7/07/2019  1:09:18 PM	  0:12:19	
+   9	  66 	   60	 7/07/2019  1:24:28 PM	  0:15:10	
+  10	 102 	  100	 7/07/2019  1:44:09 PM	  0:19:41	
+  11	  55 	   50	 7/07/2019  1:58:38 PM	  0:14:29	
+  12	  86 	   80	 7/07/2019  2:27:26 PM	  0:28:48	
+  13	  42 	   40	 7/07/2019  2:45:07 PM	  0:17:41	
+  14	  26 	   20	 7/07/2019  3:04:57 PM	  0:19:50	
+  15	  19 		 7/07/2019  3:07:36 PM	  0:02:39	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:07:36 PM
+Time on course   3:07:36
+
+
+  680	Points Scored.
+  -80	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

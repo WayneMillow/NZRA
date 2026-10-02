@@ -1,0 +1,27 @@
+Team No. 1130	Tag ID = AJBB   Tags=0010	Course FAM 3Hr
+Navigationally challenged: Vic Shaw, Harriet Grace
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:34:30 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	 9/07/2017 12:09:07 PM	  0:09:07	
+   3	  31 	   30	 9/07/2017 12:19:37 PM	  0:10:30	
+   4	  43 	   40	 9/07/2017 12:40:49 PM	  0:21:12	
+   5	  24 	   20	 9/07/2017 12:57:09 PM	  0:16:20	
+   6	  81 	   80	 9/07/2017  1:31:40 PM	  0:34:31	
+   7	  54 	   50	 4/07/2017  7:57:30 AM	         	0.168 Days early.
+   8	  67 	   60	 9/07/2017  2:37:27 PM	  1:05:47	
+   9	  21 	   20	 9/07/2017  3:05:05 PM	  0:27:38	
+  10	 107 		 9/07/2017  3:09:53 PM	  0:04:48	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:09:53 PM
+Time on course   3:09:53
+
+
+  330	Points Scored.
+ -100	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 230

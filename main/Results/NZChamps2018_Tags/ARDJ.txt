@@ -1,0 +1,22 @@
+Team No. 196	Tag ID = ARDJ   Tags=0005	Course 6 hour
+Blind Fury: Joanne Kennedy (NZL), Tim Jowett (NZL) and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:40:13 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018  1:53:09 PM	  1:53:09	
+   3	  46 	   40	24/11/2018  2:24:46 PM	  0:31:37	
+   4	  68 	   60	24/11/2018  3:22:49 PM	  0:58:03	
+   5	  17 		24/11/2018  5:22:23 PM	  1:59:34	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:22:23 PM
+Time on course   5:22:23
+
+
+  160	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 160

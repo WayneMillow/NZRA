@@ -1,0 +1,32 @@
+Team No. 489	Tag ID = ACAX   Tags=0011	Course 6hr
+AKA: Kylee Galbraith, Anna Rosingrave, Alice Westgarth
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:20:41 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:38:36 AM	  0:09:36	
+   3	 86	 80	 8/06/2013 11:08:06 AM	  0:29:30	
+   4	 68	 60	 8/06/2013 11:35:01 AM	  0:26:55	
+   5	 77	 70	 8/06/2013 12:01:21 PM	  0:26:20	
+   6	 43	 40	 8/06/2013 12:56:35 PM	  0:55:14	
+   7	 99	 90	 8/06/2013  2:01:06 PM 	  1:04:31	
+   8	 31	 30	 8/06/2013  2:20:05 PM 	  0:18:59	
+   9	 51	 50	 8/06/2013  2:50:33 PM 	  0:30:28	
+  10	 26	 20	 8/06/2013  3:30:24 PM 	  0:39:51	
+  11	 13		 8/06/2013  4:23:36 PM 	  0:53:12	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  77,43,99,31,51,26
+Your score has been reduced by 300 points.
+
+
+Recognised finish time  8/06/2013  4:23:36 PM 
+Time on course   5:54:36
+
+
+  160	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 160

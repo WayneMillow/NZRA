@@ -1,0 +1,32 @@
+Team No. 612	Tag ID = ADBA   Tags=0015	Course 6Hr
+Stuart Payne, Andy Griffiths
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 91		27/06/2015 10:47:30 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:14:01 AM	  0:14:01	
+   3	 65	 60	27/06/2015 11:31:04 AM	  0:17:03	
+   4	 34	 30	27/06/2015 11:49:21 AM	  0:18:17	
+   5	 53	 50	27/06/2015 12:11:19 PM	  0:21:58	
+   6	 73	 70	27/06/2015 12:55:00 PM	  0:43:41	
+   7	102	100	27/06/2015  1:39:57 PM	  0:44:57	
+   8	 92	 90	27/06/2015  2:17:04 PM	  0:37:07	
+   9	 45	 40	27/06/2015  2:36:44 PM	  0:19:40	
+  10	 35	 30	27/06/2015  3:00:56 PM	  0:24:12	
+  11	 54	 50	27/06/2015  3:13:05 PM	  0:12:09	
+  12	 66	 60	27/06/2015  3:25:01 PM	  0:11:56	
+  13	 27	 20	27/06/2015  4:00:03 PM	  0:35:02	
+  14	 25	 20	27/06/2015  4:24:09 PM	  0:24:06	
+  15	106		27/06/2015  4:56:39 PM	  0:32:30	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:56:39 PM
+Time on course   5:56:39
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

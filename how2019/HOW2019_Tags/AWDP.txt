@@ -1,0 +1,32 @@
+Team No. 219	Tag ID = AWDP   Tags=0015	Course 6hr
+$1 Mixture: Michaela McIntosh, Sarah Manderson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		15/06/2019 10:48:43 AM	         	BRIEFING. Score reset.
+   2	  42 	   40	15/06/2019 11:15:17 AM	  0:15:17	
+   3	  31 	   30	15/06/2019 11:25:28 AM	  0:10:11	
+   4	  62 	   60	15/06/2019 11:37:35 AM	  0:12:07	
+   5	  53 	   50	15/06/2019 12:03:13 PM	  0:25:38	
+   6	  44 	   40	15/06/2019 12:35:23 PM	  0:32:10	
+   7	  22 	   20	15/06/2019 12:49:27 PM	  0:14:04	
+   8	  94 	   90	15/06/2019  1:03:22 PM	  0:13:55	
+   9	  75 	   70	15/06/2019  1:26:32 PM	  0:23:10	
+  10	 101 	  100	15/06/2019  2:00:51 PM	  0:34:19	
+  11	  91 	   90	15/06/2019  2:38:00 PM	  0:37:09	
+  12	  52 	   50	15/06/2019  3:22:54 PM	  0:44:54	
+  13	  72 	   70	15/06/2019  3:38:40 PM	  0:15:46	
+  14	  30 	   30	15/06/2019  4:17:52 PM	  0:39:12	
+  15	  19 		15/06/2019  4:40:16 PM	  0:22:24	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:40:16 PM
+Time on course   5:40:16
+
+
+  740	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

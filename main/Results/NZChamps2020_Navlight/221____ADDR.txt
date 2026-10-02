@@ -1,0 +1,27 @@
+Team No. 221	Tag ID = ADDR   Tags=0010	Course 6 hour
+Waimea dahl bhat power: Annie Swain, Amelia Clarke and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 10:19:48 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:20:14 PM	  0:20:14	
+   3	  24 	   20	 7/11/2020  2:02:36 PM	  0:42:22	
+   4	  33 	   30	 7/11/2020  3:15:14 PM	  1:12:38	
+   5	  26 	   20	 7/11/2020  3:50:35 PM	  0:35:21	
+   6	  48 	   40	 7/11/2020  4:38:27 PM	  0:47:52	
+   7	  27 	   20	 7/11/2020  5:00:22 PM	  0:21:55	
+   8	  35 	   30	 7/11/2020  5:47:46 PM	  0:47:24	
+   9	  25 	   20	 7/11/2020  6:12:44 PM	  0:24:58	
+  10	  17 		 7/11/2020  6:40:48 PM	  0:28:04	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:40:48 PM
+Time on course   5:40:48
+
+
+  200	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 200

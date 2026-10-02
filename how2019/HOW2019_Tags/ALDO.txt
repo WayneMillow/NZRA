@@ -1,0 +1,32 @@
+Team No. 240	Tag ID = ALDO   Tags=0015	Course 6hr
+BB's: Pip Wilson, Juliette O'Neill
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:48:28 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	15/06/2019 11:15:45 AM	  0:15:45	
+   3	  43 	   40	15/06/2019 11:29:04 AM	  0:13:19	
+   4	  49 	   40	15/06/2019 11:50:56 AM	  0:21:52	
+   5	  83 	   80	15/06/2019 12:07:32 PM	  0:16:36	
+   6	  54 	   50	15/06/2019 12:40:14 PM	  0:32:42	
+   7	  81 	   80	15/06/2019  1:32:37 PM	  0:52:23	
+   8	  63 	   60	15/06/2019  1:49:49 PM	  0:17:12	
+   9	  93 	   90	15/06/2019  2:15:08 PM	  0:25:19	
+  10	  33 	   30	15/06/2019  2:42:23 PM	  0:27:15	
+  11	  74 	   70	15/06/2019  3:03:57 PM	  0:21:34	
+  12	  44 	   40	15/06/2019  3:29:59 PM	  0:26:02	
+  13	  31 	   30	15/06/2019  4:26:05 PM	  0:56:06	
+  14	  42 	   40	15/06/2019  4:37:34 PM	  0:11:29	
+  15	  16 		15/06/2019  4:54:54 PM	  0:17:20	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:54:54 PM
+Time on course   5:54:54
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

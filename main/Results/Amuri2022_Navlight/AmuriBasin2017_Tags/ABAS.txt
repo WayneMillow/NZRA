@@ -1,0 +1,30 @@
+Team No. 2177	Tag ID = ABAS   Tags=0012	Course 3Hr
+Walking wounded: Jenny Rutherford, Mandy Shand
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 9/07/2017 12:04:43 PM	  0:04:43	Manual BRIEF allowed.
+   2	  41 	   40	 9/07/2017 12:12:48 PM	  0:08:05	
+   3	  63 	   60	 9/07/2017 12:23:28 PM	  0:10:40	
+   4	  23 	   20	 9/07/2017 12:32:26 PM	  0:08:58	
+   5	  35 	   30	 9/07/2017 12:37:32 PM	  0:05:06	
+   6	  61 	   60	 9/07/2017 12:46:06 PM	  0:08:34	
+   7	  91 	   90	 9/07/2017  1:10:45 PM	  0:24:39	
+   8	  83 	   80	 8/07/2017  1:24:32 PM	         	Punch clock failed.
+   9	  44 	   40	 9/07/2017  1:59:09 PM	  0:48:24	
+  10	  34 	   30	 9/07/2017  2:26:02 PM	  0:26:53	
+  11	  58 	   50	 9/07/2017  2:43:57 PM	  0:17:55	
+  12	 107 		 9/07/2017  2:59:13 PM	  0:15:16	FINISH TIME.
+END
+	Manual BRIEF Accepted on line 1
+
+
+Recognised finish time  9/07/2017  2:59:13 PM
+Time on course   2:59:13
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

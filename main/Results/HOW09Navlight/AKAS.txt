@@ -1,0 +1,28 @@
+Team No. 24	Tag ID = AKAS   Tags=0011	Course 6hr
+Heather Bushaway, Sharon English
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:16:07 AM	         	BRIEFING. Score reset.
+   2	 45	 40	 4/07/2009 11:07:01 AM	  0:37:01	
+   3	 53	 50	 4/07/2009 11:37:55 AM	  0:30:54	
+   4	 32	 30	 4/07/2009 12:25:23 PM	  0:47:28	
+   5	 54	 50	 4/07/2009 12:50:19 PM	  0:24:56	
+   6	 22	 20	 4/07/2009  1:13:51 PM 	  0:23:32	
+   7	 55	 50	 4/07/2009  1:56:47 PM 	  0:42:56	
+   8	 62	 60	 4/07/2009  2:22:43 PM 	  0:25:56	
+   9	 58	 50	 4/07/2009  3:13:03 PM 	  0:50:20	
+  10	 66	 60	 4/07/2009  3:41:11 PM 	  0:28:08	
+  11	105		 4/07/2009  4:53:15 PM 	  1:12:04	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:53:15 PM 
+Time on course   6:23:15
+
+
+  410	Points Scored.
+  240	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 170

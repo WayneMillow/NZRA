@@ -1,0 +1,26 @@
+Team No. 177	Tag ID = ADDH   Tags=0009	Course 6 hour
+Adventure Racing Waitaki: Jason Hayman (NZL), Dan Burke (NZL) and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:41:43 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	24/11/2018 12:37:53 PM	  0:37:53	
+   3	  67 	   60	24/11/2018  2:04:57 PM	  1:27:04	
+   4	  46 	   40	24/11/2018  2:25:48 PM	  0:20:51	
+   5	  75 	   70	24/11/2018  3:07:15 PM	  0:41:27	
+   6	  84 	   80	24/11/2018  3:23:15 PM	  0:16:00	
+   7	  97 	   90	24/11/2018  3:49:46 PM	  0:26:31	
+   8	  30 	   30	24/11/2018  5:38:32 PM	  1:48:46	
+   9	  19 		24/11/2018  5:50:55 PM	  0:12:23	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:50:55 PM
+Time on course   5:50:55
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

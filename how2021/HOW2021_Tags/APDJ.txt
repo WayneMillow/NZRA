@@ -1,0 +1,31 @@
+Team No. 195	Tag ID = APDJ   Tags=0014	Course 6 hour
+Team Symons: Walter Symons, Hector Symons and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:13:22 AM	  0:13:22	
+   2	  25 	   20	19/06/2021 11:28:52 AM	  0:15:30	
+   3	  58 	   50	19/06/2021 12:13:36 PM	  0:44:44	
+   4	  77 	   70	19/06/2021 12:33:23 PM	  0:19:47	
+   5	  26 	   20	19/06/2021 12:50:10 PM	  0:16:47	
+   6	  64 	   60	19/06/2021  1:10:40 PM	  0:20:30	
+   7	  89 	   80	19/06/2021  1:43:18 PM	  0:32:38	
+   8	  96 	   90	19/06/2021  2:30:05 PM	  0:46:47	
+   9	  60 	   60	19/06/2021  3:01:54 PM	  0:31:49	
+  10	 100 	  100	19/06/2021  3:43:18 PM	  0:41:24	
+  11	  47 	   40	19/06/2021  4:51:09 PM	  1:07:51	
+  12	  24 	   20	19/06/2021  5:25:51 PM	  0:34:42	
+  13	  33 	   30	19/06/2021  5:55:05 PM	  0:29:14	After course closure.
+  14	  57 		19/06/2021  6:11:19 PM	  0:16:14	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  6:11:19 PM
+Time on course   7:11:19
+
+
+  680	Points Scored.
+ -680	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 680 LATE

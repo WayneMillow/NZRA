@@ -1,0 +1,25 @@
+Team No. 2189	Tag ID = AFBB   Tags=0009	Course 6Hr
+Just The Two Of Us: Kelly Ashley, Shane Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		10/06/2017 10:46:54 AM	         	BRIEFING. Score reset.
+   2	 20	 20	10/06/2017 11:31:27 AM	  0:31:27	
+   3	 31	 30	10/06/2017 11:59:01 AM	  0:27:34	
+   4	 41	 40	10/06/2017 12:44:46 PM	  0:45:45	
+   5	100	100	10/06/2017  3:16:00 PM	  2:31:14	
+   6	 71	 70	10/06/2017  3:39:35 PM	  0:23:35	
+   7	 30	 30	10/06/2017  4:11:29 PM	  0:31:54	
+   8	108		10/06/2017  4:54:38 PM	  0:43:09	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:54:38 PM
+Time on course   5:54:38
+
+
+  290	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 290

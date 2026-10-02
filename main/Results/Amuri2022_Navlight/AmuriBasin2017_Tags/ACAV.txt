@@ -1,0 +1,30 @@
+Team No. 2223	Tag ID = ACAV   Tags=0013	Course 3Hr
+Have a Go: Katherine Hanna, Hannah Brown and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:47:08 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:07:59 PM	  0:07:59	
+   3	  41 	   40	 9/07/2017 12:23:19 PM	  0:15:20	
+   4	  63 	   60	 9/07/2017 12:40:45 PM	  0:17:26	
+   5	  23 	   20	 9/07/2017 12:54:38 PM	  0:13:53	
+   6	  35 	   30	 9/07/2017  1:00:59 PM	  0:06:21	
+   7	  61 	   60	 9/07/2017  1:12:27 PM	  0:11:28	
+   8	  84 	   80	 9/07/2017  1:38:30 PM	  0:26:03	
+   9	  73 	   70	 9/07/2017  1:52:17 PM	  0:13:47	
+  10	  58 	   50	 9/07/2017  2:04:56 PM	  0:12:39	
+  11	  55 	   50	 9/07/2017  2:17:30 PM	  0:12:34	
+  12	  31 	   30	 9/07/2017  2:32:48 PM	  0:15:18	
+  13	 108 		 9/07/2017  2:45:33 PM	  0:12:45	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:45:33 PM
+Time on course   2:45:33
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

@@ -1,0 +1,39 @@
+Team No. 684	Tag ID = AWDG   Tags=0018	Course 6hr
+Lee Robertson, Bronwyn Alexander
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		30/06/2012 10:48:07 AM	         	BRIEFING. Score reset.
+   2	 12	 10	30/06/2012 11:06:03 AM	  0:06:03	 Punch  77 replaced by Group 12.
+   3	 43	 40	30/06/2012 11:19:57 AM	  0:13:54	 Punch  86 replaced by Group 43.
+   4	 21	 20	30/06/2012 11:34:40 AM	  0:14:43	
+   5	 33	 30	30/06/2012 11:39:17 AM	  0:04:37	
+   6	 81	 80	30/06/2012 11:54:59 AM	  0:15:42	
+   7	 70	 70	30/06/2012 12:13:22 PM	  0:18:23	
+   8	 61	 60	30/06/2012 12:32:20 PM	  0:18:58	
+   9	 40	 40	30/06/2012  1:02:10 PM 	  0:29:50	
+  10	 50	 50	30/06/2012  1:37:19 PM 	  0:35:09	
+  11	 51	 50	30/06/2012  1:54:07 PM 	  0:16:48	
+  12	 42	 40	30/06/2012  2:28:58 PM 	  0:34:51	
+  13	 90	 90	30/06/2012  2:49:03 PM 	  0:20:05	
+  14	 39	 30	30/06/2012  3:23:54 PM 	  0:34:51	
+  15	 65	 60	30/06/2012  3:44:24 PM 	  0:20:30	
+  16	 71	 70	30/06/2012  4:09:56 PM 	  0:25:32	
+  17	 10	 10	30/06/2012  4:23:31 PM 	  0:13:35	 Punch  67 replaced by Group 10.
+  18	108		30/06/2012  4:33:48 PM 	  0:10:17	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  12,43
+Your score has been reduced by 50 points.
+
+
+Recognised finish time 30/06/2012  4:33:48 PM 
+Time on course   5:33:48
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

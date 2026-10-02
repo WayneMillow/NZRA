@@ -1,0 +1,22 @@
+Team No. 185	Tag ID = AUDH   Tags=0005	Course 6 hour
+What map?!: Merrilee Williams (NZL), Bronwyn Shute (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:38:06 AM	         	BRIEFING. Score reset.
+   2	  46 	   40	24/11/2018 12:56:32 PM	  0:56:32	
+   3	  75 	   70	24/11/2018  1:48:57 PM	  0:52:25	
+   4	  84 	   80	24/11/2018  2:08:12 PM	  0:19:15	
+   5	  18 		24/11/2018  3:37:28 PM	  1:29:16	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  3:37:28 PM
+Time on course   3:37:28
+
+
+  190	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

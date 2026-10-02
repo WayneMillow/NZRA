@@ -1,0 +1,22 @@
+Team No. 106	Tag ID = ARBA   Tags=0005	Course 6hr
+Julie Doornenbal, Dennis Parker and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009  9:50:12 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:38:27 AM	  0:08:27	
+   3	 62	 60	 4/07/2009  3:02:27 PM 	  4:24:00	
+   4	 22	 20	 4/07/2009  3:39:11 PM 	  0:36:44	
+   5	105		 4/07/2009  5:32:57 PM 	  1:53:46	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  5:32:57 PM 
+Time on course   7:02:57
+
+
+   90	Points Scored.
+  -90	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

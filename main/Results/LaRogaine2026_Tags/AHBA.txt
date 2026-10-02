@@ -1,0 +1,31 @@
+Team No. 102	Tag ID = AHBA   Tags=0014	Course 03 hour
+Samwhere with Esther: Sam McNally, Esther McNally
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:52:56 am	         	BRIEFING. Score reset.
+   2	  74 	70	31/01/2026 11:07:22 am	  0:07:22	
+   3	  24 	20	31/01/2026 11:21:17 am	  0:13:55	
+   4	  77 	70	31/01/2026 11:34:00 am	  0:12:43	
+   5	 103 	100	31/01/2026 11:53:10 am	  0:19:10	
+   6	  55 	50	31/01/2026 12:05:36 pm	  0:12:26	
+   7	  46 	40	31/01/2026 12:24:11 pm	  0:18:35	
+   8	  86 	80	31/01/2026 12:44:49 pm	  0:20:38	
+   9	  35 	30	31/01/2026  3:29:36 am	         	Punch clock failed.
+  10	  75 	70	31/01/2026  1:09:44 pm	  0:24:55	
+  11	  94 	90	31/01/2026  1:27:37 pm	  0:17:53	
+  12	  34 	30	31/01/2026  1:34:45 pm	  0:07:08	
+  13	  84 	80	31/01/2026  1:40:20 pm	  0:05:35	
+  14	  17 		31/01/2026  1:54:45 pm	  0:14:25	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  1:54:45 pm
+Time on course   2:54:45
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

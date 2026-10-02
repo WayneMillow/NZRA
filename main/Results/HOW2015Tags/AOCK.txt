@@ -1,0 +1,29 @@
+Team No. 665	Tag ID = AOCK   Tags=0012	Course 6Hr
+Lianne Shepherd, Marianne Aitken
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 94		27/06/2015 10:43:12 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:16:18 AM	  0:16:18	
+   3	 66	 60	27/06/2015 12:08:56 PM	  0:52:38	
+   4	 54	 50	27/06/2015 12:20:08 PM	  0:11:12	
+   5	 92	 90	27/06/2015 12:51:55 PM	  0:31:47	
+   6	102	100	27/06/2015  1:43:58 PM	  0:52:03	
+   7	 73	 70	27/06/2015  2:11:36 PM	  0:27:38	
+   8	 46	 40	27/06/2015  3:24:40 PM	  1:13:04	
+   9	 24	 20	27/06/2015  3:45:21 PM	  0:20:41	
+  10	 25	 20	27/06/2015  4:27:14 PM	  0:41:53	
+  11	 26	 20	27/06/2015  4:42:24 PM	  0:15:10	
+  12	108		27/06/2015  4:51:36 PM	  0:09:12	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:51:36 PM
+Time on course   5:51:36
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

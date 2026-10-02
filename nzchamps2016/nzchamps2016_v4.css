@@ -1,0 +1,61 @@
+body {
+	background: #408080;
+	margin-top: 1rem;
+}
+
+#header, #main, #footer {
+	background: #ffffff;
+}
+
+#footer {
+	background: #408080;
+	color: #ffffff;
+	margin-top: 1rem;
+}
+
+#footer a {
+	color: #ffffff;
+}
+
+.error {
+	color: #f00;
+}
+
+button.delete {
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	border-color: #fff;
+}
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul.center {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+span.center {
+	
+}
+
+pre {
+	font-size: 0.6rem;
+}
+
+.box {
+	border: thin solid black;
+}
+
+td.price {
+	text-align: right;
+}
+
+.highlight {
+	font-weight: bold;
+}

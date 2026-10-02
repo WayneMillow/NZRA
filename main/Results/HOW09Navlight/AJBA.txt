@@ -1,0 +1,32 @@
+Team No. 102	Tag ID = AJBA   Tags=0015	Course 12hr
+Trish Faulner, Graham Garden
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009  8:44:40 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009  9:30:59 AM 	  0:25:59	
+   3	 65	 60	 4/07/2009 10:10:38 AM	  0:39:39	
+   4	 25	 20	 4/07/2009 10:28:14 AM	  0:17:36	
+   5	 66	 60	 4/07/2009 11:19:58 AM	  0:51:44	
+   6	 58	 50	 4/07/2009 11:50:32 AM	  0:30:34	
+   7	 81	 80	 4/07/2009  1:28:09 PM 	  1:37:37	
+   8	 33	 30	 4/07/2009  2:11:11 PM 	  0:43:02	
+   9	 34	 30	 4/07/2009  2:48:14 PM 	  0:37:03	
+  10	 22	 20	 4/07/2009  4:08:58 PM 	  1:20:44	
+  11	 62	 60	 4/07/2009  4:49:11 PM 	  0:40:13	
+  12	 55	 50	 4/07/2009  5:24:24 PM 	  0:35:13	
+  13	 54	 50	 4/07/2009  6:14:45 PM 	  0:50:21	
+  14	 32	 30	 4/07/2009  6:44:17 PM 	  0:29:32	
+  15	105		 4/07/2009  7:27:22 PM 	  0:43:05	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  7:27:22 PM 
+Time on course  10:22:22
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

@@ -1,0 +1,30 @@
+Team No. 109	Tag ID = AXBA   Tags=0013	Course 12hr
+Mark Ford, Keryn Ford
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009  8:10:30 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009  9:33:40 AM 	  0:28:40	
+   3	 33	 30	 4/07/2009 10:06:40 AM	  0:33:00	
+   4	 34	 30	 4/07/2009 11:22:12 AM	  1:15:32	
+   5	 22	 20	 4/07/2009 12:40:34 PM	  1:18:22	
+   6	 62	 60	 4/07/2009  1:11:59 PM 	  0:31:25	
+   7	 55	 50	 4/07/2009  1:35:43 PM 	  0:23:44	
+   8	 61	 60	 4/07/2009  2:44:58 PM 	  1:09:15	
+   9	 42	 40	 4/07/2009  3:16:50 PM 	  0:31:52	
+  10	 41	 40	 4/07/2009  3:31:35 PM 	  0:14:45	
+  11	 20	 20	 4/07/2009  4:12:16 PM 	  0:40:41	
+  12	 50	 50	 4/07/2009  4:42:43 PM 	  0:30:27	
+  13	104		 4/07/2009  6:28:18 PM 	  1:45:35	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  6:28:18 PM 
+Time on course   9:23:18
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

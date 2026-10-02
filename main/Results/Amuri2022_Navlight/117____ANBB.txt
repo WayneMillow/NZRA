@@ -1,0 +1,26 @@
+Team No. 117	Tag ID = ANBB   Tags=0009	Course 3hr
+Allies angels: Allie Miller, Nicolle Rosewarne and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:04:02 PM	  0:04:02	
+   2	  20 	   20	 3/07/2022 12:13:37 PM	  0:09:35	
+   3	  31 	   30	 3/07/2022 12:17:32 PM	  0:03:55	
+   4	  71 	   70	 3/07/2022 12:33:26 PM	  0:15:54	
+   5	  32 	   30	 3/07/2022 12:39:37 PM	  0:06:11	
+   6	  22 	   20	 3/07/2022 12:54:07 PM	  0:14:30	
+   7	  60 	   60	 3/07/2022  1:03:27 PM	  0:09:20	
+   8	  21 	   20	 3/07/2022  1:28:01 PM	  0:24:34	
+   9	  19 		 3/07/2022  1:38:51 PM	  0:10:50	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  1:38:51 PM
+Time on course   1:38:51
+
+
+  290	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 290

@@ -1,0 +1,28 @@
+Team No. 632	Tag ID = APBB   Tags=0012	Course 6Hr
+Richard Green, David Mavor and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:41:53 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:12:43 AM	  0:12:43	
+   3	 47	 40	27/06/2015 12:31:52 PM	  1:19:09	
+   4	 95	 90	27/06/2015 12:41:43 PM	  0:09:51	
+   5	 58	 50	27/06/2015  1:08:08 PM	  0:26:25	
+   6	 86	 80	27/06/2015  1:32:18 PM	  0:24:10	
+   7	 55	 50	27/06/2015  2:12:14 PM	  0:39:56	
+   8	 85	 80	27/06/2015  2:30:36 PM	  0:18:22	
+   9	103	100	27/06/2015  3:32:31 PM	  1:01:55	
+  10	 25	 20	27/06/2015  4:30:32 PM	  0:58:01	
+  11	108		27/06/2015  4:38:36 PM	  0:08:04	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:38:36 PM
+Time on course   5:38:36
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

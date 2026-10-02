@@ -1,0 +1,29 @@
+Team No. 23	Tag ID = AHAS   Tags=0012	Course 6hr
+Wise Chick Walkers: Sharyn Kitchen, Rebecca Redmond and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:06:37 AM	  0:06:37	
+   2	  40 	   40	 1/07/2023 11:23:25 AM	  0:16:48	
+   3	  62 	   60	 1/07/2023 11:47:27 AM	  0:24:02	
+   4	  30 	   30	 1/07/2023 12:16:44 PM	  0:29:17	
+   5	  53 	   50	 1/07/2023 12:41:29 PM	  0:24:45	
+   6	  71 	   70	 1/07/2023  1:19:39 PM	  0:38:10	
+   7	  70 	   70	 1/07/2023  2:02:30 PM	  0:42:51	
+   8	  80 	   80	 1/07/2023  2:26:28 PM	  0:23:58	
+   9	  52 	   50	 1/07/2023  2:52:14 PM	  0:25:46	
+  10	  63 	   60	 1/07/2023  3:19:59 PM	  0:27:45	
+  11	  42 	   40	 1/07/2023  3:35:31 PM	  0:15:32	
+  12	  18 		 1/07/2023  4:54:28 PM	  1:18:57	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:54:28 PM
+Time on course   5:54:28
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

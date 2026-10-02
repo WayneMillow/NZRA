@@ -1,0 +1,201 @@
+<webalbum version="1.8.2">
+  <title>Marlborough 2009</title>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <outputdirectory>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\MOC2009Pics_3\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>12632256</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <caption>
+        <line>Turkey Camp</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Turkey camp.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>3x CPs in view</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\3x CPs in view.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A pond</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\A pond.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A stream, 10m above junction</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\A stream, 10m above junction.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Close to CP xx</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Close to CP xx.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>CP50 - from stream or track - h'mmm</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\CP50 - from stream or track hmmm.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>CPx - a small knoll on the spur</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\CPx - A small knoll on the spur.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>CPx#</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\CPx#.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>CPxx</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\CPxx.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Don't fall</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Don't fall.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>H'mm SE side</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Hmm SE side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Near CPx - a small knoll, on the spur</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Near CPx - A small knoll, On the spur.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Near Shaggers Rock</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Near Shaggers Rock.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>No direct way across</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\No direct way across.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Small spur</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Small spur.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Taped route thru pines and broom</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Taped route thru pines and broom.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The hut - choice views</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\The hut - choice views.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The track or spur</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\The track or spur.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Track, 30m N of stream</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\Track, 30m N of stream.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>This is fun</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\This is fun.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>1st snow flurry</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\1st snow furry.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>3 hours into the reccy</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\3hrs in to the reccy.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A good stock track</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\A good stock track.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A rock on the spur, N side</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\A rock on the Spur, N side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Let's go home Mondo</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\Lets go home Mondo.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The small gully, middle part</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More\The small gully, Middle part.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The spur</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More2\The spur.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>3x CPs</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More2\3x CPs.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A small W gully</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More2\A small W gully.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A tree, On spur</line>
+      </caption>
+      <filename>Z:\Documents\Rogaine\Sitebits\Marlborough2009\Pics\More2\A tree, On the Spur.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>

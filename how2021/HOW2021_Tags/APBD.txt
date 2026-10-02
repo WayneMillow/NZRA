@@ -1,0 +1,30 @@
+Team No. 143	Tag ID = APBD   Tags=0013	Course 6 hour
+The Rollicking Rogainers: Phoebe Hunt, Anna Babington
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:09:44 AM	  0:09:44	
+   2	  25 	   20	19/06/2021 11:19:01 AM	  0:09:17	
+   3	  77 	   70	19/06/2021 12:04:55 PM	  0:45:54	
+   4	  58 	   50	19/06/2021 12:27:35 PM	  0:22:40	
+   5	  67 	   60	19/06/2021 12:43:56 PM	  0:16:21	
+   6	  35 	   30	19/06/2021 12:58:54 PM	  0:14:58	
+   7	  64 	   60	19/06/2021  1:37:22 PM	  0:38:28	
+   8	  60 	   60	19/06/2021  2:27:56 PM	  0:50:34	
+   9	  41 	   40	19/06/2021  2:59:55 PM	  0:31:59	
+  10	 100 	  100	19/06/2021  3:20:05 PM	  0:20:10	
+  11	  40 	   40	19/06/2021  3:53:55 PM	  0:33:50	
+  12	  50 	   50	19/06/2021  4:30:31 PM	  0:36:36	
+  13	  57 		19/06/2021  5:39:56 PM	  1:09:25	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:39:56 PM
+Time on course   6:39:56
+
+
+  620	Points Scored.
+ -620	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620 LATE

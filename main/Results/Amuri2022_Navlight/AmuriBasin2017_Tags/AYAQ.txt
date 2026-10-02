@@ -1,0 +1,22 @@
+Team No. 2111	Tag ID = AYAQ   Tags=0005	Course 3Hr
+Run like the winded: Malinda Martin, Pip Simmons and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:53:02 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	 9/07/2017 12:12:06 PM	  0:12:06	
+   3	  31 	   30	 9/07/2017 12:25:26 PM	  0:13:20	
+   4	  33 	   30	 9/07/2017  1:55:19 PM	  1:29:53	
+   5	 107 		 9/07/2017  3:01:39 PM	  1:06:20	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:01:39 PM
+Time on course   3:01:39
+
+
+   90	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 70

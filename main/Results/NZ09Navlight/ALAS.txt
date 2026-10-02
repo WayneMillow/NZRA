@@ -1,0 +1,30 @@
+Team No. 25	Tag ID = ALAS   Tags=0013	Course 24 Hour
+Andrew Mitchell, Leith Banks
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 11:45:26 AM	         	BRIEFING. Score reset.
+   2	 31	 30	 7/03/2009 12:17:40 PM	  0:17:40	
+   3	 46	 40	 7/03/2009 12:51:03 PM	  0:33:23	
+   4	 46		 7/03/2009 12:51:05 PM	  0:00:02	     Punched on Line 3
+   5	 41	 40	 7/03/2009  1:31:05 PM 	  0:40:00	
+   6	 80	 80	 7/03/2009  2:28:48 PM 	  0:57:43	
+   7	 32	 30	 7/03/2009  3:16:58 PM 	  0:48:10	
+   8	 92	 90	 7/03/2009  3:54:02 PM 	  0:37:04	
+   9	 55	 50	 7/03/2009  4:50:59 PM 	  0:56:57	
+  10	 87	 80	 7/03/2009  5:46:48 PM 	  0:55:49	
+  11	 72	 70	 7/03/2009  7:20:40 PM 	  1:33:52	
+  12	 48	 40	 7/03/2009  8:28:09 PM 	  1:07:29	
+  13	 F		 8/03/2009  7:26:07 AM 	 10:57:58	FINISH TIME.
+END
+
+
+Recognised finish time  8/03/2009  7:26:07 AM 
+Time on course  19:26:07
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

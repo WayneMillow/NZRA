@@ -1,0 +1,33 @@
+Team No. 104	Tag ID = AMBA   Tags=0016	Course 6hr
+Lyndon Matthews, Eldon Matthews and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008 10:44:46 AM	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008 11:11:26 AM	  0:11:26	     Group 30 replaces 98.
+   3	 50	 50	14/06/2008 11:29:01 AM	  0:17:35	
+   4	 67	 60	14/06/2008 11:45:14 AM	  0:16:13	
+   5	 41	 40	14/06/2008 12:09:03 PM	  0:23:49	
+   6	 64	 60	14/06/2008 12:45:42 PM	  0:36:39	
+   7	 81	 80	14/06/2008  1:22:17 PM 	  0:36:35	
+   8	 35	 30	14/06/2008  1:47:56 PM 	  0:25:39	
+   9	 75	 70	14/06/2008  2:14:10 PM 	  0:26:14	
+  10	 31	 30	14/06/2008  2:36:18 PM 	  0:22:08	
+  11	 59	 50	14/06/2008  2:46:07 PM 	  0:09:49	
+  12	 63	 60	14/06/2008  3:11:18 PM 	  0:25:11	
+  13	 52	 50	14/06/2008  3:35:37 PM 	  0:24:19	
+  14	 49	 40	14/06/2008  4:16:01 PM 	  0:40:24	
+  15	 22	 20	14/06/2008  4:35:03 PM 	  0:19:02	     Group 22 replaces 96.
+  16	106		14/06/2008  4:39:27 PM 	  0:04:24	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:39:27 PM 
+Time on course   5:39:27
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

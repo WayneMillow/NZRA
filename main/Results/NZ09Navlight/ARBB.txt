@@ -1,0 +1,25 @@
+Team No. 119	Tag ID = ARBB   Tags=0008	Course 8 Hour
+Kirsten Richards, Paul Dowling
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 10:46:16 AM	         	BRIEFING. Score reset.
+   2	 20	 20	 7/03/2009 11:20:19 AM	  0:20:19	
+   3	 21	 20	 7/03/2009 11:57:09 AM	  0:36:50	
+   4	 30	 30	 7/03/2009 12:16:07 PM	  0:18:58	
+   5	 54	 50	 7/03/2009  1:05:56 PM 	  0:49:49	
+   6	 35	 30	 7/03/2009  2:20:47 PM 	  1:14:51	
+   7	 31	 30	 7/03/2009  4:39:45 PM 	  2:18:58	
+   8	 F		 7/03/2009  5:16:07 PM 	  0:36:22	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  5:16:07 PM 
+Time on course   6:16:07
+
+
+  180	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 180

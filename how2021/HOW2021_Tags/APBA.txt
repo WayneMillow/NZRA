@@ -1,0 +1,32 @@
+Team No. 105	Tag ID = APBA   Tags=0015	Course 6 hour
+Wicked Rogaines: Oscar Edmond, Ian Edmond and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:11:25 AM	  0:11:25	
+   2	  24 	   20	19/06/2021 11:25:40 AM	  0:14:15	
+   3	  39 	   30	19/06/2021 11:41:50 AM	  0:16:10	
+   4	  59 	   50	19/06/2021 12:04:59 PM	  0:23:09	
+   5	  47 	   40	19/06/2021 12:44:53 PM	  0:39:54	
+   6	  80 	   80	19/06/2021 12:59:57 PM	  0:15:04	
+   7	  50 	   50	19/06/2021  1:51:16 PM	  0:51:19	
+   8	 100 	  100	19/06/2021  2:41:23 PM	  0:50:07	
+   9	  77 	   70	19/06/2021  3:24:10 PM	  0:42:47	
+  10	  58 	   50	19/06/2021  3:48:17 PM	  0:24:07	
+  11	  49 	   40	19/06/2021  4:05:51 PM	  0:17:34	
+  12	  34 	   30	19/06/2021  4:19:29 PM	  0:13:38	
+  13	  25 	   20	19/06/2021  4:40:05 PM	  0:20:36	
+  14	  48 	   40	19/06/2021  4:53:40 PM	  0:13:35	
+  15	  97 		19/06/2021  5:04:02 PM	  0:10:22	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:04:02 PM
+Time on course   6:04:02
+
+
+  650	Points Scored.
+  -50	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

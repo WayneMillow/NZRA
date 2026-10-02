@@ -1,0 +1,25 @@
+Team No. 105	Tag ID = APBA   Tags=0009	Course 15 hour
+Let's Not Get Lost This Time: Christopher Dewhurst, Gemma Green
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  99 		 7/11/2020  6:52:16 PM	         	START TIME. Score reset.
+   3	  28 	   20	 7/11/2020  7:14:30 PM	  0:22:14	
+   4	  39 	   30	 7/11/2020  7:39:53 PM	  0:25:23	
+   5	 107 	  100	 7/11/2020  8:32:47 PM	  0:52:54	
+   6	  85 	   80	 7/11/2020  9:30:51 PM	  0:58:04	
+   7	  45 	   40	 7/11/2020 10:10:47 PM	  0:39:56	
+   8	  75 	   70	 7/11/2020 11:08:24 PM	  0:57:37	
+   9	  19 		 8/11/2020  0:22:28 AM	  1:14:04	FINISH TIME.
+END
+
+
+Recognised Course time 7/11/2020 5:30:12 PM
+Time on course   5:30:12
+
+
+  340	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 340

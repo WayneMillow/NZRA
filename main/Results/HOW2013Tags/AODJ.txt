@@ -1,0 +1,37 @@
+Team No. 646	Tag ID = AODJ   Tags=0020	Course 10hr
+I lost my tap wrench - 1: Felicity Thomas, Cameron  Matthews
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   4	104		 8/06/2013  8:53:46 AM 	         	BRIEFING. Score reset.
+   5	 28	 20	 8/06/2013 10:05:31 AM	  1:00:31	
+   6	 38	 30	 8/06/2013 10:17:22 AM	  0:11:51	
+   7	 83	 80	 8/06/2013 10:33:27 AM	  0:16:05	
+   8	 47	 40	 8/06/2013 11:53:24 AM	  1:19:57	
+   9	100	100	 8/06/2013 12:04:41 PM	  0:11:17	
+  10	 74	 70	 8/06/2013 12:36:25 PM	  0:31:44	
+  11	 76	 70	 8/06/2013  1:39:15 PM 	  1:02:50	
+  12	 58	 50	 8/06/2013  2:04:51 PM 	  0:25:36	
+  13	 21	 20	 8/06/2013  2:29:58 PM 	  0:25:07	
+  14	 44	 40	 8/06/2013  2:59:03 PM 	  0:29:05	
+  15	 86	 80	 8/06/2013  3:16:26 PM 	  0:17:23	
+  16	 68	 60	 8/06/2013  3:37:59 PM 	  0:21:33	
+  17	101	100	 8/06/2013  4:46:37 PM 	  1:08:38	
+  18	 31	 30	 8/06/2013  6:01:56 PM 	  1:15:19	
+  19	 53	 50	 8/06/2013  6:40:01 PM 	  0:38:05	
+  20	 14		 8/06/2013  6:57:01 PM 	  0:17:00	FINISH TIME.
+END
+	AddedPunch80	80
+	AddedPunch84	80
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  6:57:01 PM 
+Time on course   9:52:01
+
+
+ 1080	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1080

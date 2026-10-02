@@ -1,0 +1,28 @@
+Team No. 2	Tag ID = AQAQ   Tags=0011	Course 12hr
+Forever Young: Steve Petty, Kevin Stobbs and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  8:34:46 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009  9:21:54 AM 	  0:16:54	
+   3	 33	 30	 4/07/2009  9:48:32 AM 	  0:26:38	
+   4	 34	 30	 4/07/2009 10:29:37 AM	  0:41:05	
+   5	 22	 20	 4/07/2009 12:36:56 PM	  2:07:19	
+   6	 55	 50	 4/07/2009  1:06:14 PM 	  0:29:18	
+   7	 62	 60	 4/07/2009  1:51:49 PM 	  0:45:35	
+   8	 54	 50	 4/07/2009  2:43:08 PM 	  0:51:19	
+   9	 32	 30	 4/07/2009  3:05:21 PM 	  0:22:13	
+  10	 53	 50	 4/07/2009  3:59:23 PM 	  0:54:02	
+  11	104		 4/07/2009  4:45:06 PM 	  0:45:43	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:45:06 PM 
+Time on course   7:40:06
+
+
+  340	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 340

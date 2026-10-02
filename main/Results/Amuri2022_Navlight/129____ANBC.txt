@@ -1,0 +1,30 @@
+Team No. 129	Tag ID = ANBC   Tags=0013	Course 3hr
+Ok Kathryn: Kathryn Langford, Kirsten Allison and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:03:20 PM	  0:03:20	
+   2	  20 	   20	 3/07/2022 12:09:38 PM	  0:06:18	
+   3	  31 	   30	 3/07/2022 12:16:45 PM	  0:07:07	
+   4	  71 	   70	 3/07/2022 12:28:57 PM	  0:12:12	
+   5	  32 	   30	 3/07/2022 12:36:45 PM	  0:07:48	
+   6	  22 	   20	 3/07/2022 12:41:11 PM	  0:04:26	
+   7	  60 	   60	 3/07/2022 12:49:11 PM	  0:08:00	
+   8	  40 	   40	 3/07/2022 12:55:28 PM	  0:06:17	
+   9	  42 	   40	 3/07/2022  1:24:14 PM	  0:28:46	
+  10	  50 	   50	 3/07/2022  1:59:44 PM	  0:35:30	
+  11	  61 	   60	 3/07/2022  2:16:02 PM	  0:16:18	
+  12	  18 		 3/07/2022  3:02:04 PM	  0:46:02	FINISH TIME.
+  13	  19 		 3/07/2022  3:02:10 PM	  0:00:06	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  3/07/2022  3:02:04 PM
+Time on course   3:02:04
+
+
+  460	Points Scored.
+  -30	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

@@ -1,0 +1,17 @@
+ 1	7	Lancewood Appreciation Pro Racing (Peter Robinson, Alex Corbett.)	 14:52:10	3430	M1
+ 2	9	Lakes Adventure (Dave dixon, Andrew.)	 15:00:09	3020( 20)	M2
+ 3	13	Fiordlanders (Adrian Braaksma, Steve Hoskin.)	 14:51:24	2790	M3
+ 4	17	Map Muppets (Kegan Gilmore, Steve Kennard.)	 15:03:22	2180( 100)	M4
+ 5	12	Slowgain (Jim Cotter, Lucy Cotter.)	 13:52:05	2140	X1
+ 6	5	Ya Hooligans (Sam Richardson, Guy Sutherland.)	 14:30:08	2120	M5,MV1
+ 7	3	Back Us (Greg Bacchus, Tim Bacchus.)	 14:46:59	1980	M6
+ 8	15	T & C's Apply (Twyla Kingan, Callum Kingan.)	 13:47:34	1710	X2,XV1
+ 9	11	Iti Rearea (Jo Monks, Jo Carpenter, Grace Fortune-Kelly.)	 14:35:04	1560	W1
+ 10	2	Dean And Keri (Dean Clark, Keri Antoniak.)	 13:49:13	1420	X3,XV2,XSV1
+ 11	6	Purple Marshmallow (Emma Urquhart, Mandy McFalane, Rhea McLean.)	 14:39:13	1330	W2,WV1
+ 12	1	Directile Dysfunction (Nicola Mitchell, Peter Mitchell, Ben Mitchell.)	 11:22:54	1300	X4
+ 13	10	Strange Fruit (Megan Carr, Brian Andrews.)	 14:45:57	1210( 100)	X5,XV3
+ 14	8	Momentum (Samuel Irvine, Arnaud Mackenzie.)	 14:04:20	1170	M7,JM1
+ 15	16	Lost And Found (Shaun Counsell, Oonagh Counsell, Jonno Westrupp.)	 14:04:15	1120	X6,XV4
+ 16	14	Gazza & Stu (Stu Paterson, Gary Lister.)	 13:25:19	1110	M8,MV2,MSV1
+ 17	18	Ever Hopeful (Alison MacDonald, Leanne Cross.)	 14:01:56	1070	W3,WV2,WSV1

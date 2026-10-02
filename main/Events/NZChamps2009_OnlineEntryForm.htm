@@ -1,0 +1,556 @@
+<HTML>
+<HEAD><TITLE>NZRA - NZChamps2009 On-line Entry Form</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<LINK href="../../stylesheet.css" type=text/css rel=stylesheet>
+
+<!-- <SCRIPT LANGUAGE = JavaScript>  -->
+<script language=JavaScript>
+<!-- 
+function adduptest(){}
+function addup(){
+
+// To test whether JS is enabled in the user's browser
+OnlineEntryForm.JStest.value = "JS_OK";
+
+//BusCostTable= new Array(0,98,35,35)
+//OnlineEntryForm.busfee1.value = BusCostTable[OnlineEntryForm.xbus.value]
+//OnlineEntryForm.busfee2.value = BusCostTable[OnlineEntryForm.xbus2.value]
+//OnlineEntryForm.busfee3.value = BusCostTable[OnlineEntryForm.xbus3.value]
+//OnlineEntryForm.busfee4.value = BusCostTable[OnlineEntryForm.xbus4.value]
+//OnlineEntryForm.busfee5.value = BusCostTable[OnlineEntryForm.xbus5.value]
+//alert ("Bus Fee:" + OnlineEntryForm.busfee1.value)
+
+switch (OnlineEntryForm.xbus.value){
+    case "Bus not required":   OnlineEntryForm.busfee1.value = 0; break;
+    case "Bus from Christchurch":   OnlineEntryForm.busfee1.value = 98; break;
+    case "Bus from Dunedin city":   OnlineEntryForm.busfee1.value = 35; break;
+    case "Bus from Dunedin airport":   OnlineEntryForm.busfee1.value = 35; break;
+    }
+// alert ("Bus Fee:" + OnlineEntryForm.busfee1.value)    
+    
+  switch (OnlineEntryForm.xbus2.value){
+    case "Bus not required":   OnlineEntryForm.busfee2.value = 0; break;
+    case "Bus from Christchurch":   OnlineEntryForm.busfee2.value = 98; break;
+    case "Bus from Dunedin city":   OnlineEntryForm.busfee2.value = 35; break;
+    case "Bus from Dunedin airport":   OnlineEntryForm.busfee2.value = 35; break;
+    }
+    
+    switch (OnlineEntryForm.xbus3.value){
+    case "Bus not required":   OnlineEntryForm.busfee3.value = 0; break;
+    case "Bus from Christchurch":   OnlineEntryForm.busfee3.value = 98; break;
+    case "Bus from Dunedin city":   OnlineEntryForm.busfee3.value = 35; break;
+    case "Bus from Dunedin airport":   OnlineEntryForm.busfee3.value = 35; break;
+    }
+    if (OnlineEntryForm.realname3.value.length == 0){
+              OnlineEntryForm.busfee3.value = 0;}
+   
+    switch (OnlineEntryForm.xbus4.value){
+    case "Bus not required":   OnlineEntryForm.busfee4.value = 0; break;
+    case "Bus from Christchurch":   OnlineEntryForm.busfee4.value = 98; break;
+    case "Bus from Dunedin city":   OnlineEntryForm.busfee4.value = 35; break;
+    case "Bus from Dunedin airport":   OnlineEntryForm.busfee4.value = 35; break;
+    }
+    if (OnlineEntryForm.realname4.value.length == 0){
+              OnlineEntryForm.busfee4.value = 0;}
+       
+ switch (OnlineEntryForm.xbus5.value){
+    case "Bus not required":   OnlineEntryForm.busfee5.value = 0; break;
+    case "Bus from Christchurch":   OnlineEntryForm.busfee5.value = 98; break;
+    case "Bus from Dunedin city":   OnlineEntryForm.busfee5.value = 35; break;
+    case "Bus from Dunedin airport":   OnlineEntryForm.busfee5.value = 35; break;
+    }  
+    if (OnlineEntryForm.realname5.value.length == 0){
+              OnlineEntryForm.busfee5.value = 0;}
+              
+              
+OnlineEntryForm.totalentryfee.value = Number(OnlineEntryForm.entryfee1.value) + Number(OnlineEntryForm.entryfee2.value)  + Number(OnlineEntryForm.entryfee3.value) + Number(OnlineEntryForm.entryfee4.value) + Number(OnlineEntryForm.entryfee5.value)
+//   alert("Total is: " + OnlineEntryForm.totalentryfee.value)
+
+OnlineEntryForm.totalbusfee.value = Number(OnlineEntryForm.busfee1.value) + Number(OnlineEntryForm.busfee2.value)  + Number(OnlineEntryForm.busfee3.value) + Number(OnlineEntryForm.busfee4.value) + Number(OnlineEntryForm.busfee5.value)
+//   alert("Total is: " + OnlineEntryForm.totalbusfee.value)
+
+OnlineEntryForm.totalfees.value = Number(OnlineEntryForm.totalentryfee.value) + Number(OnlineEntryForm.totalbusfee.value)
+}
+//  -->
+</script>
+
+</HEAD>
+
+
+<body class=medium>
+
+<form method="post" action="#" name="OnlineEntryForm">
+
+<input type="hidden" name="mail_options" value="PlainTemplate=NZChamps2009_OnlineEntryFormEmailTemplate.txt,TemplateMissing=" /> 
+
+<input type="hidden" name="recipients" value="nzra.entriesFMNP6WQ2gmail.com, kennedyzFMNP6WQ2xtra.co.nz" />
+<!-- <input type="hidden" name="recipients" value="kennedyzFMNP6WQ2xtra.co.nz, petersquiresFMNP6WQ2ihug.co.nz" />  -->
+<!-- <input type="hidden" name="recipients" value="kennedyzFMNP6WQ2xtra.co.nz,petersquiresFMNP6WQ2ihug.co.nz,g.hunterFMNP6WQ2clear.net.nz,
+merrifieldFMNP6WQ2ihug.co.nz,lauriefamFMNP6WQ2xtra.co.nz" />  -->
+
+<input type="hidden" name="subject" value="New Zealand Champs 2009 Entry" />
+
+<input type="hidden" name="JStest" value="" />
+
+
+<!-- CONDITIONS  -->
+
+<input type="hidden" name="conditions1" value=":@@TEST@realname@Enter the name of Team Contact@:@TEST@email@Enter the email address of Team Contact@:@TEST@address@Please supply an address for the Team Contact@:@TEST@town@Enter a town for Team Contact@:@TEST@phone@Enter a phone number for Team Contact@" />
+
+<input type="hidden" name="conditions2" value=":@@TEST@realname2@Enter the name of Team Member 2@:@TEST@email2@Enter the email address of Team Member 2@:@TEST@address2@Please supply an address for Team Member 2@:@TEST@town2@Enter a town for Team Member 2@:@TEST@phone2@Enter a phone number for Team Member 2@" />
+
+<!-- This checks that if there is ANY field supplied for Member 3 then all must be supplied; OR ELSE NONE ARE SUPPLIED as is  necessary for printout to be blank -->
+<!-- <input type="hidden" name="conditions3" value=":@@IF@realname3@email3@@Please enter the full details for Team Member 3, or clear them all if there is no Member 3@:@IF@email3@address3@@full details for Team Member 3, or clear them all if there is no Member 3@:@IF@address3@town3@@full details for Team Member 3, or clear them all if there is no Member 3@:@IF@town3@phone3@@full details for Team Member 3, or clear them all if there is no Member 3@:@IF@phone3@realname3@@full details for Team Member 3, or clear them all if there is no Member 3@" />  -->
+
+<input type="hidden" name="conditions3" value=":@@IF@realname4@realname3@@You have a Team Member 4 but no Member 3. Please supply the details of Member 3@:@IF@realname5@realname3@@You have a Team Member 5 but no Member 3. Please supply the details of Member 3@:@IF@realname3@email3@@Enter the email address of Team Member 3@:@IF@realname3@address3@@Please supply an address for Team Member 3@:@IF@realname3@town3@@Enter a town for Team Member 3@:@IF@realname3@phone3@@Enter a phone number for Team Member 3@" />
+
+<input type="hidden" name="conditions4" value=":@@IF@realname5@realname4@@You have a Team Member 5 but no Member 4. Please supply the details of Member 4@:@IF@realname4@email4@@Enter the email address of Team Member 4@:@IF@realname4@address4@@Please supply an address for Team Member 4@:@IF@realname4@town4@@Enter a town for Team Member 4@:@IF@realname4@phone4@@Enter a phone number for Team Member 4@" />
+
+<input type="hidden" name="conditions5" value=":@@IF@realname5@email5@@Enter the email address of Team Member 5@:@IF@realname5@address5@@Please supply an address for Team Member 5@:@IF@realname5@town5@@Enter a town for Team Member 5@:@IF@realname5@phone5@@Enter a phone number for Team Member 5@" />
+
+<input type="hidden" name="conditions6" value=":@@TEST@sametest1!=sametest2@Team Members 1 and 2 cannot have the same name.@:@TEST@sametest1!=sametest3@Team Members 1 and 3 cannot have the same name.@:@TEST@sametest1!=sametest4@Team Members 1 and 4 cannot have the same name.@:@TEST@sametest1!=sametest5@Team Members 1 and 5 cannot have the same name.@:@TEST@sametest2!=sametest3@Team Members 2 and 3 cannot have the same name.@:@TEST@sametest2!=sametest4@Team Members 2 and 4 cannot have the same name.@:@TEST@sametest2!=sametest5@Team Members 2 and 5 cannot have the same name.@:@TEST@sametest3!=sametest4@Team Members 3 and 4 cannot have the same name.@:@TEST@sametest3!=sametest5@Team Members 3 and 5 cannot have the same name.@:@TEST@sametest4!=sametest5@Team Members 4 and 5 cannot have the same name.@" />
+
+
+<input type="hidden" name="conditions7" value=":@@TEST@gender@Please enter the gender of the team@" />
+<input type="hidden" name="conditions8" value=":@@TEST@agegroup@What is the Team's agegroup@" />
+<input type="hidden" name="conditions9" value=":@@TEST@uni@Select whether you are competing in the UniChallenge@" />
+<input type="hidden" name="conditions10" value=":@@IF@uni ~ /Yes,/@uniname@@You selected the University Challenge. 
+   What is the name of your Uni or Poly?@" />
+<input type="hidden" name="conditions11" value=":@@IF@uni ~ /No/@uniname=blank@@You selected 'No' for the University Challenge.
+   You cannot therefore specify a Uni or Poly name - please clear it.@" />
+<input type="hidden" name="conditions12" value=":@@TEST@event@Please select either the 24hr or 8hr event@" />
+
+<input type="hidden" name="conditions13" value=":@@IF@realname3@entryfee3#!=0@entryfee3#=0@Please select the correct entry fee for Member 3@:@IF@realname4@entryfee4#!=0@entryfee4#=0@Please select the correct entry fee for Member 4@:@IF@realname5@entryfee5#!=0@entryfee5#=0@Please select the correct entry fee for Member 5@" />
+
+
+<!-- No member 3,4 or 5 therefore bus should be "Not required"  --> 
+<input type="hidden" name="conditions14" value=":@@IF@realname3@@xbus3 ~ /Bus not required/@There is no Member 3 so please select bus not required for Member 3@:@IF@realname4@@xbus4 ~ /Bus not required/@There is no Member 4 so please select bus not required for Member 4@:@IF@realname5@@xbus5 ~ /Bus not required/@There is no Member 5 so please select bus not required for Member 5@" />
+
+
+<!-- IN CASE JAVASCRIPT IS DISABLED. Manual entry of bus fares and total fees -->
+
+<input type="hidden" name="conditions15" value=":@@IF@xbus ~ /Bus not required/@busfee1 ~ /^0*$/@@Bus not required for Member 1 - enter 0 for the bus fare@:@IF@xbus ~ /Bus from Christchurch/@busfee1#=98@@Bus from Christchurch for Member 1 - enter 98 for the bus fare@:@IF@xbus ~ /Bus from Dunedin city/@busfee1#=35@@Bus from Dunedin city for Member 1 - enter 35 for the bus fare@:@IF@xbus ~ /Bus from Dunedin airport/@busfee1#=35@@Bus from Dunedin airport for Member 1 - enter 35 for the bus fare@:@IF@xbus2 ~ /Bus not required/@busfee2 ~ /^0*$/@@Bus not required for Member 2 - enter 0 for the bus fare@:@IF@xbus2 ~ /Bus from Christchurch/@busfee2#=98@@Bus from Christchurch for Member 2 - enter 98 for the bus fare@:@IF@xbus2 ~ /Bus from Dunedin city/@busfee2#=35@@Bus from Dunedin city for Member 2 - enter 35 for the bus fare@:@IF@xbus2 ~ /Bus from Dunedin airport/@busfee2#=35@@Bus from Dunedin airport for Member 2 - enter 35 for the bus fare@:" />
+
+<input type="hidden" name="conditions16" value=":@@IF@xbus3 ~ /Bus not required/@busfee3 ~ /^0*$/@@Bus not required for Member 3 - enter 0 for the bus fare@:@IF@xbus3 ~ /Bus from Christchurch/@busfee3#=98@@Bus from Christchurch for Member 3 - enter 98 for the bus fare@:@IF@xbus3 ~ /Bus from Dunedin city/@busfee3#=35@@Bus from Dunedin city for Member 3 - enter 35 for the bus fare@:@IF@xbus3 ~ /Bus from Dunedin airport/@busfee3#=35@@Bus from Dunedin airport for Member 3 - enter 35 for the bus fare@:@IF@xbus4 ~ /Bus not required/@busfee4 ~ /^0*$/@@Bus not required for Member 4 - enter 0 for the bus fare@:@IF@xbus4 ~ /Bus from Christchurch/@busfee4#=98@@Bus from Christchurch for Member 4 - enter 98 for the bus fare@:@IF@xbus4 ~ /Bus from Dunedin city/@busfee4#=35@@Bus from Dunedin city for Member 4 - enter 35 for the bus fare@:@IF@xbus4 ~ /Bus from Dunedin airport/@busfee4#=35@@Bus from Dunedin airport for Member 4 - enter 35 for the bus fare@:
+@IF@xbus5 ~ /Bus not required/@busfee5 ~ /^0*$/@@Bus not required for Member 5 - enter 0 for the bus fare@:@IF@xbus5 ~ /Bus from Christchurch/@busfee5#=98@@Bus from Christchurch for Member 5 - enter 98 for the bus fare@:@IF@xbus5 ~ /Bus from Dunedin city/@busfee5#=35@@Bus from Dunedin city for Member 5 - enter 35 for the bus fare@:@IF@xbus5 ~ /Bus from Dunedin airport/@busfee5#=35@@Bus from Dunedin airport for Member 5 - enter 35 for the bus fare@:" />
+
+<input type="hidden" name="conditions17" value=":@@TEST@totalentryfee@Please enter the total entry fees@:@TEST@totalbusfee@Please enter the total bus fees@:@TEST@totalfees@Please enter the overall total fees@" />
+
+<!-- END OF IN CASE JAVASCRIPT IS DISABLED -->
+
+<input type="hidden" name="conditions18" value=":@@TEST@payment@Please select payment by Direct Credit or Cheque@" />
+<input type="hidden" name="conditions19" value=":@@TEST@acceptance@The Team Contact must agree to distribute event information
+Please tick the final box@" /> 
+
+<!-- END OF CONDITIONS  -->
+
+
+<input type="hidden" name="good_template" value="NZChamps2009_OnlineEntryFormResponse.htm" />
+<!--  <input type="hidden" name="good_url" value="Events/HOW2008_OnlineEntryFormResponse.htm" />  -->
+
+<input type="hidden" name="bad_template" value="NZChamps2009_OnlineEntryFormIncomplete.htm" />
+
+  <!-- BUS RESPONSE TO USER, AND IN EMAIL, ONLY IF MEMBERS 3, 4 OR 5 EXIST
+       TEST FOR SAME NAMES ONLY IF 3 AND 4 EXIST (5 COMPARED AGAINST SO NOT NEEDED); IF EMPTY NAMES WOULD APPEAR EQUAL SO MAKE        THEM 3, 4 AS SHOWN; TESTING IS CASE SENSITIVE  -->
+<input type="hidden" name="derive_fields" value="
+header= %'New Zealand Champs entry sent on '%.%dayname%.%2C%+%date%+%'at'%+%time%,
+bus=xbus,
+bus2=xbus2,
+ybus3=xbus3.%' - $'%.busfee3,
+bus3=%if(realname3;ybus3;%''%)%,
+ybus4=xbus4.%' - $'%.busfee4,
+bus4=%if(realname4;ybus4;%''%)%,
+ybus5=xbus5.%' - $'%.busfee5,
+bus5=%if(realname5;ybus5;%''%)%,
+email3_message=%if(realname3;email3;%''%)%,
+address3_message=%if(realname3;address3;%''%)%,
+town3_message=%if(realname3;town3;%''%)%,
+postcode3_message=%if(realname3;postcode3;%''%)%,
+phone3_message=%if(realname3;phone3;%''%)%,
+xentryfee3_message=%'Entry fee - $'%.entryfee3,
+entryfee3_message=%if(realname3;xentryfee3_message;%''%)%,
+email4_message=%if(realname4;email4;%''%)%,
+address4_message=%if(realname4;address4;%''%)%,
+town4_message=%if(realname4;town4;%''%)%,
+postcode4_message=%if(realname4;postcode4;%''%)%,
+phone4_message=%if(realname4;phone4;%''%)%,
+xentryfee4_message=%'Entry fee - $'%.entryfee4,
+entryfee4_message=%if(realname4;xentryfee4_message;%''%)%,
+email5_message=%if(realname5;email5;%''%)%,
+address5_message=%if(realname5;address5;%''%)%,
+town5_message=%if(realname5;town5;%''%)%,
+postcode5_message=%if(realname5;postcode5;%''%)%,
+phone5_message=%if(realname5;phone5;%''%)%,
+xentryfee5_message=%'Entry fee - $'%.entryfee5,
+entryfee5_message=%if(realname5;xentryfee5_message;%''%)%,
+sametest1=%ucase(realname)%,
+sametest2=%ucase(realname2)%,
+sametest3=%if(realname3;realname3;%'3'%)%,
+sametest3=%ucase(sametest3)%,
+sametest4=%if(realname4;realname4;%'4'%)%,
+sametest4=%ucase(sametest4)%,
+sametest5=%ucase(realname5)%,
+calc_messagemail=%if(JStest;%'Calculated automatically'%;%'Manually calculated'%)%,
+calc_messageresponse=%if(JStest;%'The total team fees are'%;%'You calculated the total team fees to be'%)%,
+messagemail=%if(comments;%'Message: '%;%'Message: none'%)%,
+messageresponse=%if(comments;%'You provided the following message: '%;%'You have no message'%)%,
+empty=%''%,
+zero=%'0'%" />
+
+
+          <!-- FORM CONTROL FINISHED; NOW PRESENT THE FORM DATA-->
+ 
+<table align=center width=700 cellpadding=10 border=3 bordercolor=#c0c0c0>
+      <!-- bordercolor=#c0c0c0    Frame the complete form -->
+<tr><td>
+
+<center><font class=title><u>New Zealand Rogaining Championships 2009</u></font><br><br><font class=subtitle> On-line Entry Form <br><br><br></font></center>
+
+<table align=center border=0>
+<tr>
+<td align=left><font class=mediumB>Event Enquiries to:&nbsp;&nbsp;</font></td><td><font class=medium>Peter Squires, petersquires@ihug.co.nz, ph. (03) 342 5746 or (03) 329 1714</font></td></tr>
+<tr>
+<td align=left><font class=mediumB>Entry Enquiries to:&nbsp;&nbsp;</font></td><td><font class=medium>Emma de Lacey, nzra.entries@gmail.com, ph. (03) 351 9743</font></td></tr>
+<tr>
+<td align=left><font class=mediumB>Bus Enquiries to:&nbsp;&nbsp;</font></td><td><font class=medium>Dave Laurie, lauriefam@xtra.co.nz, ph. (03) 332 4455</font></td></tr>
+</table>
+<br clear=left>
+
+<table align=left border=0>
+<tr> 
+<td class=medium align=left colspan=2><font class=mediumB>Entries close 5pm Wednesday 25th February.</font><br> <font class=smaller>Late entries until 5pm Wednesday 4th March at organiser’s discretion - $20 late fee per person</font><br><br>All information must be completed, including full details of the members of your team.<br><br><br></td></tr>
+</table>
+<br clear=left>
+
+
+<table align=left border=0>
+
+          <!-- TEAM MEMBER 1 (CONTACT) -->
+<tr> 
+<td class=mediumB align=left colspan=6>Team Contact</td></tr>
+<tr> 
+<td align=right class=smallerB>Name: </td>
+<td><input type="text" name="realname" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>&nbsp;&nbsp;&nbsp;&nbsp;Email: </td>
+<td colspan=3><input type="text" name="email" size=40 style="font-size: 12px;"></td></tr>
+<tr>
+<td align=right class=smallerB>Address: </td>
+<td><input type="text" name="address" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Town: </td>
+<td><input type=text name="town" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>&nbsp;&nbsp;&nbsp;&nbsp;Postcode: </td>
+<td><input type=text name="postcode" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td align=right class=smallerB>Phone: </td>
+<td><input type="text" name="phone" size=20 style="font-size: 12px;">
+<td align=right class=smallerB>Bus:</td>
+<td align=left colspan=3><select name="xbus" onchange="addup()" style="font-size: 12px;">
+<option value="Bus not required">Not required<option value="Bus from Christchurch">Christchurch ($98)<option value="Bus from Dunedin city">Dunedin city ($35)<option value="Bus from Dunedin airport">Dunedin airport ($35)</select></td></tr>
+
+
+           <!-- TEAM MEMBER 2 -->
+<tr> 
+<td class=mediumB align=left colspan=6><br><br>Team Member 2</td></tr>
+<tr> 
+<td align=right class=smallerB>Name: </td>
+<td><input type="text" name="realname2" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Email: </td>
+<td colspan=3><input type="text" name="email2" size=40 style="font-size: 12px;"></td></tr>
+<tr>
+<td align=right class=smallerB>Address: </td>
+<td><input type="text" name="address2" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Town: </td>
+<td><input type=text name="town2" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Postcode: </td>
+<td><input type=text name="postcode2" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td align=right class=smallerB>Phone: </td>
+<td><input type="text" name="phone2" size=20 style="font-size: 12px;">
+<td align=right class=smallerB>Bus:</td>
+<td align=left colspan=3><select name="xbus2" onchange="addup()" style="font-size: 12px;">
+<option value="Bus not required">Not required<option value="Bus from Christchurch">Christchurch ($98)<option value="Bus from Dunedin city">Dunedin city ($35)<option value="Bus from Dunedin airport">Dunedin airport ($35)</select></td></tr>                        
+         
+                  
+           <!-- TEAM MEMBER 3 -->
+<tr> 
+<td class=mediumB align=left colspan=6><br><br>Team Member 3<font class=medium> (if applicable)</font></td></tr>
+<tr> 
+<td align=right class=smallerB>Name: </td>
+<td><input type="text" name="realname3" size=30 style="font-size: 12px;" onchange="addup()"></td>
+<td align=right class=smallerB>Email: </td>
+<td colspan=3><input type="text" name="email3" size=40 style="font-size: 12px;"></td></tr>
+<tr>
+<td align=right class=smallerB>Address: </td>
+<td><input type="text" name="address3" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Town: </td>
+<td><input type=text name="town3" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Postcode: </td>
+<td><input type=text name="postcode3" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td align=right class=smallerB>Phone: </td>
+<td><input type="text" name="phone3" size=20 style="font-size: 12px;">
+<td align=right class=smallerB>Bus:</td>
+<td align=left colspan=3><select name="xbus3" onchange="addup()" style="font-size: 12px;">
+<option value="Bus not required">Not required<option value="Bus from Christchurch">Christchurch ($98)<option value="Bus from Dunedin city">Dunedin city ($35)<option value="Bus from Dunedin airport">Dunedin airport ($35)</select></td></tr>    
+
+       
+           <!-- TEAM MEMBER 4 -->
+<tr> 
+<td class=mediumB align=left colspan=6><br><br>Team Member 4<font class=medium> (if applicable)</font></td></tr>
+<tr> 
+<td align=right class=smallerB>Name: </td>
+<td><input type="text" name="realname4" size=30 style="font-size: 12px;" onchange="addup()"></td>
+<td align=right class=smallerB>Email: </td>
+<td colspan=3><input type="text" name="email4" size=40 style="font-size: 12px;"></td></tr>
+<tr>
+<td align=right class=smallerB>Address: </td>
+<td><input type="text" name="address4" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Town: </td>
+<td><input type=text name="town4" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Postcode: </td>
+<td><input type=text name="postcode4" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td align=right class=smallerB>Phone: </td>
+<td><input type="text" name="phone4" size=20 style="font-size: 12px;">
+<td align=right class=smallerB>Bus:</td>
+<td align=left colspan=3><select name="xbus4" onchange="addup()" style="font-size: 12px;">
+<option value="Bus not required">Not required<option value="Bus from Christchurch">Christchurch ($98)<option value="Bus from Dunedin city">Dunedin city ($35)<option value="Bus from Dunedin airport">Dunedin airport ($35)</select></td></tr>  
+
+         
+           <!-- TEAM MEMBER 5 -->
+<tr> 
+<td class=mediumB align=left colspan=6><br><br>Team Member 5<font class=medium> (if applicable)</font></td></tr>
+<tr> 
+<td align=right class=smallerB>Name: </td>
+<td><input type="text" name="realname5" size=30 style="font-size: 12px;" onchange="addup()"></td>
+<td align=right class=smallerB>Email: </td>
+<td colspan=3><input type="text" name="email5" size=40 style="font-size: 12px;"></td></tr>
+<tr>
+<td align=right class=smallerB>Address: </td>
+<td><input type="text" name="address5" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Town: </td>
+<td><input type=text name="town5" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Postcode: </td>
+<td><input type=text name="postcode5" size=8 style="font-size: 12px;"></td></tr>
+<tr> 
+<td align=right class=smallerB>Phone: </td>
+<td><input type="text" name="phone5" size=20 style="font-size: 12px;">
+<td align=right class=smallerB>Bus:</td>
+<td align=left colspan=3><select name="xbus5" onchange="addup()" style="font-size: 12px;">
+<option value="Bus not required">Not required<option value="Bus from Christchurch">Christchurch ($98)<option value="Bus from Dunedin city">Dunedin city ($35)<option value="Bus from Dunedin airport">Dunedin airport ($35)</select></td></tr>
+       
+</table>
+
+
+          <!-- TEAM DETAILS -->
+<br clear=left><br><br><br>
+<table align=left width=520 border=0>
+<tr> 
+<td align=left colspan=5><font class=largerB><u>Team Category</u></font> <font class=medium>(all team members must comply)</font></td></tr>
+
+<tr><td width=120 align=right><font class=mediumB>Gender:&nbsp;&nbsp;&nbsp;</font></td>
+<td width=100><input type="radio" name="gender" value= "M"><font class=smallerB>Men</font></td>
+<td width=100><input type="radio" name="gender" value= "W"><font class=smallerB>Women</font></td>
+<td width=100><input type="radio" name="gender" value= "X"><font class=smallerB>miXed</font></td>
+<td width=100>&nbsp;</td>
+</tr>
+ 
+<tr><td align=right valign=top><font class=mediumB>Age Group:&nbsp;&nbsp;&nbsp;</font></td>
+<td><input type="radio" name="agegroup" value= "J"><font class=smallerB>Junior<br>(under 20)</font></td>
+<td><input type="radio" name="agegroup" value= "O"><font class=smallerB>Open<br>&nbsp;</font></td>
+<td><input type="radio" name="agegroup" value= "V"><font class=smallerB>Vet<br>(40+)</font></td>
+<td><input type="radio" name="agegroup" value= "SV"><font class=smallerB>SuperVet<br> (55+)</font></td>
+</tr>
+
+<tr><td colspan=5>&nbsp;</td></tr>
+
+<tr><td align=right><font class=mediumB>University&nbsp;&nbsp;&nbsp;<br>Challenge:&nbsp;&nbsp;&nbsp;</font><br><font class=medium>(24hr event)&nbsp;</font></td>
+<td><input type="radio" name="uni" value="No"><font class=smallerB>No</font></td>
+<td><input type="radio" name="uni" value= "Yes,"><font class=smallerB>Yes</font></td>
+<td align=left class=smallerB colspan=2>If yes, name the Uni or Poly<br><input type="text" name="uniname" size=30 style="font-size: 12px;"></td>
+</tr>
+
+<tr><td colspan=5>&nbsp;</td></tr>
+
+<tr>
+<td align=left valign=top colspan=5><font class=mediumB>Which event?</font>
+<font class=smaller>(Please - no switching between events after you have entered)</font></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><input type="radio" name="event" value="24 hour"><font class=smallerB>24 hr</font></td>
+<td><input type="radio" name="event" value= "8 hour"><font class=smallerB>8 hr</font></td>
+<td colspan=2>&nbsp;</td>
+</tr>
+</table>
+
+<br clear=left><br><br>
+
+
+          <!-- FEES -->
+ <p><font class=largerB><u>Fees</u></font><br>
+ <font class=smallerB><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entry:&nbsp;&nbsp;</font><font class=smaller>24 hr - $85 per person (Junior $45),&nbsp;&nbsp;&nbsp;8 hr - $65 per person (Junior $35)</font><br>
+ <font class=smallerB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bus:&nbsp;&nbsp;</font><font class=smaller>Christchurch - $98,&nbsp;&nbsp;&nbsp;Dunedin city or airport - $35</font> </p>
+ 
+<p class=smaller><font class=smallerB>NB:</font> If your browser does not enter the bus fares corresponding to the bus option selected for each member then you will have to enter them, and the totals, manually.<br><br> 
+ 
+<table align=left border=0>
+<tr>
+<td width=100>&nbsp;</td>
+<td>&nbsp;</td>
+<td width=20>&nbsp;</td>
+<td align=center colspan=2><font class=smallerB>Entry Fee</font></td>
+<td>&nbsp;</td>
+<td align=center ><font class=smallerB>Bus Fare</font></td></tr>
+
+<tr>
+<td>&nbsp;</td>
+<td align=right><font class=smallerB>Member 1:</font></td>
+<td>&nbsp;</td>
+<td valign=top align=center colspan=2 class=larger><select name="entryfee1" onchange="addup()" style="font-size: 12px;">
+<option value="85">24hr - $85
+<option value="45">Junior 24hr - $45
+<option value="65">8hr - $65
+<option value="35">Junior 8hr - $35</select></td>
+<td>&nbsp;</td>
+<td align=left class=larger>$&nbsp;<input type="text" name="busfee1" onchange="addup()" value=0 size=2 style="font-size: 12px;"></font></td>
+
+<tr>
+<td>&nbsp;</td>
+<td align=right><font class=smallerB>Member 2:</font></td>
+<td>&nbsp;</td>
+<td valign=top align=center colspan=2 class=larger><select name="entryfee2" onchange="addup()" style="font-size: 12px;">
+<option value="85">24hr - $85
+<option value="45">Junior 24hr - $45
+<option value="65">8hr - $65
+<option value="35">Junior 8hr - $35</select></td>
+<td>&nbsp;</td>
+<td align=left class=larger>$&nbsp;<input type="text" name="busfee2" onchange="addup()" value=0 size=2 style="font-size: 12px;"></font></td></tr>
+
+<tr>
+<td>&nbsp;</td>
+<td align=right><font class=smallerB>Member 3:</font></td>
+<td>&nbsp;</td>
+<td valign=top align=center colspan=2 class=larger><select name="entryfee3" onchange="addup()" style="font-size: 12px;">
+<option value="0">0
+<option value="85">24hr - $85
+<option value="45">Junior 24hr - $45
+<option value="65">8hr - $65
+<option value="35">Junior 8hr - $35</select></td>
+<td>&nbsp;</td>
+<td align=left class=larger>$&nbsp;<input type="text" name="busfee3" onchange="addup()" value=0 size=2 style="font-size: 12px;"></font></td></tr>
+
+<tr>
+<td>&nbsp;</td>
+<td align=right><font class=smallerB>Member 4:</font></td>
+<td>&nbsp;</td>
+<td valign=top align=center colspan=2 class=larger><select name="entryfee4" onchange="addup()" style="font-size: 12px;">
+<option value="0">0
+<option value="85">24hr - $85
+<option value="45">Junior 24hr - $45
+<option value="65">8hr - $65
+<option value="35">Junior 8hr - $35</select></td>
+<td>&nbsp;</td>
+<td align=left class=larger>$&nbsp;<input type="text" name="busfee4" onchange="addup()" value=0 size=2 style="font-size: 12px;"></font></td></tr>
+
+<tr>
+<td>&nbsp;</td>
+<td align=right><font class=smallerB>Member 5:</font></td>
+<td>&nbsp;</td>
+<td valign=top align=center colspan=2 class=larger><select name="entryfee5" onchange="addup()" style="font-size: 12px;">
+<option value="0">0
+<option value="85">24hr - $85
+<option value="45">Junior 24hr - $45
+<option value="65">8hr - $65
+<option value="35">Junior 8hr - $35</select></td>
+<td>&nbsp;</td>
+<td align=left class=larger>$&nbsp;<input type="text" name="busfee5" onchange="addup()" value=0 size=2 style="font-size: 12px;"></font></td></tr>
+
+<tr><td colspan=7 class=larger>&nbsp;</td></tr> 
+
+<tr>
+<td>&nbsp;</td>
+<td align=right colspan=2><font class=smallerB>Entry Total:&nbsp;</font></td>
+<td valign=top align=left class=larger>$&nbsp;<font class=smallerB><input type="text" name="totalentryfee" size=2 style="font-size: 12px;"></td>
+<td align=right colspan=2><font class=smallerB>Bus Total:&nbsp;</font></td>
+<td align=left class=larger>$&nbsp;<input type="text" name="totalbusfee" size=2 style="font-size: 12px;"></font></td></tr>
+
+<tr><td colspan=7 style="font-size: 3px;">&nbsp;</td></tr>
+
+<tr>
+<td>&nbsp;</td>
+<td colspan=2 align=right><font class=smallerB>Overall Total:&nbsp;</font></td>
+<td align=left class=larger>$&nbsp;<input type="text" name="totalfees" size=2 style="font-size: 12px;"></font></td>
+<td colspan=4>&nbsp;</td></tr>
+</table>
+
+
+
+          <!-- PAYMENT -->
+<br clear=left>
+<table align=left width=600 border=0>
+<tr><td width=20>&nbsp;</td><td width=100>&nbsp;</td><td width=450>&nbsp;</td></tr>
+<tr><th class=mediumB align=left colspan=3>Select method of payment</th></tr>
+<tr>
+<td>&nbsp;</td>
+<td width=* colspan=2><input type="radio" name="payment" value="direct credit"><font class=smallerB>Direct credit to NZRA Account No. 03 0674 0197735 00. Please use the Team Contact's name as reference to identify your payment.</font></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td colspan=2><input type="radio" name="payment" value="cheque"><font class=smallerB>Cheque - payable to NZ Rogaining Association.  <!-- Print and include this entry form with your cheque and mail to: --></font></td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td align=left><table><tr><td><font class=medium>c/o Emma de Lacey<br>29A Hamilton Avenue<br>Ilam<br>Christchurch 8041</font></td></tr></table>
+</td></tr>
+</table>
+
+<br clear=left><br>
+
+<p class=medium>Confirmation of entry is via the <a target=_blank href="NZChamps09_Entrants.htm">list of entrants</a> on the NZRA website. <!--  after payment has been received. --><br><br><br>
+
+
+          <!-- COMMENTS -->
+<table align=left width=600 border=0> 
+<tr><td colspan=2 align=left class=mediumB valign=top>If you have any message for the organisers please type it here.</td></tr>
+<tr><td width=100>&nbsp;</td><td align=left style="font-size: 12px;"> <textarea name="comments" class=smaller style="font-size=12px;" COLS=65 ROWS=6 wrap=physical></textarea></td></tr>
+</table>
+
+<br clear=left><br><br>
+
+          <!-- ACCEPTANCE -->
+<table align=left width=600 border=0>
+<tr>
+<td valign=top width=50><font class=mediumB>Note:</font></td>
+<td valign=top><font class=smaller>Each competitor must be a member of a Rogaining Association or an Orienteering Club, or must become a member of the NZ Rogaining Association (free), and hereby agrees to abide by the NZRA rules and Code of Conduct. These can be found at www.rogaine.org.nz where information and online membership are available. Your attention is drawn particularly to the condition of membership that you enter all events entirely at your own risk. All participants will be required to sign an indemnity that neither the Association, the organisers, nor the landowners will be held responsible for any accident or injury which may occur.</font></td></tr></table>
+
+<br clear=left><br>
+
+<table align=left width=600 border=0>
+<tr>
+<td width=80 align=center valign=top><input type="checkbox" name="acceptance" value="accept"><br><font class=medium>(tick)</font></td>
+<td width=500><font class=medium>I (the Team Contact) undertake to ensure all team members have seen or been fully advised of the written event briefing information distributed to me and available at www.rogaine.org.nz before the event. </font></td></tr>
+</table>
+
+<br clear=left><br><br>
+
+<p><center><input type="submit" value="  Submit  "> <input type="reset" value="Clear Form"><br>
+ <font class=medium>Processing may take up to 10 seconds, please wait...</font>
+<!-- <font class=smaller> <br><br> 
+[<a href="" onClick="window.close()">Close this window</a>]</font>  -->
+</center></p>
+
+<p class=smaller style="color:black"><br>Powered by free <a target=_blank href="http://www.tectite.com/">FormMail</a> from www.tectite.com</p>
+
+</td></tr></table> <br><br> <!-- End of overall frame -->
+
+</form>
+
+<script language=JavaScript>
+<!-- 
+onLoad = addup()
+//  -->
+</script>  
+
+
+</body> 
+</html>  

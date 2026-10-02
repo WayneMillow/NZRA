@@ -1,0 +1,31 @@
+Team No. 28	Tag ID = ASAS   Tags=0014	Course 12hr
+Glorias Stitz, Lou Snutz
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  8:14:46 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009  9:12:27 AM 	  0:07:27	
+   3	 65	 60	 4/07/2009  9:56:00 AM 	  0:43:33	
+   4	 25	 20	 4/07/2009 10:17:44 AM	  0:21:44	
+   5	 66	 60	 4/07/2009 11:03:55 AM	  0:46:11	
+   6	 58	 50	 4/07/2009 11:32:41 AM	  0:28:46	
+   7	 26	 20	 4/07/2009 11:58:33 AM	  0:25:52	
+   8	 46	 40	 4/07/2009 12:42:55 PM	  0:44:22	
+   9	 73	 70	 4/07/2009  1:57:31 PM 	  1:14:36	
+  10	 36	 30	 4/07/2009  2:29:33 PM 	  0:32:02	
+  11	 23	 20	 4/07/2009  2:45:57 PM 	  0:16:24	
+  12	 62	 60	 4/07/2009  2:55:42 PM 	  0:09:45	
+  13	 22	 20	 4/07/2009  3:14:47 PM 	  0:19:05	
+  14	105		 4/07/2009  4:26:43 PM 	  1:11:56	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:26:43 PM 
+Time on course   7:21:43
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

@@ -1,0 +1,29 @@
+Team No. 125	Tag ID = ADBC   Tags=0012	Course 6hr
+Leisa Williams, Margaret McKenzie
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008 10:44:50 AM	         	BRIEFING. Score reset.
+   2	 22	 20	14/06/2008 11:06:07 AM	  0:06:07	     Group 22 replaces 96.
+   3	 49	 40	14/06/2008 11:14:26 AM	  0:08:19	
+   4	 59	 50	14/06/2008 11:25:50 AM	  0:11:24	
+   5	 31	 30	14/06/2008 11:35:58 AM	  0:10:08	
+   6	 63	 60	14/06/2008 12:36:48 PM	  1:00:50	
+   7	 75	 70	14/06/2008  1:07:51 PM 	  0:31:03	
+   8	 35	 30	14/06/2008  1:36:55 PM 	  0:29:04	
+   9	 81	 80	14/06/2008  2:14:14 PM 	  0:37:19	
+  10	101	100	14/06/2008  2:31:51 PM 	  0:17:37	
+  11	 30	 30	14/06/2008  4:28:25 PM 	  1:56:34	
+  12	109		14/06/2008  4:40:09 PM 	  0:11:44	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:40:09 PM 
+Time on course   5:40:09
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

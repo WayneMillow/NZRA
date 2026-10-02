@@ -1,0 +1,29 @@
+Team No. 75	Tag ID = AEAY   Tags=0012	Course 7Hour
+Lost and Found: dominic elder, Warren Biggs and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:55:04 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:17:15 AM	  0:17:15	
+   3	 52	 50	27/02/2016 11:35:04 AM	  0:17:49	
+   4	 61	 60	27/02/2016 12:10:02 PM	  0:34:58	
+   5	 93	 90	27/02/2016 12:45:05 PM	  0:35:03	
+   6	 55	 50	27/02/2016  1:14:49 PM	  0:29:44	
+   7	 56	 50	27/02/2016  1:41:55 PM	  0:27:06	
+   8	 85	 80	27/02/2016  2:49:02 PM	  1:07:07	
+   9	104	100	27/02/2016  3:39:52 PM	  0:50:50	
+  10	 43	 40	27/02/2016  4:03:57 PM	  0:24:05	
+  11	 70	 70	27/02/2016  4:23:14 PM	  0:19:17	
+  12	 18		27/02/2016  5:28:27 PM	  1:05:13	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:28:27 PM
+Time on course   6:28:27
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

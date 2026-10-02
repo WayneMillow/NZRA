@@ -1,0 +1,28 @@
+Team No. 172	Tag ID = ATDG   Tags=0011	Course 6 hour
+Chitter Chatter: Jenny Whitaker, Sue Cooke
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  59 	   50	19/06/2021  9:35:15 AM	         	Punch clock failed.
+   2	  61 	   60	19/06/2021 10:03:17 AM	         	Punch clock failed.
+   3	  72 	   70	19/06/2021 10:36:51 AM	         	Punch clock failed.
+   4	  62 	   60	19/06/2021 11:12:02 AM	  0:12:02	
+   5	  84 	   80	19/06/2021 11:35:50 AM	  0:23:48	
+   6	  63 	   60	19/06/2021 11:57:52 AM	  0:22:02	
+   7	  41 	   40	19/06/2021  1:04:50 PM	  1:06:58	
+   8	 100 	  100	19/06/2021  1:46:06 PM	  0:41:16	
+   9	  35 	   30	19/06/2021  2:06:24 PM	  0:20:18	
+  10	  48 	   40	19/06/2021  3:07:51 PM	  1:01:27	
+  11	  57 		19/06/2021  3:17:44 PM	  0:09:53	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  3:17:44 PM
+Time on course   4:17:44
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

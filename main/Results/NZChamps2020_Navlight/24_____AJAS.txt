@@ -1,0 +1,31 @@
+Team No. 24	Tag ID = AJAS   Tags=0014	Course 24 hour
+Shining Light On The Dark: Sarah Helmore, David Bennison and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  8:52:53 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020 12:11:16 PM	  0:11:16	
+   3	  34 	   30	 7/11/2020 12:40:00 PM	  0:28:44	
+   4	  86 	   80	 7/11/2020  1:06:42 PM	  0:26:42	
+   5	  73 	   70	 7/11/2020  2:11:52 PM	  1:05:10	
+   6	 103 	  100	 7/11/2020  3:02:44 PM	  0:50:52	
+   7	  67 	   60	 7/11/2020  4:04:26 PM	  1:01:42	
+   8	  82 	   80	 7/11/2020  4:31:14 PM	  0:26:48	
+   9	  43 	   40	 7/11/2020  4:52:16 PM	  0:21:02	
+  10	  74 	   70	 7/11/2020  6:32:57 PM	  1:40:41	
+  11	  83 	   80	 7/11/2020  7:16:43 PM	  0:43:46	
+  12	  45 	   40	 7/11/2020  7:44:35 PM	  0:27:52	
+  13	  85 	   80	 7/11/2020  8:09:51 PM	  0:25:16	
+  14	  18 		 8/11/2020  8:15:00 AM	 12:05:09	FINISH TIME.
+END
+
+
+Recognised finish time  8/11/2020  8:15:00 AM
+Time on course  20:15:00
+
+
+  750	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 750

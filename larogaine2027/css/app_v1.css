@@ -1,0 +1,36 @@
+:root {
+	--primary-color: #1d3557;
+	--secondary-color: #457b9d;
+	--accent-color: #a8dadc;
+	--bg-color: #f1faee;
+	--bg-surface: #ffffff;
+	--text-color: #1d3557;
+}
+
+body {
+	background-color: var(--bg-color);
+	color: var(--text-color);
+}
+
+h1 {
+	color: var(--primary-color);
+}
+
+button {
+	background-color: var(--secondary-color);
+	color: white;
+}
+
+#header, #main {
+	background: var(--bg-surface)
+}
+
+#footer {
+	background: var(--accent-color);
+	color: var(--text-color);
+	margin-top: 1rem;
+}
+
+#footer a {
+	color: var(--text-color);
+}

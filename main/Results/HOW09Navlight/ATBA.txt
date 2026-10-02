@@ -1,0 +1,29 @@
+Team No. 107	Tag ID = ATBA   Tags=0012	Course 6hr
+Mark Copeland, Owen Evans
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:19:00 AM	         	BRIEFING. Score reset.
+   2	 81	 80	 4/07/2009 11:00:25 AM	  0:30:25	
+   3	 33	 30	 4/07/2009 11:47:24 AM	  0:46:59	
+   4	 34	 30	 4/07/2009 12:22:00 PM	  0:34:36	
+   5	 54	 50	 4/07/2009  1:17:04 PM 	  0:55:04	
+   6	 44	 40	 4/07/2009  1:52:14 PM 	  0:35:10	
+   7	 61	 60	 4/07/2009  2:23:36 PM 	  0:31:22	
+   8	 42	 40	 4/07/2009  2:47:45 PM 	  0:24:09	
+   9	 41	 40	 4/07/2009  3:01:49 PM 	  0:14:04	
+  10	 60	 60	 4/07/2009  3:18:08 PM 	  0:16:19	
+  11	 45	 40	 4/07/2009  4:37:19 PM 	  1:19:11	
+  12	108		 4/07/2009  5:13:30 PM 	  0:36:11	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  5:13:30 PM 
+Time on course   6:43:30
+
+
+  470	Points Scored.
+ -470	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

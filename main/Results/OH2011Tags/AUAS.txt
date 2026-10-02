@@ -1,0 +1,31 @@
+Team No. 29	Tag ID = AUAS   Tags=0014	Course Office
+Haven’t given up yet!: Lesley Woudberg, Jac Woudberg
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 17		 4/12/2011  9:13:42 AM 	         	BRIEFING. Score reset.
+   2	 26	 20	 4/12/2011  9:53:59 AM 	  0:23:59	
+   3	 72	 70	 4/12/2011 10:19:18 AM	  0:25:19	
+   4	100	100	 2/12/2011  3:23:44 PM 	         	1.754 Days early.
+   5	 45	 40	 4/12/2011 11:05:14 AM	  0:45:56	
+   6	 65	 60	 4/12/2011 11:33:27 AM	  0:28:13	
+   7	 61	 60	 4/12/2011 12:03:12 PM	  0:29:45	
+   8	 71	 70	 4/12/2011  1:01:22 PM 	  0:58:10	
+   9	 64	 60	 4/12/2011  1:30:50 PM 	  0:29:28	
+  10	 52	 50	 4/12/2011  1:50:30 PM 	  0:19:40	
+  11	 63	 60	 4/12/2011  2:36:34 PM 	  0:46:04	
+  12	 32	 30	 4/12/2011  2:58:32 PM 	  0:21:58	
+  13	 41	 40	 4/12/2011  3:17:53 PM 	  0:19:21	
+  14	106		 4/12/2011  3:53:09 PM 	  0:35:16	FINISH TIME.
+END
+
+
+Recognised finish time  4/12/2011  3:53:09 PM 
+Time on course   6:23:09
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

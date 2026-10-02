@@ -1,0 +1,30 @@
+Team No. 211	Tag ID = ARAV   Tags=0066	Course 7Hour
+Roger Slow, Natalie Slow
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  54	 12		24/11/2012 10:21:25 AM	         	BRIEFING. Score reset.
+  55	 25	 20	24/11/2012 10:53:50 AM	  0:23:50	
+  56	 40	 40	24/11/2012 11:34:35 AM	  0:40:45	
+  57	 54	 50	24/11/2012 12:21:48 PM	  0:47:13	
+  58	 60	 60	24/11/2012 12:59:58 PM	  0:38:10	
+  59	 58	 50	24/11/2012  1:31:33 PM 	  0:31:35	
+  60	 72	 70	24/11/2012  1:47:39 PM 	  0:16:06	
+  61	 55	 50	24/11/2012  2:09:50 PM 	  0:22:11	
+  62	 42	 40	24/11/2012  2:44:36 PM 	  0:34:46	
+  63	 47	 40	24/11/2012  3:12:48 PM 	  0:28:12	
+  64	 31	 30	24/11/2012  4:01:31 PM 	  0:48:43	
+  65	 62	 60	24/11/2012  4:35:43 PM 	  0:34:12	
+  66	107		24/11/2012  5:29:41 PM 	  0:53:58	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2012  5:29:41 PM 
+Time on course   6:59:41
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

@@ -1,0 +1,31 @@
+Team No. 101	Tag ID = AFBA   Tags=0014	Course 3hr
+No Expectations: Julie Kennedy, Nicki Barrow and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:08:54 PM	  0:08:54	
+   2	  52 	   50	 3/07/2022 12:12:25 PM	  0:03:31	
+   3	  33 	   30	 3/07/2022 12:18:42 PM	  0:06:17	
+   4	  43 	   40	 3/07/2022 12:35:36 PM	  0:16:54	
+   5	  44 	   40	 3/07/2022 12:45:09 PM	  0:09:33	
+   6	  55 	   50	 3/07/2022 12:50:37 PM	  0:05:28	
+   7	  97 	   90	 3/07/2022  1:01:15 PM	  0:10:38	
+   8	  54 	   50	 3/07/2022  1:11:31 PM	  0:10:16	
+   9	 101 	  100	 3/07/2022  1:39:09 PM	  0:27:38	
+  10	  23 	   20	 3/07/2022  5:54:55 AM	         	Punch clock failed.
+  11	  65 	   60	 3/07/2022  2:09:09 PM	  0:30:00	
+  12	  24 	   20	 3/07/2022  2:30:10 PM	  0:21:01	
+  13	  30 	   30	 3/07/2022  2:52:40 PM	  0:22:30	
+  14	  19 		 3/07/2022  2:57:26 PM	  0:04:46	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:57:26 PM
+Time on course   2:57:26
+
+
+  600	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

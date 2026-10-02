@@ -1,0 +1,31 @@
+Team No. 210	Tag ID = APDL   Tags=0014	Course 6 hour
+Fooken chizzled: Carmen Fookes, Sarah Chisnell
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  7:29:33 PM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020  1:13:14 PM	  0:13:14	
+   3	  87 	   80	 7/11/2020  2:56:55 PM	  1:43:41	
+   4	  44 	   40	 7/11/2020  3:29:51 PM	  0:32:56	
+   5	 104 	  100	 7/11/2020  3:51:34 PM	  0:21:43	
+   6	  58 	   50	 7/11/2020  4:28:16 PM	  0:36:42	
+   7	  38 	   30	 7/11/2020  4:38:43 PM	  0:10:27	
+   8	  37 	   30	 7/11/2020  5:01:35 PM	  0:22:52	
+   9	  29 	   20	 7/11/2020  5:11:19 PM	  0:09:44	
+  10	  46 	   40	 7/11/2020  5:39:04 PM	  0:27:45	
+  11	  49 	   40	 7/11/2020  5:52:48 PM	  0:13:44	
+  12	  47 	   40	 7/11/2020  6:14:28 PM	  0:21:40	
+  13	  25 	   20	 7/11/2020  6:28:29 PM	  0:14:01	
+  14	  17 		 7/11/2020  6:47:26 PM	  0:18:57	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:47:26 PM
+Time on course   5:47:26
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

@@ -1,0 +1,21 @@
+Team No. 113	Tag ID = AFBB   Tags=0004	Course 6hr
+Rose Timlin, Sandy Atkins and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:10:42 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009 11:29:59 AM	  0:59:59	
+   3	 33	 30	 4/07/2009 12:03:56 PM	  0:33:57	
+   4	104		 4/07/2009  2:35:24 PM 	  2:31:28	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  2:35:24 PM 
+Time on course   4:05:24
+
+
+   50	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 50

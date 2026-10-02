@@ -1,0 +1,31 @@
+Team No. 51	Tag ID = AFAW   Tags=0014	Course Office
+Andrea Webster, Michael Shepherd
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 17		 4/12/2011  9:13:49 AM 	         	BRIEFING. Score reset.
+   2	100	100	 2/12/2011  3:11:09 PM 	         	1.763 Days early.
+   3	 45	 40	 4/12/2011 10:51:54 AM	  1:21:54	
+   4	 65	 60	 4/12/2011 11:10:12 AM	  0:18:18	
+   5	 61	 60	 4/12/2011 11:53:59 AM	  0:43:47	
+   6	 71	 70	 4/12/2011 12:42:01 PM	  0:48:02	
+   7	 64	 60	 4/12/2011  1:07:23 PM 	  0:25:22	
+   8	 36	 30	 4/12/2011  1:24:17 PM 	  0:16:54	
+   9	 63	 60	 4/12/2011  1:44:45 PM 	  0:20:28	
+  10	 23	 20	 4/12/2011  2:02:16 PM 	  0:17:31	
+  11	 34	 30	 4/12/2011  2:13:44 PM 	  0:11:28	
+  12	 50	 50	 4/12/2011  3:07:52 PM 	  0:54:08	
+  13	 32	 30	 4/12/2011  3:50:36 PM 	  0:42:44	
+  14	106		 4/12/2011  4:19:41 PM 	  0:29:05	FINISH TIME.
+END
+
+
+Recognised finish time  4/12/2011  4:19:41 PM 
+Time on course   6:49:41
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

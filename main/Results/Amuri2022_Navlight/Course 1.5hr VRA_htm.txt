@@ -1,0 +1,19 @@
+O/A	Team	Score	Time	 Team Members 	M	M	W	W	X	X	M	W	X	F	
+					O	V	O	V	O	V	J	J	J	O	
+															
+ 1	206	1380	   1:28:24	Savage Safaris (Jemima Savage, Stanley Savage, Jason Savage, Jack Savage.)	.	.	.	.	.	.	.	.	.	1	
+ 2	203*	1340	   1:24:25	Terako Troop (Will Harrington, Beau Armstrong, Monte Armstrong.)	.	.	.	.	.	.	.	.	.	2	
+ 3	216	1310	   1:26:20	Cranford Crazies (Paige Bailey, Gussie Dampier-Crossley.)	.	.	.	.	.	.	.	.	.	3	
+ 4	219	1090	   1:24:48	Lone Rangers1 (Miah Thomas, Tory Kelly, Izzy Pinckney, Rebecca Kelly.)	.	.	.	.	.	.	.	.	.	4	
+ 5	212	1060	   1:36:36	Croftys crew (Thomas Croft, Ben Croft, Valerie Croft.)	.	.	.	.	.	.	.	.	.	5	
+ 6	215	910	   1:18:43	Hamilton Family (James Hamilton, Vicky Hamilton, Zara Hamilton, William Hamilton, Matthew Hamilton.)	.	.	.	.	.	.	.	.	.	6	
+ 7	209	910	   1:26:27	Sherwood Shortcuts (Guy Boissard, Jack Boissard, Louise Boissard.)	.	.	.	.	.	.	.	.	.	7	
+ 8	211	900	   1:26:15	Nevins (Archie Nevins, Steph Nevins, Cooper Nevins, Chris Nevins.)	.	.	.	.	.	.	.	.	.	8	
+ 9	213	890	   1:27:14	Stormtroopers (Kees Flapper, William Flapper, Shay Flapper, Jo Flapper.)	.	.	.	.	.	.	.	.	.	9	
+ 10	202	850	   1:25:13	Unreal Groms (Jonty Oneill, Fiz Rutherford, Aggie Rutherford.)	.	.	.	.	.	.	.	.	.	10	
+ 11	210	800	   1:25:53	Lost lambs (Mac Langford, Angela de Ridder, Lotte Smith, Tessa de Ridder.)	.	.	.	.	.	.	.	.	.	11	
+ 12	217	700	   1:36:50	Team Clisby (Nadia Clisby, Gus Clisby, Simon Clisby.)	.	.	.	.	.	.	.	.	.	12	
+ 13	208	690	   1:26:36	Lost Girls (Krystal Jennings, Gemma Aiken.)	.	.	1	.	.	.	.	.	.	.	
+ 14	207	620	   1:26:37	Lost and loving it (Ashlyn Abernethy, Denise Johnson, Harper Abernethy, Jemma Abernethy, Sarina Woodhouse.)	.	.	.	.	.	.	.	.	.	13	
+ 15	220	590	   1:18:17	Mighty Munchins (Gary Johnson, Alex, Becca, Evie Pinckney, Clara.)	.	.	.	.	.	.	.	.	.	14	
+ 16	214	590	   1:21:58	Louie's Team (Paul Titford, Louie Rutherford.)	.	.	.	.	.	.	.	.	.	15	

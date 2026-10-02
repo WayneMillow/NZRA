@@ -1,0 +1,29 @@
+Team No. 6	Tag ID = AXAQ   Tags=0012	Course 6 hour
+Chafing the dream: Michelle Anderson, Annabel Crozier and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:42:55 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 10:14:10 AM	  0:14:10	
+   3	  65 	   60	 7/07/2019 10:29:13 AM	  0:15:03	
+   4	  45 	   40	 7/07/2019 10:41:08 AM	  0:11:55	
+   5	  53 	   50	 7/07/2019 11:02:01 AM	  0:20:53	
+   6	  67 	   60	 7/07/2019 11:27:57 AM	  0:25:56	
+   7	  86 	   80	 7/07/2019 12:48:13 PM	  1:20:16	
+   8	  57 	   50	 7/07/2019  1:13:06 PM	  0:24:53	
+   9	  42 	   40	 7/07/2019  1:21:30 PM	  0:08:24	
+  10	  54 	   50	 7/07/2019  1:37:58 PM	  0:16:28	
+  11	  49 	   40	 7/07/2019  2:04:35 PM	  0:26:37	
+  12	  16 		 7/07/2019  2:22:37 PM	  0:18:02	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:22:37 PM
+Time on course   4:22:37
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

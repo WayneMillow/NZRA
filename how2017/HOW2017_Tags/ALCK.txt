@@ -1,0 +1,33 @@
+Team No. 2238	Tag ID = ALCK   Tags=0016	Course 6Hr
+Trumbling Along: Lucy Pooch, Jonathan Pooch
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		10/06/2017 10:44:52 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:04:40 AM	  0:04:40	 Punch  11 replaced by Group 27.
+   3	 21	 20	10/06/2017 11:13:44 AM	  0:09:04	
+   4	 40	 40	10/06/2017 11:29:45 AM	  0:16:01	
+   5	 42	 40	10/06/2017 11:51:08 AM	  0:21:23	
+   6	 71	 70	10/06/2017 12:13:04 PM	  0:21:56	
+   7	100	100	10/06/2017 12:37:07 PM	  0:24:03	
+   8	 61	 60	10/06/2017  1:12:50 PM	  0:35:43	
+   9	 23	 20	10/06/2017  1:57:23 PM	  0:44:33	
+  10	 70	 70	10/06/2017  2:32:06 PM	  0:34:43	
+  11	 30	 30	10/06/2017  3:21:23 PM	  0:49:17	
+  12	 22	 20	10/06/2017  3:39:49 PM	  0:18:26	
+  13	 31	 30	10/06/2017  4:12:55 PM	  0:33:06	
+  14	 20	 20	10/06/2017  4:28:37 PM	  0:15:42	
+  15	 29	 20	10/06/2017  4:45:54 PM	  0:17:17	 Punch  50 replaced by Group 29.
+  16	108		10/06/2017  4:49:26 PM	  0:03:32	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:49:26 PM
+Time on course   5:49:26
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

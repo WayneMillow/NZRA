@@ -1,0 +1,33 @@
+Team No. 3148	Tag ID = AUAX   Tags=0016	Course 6Hr
+No Fit State: Paul Cartilage, Dom Papoutsou and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017  9:49:58 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	 9/07/2017 10:06:43 AM	  0:06:43	
+   3	  31 	   30	 9/07/2017 10:16:28 AM	  0:09:45	
+   4	  43 	   40	 9/07/2017 10:23:56 AM	  0:07:28	
+   5	  85 	   80	 9/07/2017 10:46:54 AM	  0:22:58	
+   6	  71 	   70	 9/07/2017 11:03:01 AM	  0:16:07	
+   7	 103 	  100	 9/07/2017 11:13:57 AM	  0:10:56	
+   8	  22 	   20	 9/07/2017 12:41:28 PM	  1:27:31	
+   9	 101 	  100	 9/07/2017  1:09:02 PM	  0:27:34	
+  10	  76 	   70	 9/07/2017  2:11:16 PM	  1:02:14	
+  11	  65 	   60	 9/07/2017  2:55:50 PM	  0:44:34	
+  12	  42 	   40	 9/07/2017  3:20:44 PM	  0:24:54	
+  13	  67 	   60	 9/07/2017  3:32:10 PM	  0:11:26	
+  14	  81 	   80	 9/07/2017  3:41:13 PM	  0:09:03	
+  15	  21 	   20	 9/07/2017  3:50:38 PM	  0:09:25	
+  16	 108 		 9/07/2017  3:55:11 PM	  0:04:33	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:55:11 PM
+Time on course   5:55:11
+
+
+  800	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 800

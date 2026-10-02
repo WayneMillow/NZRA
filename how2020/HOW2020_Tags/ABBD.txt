@@ -1,0 +1,28 @@
+Team No. 733	Tag ID = ABBD   Tags=0011	Course 6hrB
+Wild Goose Chase: Karen Miles, Hilary Sheldon
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020 10:24:12 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	 4/07/2020 11:12:43 AM	  0:12:43	
+   3	  56 	   50	 4/07/2020 11:16:23 AM	  0:03:40	
+   4	 105 	  100	 4/07/2020 11:48:23 AM	  0:32:00	
+   5	  28 	   20	 4/07/2020 12:04:23 PM	  0:16:00	
+   6	  42 	   40	 4/07/2020 12:20:30 PM	  0:16:07	
+   7	  74 	   70	 4/07/2020 12:49:30 PM	  0:29:00	
+   8	  71 	   70	 4/07/2020  1:33:15 PM	  0:43:45	
+   9	  52 	   50	 4/07/2020  1:51:53 PM	  0:18:38	
+  10	  15 	   10	 4/07/2020  4:02:42 PM	  2:10:49	
+  11	  13 		 4/07/2020  4:49:24 PM	  0:46:42	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  4:49:24 PM
+Time on course   5:49:24
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

@@ -1,0 +1,35 @@
+Team No. 540	Tag ID = ATBA   Tags=0016	Course 6hr
+Hallucinogenic sheep droppings: Vivien Bloor, George Richardson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	104		 8/06/2013 10:20:04 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:39:02 AM	  0:10:02	 Punch  10 replaced by Group 58.
+   3	 76	 70	 8/06/2013 11:01:37 AM	  0:22:35	
+   4	 66	 60	 8/06/2013 11:20:43 AM	  0:19:06	
+   5	 57	 50	 8/06/2013 12:09:37 PM	  0:48:54	
+   6	 65	 60	 8/06/2013 12:24:58 PM	  0:15:21	
+   7	100	100	 8/06/2013 12:43:39 PM	  0:18:41	
+   8	 54	 50	 8/06/2013  1:11:49 PM 	  0:28:10	
+   9	 72	 70	 8/06/2013  1:30:25 PM 	  0:18:36	
+  10	 90	 90	 8/06/2013  1:56:19 PM 	  0:25:54	
+  11	 45	 40	 8/06/2013  2:13:36 PM 	  0:17:17	
+  12	 63	 60	 8/06/2013  2:27:53 PM 	  0:14:17	
+  13	 56	 50	 8/06/2013  3:07:41 PM 	  0:39:48	
+  14	 83	 80	 8/06/2013  3:21:35 PM 	  0:13:54	
+  15	 21	 20	 8/06/2013  4:19:05 PM 	  0:57:30	
+  16	 15		 8/06/2013  4:24:21 PM 	  0:05:16	FINISH TIME.
+END
+	AddedPunch84	80
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  4:24:21 PM 
+Time on course   5:55:21
+
+
+ 1010	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1010

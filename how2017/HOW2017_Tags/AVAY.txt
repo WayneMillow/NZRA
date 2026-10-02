@@ -1,0 +1,33 @@
+Team No. 2124	Tag ID = AVAY   Tags=0016	Course 6Hr
+Geraldine Wild Things: Paula Campbell, Ricky Hull and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:38:48 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:05:21 AM	  0:05:21	 Punch  11 replaced by Group 27.
+   3	 21	 20	10/06/2017 11:15:18 AM	  0:09:57	
+   4	 42	 40	10/06/2017 11:57:41 AM	  0:42:23	
+   5	100	100	10/06/2017 12:15:34 PM	  0:17:53	
+   6	 71	 70	10/06/2017 12:34:58 PM	  0:19:24	
+   7	 30	 30	10/06/2017 12:53:47 PM	  0:18:49	
+   8	 25	 20	10/06/2017  1:17:37 PM	  0:23:50	
+   9	 26	 20	10/06/2017  1:36:05 PM	  0:18:28	
+  10	 33	 30	10/06/2017  2:35:24 PM	  0:59:19	
+  11	 46	 40	10/06/2017  2:52:51 PM	  0:17:27	
+  12	 54	 50	10/06/2017  3:20:05 PM	  0:27:14	
+  13	 94	 90	10/06/2017  3:41:33 PM	  0:21:28	
+  14	 74	 70	10/06/2017  4:07:40 PM	  0:26:07	
+  15	 22	 20	10/06/2017  4:39:11 PM	  0:31:31	
+  16	108		10/06/2017  4:56:17 PM	  0:17:06	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:56:17 PM
+Time on course   5:56:17
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

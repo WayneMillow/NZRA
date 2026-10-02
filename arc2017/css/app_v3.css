@@ -1,0 +1,244 @@
+body {
+	background: #408080;
+	margin-top: 1rem;
+}
+
+#header, #main {
+	background: #ffffff;
+}
+
+#footer {
+	background: #408080;
+	color: #ffffff;
+	margin-top: 1rem;
+}
+
+#footer a {
+	color: #ffffff;
+}
+
+.error {
+	color: #f00;
+}
+
+.big-highlight {
+	color: white;
+	background-color: red;
+	font-size: 2.5em;
+	margin-top:0.5em;
+}
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0.5em;
+}
+
+img.picture {
+  max-width: 100%;	
+}
+
+img.break {
+	padding-bottom: 0.5em;
+}
+
+.caption {
+  color: white;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+#map {
+	height: 572px;
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/map.jpg");
+}
+
+#boots {
+	background-image: url("../img/boots.png");
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	z-index: 2;
+	top: 0;
+	left: 0;
+}
+
+#boots.animate {
+	-webkit-animation-name: move-around;
+	-webkit-animation-duration: 80s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-iteration-count: infinite;	
+	-webkit-animation-direction: normal;
+	-webkit-animation-delay: 0;
+	-webkit-animation-play-state: running;
+	-webkit-animation-fill-mode: forwards;
+	
+  -moz-animation-name: move-around;
+  -moz-animation-duration: 80s;
+  -moz-animation-timing-function: ease;
+  -moz-animation-iteration-count: infinite;  
+  -moz-animation-direction: normal;
+  -moz-animation-delay: 0;
+  -moz-animation-play-state: running;
+  -moz-animation-fill-mode: forwards;
+  
+  -o-animation-name: move-around;
+  -o-animation-duration: 80s;
+  -o-animation-timing-function: ease;
+  -o-animation-iteration-count: infinite;  
+  -o-animation-direction: normal;
+  -o-animation-delay: 0;
+  -o-animation-play-state: running;
+  -o-animation-fill-mode: forwards;
+  
+  animation-name: move-around;
+  animation-duration: 80s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;  
+  animation-direction: normal;
+  animation-delay: 0;
+  animation-play-state: running;
+  animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes move-around {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	15% {
+		top: 203px;
+		left: 234px;
+	}
+	30% {
+		top: 317px;
+		left: 451px;
+	}
+	45% {
+		top: 392px;
+		left: 650px;
+	}
+  60% {
+    top: 93px;
+    left: 792px;
+  }
+  75% {
+		top: 411px;
+		left: 1076px;
+	}
+  90% {
+    top: 445px;
+    left: 903px;
+  }
+	100% {
+		top: 512px;
+		left: 1158px;
+	}
+}
+@-moz-keyframes move-around {
+  0% {
+    top: 0;
+    left: 0;
+  }
+  15% {
+    top: 203px;
+    left: 234px;
+  }
+  30% {
+    top: 317px;
+    left: 451px;
+  }
+  45% {
+    top: 392px;
+    left: 650px;
+  }
+  60% {
+    top: 93px;
+    left: 792px;
+  }
+  75% {
+    top: 411px;
+    left: 1076px;
+  }
+  90% {
+    top: 445px;
+    left: 903px;
+  }
+  100% {
+    top: 512px;
+    left: 1158px;
+  }
+}
+@-o-keyframes move-around {
+  0% {
+    top: 0;
+    left: 0;
+  }
+  15% {
+    top: 203px;
+    left: 234px;
+  }
+  30% {
+    top: 317px;
+    left: 451px;
+  }
+  45% {
+    top: 392px;
+    left: 650px;
+  }
+  60% {
+    top: 93px;
+    left: 792px;
+  }
+  75% {
+    top: 411px;
+    left: 1076px;
+  }
+  90% {
+    top: 445px;
+    left: 903px;
+  }
+  100% {
+    top: 512px;
+    left: 1158px;
+  }
+}
+@keyframes move-around {
+  0% {
+    top: 0;
+    left: 0;
+  }
+  15% {
+    top: 203px;
+    left: 234px;
+  }
+  30% {
+    top: 317px;
+    left: 451px;
+  }
+  45% {
+    top: 392px;
+    left: 650px;
+  }
+  60% {
+    top: 93px;
+    left: 792px;
+  }
+  75% {
+    top: 411px;
+    left: 1076px;
+  }
+  90% {
+    top: 445px;
+    left: 903px;
+  }
+  100% {
+    top: 512px;
+    left: 1158px;
+  }
+}

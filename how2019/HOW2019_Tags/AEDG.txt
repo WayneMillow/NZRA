@@ -1,0 +1,30 @@
+Team No. 165	Tag ID = AEDG   Tags=0013	Course 6hr
+Team Kirky: Andrew Hay, Susan Kirkwood
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		15/06/2019 10:46:52 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	15/06/2019 11:07:51 AM	  0:07:51	
+   3	  81 	   80	15/06/2019 11:18:05 AM	  0:10:14	
+   4	  64 	   60	15/06/2019 11:43:23 AM	  0:25:18	
+   5	  44 	   40	15/06/2019 11:58:05 AM	  0:14:42	
+   6	  53 	   50	15/06/2019 12:09:27 PM	  0:11:22	
+   7	  80 	   80	15/06/2019 12:36:53 PM	  0:27:26	
+   8	  23 	   20	15/06/2019  1:48:18 PM	  1:11:25	
+   9	  70 	   70	15/06/2019  2:44:13 PM	  0:55:55	
+  10	  51 	   50	15/06/2019  3:04:15 PM	  0:20:02	
+  11	  88 	   80	15/06/2019  3:27:32 PM	  0:23:17	
+  12	  61 	   60	15/06/2019  4:10:46 PM	  0:43:14	
+  13	  19 		15/06/2019  5:04:30 PM	  0:53:44	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  5:04:30 PM
+Time on course   6:04:30
+
+
+  630	Points Scored.
+  -50	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

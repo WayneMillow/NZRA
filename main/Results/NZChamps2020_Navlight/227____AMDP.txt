@@ -1,0 +1,26 @@
+Team No. 227	Tag ID = AMDP   Tags=0009	Course 6 hour
+Hot Pools Await!: Fleur Murray, Lesley Pawley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 10:28:43 AM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020  1:16:58 PM	  0:16:58	
+   3	  87 	   80	 7/11/2020  3:03:46 PM	  1:46:48	
+   4	  44 	   40	 7/11/2020  3:48:39 PM	  0:44:53	
+   5	 104 	  100	 7/11/2020  4:18:36 PM	  0:29:57	
+   6	  86 	   80	 7/11/2020  5:30:19 PM	  1:11:43	
+   7	  34 	   30	 7/11/2020  5:57:31 PM	  0:27:12	
+   8	  28 	   20	 7/11/2020  6:32:38 PM	  0:35:07	
+   9	  19 		 7/11/2020  6:45:42 PM	  0:13:04	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:45:42 PM
+Time on course   5:45:42
+
+
+  380	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 380

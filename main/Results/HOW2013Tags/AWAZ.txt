@@ -1,0 +1,36 @@
+Team No. 528	Tag ID = AWAZ   Tags=0018	Course 6hr
+Wheel beef hooked: Nicola Hardaker, Ali Macdonald, Tony Munnerley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:14:12 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:32:18 AM	  0:03:18	
+   3	 44	 40	 8/06/2013 10:52:15 AM	  0:19:57	
+   4	 86	 80	 8/06/2013 11:08:54 AM	  0:16:39	
+   5	 68	 60	 8/06/2013 11:32:05 AM	  0:23:11	
+   6	 34	 30	 8/06/2013 11:55:09 AM	  0:23:04	
+   7	 78	 70	 8/06/2013 12:39:26 PM	  0:44:17	
+   8	 41	 40	 8/06/2013  1:12:07 PM 	  0:32:41	
+   9	101	100	 8/06/2013  1:33:50 PM 	  0:21:43	
+  10	 43	 40	 8/06/2013  2:01:59 PM 	  0:28:09	
+  11	 25	 20	 8/06/2013  2:15:46 PM 	  0:13:47	
+  12	 62	 60	 8/06/2013  2:52:07 PM 	  0:36:21	
+  13	 31	 30	 8/06/2013  3:06:15 PM 	  0:14:08	
+  14	 51	 50	 8/06/2013  3:15:51 PM 	  0:09:36	
+  15	 60	 60	 8/06/2013  3:34:36 PM 	  0:18:45	
+  16	 26	 20	 8/06/2013  3:55:43 PM 	  0:21:07	
+  17	 53	 50	 8/06/2013  4:13:44 PM 	  0:18:01	
+  18	 15		 8/06/2013  4:29:17 PM 	  0:15:33	FINISH TIME.
+END
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:29:17 PM 
+Time on course   6:00:17
+
+
+  850	Points Scored.
+   20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 830

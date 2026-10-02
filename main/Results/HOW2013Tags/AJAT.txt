@@ -1,0 +1,32 @@
+Team No. 452	Tag ID = AJAT   Tags=0013	Course 6hr
+Traders from way back: Sue Cooke, Jan Harrison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:29:21 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:34:20 AM	  0:04:59	 Punch  11 replaced by Group 21.
+   3	 53	 50	 8/06/2013 10:48:37 AM	  0:14:17	
+   4	 44	 40	 8/06/2013 10:57:36 AM	  0:08:59	
+   5	 99	 90	 8/06/2013 12:01:46 PM	  1:04:10	
+   6	 62	 60	 8/06/2013 12:27:00 PM	  0:25:14	
+   7	101	100	 8/06/2013  1:28:04 PM 	  1:01:04	
+   8	 77	 70	 8/06/2013  2:26:06 PM 	  0:58:02	
+   9	 86	 80	 8/06/2013  2:48:33 PM 	  0:22:27	
+  10	 68	 60	 8/06/2013  3:18:23 PM 	  0:29:50	
+  11	 39	 30	 8/06/2013  3:51:16 PM 	  0:32:53	
+  12	 28	 20	 8/06/2013  4:02:16 PM 	  0:11:00	
+  13	 13		 8/06/2013  4:28:48 PM 	  0:26:32	FINISH TIME.
+END
+	AddedPunch80	80
+	AddedPunch71	70
+
+
+Recognised finish time  8/06/2013  4:28:48 PM 
+Time on course   5:59:48
+
+
+  770	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 770

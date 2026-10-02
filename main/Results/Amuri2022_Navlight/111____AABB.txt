@@ -1,0 +1,25 @@
+Team No. 111	Tag ID = AABB   Tags=0008	Course 3hr
+Giraffes Can't Raft: Josette Todd, Stacey Wojtas
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:02:08 PM	  0:02:08	
+   2	  31 	   30	 3/07/2022 12:06:24 PM	  0:04:16	
+   3	  71 	   70	 3/07/2022 12:30:28 PM	  0:24:04	
+   4	  64 	   60	 3/07/2022 12:46:08 PM	  0:15:40	
+   5	  72 	   70	 3/07/2022  1:04:55 PM	  0:18:47	
+   6	  85 	   80	 3/07/2022  1:38:09 PM	  0:33:14	
+   7	  22 	   20	 3/07/2022  2:46:56 PM	  1:08:47	
+   8	  19 		 3/07/2022  2:57:59 PM	  0:11:03	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:57:59 PM
+Time on course   2:57:59
+
+
+  370	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

@@ -1,0 +1,31 @@
+Team No. 2226	Tag ID = AFAV   Tags=0014	Course 3Hr
+Recharge: Bex Connell, Angie Searle
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:48:35 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:05:59 PM	  0:05:59	
+   3	  41 	   40	 9/07/2017 12:16:17 PM	  0:10:18	
+   4	  63 	   60	 9/07/2017 12:26:04 PM	  0:09:47	
+   5	  64 	   60	 9/07/2017 12:38:55 PM	  0:12:51	
+   6	  23 	   20	 9/07/2017 12:48:38 PM	  0:09:43	
+   7	  35 	   30	 9/07/2017 12:54:29 PM	  0:05:51	
+   8	  84 	   80	 9/07/2017  1:11:09 PM	  0:16:40	
+   9	  58 	   50	 9/07/2017  1:33:48 PM	  0:22:39	
+  10	  67 	   60	 9/07/2017  1:58:36 PM	  0:24:48	
+  11	  81 	   80	 9/07/2017  2:20:30 PM	  0:21:54	
+  12	  31 	   30	 9/07/2017  2:29:11 PM	  0:08:41	
+  13	  37 	   30	 9/07/2017  2:43:08 PM	  0:13:57	
+  14	 108 		 9/07/2017  2:51:26 PM	  0:08:18	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:51:26 PM
+Time on course   2:51:26
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

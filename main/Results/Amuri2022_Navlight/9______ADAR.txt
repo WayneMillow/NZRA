@@ -1,0 +1,28 @@
+Team No. 9	Tag ID = ADAR   Tags=0011	Course 6hr
+Heartless Bastards: Andy Griffiths, Steve Petty
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  53 	   50	 3/07/2022 10:27:30 AM	  0:27:30	
+   2	  24 	   20	 3/07/2022 11:07:04 AM	  0:39:34	
+   3	  84 	   80	 3/07/2022 11:37:40 AM	  0:30:36	
+   4	  65 	   60	 3/07/2022 11:55:02 AM	  0:17:22	
+   5	  77 	   70	 3/07/2022 12:40:36 PM	  0:45:34	
+   6	  73 	   70	 3/07/2022  2:13:24 PM	  1:32:48	
+   7	 101 	  100	 3/07/2022  2:31:36 PM	  0:18:12	
+   8	  25 	   20	 3/07/2022  2:41:30 PM	  0:09:54	
+   9	  44 	   40	 3/07/2022  3:09:57 PM	  0:28:27	
+  10	  43 	   40	 3/07/2022  3:21:23 PM	  0:11:26	
+  11	  18 		 3/07/2022  3:50:03 PM	  0:28:40	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:50:03 PM
+Time on course   5:50:03
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

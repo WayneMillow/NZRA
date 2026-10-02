@@ -1,0 +1,29 @@
+Team No. 2215	Tag ID = ALBC   Tags=0012	Course 6Hr
+The Salty Chicks: Tanya Winter, Clare Hadley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:43:31 AM	         	BRIEFING. Score reset.
+   2	 29	 20	10/06/2017 11:03:51 AM	  0:03:51	 Punch  50 replaced by Group 29.
+   3	 20	 20	10/06/2017 11:23:56 AM	  0:20:05	
+   4	 31	 30	10/06/2017 11:48:07 AM	  0:24:11	
+   5	 90	 90	10/06/2017 12:20:20 PM	  0:32:13	
+   6	 41	 40	10/06/2017 12:45:11 PM	  0:24:51	
+   7	 37	 30	10/06/2017  1:20:16 PM	  0:35:05	
+   8	100	100	10/06/2017  3:05:33 PM	  1:45:17	
+   9	 71	 70	10/06/2017  3:38:51 PM	  0:33:18	
+  10	 22	 20	10/06/2017  4:23:29 PM	  0:44:38	
+  11	 27	 20	10/06/2017  4:47:36 PM	  0:24:07	
+  12	106		10/06/2017  4:54:14 PM	  0:06:38	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:54:14 PM
+Time on course   5:54:14
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

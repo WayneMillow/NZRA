@@ -1,0 +1,33 @@
+Team No. 228	Tag ID = AFDG   Tags=0016	Course 15hr
+UTSOAC/1NS: Everymore All the Day: Salome  Hussein, Ehren  Holgersson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		16/12/2023 11:41:14 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	16/12/2023 12:17:22 PM	  0:17:22	
+   3	  88 	   80	16/12/2023 12:51:28 PM	  0:34:06	
+   4	  49 	   40	16/12/2023  1:29:07 PM	  0:37:39	
+   5	  81 	   80	16/12/2023  1:48:26 PM	  0:19:19	
+   6	  65 	   60	16/12/2023  3:12:22 PM	  1:23:56	
+   7	  47 	   40	16/12/2023  3:57:10 PM	  0:44:48	
+   8	  22 	   20	16/12/2023  4:43:36 PM	  0:46:26	
+   9	  16 		16/12/2023  5:22:42 PM	  0:39:06	FINISH TIME.
+  10	  15 		16/12/2023 10:06:16 PM	  4:43:34	DEPARTURE TIME.
+  11	  35 	   30	16/12/2023 10:28:47 PM	  0:22:31	
+  12	  62 	   60	16/12/2023 11:07:32 PM	  0:38:45	
+  13	 105 	  100	16/12/2023 11:30:19 PM	  0:22:47	
+  14	  46 	   40	16/12/2023 11:56:01 PM	  0:25:42	
+  15	  20 	   20	17/12/2023  0:36:27 AM	  0:40:26	
+  16	  16 		17/12/2023  1:03:41 AM	  0:27:14	FINISH TIME.
+END
+
+
+Recognised Course time 16/12/2023 8:20:07 PM
+Time on course   8:20:07
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

@@ -1,0 +1,32 @@
+Team No. 157	Tag ID = ANDF   Tags=0015	Course 3 hour
+A6: Sarah Morgan, Emily Shaw
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:43:52 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 7/07/2019 12:10:53 PM	  0:10:53	
+   3	  73 	   70	 7/07/2019 12:16:55 PM	  0:06:02	
+   4	  65 	   60	 7/07/2019 12:31:52 PM	  0:14:57	
+   5	  45 	   40	 7/07/2019 12:44:13 PM	  0:12:21	
+   6	  59 	   50	 7/07/2019 12:53:32 PM	  0:09:19	
+   7	  53 	   50	 7/07/2019  1:03:34 PM	  0:10:02	
+   8	  72 	   70	 7/07/2019  1:08:40 PM	  0:05:06	
+   9	  67 	   60	 7/07/2019  1:33:49 PM	  0:25:09	
+  10	  57 	   50	 7/07/2019  2:18:41 PM	  0:44:52	
+  11	  42 	   40	 7/07/2019  2:25:30 PM	  0:06:49	
+  12	  41 	   40	 7/07/2019  2:30:01 PM	  0:04:31	
+  13	  54 	   50	 7/07/2019  2:36:50 PM	  0:06:49	
+  14	  49 	   40	 7/07/2019  2:48:33 PM	  0:11:43	
+  15	  16 		 7/07/2019  2:57:11 PM	  0:08:38	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:57:11 PM
+Time on course   2:57:11
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

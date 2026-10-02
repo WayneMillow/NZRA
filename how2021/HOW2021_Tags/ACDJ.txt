@@ -1,0 +1,29 @@
+Team No. 189	Tag ID = ACDJ   Tags=0012	Course 6 hour
+What Could Possibly Go Wrong: Nicci Leitch, Stephen Leitch
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:16:14 AM	  0:16:14	
+   2	  25 	   20	19/06/2021 11:34:05 AM	  0:17:51	
+   3	  38 	   30	19/06/2021 12:09:55 PM	  0:35:50	
+   4	  89 	   80	19/06/2021 12:38:35 PM	  0:28:40	
+   5	  43 	   40	19/06/2021  1:21:06 PM	  0:42:31	
+   6	  96 	   90	19/06/2021  2:09:11 PM	  0:48:05	
+   7	 100 	  100	19/06/2021  3:01:05 PM	  0:51:54	
+   8	  35 	   30	19/06/2021  3:19:43 PM	  0:18:38	
+   9	  47 	   40	19/06/2021  4:00:32 PM	  0:40:49	
+  10	  24 	   20	19/06/2021  4:24:42 PM	  0:24:10	
+  11	  33 	   30	19/06/2021  4:37:09 PM	  0:12:27	
+  12	  57 		19/06/2021  4:45:12 PM	  0:08:03	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:45:12 PM
+Time on course   5:45:12
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

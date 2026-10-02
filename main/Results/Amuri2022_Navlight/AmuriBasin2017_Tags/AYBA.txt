@@ -1,0 +1,32 @@
+Team No. 3236	Tag ID = AYBA   Tags=0015	Course 6Hr
+2Frew da Woods: Spud Kerr, Kelly Woods and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017  9:47:34 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 9/07/2017 10:09:06 AM	  0:09:06	
+   3	  33 	   30	 9/07/2017 11:34:01 AM	  1:24:55	
+   4	  43 	   40	 9/07/2017 11:38:22 AM	  0:04:21	
+   5	  24 	   20	 9/07/2017 11:43:40 AM	  0:05:18	
+   6	  46 	   40	 9/07/2017 12:04:14 PM	  0:20:34	
+   7	 103 	  100	 9/07/2017 12:44:53 PM	  0:40:39	
+   8	  71 	   70	 9/07/2017 12:58:13 PM	  0:13:20	
+   9	  85 	   80	 9/07/2017  1:26:20 PM	  0:28:07	
+  10	  51 	   50	 9/07/2017  1:50:52 PM	  0:24:32	
+  11	  37 	   30	 9/07/2017  2:30:05 PM	  0:39:13	
+  12	  21 	   20	 9/07/2017  2:47:21 PM	  0:17:16	
+  13	  41 	   40	 9/07/2017  3:04:44 PM	  0:17:23	
+  14	  55 	   50	 9/07/2017  3:09:49 PM	  0:05:05	
+  15	 108 		 9/07/2017  3:31:10 PM	  0:21:21	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:31:10 PM
+Time on course   5:31:10
+
+
+  600	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

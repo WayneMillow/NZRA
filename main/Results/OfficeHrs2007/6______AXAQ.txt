@@ -1,0 +1,31 @@
+Team No. 6	Tag ID = AXAQ   Tags=0014	Course 
+Raewyn Moss, Christina Robb
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 10		 2/12/2007  8:11:48 AM 	         	     Test tag.
+   2	 15		 2/12/2007  8:41:33 AM 	         	BRIEFING. Score reset.
+   3	 46	 40	 2/12/2007  9:18:25 AM 	  0:18:25	
+   4	 31	 30	 2/12/2007  9:55:58 AM 	  0:37:33	
+   5	 71	 70	 2/12/2007 10:33:07 AM	  0:37:09	
+   6	 81	 80	 2/12/2007 10:59:03 AM	  0:25:56	
+   7	100	100	 2/12/2007 11:47:14 AM	  0:48:11	
+   8	 93	 90	 2/12/2007 12:44:52 PM	  0:57:38	
+   9	 62	 60	 2/12/2007  1:31:59 PM 	  0:47:07	
+  10	 40	 40	 2/12/2007  1:58:56 PM 	  0:26:57	
+  11	 30	 30	22/11/2006  3:03:12 AM 	         	Before Event Start.
+  12	 20	 20	 2/12/2007  3:02:43 PM 	  1:03:47	
+  13	 25	 20	 2/12/2007  3:31:33 PM 	  0:28:50	
+  14	 19		 2/12/2007  3:41:32 PM 	  0:09:59	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:41:32 PM 
+Time on course   6:41:32
+
+
+  580	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

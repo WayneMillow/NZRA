@@ -1,0 +1,29 @@
+Team No. 110	Tag ID = AZBA   Tags=0013	Course 8 Hour
+Glenys Neal, Robyn Morrison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 S		 7/03/2009 10:45:55 AM	         	BRIEFING. Score reset.
+   3	 21	 20	 7/03/2009 11:20:10 AM	  0:20:10	
+   4	 30	 30	 7/03/2009 11:41:30 AM	  0:21:20	
+   5	 54	 50	 7/03/2009 12:30:02 PM	  0:48:32	
+   6	 35	 30	 7/03/2009  1:17:44 PM 	  0:47:42	
+   7	 75	 70	 7/03/2009  2:18:21 PM 	  1:00:37	
+   8	 76	 70	 7/03/2009  3:23:44 PM 	  1:05:23	
+   9	 83	 80	 7/03/2009  4:34:12 PM 	  1:10:28	
+  10	 41	 40	 7/03/2009  5:25:04 PM 	  0:50:52	
+  11	 46	 40	 7/03/2009  5:57:56 PM 	  0:32:52	
+  12	 31	 30	 7/03/2009  6:21:46 PM 	  0:23:50	
+  13	 F		 7/03/2009  6:39:38 PM 	  0:17:52	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:39:38 PM 
+Time on course   7:39:38
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

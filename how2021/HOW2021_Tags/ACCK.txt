@@ -1,0 +1,30 @@
+Team No. 144	Tag ID = ACCK   Tags=0013	Course 6 hour
+The Elite Team: Lisa Chubb, Valerie Fletcher
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:11:31 AM	  0:11:31	
+   2	  24 	   20	19/06/2021 11:25:06 AM	  0:13:35	
+   3	  39 	   30	19/06/2021 11:37:24 AM	  0:12:18	
+   4	  47 	   40	19/06/2021 11:58:12 AM	  0:20:48	
+   5	  80 	   80	19/06/2021 12:11:39 PM	  0:13:27	
+   6	  50 	   50	19/06/2021  1:08:55 PM	  0:57:16	
+   7	  35 	   30	19/06/2021  1:48:33 PM	  0:39:38	
+   8	 100 	  100	19/06/2021  2:11:31 PM	  0:22:58	
+   9	  67 	   60	19/06/2021  2:56:50 PM	  0:45:19	
+  10	  58 	   50	19/06/2021  3:22:47 PM	  0:25:57	
+  11	  77 	   70	19/06/2021  3:52:03 PM	  0:29:16	
+  12	  48 	   40	19/06/2021  4:44:25 PM	  0:52:22	
+  13	  57 		19/06/2021  4:57:45 PM	  0:13:20	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:57:45 PM
+Time on course   5:57:45
+
+
+  600	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

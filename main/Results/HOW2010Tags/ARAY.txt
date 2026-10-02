@@ -1,0 +1,29 @@
+Team No. 660	Tag ID = ARAY   Tags=0012	Course 6_HoW
+Fiona Gilroy, Annabel Traill
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:32:21 AM	         	BRIEFING. Score reset.
+   2	 20	 20	26/06/2010 11:10:50 AM	  0:10:50	 Punch  01 replaced by Group 20.
+   3	 50	 50	26/06/2010 11:26:30 AM	  0:15:40	
+   4	 36	 30	26/06/2010 11:40:20 AM	  0:13:50	
+   5	 94	 90	26/06/2010 12:02:23 PM	  0:22:03	
+   6	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   7	 32	 30	26/06/2010 12:38:53 PM	  1:29:54	
+   8	 37	 30	24/06/2010  7:29:09 PM 	         	1.646 Days early.
+   9	 46	 40	26/06/2010  1:30:11 PM 	  0:51:18	 Punch  03 replaced by Group 46.
+  10	 76	 70	26/06/2010  1:57:32 PM 	  0:27:21	 Punch  04 replaced by Group 76.
+  11	 84	 80	26/06/2010  2:54:47 PM 	  0:57:15	
+  12	 18		26/06/2010  4:36:16 PM 	  1:41:29	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:36:16 PM 
+Time on course   5:36:16
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

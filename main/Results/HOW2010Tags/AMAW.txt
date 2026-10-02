@@ -1,0 +1,32 @@
+Team No. 617	Tag ID = AMAW   Tags=0015	Course 6_HoW
+Vicki Conradson, David Conradson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:33:53 AM	         	BRIEFING. Score reset.
+   2	 45	 40	26/06/2010 11:32:04 AM	  0:32:04	
+   3	 34	 30	26/06/2010 11:51:04 AM	  0:19:00	
+   4	 89	 80	26/06/2010 12:10:41 PM	  0:19:37	
+   5	 93	 90	26/06/2010 12:38:15 PM	  0:27:34	
+   6	 75	 70	26/06/2010  1:12:33 PM 	  0:34:18	
+   7	 66	 60	26/06/2010  1:29:21 PM 	  0:16:48	
+   8	 85	 80	26/06/2010  1:57:05 PM 	  0:27:44	
+   9	 77	 70	26/06/2010  2:36:54 PM 	  0:39:49	
+  10	102	100	26/06/2010  3:01:28 PM 	  0:24:34	
+  11	 86	 80	26/06/2010  3:20:16 PM 	  0:18:48	
+  12	 58	 50	26/06/2010  3:53:22 PM 	  0:33:06	
+  13	 76	 70	26/06/2010  4:14:36 PM 	  0:21:14	
+  14	 46	 40	26/06/2010  4:39:14 PM 	  0:24:38	 Punch  03 replaced by Group 46.
+  15	 15		26/06/2010  4:54:06 PM 	  0:14:52	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:54:06 PM 
+Time on course   5:54:06
+
+
+  860	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 860

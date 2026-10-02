@@ -1,0 +1,28 @@
+Team No. 2166	Tag ID = ATAR   Tags=0011	Course 3Hr
+No Expectations: Rachel Soper, Nicki Barrow and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:43:15 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:05:27 PM	  0:05:27	
+   3	  81 	   80	 9/07/2017 12:26:15 PM	  0:20:48	
+   4	  67 	   60	 9/07/2017 12:43:28 PM	  0:17:13	
+   5	  42 	   40	 9/07/2017 12:59:31 PM	  0:16:03	
+   6	  65 	   60	 9/07/2017  1:20:57 PM	  0:21:26	
+   7	  92 	   90	 9/07/2017  1:36:31 PM	  0:15:34	
+   8	  32 	   30	 9/07/2017  2:02:55 PM	  0:26:24	
+   9	 101 	  100	 9/07/2017  2:11:25 PM	  0:08:30	
+  10	  22 	   20	 9/07/2017  2:21:56 PM	  0:10:31	
+  11	 108 		 9/07/2017  3:34:36 PM	  1:12:40	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:34:36 PM
+Time on course   3:34:36
+
+
+  500	Points Scored.
+ -500	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

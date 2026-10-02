@@ -1,0 +1,34 @@
+Team No. 212	Tag ID = ABDR   Tags=0017	Course 3 hour
+Thrills n spills: Nardia Turner, Natasha Richardson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:47:43 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:05:09 PM	  0:05:09	
+   3	  31 	   30	 7/07/2019 12:14:01 PM	  0:08:52	
+   4	  73 	   70	 7/07/2019 12:19:44 PM	  0:05:43	
+   5	  46 	   40	 7/07/2019 12:31:02 PM	  0:11:18	
+   6	  52 	   50	 7/07/2019 12:34:49 PM	  0:03:47	
+   7	  34 	   30	 7/07/2019 12:39:18 PM	  0:04:29	
+   8	  43 	   40	 7/07/2019 12:55:54 PM	  0:16:36	
+   9	  62 	   60	 7/07/2019  1:11:28 PM	  0:15:34	
+  10	  66 	   60	 7/07/2019  1:23:43 PM	  0:12:15	
+  11	  55 	   50	 7/07/2019  1:50:46 PM	  0:27:03	
+  12	  86 	   80	 7/07/2019  2:05:06 PM	  0:14:20	
+  13	  42 	   40	 7/07/2019  2:23:46 PM	  0:18:40	
+  14	  41 	   40	 7/07/2019  2:29:23 PM	  0:05:37	
+  15	  54 	   50	 7/07/2019  2:36:03 PM	  0:06:40	
+  16	  49 	   40	 7/07/2019  2:46:04 PM	  0:10:01	
+  17	  19 		 7/07/2019  2:53:42 PM	  0:07:38	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:53:42 PM
+Time on course   2:53:42
+
+
+  720	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 720

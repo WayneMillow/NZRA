@@ -1,0 +1,30 @@
+Team No. 106	Tag ID = ARBA   Tags=0013	Course 24 hour
+Dusty Wonders: Anthony Cummings, Ben Fletcher and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  3:38:41 PM	  3:38:41	Accidental BRIEF Punch ignored.
+   2	  38 	   30	 7/11/2020  4:52:23 PM	  1:13:42	
+   3	  58 	   50	 7/11/2020  5:16:40 PM	  0:24:17	
+   4	  44 	   40	 7/11/2020  6:00:31 PM	  0:43:51	
+   5	 104 	  100	 7/11/2020  6:28:51 PM	  0:28:20	
+   6	  67 	   60	 7/11/2020  7:17:53 PM	  0:49:02	
+   7	  82 	   80	 7/11/2020  8:23:25 PM	  1:05:32	
+   8	  43 	   40	 7/11/2020  8:40:32 PM	  0:17:07	
+   9	  42 	   40	 7/11/2020  9:34:07 PM	  0:53:35	
+  10	  78 	   70	 7/11/2020 10:59:46 PM	  1:25:39	
+  11	  28 	   20	 8/11/2020  7:44:43 AM	  8:44:57	
+  12	  39 	   30	 8/11/2020  8:15:27 AM	  0:30:44	
+  13	  17 		 8/11/2020 10:36:48 AM	  2:21:21	FINISH TIME.
+END
+
+
+Recognised finish time  8/11/2020 10:36:48 AM
+Time on course  22:36:48
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

@@ -1,0 +1,79 @@
+	Team  number		Category	Names of competitors	Team name	Course	Handica
+	1		MV	Jack Nicholls 	The Unlikelies	24Hr
+				Renee Fleming		
+	2		W	Richard the Lionheart	Shakespear	24Hr
+				Vivienne Leigh  		
+	3		M	MarkTime	Timandahaf	24Hr
+				Mark Twain		
+				Aspa Distra		
+	4		X,X	Police Gordon	Crime Stoppers	24Hr
+				Lady Gordon		
+				Gordons Gin		
+	5		MSV	Lance Cairns	Fix me up	24Hr
+				Chris Cairns		
+				Rock Cairns		
+	6		WV	Shaun Crayfish	Something Fishy	24Hr
+				Mick Lobster		
+	7		M	Burt Lancaster	The Dambusters	6Hr
+				Avro Lancaster		
+				Squadron 617		
+	8		X	Ricky Knees	Sounds Familiar	24Hr
+				Bend the Knees		
+	9		M	Kevin Fallon		24Hr
+				Yates Seeds		
+	10		XSV	Luciano Pavarotti	Tristram & Isolde.	24Hr
+				Joan Sutherland		
+	11		XSV	Bill Kennedy	Bloody Heck!	24Hr
+				Anne Kennedy		
+				Peter Squires		
+				Dave Laurie		
+				Andy Buchanan		
+	12		MSV	Rock Pinnacle	Stone me!	24Hr
+				Rock Starr		
+				Gimlett Gravels		
+	13		MV	On_my Mark	X marks the Spot	6Hr
+				GetSet Go		
+	14		X	Jane Miller	Bread and Butter	6Hr
+				Flour Miller		
+	15		MSV	Senator Kennedy	World Peace	24Hr
+				Centaur Trump		
+	16		M	Labours Folley	Back to the Past	6Hr
+				Merry Corbin		
+				Weara Tie		
+	17		XSV	Philip Black	Song to the Moon	6Hr
+				Philip Loghtbulbs		
+	18		XV	Cat Stephens	The WhyBash Cannon Ball.	6Hr
+				Pussy Galore		
+	19		MV	James Dobbin	Horse Parade	24Hr
+				Geeup Dobbin		
+				Woah Dobbin		
+	20		M	John Cleese	Cambridge Circus	24Hr
+				Bill Oddie		
+	21		XV	Wolfgang Mozart	Death by Chocolate	24Hr
+				Antonio Salieri		
+	22		MV	Big Ears	Enid	24Hr
+				Noddy		
+	23		WV	Dawn Frazer	The Flintstones	6Hr
+				Dawn of Time		
+	24		MSV	Paul Moore	The Mortgage	24Hr
+				Lendme Moore		
+	25		XSV	Wind Sailor	Renewable Energy	24Hr
+				Wind Farm		
+				Wind Meup		
+	26		XSV	Penny Round	Here we go again	24Hr
+				Merry Go Round		
+	27		XV	Save the Whale	Southern Ocean	6Hr
+				Don’t Blubber		
+	28		X	Popeye Spinnach	Sail Ahoy	24Hr
+				Olive Oyle		
+	29		XV	Magellan	Explore the World	6Hr
+				Christopher Columbus		
+				Abel Tasman		
+				James Cook		
+	30		X	Venus Sisters	Sole R System	6Hr
+				Mars Bars		
+	31		XSV	Pancake Fritters	HH Warriors	24Hr
+				Doughboy Dumplings		
+				Damper Stick		
+	32		UV,XSV	Lyons Den		6Hr
+				Jeffa Lyon		

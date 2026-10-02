@@ -1,0 +1,29 @@
+Team No. 416	Tag ID = ABAR   Tags=0011	Course 6hr
+R2M: Raewyn Moss, Christina  Robb, Helen  Rouse
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:14:52 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:34:41 AM	  0:05:41	 Punch  11 replaced by Group 21.
+   3	 44	 40	 8/06/2013 11:04:14 AM	  0:29:33	
+   4	 86	 80	 8/06/2013 11:23:48 AM	  0:19:34	
+   5	 68	 60	 8/06/2013 11:50:07 AM	  0:26:19	
+   6	 77	 70	 8/06/2013 12:15:47 PM	  0:25:40	
+   7	101	100	 8/06/2013  1:01:29 PM 	  0:45:42	
+   8	 43	 40	 8/06/2013  2:09:10 PM 	  1:07:41	
+   9	 62	 60	 8/06/2013  3:03:17 PM 	  0:54:07	
+  10	 99	 90	 8/06/2013  3:46:55 PM 	  0:43:38	
+  11	 15		 8/06/2013  4:49:53 PM 	  1:02:58	FINISH TIME.
+END
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:49:53 PM 
+Time on course   6:20:53
+
+
+  640	Points Scored.
+  420	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 220

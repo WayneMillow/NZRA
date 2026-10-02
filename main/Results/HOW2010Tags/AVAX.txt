@@ -1,0 +1,32 @@
+Team No. 643	Tag ID = AVAX   Tags=0016	Course 6_HoW
+Jenny Jordan, Fiona Stechmann
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 29		26/06/2010 10:40:51 AM	         	BRIEFING. Score reset.
+   3	 46	 40	26/06/2010 11:18:58 AM	  0:18:58	 Punch  03 replaced by Group 46.
+   4	 94	 90	26/06/2010 11:26:35 AM	  0:07:37	
+   5	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   6	 37	 30	24/06/2010  6:33:31 PM 	         	1.685 Days early.
+   7	 76	 70	26/06/2010 12:25:38 PM	  1:16:39	 Punch  04 replaced by Group 76.
+   8	 77	 70	26/06/2010  1:52:04 PM 	  1:26:26	
+   9	102	100	26/06/2010  2:20:23 PM 	  0:28:19	
+  10	 85	 80	26/06/2010  2:49:58 PM 	  0:29:35	
+  11	 66	 60	26/06/2010  3:08:48 PM 	  0:18:50	
+  12	 75	 70	26/06/2010  3:22:38 PM 	  0:13:50	
+  13	 93	 90	26/06/2010  3:40:40 PM 	  0:18:02	
+  14	 34	 30	26/06/2010  4:04:37 PM 	  0:23:57	
+  15	 45	 40	26/06/2010  4:18:04 PM 	  0:13:27	
+  16	 16		26/06/2010  4:44:50 PM 	  0:26:46	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:44:50 PM 
+Time on course   5:44:50
+
+
+  820	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 820

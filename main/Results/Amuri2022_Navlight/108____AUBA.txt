@@ -1,0 +1,32 @@
+Team No. 108	Tag ID = AUBA   Tags=0015	Course 3hr
+Lightning Bolts of Fire: Kirk De Ridder, Brett Langford and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:01:45 PM	  0:01:45	
+   2	  21 	   20	 3/07/2022 12:07:15 PM	  0:05:30	
+   3	  52 	   50	 3/07/2022 12:10:57 PM	  0:03:42	
+   4	  33 	   30	 3/07/2022 12:18:23 PM	  0:07:26	
+   5	  50 	   50	 3/07/2022 12:32:31 PM	  0:14:08	
+   6	  61 	   60	 3/07/2022 12:43:19 PM	  0:10:48	
+   7	  53 	   50	 3/07/2022 12:59:38 PM	  0:16:19	
+   8	  65 	   60	 3/07/2022  1:16:57 PM	  0:17:19	
+   9	  23 	   20	 3/07/2022  5:30:51 AM	         	Punch clock failed.
+  10	 101 	  100	 3/07/2022  2:05:34 PM	  0:48:37	
+  11	  25 	   20	 3/07/2022  2:11:00 PM	  0:05:26	
+  12	  44 	   40	 3/07/2022  2:26:55 PM	  0:15:55	
+  13	  43 	   40	 3/07/2022  2:34:56 PM	  0:08:01	
+  14	  30 	   30	 3/07/2022  2:50:50 PM	  0:15:54	
+  15	  19 		 3/07/2022  2:55:32 PM	  0:04:42	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:55:32 PM
+Time on course   2:55:32
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

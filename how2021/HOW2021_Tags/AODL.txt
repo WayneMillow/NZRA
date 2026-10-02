@@ -1,0 +1,28 @@
+Team No. 202	Tag ID = AODL   Tags=0011	Course 6 hour
+Carrot and the Hummingbird: Kelly LaValley, Stacey Garrett
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:11:04 AM	  0:11:04	
+   2	  25 	   20	19/06/2021 11:23:49 AM	  0:12:45	
+   3	  77 	   70	19/06/2021 12:02:30 PM	  0:38:41	
+   4	  38 	   30	19/06/2021 12:25:47 PM	  0:23:17	
+   5	  89 	   80	19/06/2021  1:01:53 PM	  0:36:06	
+   6	  96 	   90	19/06/2021  1:53:23 PM	  0:51:30	
+   7	 100 	  100	19/06/2021  3:24:07 PM	  1:30:44	
+   8	  35 	   30	19/06/2021  3:40:00 PM	  0:15:53	
+   9	  67 	   60	19/06/2021  3:49:14 PM	  0:09:14	
+  10	  58 	   50	19/06/2021  4:06:55 PM	  0:17:41	
+  11	  57 		19/06/2021  4:49:32 PM	  0:42:37	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:49:32 PM
+Time on course   5:49:32
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

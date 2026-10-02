@@ -1,0 +1,34 @@
+Team No. 657	Tag ID = AHCK   Tags=0017	Course 6hr
+Mandy Macfarlane, Tim Macfarlane and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		30/06/2012 10:40:36 AM	         	BRIEFING. Score reset.
+   2	 93	 90	30/06/2012 11:14:40 AM	  0:14:40	
+   3	 71	 70	30/06/2012 11:32:37 AM	  0:17:57	
+   4	 65	 60	30/06/2012 11:57:52 AM	  0:25:15	
+   5	 74	 70	30/06/2012 12:23:10 PM	  0:25:18	
+   6	 80	 80	30/06/2012 12:54:11 PM	  0:31:01	
+   7	 58	 50	30/06/2012  1:08:15 PM 	  0:14:04	
+   8	 90	 90	30/06/2012  1:46:46 PM 	  0:38:31	
+   9	 51	 50	30/06/2012  2:26:14 PM 	  0:39:28	
+  10	 61	 60	30/06/2012  2:55:08 PM 	  0:28:54	
+  11	 70	 70	30/06/2012  3:25:03 PM 	  0:29:55	
+  12	 81	 80	30/06/2012  3:46:12 PM 	  0:21:09	
+  13	 33	 30	30/06/2012  3:58:17 PM 	  0:12:05	
+  14	 21	 20	30/06/2012  4:04:45 PM 	  0:06:28	
+  15	 43	 40	30/06/2012  4:22:05 PM 	  0:17:20	 Punch  86 replaced by Group 43.
+  16	 12	 10	30/06/2012  4:39:58 PM 	  0:17:53	 Punch  76 replaced by Group 12.
+  17	107		30/06/2012  4:47:41 PM 	  0:07:43	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:47:41 PM 
+Time on course   5:47:41
+
+
+  870	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 870

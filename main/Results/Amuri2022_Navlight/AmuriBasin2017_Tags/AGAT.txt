@@ -1,0 +1,27 @@
+Team No. 2221	Tag ID = AGAT   Tags=0009	Course 3Hr
+The Blazing Beans: Hannah Davison, Blaise Davison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 9/07/2017 12:07:07 PM	  0:07:07	Manual BRIEF allowed.
+   2	  41 	   40	 9/07/2017 12:20:30 PM	  0:13:23	
+   3	  63 	   60	 9/07/2017 12:33:58 PM	  0:13:28	
+   4	  64 	   60	 9/07/2017 12:44:59 PM	  0:11:01	
+   5	  23 	   20	 9/07/2017 12:57:54 PM	  0:12:55	
+   6	  35 	   30	 9/07/2017  1:02:57 PM	  0:05:03	
+   7	  61 	   60	 9/07/2017  1:29:16 PM	  0:26:19	
+   8	  45 	   40	 9/07/2017  2:11:53 PM	  0:42:37	
+   9	 108 		 9/07/2017  3:39:30 PM	  1:27:37	FINISH TIME.
+END
+	Manual BRIEF Accepted on line 1
+
+
+Recognised finish time  9/07/2017  3:39:30 PM
+Time on course   3:39:30
+
+
+  330	Points Scored.
+ -330	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

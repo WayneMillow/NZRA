@@ -1,0 +1,32 @@
+Team No. 27	Tag ID = AQAS   Tags=0015	Course 6hr
+Peggy Squares: Kate Anderson, Kate Rattray and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:06:28 AM	  0:06:28	
+   2	  40 	   40	 1/07/2023 11:19:06 AM	  0:12:38	
+   3	  62 	   60	 1/07/2023 11:44:35 AM	  0:25:29	
+   4	  63 	   60	 1/07/2023 12:18:08 PM	  0:33:33	
+   5	  42 	   40	 1/07/2023 12:32:22 PM	  0:14:14	
+   6	  64 	   60	 1/07/2023 12:56:37 PM	  0:24:15	
+   7	  22 	   20	 1/07/2023  1:07:44 PM	  0:11:07	
+   8	  91 	   90	 1/07/2023  1:21:45 PM	  0:14:01	
+   9	  72 	   70	 1/07/2023  2:00:22 PM	  0:38:37	
+  10	  73 	   70	 1/07/2023  2:33:48 PM	  0:33:26	
+  11	 103 	  100	 1/07/2023  2:58:57 PM	  0:25:09	
+  12	  24 	   20	 1/07/2023  3:36:15 PM	  0:37:18	
+  13	  85 	   80	 1/07/2023  3:41:26 PM	  0:05:11	
+  14	  38 	   30	 1/07/2023  4:37:31 PM	  0:56:05	
+  15	  18 		 1/07/2023  4:48:48 PM	  0:11:17	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:48:48 PM
+Time on course   5:48:48
+
+
+  780	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

@@ -1,0 +1,28 @@
+Team No. 629	Tag ID = AXDK   Tags=0011	Course 6_HoW
+Desra Barron, Josephine Lohrey and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:36:56 AM	         	BRIEFING. Score reset.
+   2	 36	 30	26/06/2010 11:11:01 AM	  0:11:01	 Punch  02 replaced by Group 36.
+   3	 94	 90	26/06/2010 11:27:53 AM	  0:16:52	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 37	 30	24/06/2010  6:43:35 PM 	         	1.678 Days early.
+   6	 76	 70	26/06/2010 12:30:18 PM	  1:21:19	
+   7	 58	 50	26/06/2010 12:48:33 PM	  0:18:15	
+   8	 43	 40	26/06/2010  3:20:00 PM 	  2:31:27	
+   9	 21	 20	26/06/2010  3:37:09 PM 	  0:17:09	
+  10	 35	 30	26/06/2010  4:07:18 PM 	  0:30:09	
+  11	 16		26/06/2010  5:01:34 PM 	  0:54:16	FINISH TIME IGNORED.
+END					(WARNING - No FINISH Punch found.)
+
+
+Manual finish time 26/06/2010  5:00:00 PM 
+Time on course   6:00:00
+
+
+  410	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

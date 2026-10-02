@@ -1,0 +1,32 @@
+Team No. 157	Tag ID = AODF   Tags=0015	Course 24 hour
+Woop woop: Ahmad Abu-Aysha (NZL), Catherine Low (NZL) and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		24/11/2018 11:47:27 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018 12:38:04 PM	  0:38:04	
+   3	  68 	   60	24/11/2018  1:16:18 PM	  0:38:14	
+   4	  97 	   90	24/11/2018  2:37:51 PM	  1:21:33	
+   5	  84 	   80	24/11/2018  3:15:22 PM	  0:37:31	
+   6	  75 	   70	24/11/2018  3:37:20 PM	  0:21:58	
+   7	  46 	   40	24/11/2018  4:45:19 PM	  1:07:59	
+   8	  49 	   40	24/11/2018  7:01:08 PM	  2:15:49	
+   9	  58 	   50	24/11/2018  7:20:54 PM	  0:19:46	
+  10	  41 	   40	24/11/2018  7:59:47 PM	  0:38:53	
+  11	  60 	   60	25/11/2018  6:40:43 AM	 10:40:56	
+  12	  83 	   80	25/11/2018  7:14:08 AM	  0:33:25	
+  13	 109 	   40	25/11/2018  7:37:14 AM	  0:23:06	
+  14	  37 	   30	25/11/2018  9:25:51 AM	  1:48:37	
+  15	  17 		25/11/2018 10:02:55 AM	  0:37:04	FINISH TIME.
+END
+
+
+Recognised finish time 25/11/2018 10:02:55 AM
+Time on course  22:02:55
+
+
+  740	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

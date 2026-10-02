@@ -1,0 +1,27 @@
+Team No. 607	Tag ID = ATAZ   Tags=0010	Course 6Hr
+Raewyn Moss, Christina Robb and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 91		27/06/2015 10:45:06 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:15:01 AM	  0:15:01	
+   3	 57	 50	27/06/2015 11:41:21 AM	  0:26:20	
+   4	 70	 70	27/06/2015 12:39:21 PM	  0:58:00	
+   5	101	100	27/06/2015  1:20:19 PM	  0:40:58	
+   6	 42	 40	27/06/2015  2:41:39 PM	  1:21:20	
+   7	 31	 30	27/06/2015  3:03:04 PM	  0:21:25	
+   8	 66	 60	27/06/2015  3:45:52 PM	  0:42:48	
+   9	 23	 20	27/06/2015  4:21:09 PM	  0:35:17	
+  10	106		27/06/2015  4:37:50 PM	  0:16:41	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:37:50 PM
+Time on course   5:37:50
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

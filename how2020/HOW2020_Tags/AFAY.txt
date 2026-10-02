@@ -1,0 +1,35 @@
+Team No. 512	Tag ID = AFAY   Tags=0037	Course 6hrB
+Jill Westenra: Jill Westenra, Jenny Cassie
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  20	  10 		 4/07/2020 10:49:43 AM	         	BRIEFING. Score reset.
+  21	  27 	   20	 4/07/2020 11:01:20 AM	  0:01:20	
+  22	  80 	   80	 4/07/2020 11:11:12 AM	  0:09:52	
+  23	  61 	   60	 4/07/2020 11:16:25 AM	  0:05:13	
+  24	  29 	   20	 4/07/2020 11:26:56 AM	  0:10:31	
+  25	  33 	   30	 4/07/2020 11:34:01 AM	  0:07:05	
+  26	  78 	   70	 4/07/2020 11:49:42 AM	  0:15:41	
+  27	  88 	   80	 4/07/2020 12:25:31 PM	  0:35:49	
+  28	  65 	   60	 4/07/2020  1:03:10 PM	  0:37:39	
+  29	  50 	   50	 4/07/2020  1:46:32 PM	  0:43:22	
+  30	 107 	  100	26/01/2021  9:13:37 AM	939:27:05	After course closure.
+  31	  90 	   90	 4/07/2020  2:45:35 PM	         	Split time negative.
+  32	  58 	   50	 4/07/2020  3:16:37 PM	  0:31:02	
+  33	  59 	   50	 4/07/2020  3:40:57 PM	  0:24:20	
+  34	  52 	   50	 4/07/2020  3:58:43 PM	  0:17:46	
+  35	  71 	   70	 4/07/2020  4:11:45 PM	  0:13:02	
+  36	  15 	   10	 4/07/2020  4:32:09 PM	  0:20:24	
+  37	  11 		 4/07/2020  4:52:53 PM	  0:20:44	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  4:52:53 PM
+Time on course   5:52:53
+
+
+  890	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 890

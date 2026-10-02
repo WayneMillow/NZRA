@@ -1,0 +1,28 @@
+Team No. 1142	Tag ID = ANBB   Tags=0011	Course FAM 3Hr
+She'll B Wright: Carolyn Wright, Heather Bushaway and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:58:36 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:10:21 PM	  0:10:21	
+   3	  41 	   40	 9/07/2017 12:27:38 PM	  0:17:17	
+   4	  63 	   60	 9/07/2017 12:45:31 PM	  0:17:53	
+   5	  23 	   20	 9/07/2017  1:00:10 PM	  0:14:39	
+   6	  35 	   30	 9/07/2017  1:07:48 PM	  0:07:38	
+   7	  84 	   80	 9/07/2017  1:25:49 PM	  0:18:01	
+   8	  58 	   50	 9/07/2017  1:56:52 PM	  0:31:03	
+   9	  55 	   50	 9/07/2017  2:08:39 PM	  0:11:47	
+  10	  37 	   30	 9/07/2017  2:40:04 PM	  0:31:25	
+  11	 108 		 9/07/2017  2:48:58 PM	  0:08:54	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:48:58 PM
+Time on course   2:48:58
+
+
+  380	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 380

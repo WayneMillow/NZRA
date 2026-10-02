@@ -1,0 +1,27 @@
+Team No. 2228	Tag ID = AGAV   Tags=0010	Course 3Hr
+Dilly Dally: Melaney Cunningham, Liv Rutherford and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:43:32 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:07:14 PM	  0:07:14	
+   3	  41 	   40	 9/07/2017 12:20:37 PM	  0:13:23	
+   4	  63 	   60	 9/07/2017 12:32:53 PM	  0:12:16	
+   5	  64 	   60	 9/07/2017 12:45:54 PM	  0:13:01	
+   6	  23 	   20	 9/07/2017 12:56:58 PM	  0:11:04	
+   7	  35 	   30	 9/07/2017  1:02:43 PM	  0:05:45	
+   8	  61 	   60	 9/07/2017  1:29:19 PM	  0:26:36	
+   9	  45 	   40	 9/07/2017  2:09:18 PM	  0:39:59	
+  10	 108 		 9/07/2017  3:39:55 PM	  1:30:37	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:39:55 PM
+Time on course   3:39:55
+
+
+  330	Points Scored.
+ -330	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

@@ -1,0 +1,33 @@
+Team No. 2246	Tag ID = AHDF   Tags=0016	Course 6Hr
+Immaterial Girls: Claire Gray, Julie Wallace and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		10/06/2017 10:45:07 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:04:05 AM	  0:04:05	 Punch  11 replaced by Group 27.
+   3	 22	 20	10/06/2017 11:18:29 AM	  0:14:24	
+   4	 24	 20	10/06/2017 11:34:14 AM	  0:15:45	
+   5	 46	 40	10/06/2017 11:51:06 AM	  0:16:52	
+   6	 33	 30	10/06/2017 12:11:34 PM	  0:20:28	
+   7	 55	 50	10/06/2017 12:26:10 PM	  0:14:36	
+   8	 39	 30	10/06/2017 12:41:35 PM	  0:15:25	
+   9	 47	 40	10/06/2017  1:01:04 PM	  0:19:29	
+  10	 64	 60	10/06/2017  1:19:26 PM	  0:18:22	
+  11	 99	 90	10/06/2017  2:14:41 PM	  0:55:15	
+  12	 78	 70	10/06/2017  2:35:59 PM	  0:21:18	
+  13	 59	 50	10/06/2017  2:53:10 PM	  0:17:11	
+  14	103	100	10/06/2017  3:20:47 PM	  0:27:37	
+  15	 73	 70	10/06/2017  3:54:51 PM	  0:34:04	
+  16	106		10/06/2017  5:24:15 PM	  1:29:24	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:24:15 PM
+Time on course   6:24:15
+
+
+  690	Points Scored.
+ -250	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

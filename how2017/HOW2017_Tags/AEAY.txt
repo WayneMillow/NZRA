@@ -1,0 +1,33 @@
+Team No. 2113	Tag ID = AEAY   Tags=0017	Course 6Hr
+Blister Sisters: Sarita Gargiulo-Welch, Martine Cooper and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		10/06/2017 10:49:22 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:03:53 AM	  0:03:53	 Punch  11 replaced by Group 27.
+   3	 40	 40	10/06/2017 11:31:13 AM	  0:27:20	
+   4	 22	 20	10/06/2017 11:44:43 AM	  0:13:30	
+   5	 30	 30	10/06/2017 12:04:07 PM	  0:19:24	
+   6	 24	 20	10/06/2017 12:31:41 PM	  0:27:34	
+   7	 46	 40	10/06/2017 12:48:34 PM	  0:16:53	
+   8	 74	 70	10/06/2017  1:02:03 PM	  0:13:29	
+   9	 94	 90	10/06/2017  1:31:17 PM	  0:29:14	
+  10	 54	 50	10/06/2017  1:47:00 PM	  0:15:43	
+  11	 33	 30	10/06/2017  2:21:17 PM	  0:34:17	
+  12	 55	 50	10/06/2017  2:54:17 PM	  0:33:00	
+  13	 39	 30	10/06/2017  3:16:10 PM	  0:21:53	
+  14	 47	 40	10/06/2017  3:38:52 PM	  0:22:42	
+  15	 83	 80	10/06/2017  3:56:20 PM	  0:17:28	
+  16	108		10/06/2017  5:08:27 PM	  1:12:07	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:08:27 PM
+Time on course   6:08:27
+
+
+  610	Points Scored.
+  -90	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

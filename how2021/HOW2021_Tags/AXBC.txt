@@ -1,0 +1,31 @@
+Team No. 134	Tag ID = AXBC   Tags=0014	Course 6 hour
+We love to run not: Natasha Commons, Brian Wilson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:10:42 AM	  0:10:42	
+   2	  24 	   20	19/06/2021 11:22:44 AM	  0:12:02	
+   3	  39 	   30	19/06/2021 11:35:00 AM	  0:12:16	
+   4	  59 	   50	19/06/2021 11:52:48 AM	  0:17:48	
+   5	  61 	   60	19/06/2021 12:23:47 PM	  0:30:59	
+   6	  72 	   70	19/06/2021 12:55:28 PM	  0:31:41	
+   7	  52 	   50	19/06/2021  1:17:18 PM	  0:21:50	
+   8	 102 	  100	19/06/2021  1:41:11 PM	  0:23:53	
+   9	  42 	   40	19/06/2021  2:21:11 PM	  0:40:00	
+  10	  62 	   60	19/06/2021  2:40:53 PM	  0:19:42	
+  11	  31 	   30	19/06/2021  3:07:46 PM	  0:26:53	
+  12	  80 	   80	19/06/2021  4:02:44 PM	  0:54:58	
+  13	  47 	   40	19/06/2021  4:17:33 PM	  0:14:49	
+  14	  57 		19/06/2021  4:55:00 PM	  0:37:27	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:55:00 PM
+Time on course   5:55:00
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

@@ -1,0 +1,30 @@
+Team No. 2146	Tag ID = AOAR   Tags=0013	Course 3Hr
+A rocket, a demon and a tortoise: Fran Fitchett and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:53:03 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:08:37 PM	  0:08:37	
+   3	  41 	   40	 9/07/2017 12:21:06 PM	  0:12:29	
+   4	  63 	   60	 9/07/2017 12:35:52 PM	  0:14:46	
+   5	  23 	   20	 9/07/2017 12:49:16 PM	  0:13:24	
+   6	  35 	   30	 9/07/2017 12:56:16 PM	  0:07:00	
+   7	  84 	   80	 9/07/2017  1:25:07 PM	  0:28:51	
+   8	  64 	   60	 9/07/2017  1:54:51 PM	  0:29:44	
+   9	  55 	   50	 9/07/2017  2:16:52 PM	  0:22:01	
+  10	  81 	   80	 9/07/2017  2:36:32 PM	  0:19:40	
+  11	  31 	   30	 9/07/2017  2:45:48 PM	  0:09:16	
+  12	  37 	   30	 9/07/2017  2:53:05 PM	  0:07:17	
+  13	 108 		 9/07/2017  2:58:47 PM	  0:05:42	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:58:47 PM
+Time on course   2:58:47
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

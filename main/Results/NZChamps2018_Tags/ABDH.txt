@@ -1,0 +1,31 @@
+Team No. 176	Tag ID = ABDH   Tags=0014	Course 6 hour
+Where are we Charlie?: Jim Cotter (NZL), Charlotte Cotter (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  10 		24/11/2018 11:45:22 AM	         	BRIEFING. Score reset.
+   3	  30 	   30	24/11/2018 12:13:52 PM	  0:13:52	
+   4	  83 	   80	24/11/2018  1:06:37 PM	  0:52:45	
+   5	 109 	   40	24/11/2018  1:19:11 PM	  0:12:34	
+   6	  89 	   80	24/11/2018  1:40:40 PM	  0:21:29	
+   7	 100 	  100	24/11/2018  2:37:42 PM	  0:57:02	
+   8	  69 	   60	24/11/2018  3:01:55 PM	  0:24:13	
+   9	  97 	   90	24/11/2018  4:07:47 PM	  1:05:52	
+  10	  84 	   80	24/11/2018  4:32:21 PM	  0:24:34	
+  11	  75 	   70	24/11/2018  4:44:46 PM	  0:12:25	
+  12	  68 	   60	24/11/2018  5:20:53 PM	  0:36:07	
+  13	  67 	   60	24/11/2018  5:42:50 PM	  0:21:57	
+  14	  17 		24/11/2018  5:58:35 PM	  0:15:45	FINISH TIME.
+END
+	AddedPunch55	50
+
+
+Recognised finish time 24/11/2018  5:58:35 PM
+Time on course   5:58:35
+
+
+  800	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 800

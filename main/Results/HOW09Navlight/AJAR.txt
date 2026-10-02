@@ -1,0 +1,29 @@
+Team No. 11	Tag ID = AJAR   Tags=0012	Course 6hr
+Threecrepid: David Pugh-Williams, Robert Whitla and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:03:30 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009 10:49:34 AM	  0:19:34	
+   3	 54	 50	 4/07/2009 11:28:18 AM	  0:38:44	
+   4	 44	 40	 4/07/2009 11:59:39 AM	  0:31:21	
+   5	 61	 60	 4/07/2009 12:25:44 PM	  0:26:05	
+   6	 42	 40	 4/07/2009 12:55:34 PM	  0:29:50	
+   7	 41	 40	 4/07/2009  1:12:26 PM 	  0:16:52	
+   8	 60	 60	 4/07/2009  1:27:23 PM 	  0:14:57	
+   9	 43	 40	 4/07/2009  2:18:25 PM 	  0:51:02	
+  10	 52	 50	 4/07/2009  2:33:27 PM 	  0:15:02	
+  11	 32	 30	 4/07/2009  3:48:26 PM 	  1:14:59	
+  12	108		 4/07/2009  4:16:56 PM 	  0:28:30	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:16:56 PM 
+Time on course   5:46:56
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

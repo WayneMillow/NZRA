@@ -1,0 +1,35 @@
+Team No. 236	Tag ID = AWDN   Tags=0019	Course 6hr
+Three Strong Vaggies: Amanda Robinson, Hannah Presswood and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		15/06/2019 10:49:44 AM	         	BRIEFING. Score reset.
+   2	  35 	   30	15/06/2019 11:10:54 AM	  0:10:54	
+   3	  20 	   20	15/06/2019 11:19:38 AM	  0:08:44	
+   4	  73 	   70	15/06/2019 11:40:57 AM	  0:21:19	
+   5	  82 	   80	15/06/2019 12:02:35 PM	  0:21:38	
+   6	  69 	   60	15/06/2019 12:18:58 PM	  0:16:23	
+   7	  92 	   90	15/06/2019 12:34:04 PM	  0:15:06	
+   8	  71 	   70	15/06/2019 12:48:39 PM	  0:14:35	
+   9	  61 	   60	15/06/2019  1:09:19 PM	  0:20:40	
+  10	 100 	  100	15/06/2019  1:56:59 PM	  0:47:40	
+  11	  60 	   60	15/06/2019  2:18:07 PM	  0:21:08	
+  12	  51 	   50	15/06/2019  2:44:01 PM	  0:25:54	
+  13	  50 	   50	15/06/2019  3:02:33 PM	  0:18:32	
+  14	  88 	   80	15/06/2019  3:15:53 PM	  0:13:20	
+  15	  90 	   90	15/06/2019  3:56:43 PM	  0:40:50	
+  16	  43 	   40	15/06/2019  4:25:13 PM	  0:28:30	
+  17	  21 	   20	15/06/2019  4:37:05 PM	  0:11:52	
+  18	  17 		15/06/2019  4:48:36 PM	  0:11:31	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:48:36 PM
+Time on course   5:48:36
+
+
+  970	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 970

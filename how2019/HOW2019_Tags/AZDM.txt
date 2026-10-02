@@ -1,0 +1,29 @@
+Team No. 218	Tag ID = AZDM   Tags=0012	Course 6hr
+Victoria Jo and Bec: Josephine Lohrey, Rebecca Inglis and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		15/06/2019 10:42:08 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	15/06/2019 11:22:36 AM	  0:22:36	
+   3	  54 	   50	15/06/2019 11:36:47 AM	  0:14:11	
+   4	  83 	   80	15/06/2019 11:59:47 AM	  0:23:00	
+   5	  49 	   40	15/06/2019 12:17:34 PM	  0:17:47	
+   6	  82 	   80	15/06/2019 12:42:49 PM	  0:25:15	
+   7	  43 	   40	15/06/2019  1:02:38 PM	  0:19:49	
+   8	  73 	   70	15/06/2019  2:06:50 PM	  1:04:12	
+   9	  69 	   60	15/06/2019  2:53:46 PM	  0:46:56	
+  10	  92 	   90	15/06/2019  3:20:32 PM	  0:26:46	
+  11	  41 	   40	15/06/2019  4:08:14 PM	  0:47:42	
+  12	  16 		15/06/2019  5:02:06 PM	  0:53:52	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  5:02:06 PM
+Time on course   6:02:06
+
+
+  570	Points Scored.
+  -30	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

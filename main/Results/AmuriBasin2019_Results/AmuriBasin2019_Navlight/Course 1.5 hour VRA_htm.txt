@@ -1,0 +1,19 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	F	X	F	
+					O	V	S	O	V	S	O	V	S	J	J	J	O	
+							V			V			V					
+ 1	261	550	   1:27:41	Team French (Lauren French, Michelle French.)	.	.	.	1	.	.	.	.	.	.	.	.	.	
+ 2	258	540	   1:23:26	Mountain Rangers (Jono Simpson, Peter Williams, Caroline Simpson, Sarah Williams.)	.	.	.	.	.	.	.	.	.	.	.	.	1	
+ 3	255	530	   1:29:15	Byns (Ben Chaffey, Lyn Crean.)	.	.	.	.	.	.	.	1	.	.	.	.	.	
+ 4	264	510	   1:23:55	Giggle Crew (Victoria Kelly, Rory Palmer, Charlotte Hastings, Isaac Kelly, Nicholas Kelly.)	.	.	.	.	.	.	.	.	.	.	.	.	2	
+ 5	262	480	   1:24:50	Frisky fillys (Julie Jopp, Paige Jopp.)	.	.	.	.	.	.	.	.	.	.	.	.	3	
+ 6	259	395	   1:32:18	Pinck Panthers (Henry Pinckney, Issy Pinckney.)	.	.	.	.	.	.	.	.	.	.	.	.	4	
+ 7	252	395	   1:32:19	Are we half way yet (Archie McCone, Kevin ONeill, Sam ONeill.)	.	.	.	.	.	.	.	.	.	.	.	.	5	
+ 8	253	385	   1:32:25	Sherwood Shortcuts (Jack Boissard, Alex Boissard, Guy Boissard.)	.	.	.	.	.	.	.	.	.	.	.	.	6	
+ 9	257	370	   1:26:55	Three Blind Mice (Molly McKenzie, Honor McKenzie, Dave McKenzie.)	.	.	.	.	.	.	.	.	.	.	.	.	7	
+ 10	251	370	   1:27:00	Black Attack (Julia Black, Tom Black, Sara Black.)	.	.	.	.	.	.	.	.	.	.	.	.	8	
+ 11	265	330	   1:28:11	BenNIck (Ben Hirschfeld, Nick Hirschfeld.)	.	.	.	.	.	.	.	.	.	.	1	.	.	
+ 12	263	300	   1:23:35	Joppstars (Macey Jopp, Kate Jopp, Craig Jopp.)	.	.	.	.	.	.	.	.	.	.	.	.	9	
+ 13	254	300	   1:25:15	Savage Safaris (Jack Savage, James Cleeve, Stanley Savage, Jason Savage.)	.	.	.	.	.	.	.	.	.	.	.	.	10	
+ 14	256	220	   1:25:06	Rotherham Rascals (Ginny Macfarlane, Riley Mason, George Thompson, Alex Thompson, Noah Rasmussen.)	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 15	260	200	   1:31:14	The Milkshakers (Holly Jackson, Belinda Rutherford.)	.	.	.	2	.	.	.	.	.	.	.	.	.	
+ 16	266	180	   1:23:09	Headless Chickens (Michael Van Vledder, Matthew Bridges.)	.	.	.	.	.	.	.	.	.	.	.	.	11	

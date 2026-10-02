@@ -1,0 +1,26 @@
+Team No. 104	Tag ID = ANBA   Tags=0009	Course 03 hour
+GOATs and co: Annabelle Clark, Kendra Cocksedge and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:52:02 am	         	BRIEFING. Score reset.
+   2	  74 	70	31/01/2026 11:10:07 am	  0:10:07	
+   3	  24 	20	31/01/2026 11:55:43 am	  0:45:36	
+   4	  84 	80	31/01/2026 12:29:35 pm	  0:33:52	
+   5	  34 	30	31/01/2026 12:41:21 pm	  0:11:46	
+   6	  30 	30	31/01/2026  1:16:31 pm	  0:35:10	
+   7	  40 	40	31/01/2026  1:29:12 pm	  0:12:41	
+   8	  31 	20	31/01/2026  1:48:09 pm	  0:18:57	
+   9	  19 		31/01/2026  1:56:17 pm	  0:08:08	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  1:56:17 pm
+Time on course   2:56:17
+
+
+  290	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 290

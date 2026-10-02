@@ -1,0 +1,32 @@
+Team No. 26	Tag ID = AOAS   Tags=0011	Course 12Hr
+Geoff Dillon, Nicci Dillon
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 91		27/06/2015  8:45:01 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015  9:12:56 AM	  0:12:56	
+   3	 75	 70	27/06/2015 10:44:33 AM	  1:31:37	
+   4	 93	 90	27/06/2015 11:07:08 AM	  0:22:35	
+   5	 36	 30	27/06/2015 11:51:01 AM	  0:43:53	
+   6	103	100	27/06/2015 12:12:32 PM	  0:21:31	
+   7	 74	 70	27/06/2015 12:38:06 PM	  0:25:34	
+   8	 84	 80	27/06/2015  1:08:35 PM	  0:30:29	
+   9	 37	 30	27/06/2015  1:33:36 PM	  0:25:01	
+  10	 25	 20	27/06/2015  2:13:44 PM	  0:40:08	
+  11	106		27/06/2015  2:39:25 PM	  0:25:41	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  26,75,93,36,103,74,84,37,25
+Your score has been reduced by 510 points.
+
+
+Recognised finish time 27/06/2015  2:39:25 PM
+Time on course   5:39:25
+
+
+    0	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

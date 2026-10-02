@@ -1,0 +1,30 @@
+Team No. 127	Tag ID = AJBC   Tags=0013	Course 3hr
+Lone Rangers: Milly DC, Zoe Bailey and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:01:55 PM	  0:01:55	
+   2	  20 	   20	 3/07/2022 12:07:01 PM	  0:05:06	
+   3	  31 	   30	 3/07/2022 12:08:53 PM	  0:01:52	
+   4	  71 	   70	 3/07/2022 12:20:44 PM	  0:11:51	
+   5	  32 	   30	 3/07/2022 12:25:15 PM	  0:04:31	
+   6	  60 	   60	 3/07/2022 12:45:56 PM	  0:20:41	
+   7	  40 	   40	 3/07/2022 12:53:47 PM	  0:07:51	
+   8	  50 	   50	 3/07/2022  1:18:45 PM	  0:24:58	
+   9	  61 	   60	 3/07/2022  1:31:17 PM	  0:12:32	
+  10	  33 	   30	 3/07/2022  1:40:57 PM	  0:09:40	
+  11	  43 	   40	 3/07/2022  2:16:16 PM	  0:35:19	
+  12	  30 	   30	 3/07/2022  2:43:51 PM	  0:27:35	
+  13	  18 		 3/07/2022  2:51:44 PM	  0:07:53	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:51:44 PM
+Time on course   2:51:44
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

@@ -1,0 +1,66 @@
+<HTML>
+<HEAD><TITLE>NZRA - Membership Application Form</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<LINK href="../stylesheet.css" type=text/css rel=stylesheet>
+</HEAD>
+
+<!-- There are quite a few absolutes in this form, eg. redirect address, server address, form recipient.  -->
+
+<BODY  class=smaller bgColor=lightblue>
+
+
+<form method="post" action="SendForm8.php" name="MemberApplnForm">
+<input type="hidden" name="mail_options" value="PlainTemplate=MemberApplnFormTemplate.txt,TemplateMissing=" /> 
+
+<input type="hidden" name="recipients" value="wayne.millowFMNP6WQ2gmail.com" />
+<!-- <input type="hidden" name="recipients" value="kennedyzFMNP6WQ2xtra.co.nz, wayne.millowFMNP6WQ2gmail.com" />  -->
+<!-- <input type=hidden name="recipients" value="KennedyzFMNP6WQ2xtra.co.nz, petersquiresFMNP6WQ2ihug.co.nz" />  -->
+
+<input type="hidden" name="subject" value="Rogaine Association Membership Application" /> 
+<input type="hidden" name="required" value="realname:Name,street,town,email:Email" />
+
+<!-- <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER">  -->
+ 
+<input type="hidden" name="good_url" value="MemberApplnFormResponse.htm" />
+<input type="hidden" name="bad_url" value="ResponseIncomplete.htm" />
+<input type="hidden" name="derive_fields" value="header= %'NZRA Membership Application sent on '%.%dayname%.%2C%+%date%+%'at'%+%time%+%'by'%" /> 
+<!-- 
+<input type="hidden" name="conditions" value=":#
+ #TEST#email ~ /^[a-z0-9_.]+@[a-z0-9_]+\.([a-z0-9_.]+)*[a-z0-9_.]$/i #
+ Please enter a valid email address.#" />  -->
+
+
+<center><font class=subtitle><u>NZRA Membership Application</u> </font></center>
+
+<table align=center border=0>
+<tr> 
+<th class=smaller align=left colspan=2><br>Any information that you supply will not be released to any third party and will be used only to advise of events, news, meetings etc. Please note that fields marked with ** must be completed.<br><br></th></tr> 
+<tr> 
+<th align=right class=smallerB>**Name: </th><td><input type="text" name="realname" size=40 style="font-size: 12px;"></td></tr>
+<tr> 
+<th align=right class=smallerB>**Street: </th><td><input type="text" name="street" size=40 style="font-size: 12px;"></td></tr>
+<tr> 
+<th align=right class=smallerB>**Town: </th><td><input type="text" name="town" size=40 style="font-size: 12px;"></td></tr>
+<tr> 
+<th align=right class=smallerB>**E-Mail: </th><td><input type="text" name="email" size=40 style="font-size: 12px;"></td></tr>
+<tr> 
+<th align=right class=smallerB>Phone: </th><td><input type="text" name="phone" size=20 style="font-size: 12px;" /></td>
+<!--<th align=right class=smallerB>Phone: </th><td><input type="text" name="phone" size=20 style="font-size: 12px;" />&nbsp;&nbsp;&nbsp;<font class=smallerB>Fax:&nbsp;</font><input type=text name="fax" size=20 style="font-size: 12px;"></td> -->
+
+</tr></table>
+<br>
+<hr size=1> 
+<center><table border=0> 
+<tr><th class=mediumB valign=top>-- Discussion, Opinion, Comments --</th></tr>
+<tr><td style="font-size: 12px;"> <textarea name="comments" class=smaller style="font-size=12px;" COLS=60 ROWS=12 wrap=physical>
+</textarea></td></tr></table></center> 
+
+<center><input type="submit" value="  Send  "> <input type="reset" value="Clear Form">
+<font class=smaller> <br><br> 
+[<a href="" onClick="window.close()">Close this window</a>]</font></center>
+
+<p class=smallWhite style="color:black"><br>Visit www.tectite.com for free <a target=_blank href="http://www.tectite.com/">FormMail</a> </p>
+
+</form>
+</body> 
+</html>  

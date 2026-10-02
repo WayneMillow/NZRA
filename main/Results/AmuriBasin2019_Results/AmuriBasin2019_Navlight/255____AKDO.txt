@@ -1,0 +1,31 @@
+Team No. 255	Tag ID = AKDO   Tags=0014	Course 1.5 hour
+Byn's: Ben Chaffey, Lyn Crean
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:46:16 PM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019  1:02:03 PM	  0:02:03	
+   3	  31 	   30	 7/07/2019  1:10:41 PM	  0:08:38	
+   4	  73 	   70	 7/07/2019  1:16:50 PM	  0:06:09	
+   5	  33 	   30	 7/07/2019  1:22:02 PM	  0:05:12	
+   6	  46 	   40	 7/07/2019  1:31:28 PM	  0:09:26	
+   7	  52 	   50	 7/07/2019  1:37:43 PM	  0:06:15	
+   8	  34 	   30	 7/07/2019  1:43:05 PM	  0:05:22	
+   9	  81 	   80	 7/07/2019  1:50:21 PM	  0:07:16	
+  10	  53 	   50	 7/07/2019  1:59:02 PM	  0:08:41	
+  11	  59 	   50	 7/07/2019  2:06:05 PM	  0:07:03	
+  12	  49 	   40	 7/07/2019  2:20:16 PM	  0:14:11	
+  13	  26 	   20	 7/07/2019  2:25:38 PM	  0:05:22	
+  14	  16 		 7/07/2019  2:29:14 PM	  0:03:36	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:29:14 PM
+Time on course   1:29:14
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

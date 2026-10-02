@@ -1,0 +1,30 @@
+Team No. 1154	Tag ID = APBB   Tags=0013	Course FAM 3Hr
+Cranford Crocs: Chris Dampier-Crossley, Jill Dampier-Crossley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:46:27 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:07:36 PM	  0:07:36	
+   3	  41 	   40	 9/07/2017 12:16:49 PM	  0:09:13	
+   4	  63 	   60	 9/07/2017 12:31:52 PM	  0:15:03	
+   5	  64 	   60	 9/07/2017 12:42:33 PM	  0:10:41	
+   6	  23 	   20	 9/07/2017 12:56:10 PM	  0:13:37	
+   7	  35 	   30	 9/07/2017  1:02:23 PM	  0:06:13	
+   8	  84 	   80	 9/07/2017  1:17:08 PM	  0:14:45	
+   9	  73 	   70	 9/07/2017  1:38:35 PM	  0:21:27	
+  10	  58 	   50	 9/07/2017  1:56:15 PM	  0:17:40	
+  11	  81 	   80	 9/07/2017  2:22:26 PM	  0:26:11	
+  12	  37 	   30	 9/07/2017  2:49:41 PM	  0:27:15	
+  13	 108 		 9/07/2017  2:56:51 PM	  0:07:10	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:56:51 PM
+Time on course   2:56:51
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

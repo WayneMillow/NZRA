@@ -1,0 +1,29 @@
+Team No. 655	Tag ID = AECK   Tags=0012	Course 6hr
+Tony Mckay, Clive Howard Williams and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		30/06/2012 10:39:44 AM	         	BRIEFING. Score reset.
+   2	 12	 10	30/06/2012 11:07:28 AM	  0:07:28	
+   3	 43	 40	30/06/2012 11:22:39 AM	  0:15:11	 Punch  86 replaced by Group 43.
+   4	 81	 80	30/06/2012 11:44:16 AM	  0:21:37	
+   5	 33	 30	30/06/2012 11:58:19 AM	  0:14:03	
+   6	 44	 40	30/06/2012 12:25:11 PM	  0:26:52	
+   7	 91	 90	30/06/2012 12:59:05 PM	  0:33:54	
+   8	 63	 60	30/06/2012  1:17:12 PM 	  0:18:07	
+   9	 83	 80	30/06/2012  1:49:36 PM 	  0:32:24	
+  10	 54	 50	30/06/2012  2:20:47 PM 	  0:31:11	 Punch  87 replaced by Group 54.
+  11	 93	 90	30/06/2012  2:55:01 PM 	  0:34:14	 Punch  97 replaced by Group 93.
+  12	109		30/06/2012  3:04:08 PM 	  0:09:07	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  3:04:08 PM 
+Time on course   4:04:08
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

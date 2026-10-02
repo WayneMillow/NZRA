@@ -1,0 +1,29 @@
+Team No. 119	Tag ID = ARBB   Tags=0013	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 88		12/06/2006  4:42:05 PM 	        	BRIEFING. Score reset.
+   2	 10	 10	16/06/2007 10:13:14 AM	  0:13:14	
+   3	 44	 40	16/06/2007 10:37:52 AM	  0:24:38	
+   4	 52	 50	16/06/2007 11:14:53 AM	  0:37:01	
+   5	 65	 60	16/06/2007 11:39:07 AM	  0:24:14	
+   6	 60	 60	16/06/2007 12:23:58 PM	  0:44:51	
+   7	 40	 40	16/06/2007 12:42:13 PM	  0:18:15	
+   8	 55	 50	16/06/2007  1:40:55 PM 	  0:58:42	
+   9	 21	 20	16/06/2007  2:19:26 PM 	  0:38:31	
+  10	 66	 60	16/06/2007  2:55:05 PM 	  0:35:39	
+  11	 47	 40	16/06/2007  3:12:22 PM 	  0:17:17	
+  12	 37	 30	16/06/2007  3:33:58 PM 	  0:21:36	
+  13	 94		16/06/2007  3:53:17 PM 	  0:19:19	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:53:17 PM 
+Time on course   5:53:17
+
+
+  460	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

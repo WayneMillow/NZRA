@@ -1,0 +1,2714 @@
+@@CurDir@@
+<<TagNums.txt>>
+TagID	TEAM	CLASS	COURSE
+
+START:
+ AAAM	7	M	6Hr	Shaun Berg1, Mick Webster, Burt Lancaster
+ AXAF	7	M	6Hr	
+ ABAF	9	M		Ricky Thackray, Ben Corry
+ AXAH	9	M		
+ ACAK	14	MSV	6Hr	Ron Frederick1, Ron Wescott
+ AYAM	14	MSV	6Hr	
+ ACAM	16	M	6Hr	Keith Conley1, Tristram Miller
+ AZAF	16	M	6Hr	
+ ACAN	17	XSV	6Hr	Ross Dawson1, Sue Blood
+ AZAG	17	XSV	6Hr	
+ ADAF	18	M		Andy Black, David Palmer, Steve Halpin
+ AZAH	18	M		
+ ADAK	23	XV	6Hr	Annie Whybourne1, Dan Baschiera
+ AZAM	23	XV	6Hr	
+ ABAP	29	X	6Hr	Liz Farquharson1, Ryan Farquharson
+ AEAH	29	X	6Hr	
+ ABAJ	30	W	6Hr	Karen Pate, Jane Harries
+ AXAL	30	W	6Hr	
+ ACAO	32	UV,XSV	6Hr	John Lyon, Jeffa Lyon
+ AEAK	32	UV,XSV	6Hr	
+ ADAO	35	MV	6Hr	Ted VanGeldermalsen, Derek Morris
+ AEAN	35	MV	6Hr	
+ ADAP	36	MV	6Hr	Rick Armstrong, Norm McCann
+ AFAF	36	MV	6Hr	
+ ADAQ	37	XSV	6Hr	Bob Moore, Pauline Moore
+ AFAG	37	XSV	6Hr	
+ AEAO	38	XV	6Hr	Tim Hatley, Elizabeth Hatley
+ AFAH	38	XV	6Hr	
+ ABAK	40	MV	15in23	Kieth Boakes, John Shanahan
+ AXAM	40	MV	15in23	
+ AFAM	43	XV	15in23	Prue Dobbin, Ian Mack
+ AFAP	43	XV	15in23	
+ AGAF	45	AS,WE	15in23	Paul Williams, John Toomey
+ AGAO	45	AS,WE	15in23	
+ AGAH	47	X	15in23	Ruhi Afnan, Sandra Afnan
+ AGAQ	47	X	15in23	
+ AGAJ	48	XSV	15in23	Ian Harding, Fay Harding, Doug McMurray
+ AHAO	48	XSV	15in23	
+ ABAL	50	MSV	15in23	Reddall Leslie, David Sanders, Peter Pavlov
+ AXAN	50	MSV	15in23	
+ AGAN	53	WV	15in23	Helen Robinson, Christine Storie
+ AJAP	53	WV	15in23	
+ AHAJ	57	WV	15in23	Louise Carver, Rebeka Pople
+ AKAQ	57	WV	15in23	
+ AHAN	62	XV	15in23	Robyn Tuft, Peter Tuft
+ AMAP	62	XV	15in23	
+ AJAG	64	XSV	15in23	Peter Milnes, Sue Milnes
+ ANAO	64	XSV	15in23	
+ AJAL	68	MV	15in23	Geoff Mackay, Peter Chen
+ APAO	68	MV	15in23	
+ AJAM	69	UV,XSV	15in23	Vicki Cooper, Graeme Cooper
+ APAP	69	UV,XSV	15in23	
+ AJAN	71	XV	15in23	Theresa Howe, Karen Lane, Mike Howe
+ AQAO	71	XV	15in23	
+ AKAG	73	XV	15in23	Evelyn Colwell, Craig Colwell
+ ARAO	73	XV	15in23	
+ AKAL	77	MV	15in23	Andrew McComb, James Nicholson
+ ATAO	77	MV	15in23	
+ AKAM	78	YM	15in23	Liam McComb, Rory McComb, Brett Merchant
+ ATAP	78	YM	15in23	
+ AKAN	79	MV	15in23	Mark Mineman, Paul Mineman
+ AUAP	79	MV	15in23	
+ ADAU
+ AEAU
+ AFAU
+ AGAU
+ AHAU
+ AJAU
+ AKAU
+ ALAU
+ AMAU
+ ANAU
+ AOAU
+ APAU
+ AQAU
+ ARAU
+ ASAU
+ ATAU
+ AUAU
+ AVAU
+ AWAU
+ AXAU
+ AYAU
+ AZAU
+END:
+<<PunchNums.txt>>
+CPID	CPNUM	Points	Status
+
+START:			
+DMB	10	10	TEST
+ZMB	11	10	TEST
+XMC	12	10	BRIEF
+CMF	13	10	BRIEF
+EMB	14	10	BRIEF
+YMB	15	10	DEPART
+HMC	16	10	FINISH
+WMD	17	10	
+QMD	18	10	FINISH
+PME	19	10	BRIEF
+QME	20	20	
+PMD	21	20	G-51
+EME	22	20	
+FMD	23	20	
+KMB	24	20	
+AME	25	20	
+HMB	26	20	
+SMD	27	20	
+YMC	28	20	
+XME	29	20	
+WME	30	30	
+RMC	31	30	
+BME	31	30	
+ZMD	32	30	
+VME	33	30	
+KMD	34	30	
+AMC	35	30	
+GMC	36	30	
+MME	37	30	
+TMC	40	40	G-46
+OMB	41	40	
+KMC	42	40	
+MMT	42	40	
+YMD	43	40	
+EMC	44	40	
+MMC	45	40	
+OMD	46	40	
+VMD	47	40	
+OMC	48	40	
+HME	49	40	
+QMB	50	50	
+ZME	51	50	
+FME	52	50	
+XMB	53	50	
+AMF	53	50	
+JME	54	50	
+GME	55	50	
+LMD	56	50	
+NME	57	50	
+MMD	58	50	
+TME	59	50	
+UMC	60	60	
+XMD	61	60	
+LMC	62	60	G-20
+PMC	62	60	
+CMD	62	60	
+NMD	63	60	
+CME	64	60	G-20
+DMD	65	60	
+CMC	66	60	
+OME	67	60	G-51
+NMB	68	60	
+SME	69	60	
+TMD	70	70	
+UMB	71	70	
+LMT	71	70	
+JMB	72	70	
+TMB	73	70	
+SMB	74	70	
+GMD	75	70	
+KME	76	70	
+BMF	77	70	
+DMC	78	70	
+MMB	79	70	
+LMB	80	80	
+JMD	80	80	
+HMD	81	80	
+UMD	81	80	
+ZMC	82	80	
+LME	82	80	
+DME	83	80	
+VMC	86	80	
+NMC	88	80	START
+SMC	89	80	
+WMB	90	90	
+PMB	91	90	
+BMC	91	90	
+JMC	92	90	
+FMC	93	90	
+UME	94	90	
+EMD	95	90	
+RMB	96	90	
+CMB	97	90	
+VMB	98	90	
+QMC	99	90	
+WMC	100	100	
+RME	101	100	
+YME	102	100	
+RMD	103	110	
+BMD	104	110	
+FMB	105	120	
+GMB	106	80	
+END	109	100	
+END:
+<<Categories.txt>>
+(none)
+M
+MV,M
+MSV,MV,M
+W
+WV,W
+WSV,WV,W
+X
+XV,X
+XSV,XV,X
+UV
+YM
+YW
+YX
+I
+F
+<<TagTeams.txt>>
+TagID	TEAM	CLASS	COURSE
+
+START:
+ AAAF	1A
+ AWAH	1B
+ AAAG	2A
+ AWAJ	2B
+ AAAH	3A
+ AWAK	3B
+ AAAJ	4A
+ AWAL	4B
+ AAAK	5A
+ AWAM	5B
+ AAAL	6A
+ AWAN	6B
+ AAAM	7A
+ AXAF	7B
+ AAAN	8A
+ AXAG	8B
+ ABAF	9A
+ AXAH	9B
+ ABAG	10A
+ AXAJ	10B
+ ACAG	11A
+ AYAJ	11B
+ ACAH	12A
+ AYAK	12B
+ ACAJ	13A
+ AYAL	13B
+ ACAK	14A
+ AYAM	14B
+ ACAL	15A
+ AYAN	15B
+ ACAM	16A
+ AZAF	16B
+ ACAN	17A
+ AZAG	17B
+ ADAF	18A
+ AZAH	18B
+ ADAG	19A
+ AZAJ	19B
+ ABAH	20A
+ AXAK	20B
+ ADAH	21A
+ AZAK	21B
+ ADAJ	22A
+ AZAL	22B
+ ADAK	23A
+ AZAM	23B
+ ADAL	24A
+ AZAN	24B
+ AAAO	25A
+ ADAM	25B
+ AAAP	26A
+ ADAN	26B
+ AAAQ	27A
+ AEAF	27B
+ ABAO	28A
+ AEAG	28B
+ ABAP	29A
+ AEAH	29B
+ ABAJ	30A
+ AXAL	30B
+ ABAQ	31A
+ AEAJ	31B
+ ACAO	32A
+ AEAK	32B
+ ACAP	33A
+ AEAL	33B
+ ACAQ	34A
+ AEAM	34B
+ ADAO	35A
+ AEAN	35B
+ ADAP	36A
+ AFAF	36B
+ ADAQ	37A
+ AFAG	37B
+ AEAO	38A
+ AFAH	38B
+ AEAP	39A
+ AFAJ	39B
+ ABAK	40A
+ AXAM	40B
+ AEAQ	41A
+ AFAK	41B
+ AFAL	42A
+ AFAO	42B
+ AFAM	43A
+ AFAP	43B
+ AFAN	44A
+ AFAQ	44B
+ AGAF	45A
+ AGAO	45B
+ AGAG	46A
+ AGAP	46B
+ AGAH	47A
+ AGAQ	47B
+ AGAJ	48A
+ AHAO	48B
+ AGAK	49A
+ AHAP	49B
+ ABAL	50A
+ AXAN	50B
+ AGAL	51A
+ AHAQ	51B
+ AGAM	52A
+ AJAO	52B
+ AGAN	53A
+ AJAP	53B
+ AHAF	54A
+ AJAQ	54B
+ AHAG	55A
+ AKAO	55B
+ AHAH	56A
+ AKAP	56B
+ AHAJ	57A
+ AKAQ	57B
+ AHAK	58A
+ ALAO	58B
+ AHAL	59A
+ ALAP	59B
+ ABAM	60A
+ AYAF	60B
+ AHAM	61A
+ AMAO	61B
+ AHAN	62A
+ AMAP	62B
+ AJAF	63A
+ AMAQ	63B
+ AJAG	64A
+ ANAO	64B
+ AJAH	65A
+ ANAP	65B
+ AJAJ	66A
+ AOAO	66B
+ AJAK	67A
+ AOAP	67B
+ AJAL	68A
+ APAO	68B
+ AJAM	69A
+ APAP	69B
+ ABAN	70A
+ AYAG	70B
+ AJAN	71A
+ AQAO	71B
+ AKAF	72A
+ AQAP	72B
+ AKAG	73A
+ ARAO	73B
+ AKAH	74A
+ ARAP	74B
+ AKAJ	75A
+ ASAO	75B
+ AKAK	76A
+ ASAP	76B
+ AKAL	77A
+ ATAO	77B
+ AKAM	78A
+ ATAP	78B
+ AKAN	79A
+ AUAP	79B
+ ACAF	80A
+ AYAH	80B
+ ALAF	
+ AMAF	
+ ANAF	
+ AOAF	
+ APAF	
+ AQAF	
+ ARAF	
+ ASAF	
+ ATAF	
+ AUAF	
+ AVAF	
+ AWAF	
+ ALAG	
+ AMAG	
+ ANAG	
+ AOAG	
+ APAG	
+ AQAG	
+ ARAG	
+ ASAG	
+ ATAG	
+ AUAG	
+ AVAG	
+ AWAG	
+ ALAH	
+ AMAH	
+ ANAH	
+ AOAH	
+ APAH	
+ AQAH	
+ ARAH	
+ ASAH	
+ ATAH	
+ AUAH	
+ AVAH	
+ ALAJ	
+ AMAJ	
+ ANAJ	
+ AOAJ	
+ APAJ	
+ AQAJ	
+ ARAJ	
+ ASAJ	
+ ATAJ	
+ AUAJ	
+ AVAJ	
+ ALAK	
+ AMAK	
+ ANAK	
+ AOAK	
+ APAK	
+ AQAK	
+ ARAK	
+ ASAK	
+ ATAK	
+ AUAK	
+ AVAK	
+ ALAL	
+ AMAL	
+ ANAL	
+ AOAL	
+ APAL	
+ AQAL	
+ ARAL	
+ ASAL	
+ ATAL	
+ AUAL	
+ AVAL	
+ ALAM	
+ AMAM	
+ ANAM	
+ AOAM	
+ APAM	
+ AQAM	
+ ARAM	
+ ASAM	
+ ATAM	
+ AUAM	
+ AVAM	
+ ALAN	
+ AMAN	
+ ANAN	
+ AOAN	
+ APAN	
+ AQAN	
+ ARAN	
+ ASAN	
+ ATAN	
+ AUAN	
+ AVAN	
+ AVAO	
+ AWAO	
+ AXAO	
+ AYAO	
+ AZAO	
+ AVAP	
+ AWAP	
+ AXAP	
+ AYAP	
+ AZAP	
+ ALAT	
+ AMAT	
+ ANAT	
+ AOAT	
+ APAT	
+ AQAT	
+ ARAT	
+ ASAT	
+ ATAT	
+ AUAT	
+ AVAT	
+ AWAT	
+ AXAT	
+ AYAT	
+ AZAT	
+ AAAU	
+ ABAU	
+ ACAU	
+ ADAU	
+ AEAU	
+ AFAU	
+ AGAU	
+ AHAU	
+ AJAU	
+ AKAU	
+ ALAU	
+ AMAU	
+ ANAU	
+ AOAU	
+ APAU	
+ AQAU	
+ ARAU	
+ ASAU	
+ ATAU	
+ AUAU	
+ AVAU	
+ AWAU	
+ AXAU	
+ AYAU	
+ AZAU	
+ AACB	
+ ABCB	
+ ACCB	
+ ADCB	
+ AECB	
+ AFCB	
+ AGCB	
+ AHCB	
+ AJCB	
+ AKCB	
+ ALCB	
+ AMCB	
+ ANCB	
+ AOCB	
+ APCB	
+ AQCB	
+ ARCB	
+ ASCB	
+ ATCB	
+ AUCB	
+ AVCB	
+ AWCB	
+ AXCB	
+ AYCB	
+ AZCB	
+ AACC	
+ ABCC	
+ ACCC	
+ ADCC	
+ AECC	
+ AFCC	
+ AGCC	
+ AHCC	
+ AJCC	
+ AKCC	
+ ALCC	
+ AMCC	
+ ANCC	
+ AOCC	
+ APCC	
+ AQCC	
+ ARCC	
+ ASCC	
+ ATCC	
+ AUCC	
+ AVCC	
+ AWCC	
+ AXCC	
+ AYCC	
+ AZCC	
+ AACD	
+ ABCD	
+ ACCD	
+ ADCD	
+ AECD	
+ AFCD	
+ AGCD	
+ AHCD	
+ AJCD	
+ AKCD	
+ ALCD	
+ AMCD	
+ ANCD	
+ AOCD	
+ APCD	
+ AQCD	
+ ARCD	
+ ASCD	
+ ATCD	
+ AUCD	
+ AVCD	
+ AWCD	
+ AXCD	
+ AYCD	
+ AZCD	
+ AACE	
+ ABCE	
+ ACCE	
+ ADCE	
+ AECE	
+ AFCE	
+ AGCE	
+ AHCE	
+ AJCE	
+ AKCE	
+ ALCE	
+ AMCE	
+ ANCE	
+ AOCE	
+ APCE	
+ AQCE	
+ ARCE	
+ ASCE	
+ ATCE	
+ AUCE	
+ AVCE	
+ AWCE	
+ AXCE	
+ AYCE	
+ AZCE	
+ AACF	
+ ABCF	
+ ACCF	
+ ADCF	
+ AECF	
+ AFCF	
+ AGCF	
+ AHCF	
+ AJCF	
+ AKCF	
+ ALCF	
+ AMCF	
+ ANCF	
+ AOCF	
+ APCF	
+ AQCF	
+ ARCF	
+ ASCF	
+ ATCF	
+ AUCF	
+ AVCF	
+ AWCF	
+ AXCF	
+ AYCF	
+ AZCF	
+ AACG	
+ ABCG	
+ ACCG	
+ ADCG	
+ AECG	
+ AFCG	
+ AGCG	
+ AHCG	
+ AJCG	
+ AKCG	
+ ALCG	
+ AMCG	
+ ANCG	
+ AOCG	
+ APCG	
+ AQCG	
+ ARCG	
+ ASCG	
+ ATCG	
+ AUCG	
+ AVCG	
+ AWCG	
+ AXCG	
+ AYCG	
+ AZCG	
+ AACH	
+ ABCH	
+ ACCH	
+ ADCH	
+ AECH	
+ AFCH	
+ AGCH	
+ AHCH	
+ AJCH	
+ AKCH	
+ ALCH	
+ AMCH	
+ ANCH	
+ AOCH	
+ APCH	
+ AQCH	
+ ARCH	
+ ASCH	
+ ATCH	
+ AUCH	
+ AVCH	
+ AWCH	
+ AXCH	
+ AYCH	
+ AZCH	
+ AACJ	
+ ABCJ	
+ ACCJ	
+ ADCJ	
+ AECJ	
+ AFCJ	
+ AGCJ	
+ AHCJ	
+ AJCJ	
+ AKCJ	
+ ALCJ	
+ AMCJ	
+ ANCJ	
+ AOCJ	
+ APCJ	
+ AQCJ	
+ ARCJ	
+ ASCJ	
+ ATCJ	
+ AUCJ	
+ AVCJ	
+ AWCJ	
+ AXCJ	
+ AYCJ	
+ AZCJ	
+END:
+<<Reader_Settings.txt>>
+SCORED FILE	true	1	1
+true	false	false	true	true	true
+false	true	1
+
+true
+<<AutoTag_Options.txt>>
+Keep Existing = TRUE
+TWO optionbutton
+<<ComPort_Options.txt>>
+PORT =  4
+BAUD = 19200
+<<EasyHelp_Options.txt>>
+test2
+test3
+execase 1
+show The Course 1 Minute is set to start within a minute, and run for one minute. Its time to Course closure (Disqualification) is set to one minute also.
+show The course 5 Minutes starts in about 3 minutes, has a duration to Finish time of five minutes, and a further time to disqualification of three minutes.
+show
+show You will see that the Course Start time box flashes yellow for fifteen minutes before a Course Start Time. 
+show This warns you to give Briefing instructions, and ensure that each Tag has been punched by a BRIEF Punch.
+show 
+show When any Course starts, both its Start and Finish time boxes are coloured green.
+show After a Course Finish Time, the Finish Time box is coloured Red. It remains coloured until the Disqualification Time.
+show 
+show When you have read this, you can continue the Tutorial anytime by reading the spare Tag you have.
+show The Tutorial will step automatically through, each time you read the Tag again.
+execase 2
+tag1 ARAO
+show Team 73 first Tag. Note the Progress Bar at the bottom of the window shows half-way.
+show
+show Note that the COURSE box saying Course 15 in 23 is yellow, as long as the Tag is connected.
+show
+show Also note that the first two Punches have been dis-allowed because no BRIEF punch was used.
+show 
+show You can correct this later.
+show 
+show     Read your TAG again to continue.
+tag2 AKAG
+show Team 73 second Tag. Note progress bar full. You should get a team printout.
+show 
+show     Read your TAG again to continue.
+tag3 AFAH
+show Team 38 first Tag. Notice that the Course label Course 6Hr has a yellow background before the Tag is removed.
+show 
+show Also note that Punch 40 is part of a Group of Punches and has been replaced by the Group Master punch, 46
+show 
+show     Read your TAG again to continue.
+tag4 AEAO
+show Second Tag for team 38. Expect a printout.
+show 
+show     Read your TAG again to continue.
+tag5 AAAM
+show Team 7 first Tag.
+show 
+show     Read your TAG again to continue.
+tag6 AXAF
+show Team 7 second tag. Expect a team Printout.
+show 
+show     Read your TAG again to continue.
+tag7 ARAT
+show   Team 137 has not been given a Course, so it scores in the default Course 0.
+show 
+show     Keep reading a TAG to continue scoring the event.
+tag8 ASAT
+show Team 137 printout. Ignore the fact that the Progress Bar is not full.
+show 
+show     Keep reading a TAG to continue scoring the event.
+tag9 AFAG
+show   Read the next Tag
+tag10 ADAQ
+show   Team 37 printout
+tag11 AEAN
+show   Read the next Tag
+tag12 ADAO
+show   Get a printout for Team 35
+
+show 
+show 
+show Next, you will try re-scoring Team 35 to allow the Punch 43 used after the Start, but cancelled because no BRIEF Punch had been used.
+show 
+show    Remove the Tag, then
+show    Click NEXT to continue
+execase 5
+test 
+show Click the yellow HERE for COMPLAINTS Button.
+show 
+show Ignore a warning message about not all Tags scored.
+show 
+show Then click   BRIEF Punch in the white box which appears.
+show 
+show Now, you must re-insert the Tag which needs correcting, to select the correct scored record.
+show 
+show In this Tutorial, use the Tag you have been using all along.
+show 
+show When you remove the Tag, the Window which allows changing the BRIEF line appears.
+execase 2
+tag9 AFAG
+show Remove the Tag
+show 
+show When removed, click the Brief from Line 1 button, or use the scroll buttons beside it to select the Brief line you want to allow.
+show In this case, it will be Line 1.
+show Note that although the 30 points for punch 32 are shown, the final score has not altered because the other Tag in the team has not scored Punch 32.
+show 
+show When the score window looks correct, click the SAVE Button to register the change.
+show Click NEXT when you have allowed a Manual BRIEF and SAVED it.
+execase 5
+test
+show  Now read the other Tag for team 35, because it needs changing too. 
+show Just use the same Tag as before, in the Tutorial. 
+show 
+show   Read it now.
+tag10 ADAQ
+show Accept the BRIEF from line 1 as before, click SAVE as before, and now click PRINT.
+show 
+show 
+show When finished, click the yellow Button "Click HERE to Resume NORMAL scoring."
+show 
+show Then you can resume scoring as usual,by reading the next Tag.
+execase 2
+tag13 AZAF
+show   Read the next Tag
+tag14 ACAM
+show   Get a printout for Team 16
+show  
+show   Read the next Tag
+tag15 AWAT
+show  Remember, if you have a complaint, click the yellow Complaints Button, select what you want to fix, then re-read the Tag.
+show  
+show   Make the alteration, SAVE it, then click the Resume NORMAL scoring button.
+show   
+show   Read the next Tag
+tag16 AVAT
+show   Get a printout for Team 139
+show  
+show   Read the next Tag
+tag17 AEAK
+show   Read the next Tag
+tag18 ACAO
+show   Get a printout for Team 32
+show 
+show   Ten more teams to complete the scoring for Course 6Hr.
+tag19 AZAG
+show   Read the next Tag
+tag20 ACAN
+show   Get a printout for Team 17
+show  
+show   Read the next Tag
+tag21 AYAT
+show    Boring, isn't it?
+show  
+show   Read the next Tag
+tag22 AXAT
+show   Get a printout for Team 140
+show  
+show   Read the next Tag
+tag23 AEAH
+show 
+show 
+show 
+show   If you haven't got a Printer connected, you will be building up a big list in your print-queue.
+show 
+show You can use Control Panel - Printers - to select the printer, then open it and delete the documents waiting to print.
+show  
+show   Read the next Tag
+tag24 ABAP
+show   Get a printout for Team 29
+show  
+show   Then Read the next Tag
+tag25 APAO
+show  
+show   Read the next Tag
+tag26 AJAL
+show   Get a printout for Team 68
+show  
+show   Read the next Tag
+tag27 AFAF
+show  
+show   Read the next Tag
+tag28 ADAP
+show   Get a printout for Team 36
+show 
+show   Five more teams to go to complete the scoring for Course 6Hr.
+tag29 AKAQ
+show  
+show   Read the next Tag
+tag30 AHAJ
+show   Get a printout for Team 57
+show  
+show   Read the next Tag
+tag31 AUAT
+show   Read the next Tag
+tag32 ATAT
+show   Get a printout for Team 138
+show  
+show   Read the next Tag
+tag33 ACAK
+show  
+show   Read the next Tag
+tag34 AYAM
+show   Get a printout for Team 14
+show  
+show   Read the next Tag
+tag35 AXAL
+show 
+show 
+show Team 30 has a late penalty of 30 points for one Tag, and 40 for the other.
+show 
+show At the end of this Tutorial you can have unlimited practice at re-scoring, altering, and correcting a Score.
+show 
+show The Tag you can practice on is the next one from this Team.
+show 
+show But wait until the end of the Tutorial.
+tag36 ABAJ
+show   Get a printout for Team 30
+show  
+show   Read the next Tag
+tag37 AZAM
+show  
+show   Read the next Tag
+tag38 ADAK
+show This is the last Tag from Course 6 Hr. You can now print the results of that Course.
+show 
+show If you wish to do this now, double-click the Course label showing Course 6Hr.
+show 
+show 
+show 
+show 
+show    If you want to continue scoring the 15 in 23 course, continue reading Tags.
+tag39 AMAP
+show  
+show   Read the next Tag
+tag40 AHAN
+show Continuing to score Course 15in23
+show  
+show   Read the next Tag
+tag41 APAP
+show  
+show   Read the next Tag
+tag42 AJAM
+show      Printout
+show  
+show   Read the next Tag
+tag43 ATAO
+show  
+show   Read the next Tag
+tag44 AKAL
+show                 Printout
+show  
+show   Read the next Tag
+tag45 AHAO
+show  
+show   Read the next Tag
+tag46 AGAJ
+show printout
+show  
+show   Read the next Tag
+tag47 AQAO
+show  
+show   Read the next Tag
+tag48 AJAN
+show      Printout
+show  Twelve more Teams to score.
+show 
+show If you are getting bored, QUIT the tutorial.
+show  
+show   Read the next Tag
+tag49 AJAP
+show  
+show   Read the next Tag
+tag50 AGAN
+show                     Printout
+show  
+show   Read the next Tag
+tag51 AFAP
+show  
+show   Read the next Tag
+tag52 AFAM
+show          Printout
+show  
+show   Read the next Tag
+tag53 AUAP
+show  
+show   Read the next Tag
+tag54 AKAN
+show    Printout
+show  
+show   Read the next Tag
+tag55 ATAP
+show  
+show   Read the next Tag
+tag56 AKAM
+show              Printout
+show  
+show   Read the next Tag
+tag57 ANAO
+show  
+show   Read the next Tag
+tag58 AJAG
+show         Printout
+show  
+show   Read the next Tag
+tag59 AZAH
+show  
+show   Read the next Tag
+tag60 ADAF
+show                  Printout
+show  
+show   Read the next Tag
+tag61 AXAH
+show  
+show   Read the next Tag
+tag62 ABAF
+show   Printout
+tag63 AGAO
+show  
+show   Read the next Tag
+tag64 AGAF
+show         Printout
+tshow  
+show   Read the next Tag
+tag65 AXAM
+show  
+show   Read the next Tag
+tag66 ABAK
+show    Printout team 40
+show  
+show   Read the next Tag
+tag67 AGAQ
+show  
+show   Read the next Tag
+tag68 AGAH
+show        Printout
+show  
+show   Read the next Tag
+tag69 AXAN
+show  
+show   Read the next Tag
+tag70 ABAL
+show  Final Tags for Course 15 in 23. You can double-click the Course box to get the results.
+show 
+show  From now on, the same Tag will be read as long as you stay in the Tutorial.
+show 
+show You can use it to experiment with COMPLAINTS about finish times, manual scores, missing Punches etc.
+show 
+show Click the COMPLAINTS Button, then read the Tag, then remove it and follow your nose.
+show 
+show QUIT the Tutorial when you have had enough.
+show  
+show   Read the next Tag
+tag36 ABAJ
+show 
+show Choose one of the four Options, then read, then remove the Tag.
+show 
+show You can then experiment with the adjustments.
+execase 6
+exit
+
+
+
+<<NamesOptions.txt>>
+0
+3
+4
+
+C:\Users\DataLog\Simulator\TeamData\SpreadSheet.txt
+CatColumn= 9,CourseColumn= 8,WithNames=TRUE
+<<Punch_Options.txt>>
+5/01/2008 11:00:00 AM
+1 = Acceptable Clock tolerance in Seconds.
+1.20   Volts  Lowest Battery Limit.
+110	FLASH options
+Course 0 =
+Course 1 =
+Course 2 =
+Course 3 =
+Course 4 =
+Course 5 =
+Course 6 =
+Course 7 =
+Course 8 =
+Course 9 =
+Course A =
+Course B =
+Course C =
+Course D =
+Course E =
+Course F =
+Timeshift=0
+<<TagReader_Options.txt>>
+A4	Portrait	64	Times New Roman	11
+Course #		5/01/2008 12:30:00 PM	6/01/2008 12:30:00 PM	10	30	False	 24:00:00	10	Slowest Tag
+Course #	6Hr	5/01/2008 3:00:00 PM	5/01/2008 9:00:00 PM	10	30	False	 24:00:00	10	Slowest Tag
+Course #	15in23	5/01/2008 1:00:00 PM	6/01/2008 12:00:00 PM	10	30	True	 15:00:00	10	Slowest Tag
+@@RawTags@@
+<<137____ ARAT.raw>>
+Team No. 137	Tag ID = ARAT   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check10657731
+ XMC 0582 13:11:44
+ ZMC 0000 03:15:34
+ JMB 0000 03:42:09
+ HME 0000 04:28:08
+ QME 0000 05:13:34
+ UME 0000 05:56:56
+ KMB 0000 06:28:30
+ HMC 0000 07:15:07
+ YMB 0000 08:08:36
+ QMC 0000 08:25:51
+ QMD 0000 08:55:25
+END
+
+<<137____ ASAT.raw>>
+Team No. 137	Tag ID = ASAT   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check68722387
+ XMC 0582 13:13:12
+ ZMC 0000 03:14:23
+ JMB 0000 03:40:28
+ HME 0000 04:27:36
+ QME 0000 05:14:47
+ UME 0000 05:54:18
+ KMB 0000 06:29:15
+ HMC 0000 07:15:05
+ YMB 0000 08:07:51
+ QMC 0000 08:26:48
+ QMD 0000 08:57:02
+END
+
+<<138____ ATAT.raw>>
+Team No. 138	Tag ID = ATAT   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check11218391
+ EMB 0000 03:47:21
+ VMC 0000 04:23:41
+ SMB 0000 04:50:16
+ OMC 0000 05:36:15
+ QME 0000 06:21:41
+ EMD 0000 07:05:03
+ HMC 0000 07:36:37
+ QMC 0000 08:23:14
+ YMB 0000 09:16:43
+ WMC 0000 09:33:58
+ HMC 0000 09:57:23
+END
+
+<<138____ AUAT.raw>>
+Team No. 138	Tag ID = AUAT   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check61329168
+ EMB 0000 03:44:50
+ VMC 0000 04:24:40
+ SMB 0000 04:49:48
+ OMC 0000 05:37:21
+ QME 0000 06:21:58
+ EMD 0000 07:07:43
+ HMC 0000 07:37:11
+ QMC 0000 08:22:31
+ YMB 0000 09:15:07
+ WMC 0000 09:33:20
+ HMC 0000 09:59:43
+END
+
+<<139____ AVAT.raw>>
+Team No. 139	Tag ID = AVAT   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check65294018
+ CMF 0776 13:34:00
+ ZMC 0000 04:10:41
+ TMB 0000 04:37:16
+ NMC 0000 05:23:15
+ QME 0000 06:08:41
+ FMC 0000 06:52:03
+ AME 0000 07:23:37
+ CMB 0000 08:10:14
+ XMB 0000 09:03:43
+ QMD 0000 09:20:58
+END
+
+<<139____ AWAT.raw>>
+Team No. 139	Tag ID = AWAT   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check13682708
+ CMF 0776 13:35:58
+ ZMC 0000 04:08:23
+ TMB 0000 04:39:55
+ NMC 0000 05:25:00
+ QME 0000 06:11:23
+ FMC 0000 06:52:01
+ AME 0000 07:22:12
+ CMB 0000 08:10:41
+ XMB 0000 09:05:02
+ QMD 0000 09:21:38
+END
+
+<<140____ AXAT.raw>>
+Team No. 140	Tag ID = AXAT   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check61039854
+ PME 0000 03:51:28
+ ZMC 0000 04:27:48
+ JMB 0000 04:54:23
+ VMD 0000 05:40:22
+ QME 0000 06:25:48
+ UME 0000 07:09:10
+ KMB 0000 07:40:44
+ VMB 0000 08:27:21
+ LMD 0000 09:20:50
+ HMC 0000 09:38:05
+END
+
+<<140____ AYAT.raw>>
+Team No. 140	Tag ID = AYAT   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check16457836
+ PME 0000 03:51:28
+ ZMC 0000 04:26:36
+ JMB 0000 04:54:30
+ VMD 0000 05:37:27
+ QME 0000 06:27:05
+ UME 0000 07:09:34
+ KMB 0000 07:43:01
+ VMB 0000 08:30:06
+ LMD 0000 09:18:38
+ HMC 0000 09:35:55
+END
+
+<<14_____ ACAK.raw>>
+Team No. 14	Tag ID = ACAK   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check16341318
+ EMB 0000 03:47:21
+ VMC 0000 04:23:41
+ SMB 0000 04:50:16
+ OMC 0000 05:36:15
+ QME 0000 06:21:41
+ EMD 0000 07:05:03
+ HMC 0000 07:36:37
+ QMC 0000 08:23:14
+ YMB 0000 09:16:43
+ WMC 0000 09:33:58
+ HMC 0000 09:57:23
+END
+
+<<14_____ AYAM.raw>>
+Team No. 14	Tag ID = AYAM   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check69163147
+ EMB 0000 03:46:51
+ VMC 0000 04:22:56
+ SMB 0000 04:52:04
+ OMC 0000 05:33:55
+ QME 0000 06:23:12
+ EMD 0000 07:04:14
+ HMC 0000 07:36:58
+ QMC 0000 08:22:00
+ YMB 0000 09:14:38
+ WMC 0000 09:31:11
+ HMC 0000 10:00:59
+END
+
+<<16_____ ACAM.raw>>
+Team No. 16	Tag ID = ACAM   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check61053046
+ CMF 0776 13:34:21
+ ZMC 0000 04:10:41
+ TMB 0000 04:37:16
+ NMC 0000 05:23:15
+ QME 0000 06:08:41
+ FMC 0000 06:52:03
+ AME 0000 07:23:37
+ CMB 0000 08:10:14
+ XMB 0000 09:03:43
+ QMD 0000 09:20:58
+END
+
+<<16_____ AZAF.raw>>
+Team No. 16	Tag ID = AZAF   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check66838685
+ CMF 0776 13:33:08
+ ZMC 0000 04:09:59
+ TMB 0000 04:38:02
+ NMC 0000 05:23:06
+ QME 0000 06:06:10
+ FMC 0000 06:53:06
+ AME 0000 07:24:20
+ CMB 0000 08:10:29
+ XMB 0000 09:06:27
+ QMD 0000 09:19:37
+END
+
+<<17_____ ACAN.raw>>
+Team No. 17	Tag ID = ACAN   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check69137796
+ PME 0000 03:51:28
+ ZMC 0000 04:27:48
+ JMB 0000 04:54:23
+ VMD 0000 05:40:22
+ QME 0000 06:25:48
+ UME 0000 07:09:10
+ KMB 0000 07:40:44
+ VMB 0000 08:27:21
+ LMD 0000 09:20:50
+ HMC 0000 09:38:05
+END
+
+<<17_____ AZAG.raw>>
+Team No. 17	Tag ID = AZAG   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check12575791
+ PME 0000 03:49:18
+ ZMC 0000 04:27:18
+ JMB 0000 04:53:38
+ VMD 0000 05:42:10
+ QME 0000 06:23:28
+ UME 0000 07:10:41
+ KMB 0000 07:39:55
+ VMB 0000 08:27:42
+ LMD 0000 09:19:36
+ HMC 0000 09:36:00
+END
+
+<<18_____ ADAF.raw>>
+Team No. 18	Tag ID = ADAF   Tags=0030		ReferenceTime=5/01/2008 11:00:00 AM	Check62224252
+ EMB 0776 17:15:00
+ ZME 0000 00:25:32
+ DMD 0000 00:47:54
+ FMB 0000 01:21:34
+ XMD 0000 01:54:37
+ GME 0000 02:16:43
+ KME 0000 02:37:10
+ CMC 0000 03:04:27
+ RME 0000 03:47:27
+ WMB 0000 04:15:08
+ ZMC 0002 21:24:56
+ XMB 0000 05:06:10
+ DMC 0000 05:26:10
+ MMC 0000 06:02:27
+ BMD 0000 06:28:15
+ MMD 0000 08:50:47
+ NMD 0000 09:45:52
+ GMD 0000 10:32:04
+ OME 0000 11:00:42
+ PMD 0000 11:42:07
+ OMD 0000 12:10:38
+ QMD 0000 12:42:46
+ FME 0000 20:26:50
+ AMC 0000 20:53:09
+ UMC 0000 21:14:34
+ YMD 0000 21:38:17
+ TMD 0000 22:04:32
+ EMC 0000 22:57:30
+ JME 0000 23:30:29
+ QMD 0000 23:52:16
+END
+
+<<18_____ AZAH.raw>>
+Team No. 18	Tag ID = AZAH   Tags=0030		ReferenceTime=5/01/2008 11:00:00 AM	Check26892509
+ EMB 0776 17:15:00
+ ZME 0000 00:25:43
+ DMD 0000 00:48:17
+ FMB 0000 01:22:09
+ XMD 0000 01:54:28
+ GME 0000 02:16:54
+ KME 0000 02:37:32
+ CMC 0000 03:05:03
+ RME 0000 03:48:55
+ WMB 0000 04:14:56
+ ZMC 0002 21:25:56
+ XMB 0000 05:06:15
+ DMC 0000 05:26:36
+ MMC 0000 06:02:48
+ BMD 0000 06:29:11
+ MMD 0000 08:50:25
+ NMD 0000 09:45:44
+ GMD 0000 10:32:14
+ OME 0000 11:01:28
+ PMD 0000 11:43:39
+ OMD 0000 12:09:52
+ QMD 0000 12:42:43
+ YMC 0000 19:58:01
+ FME 0000 20:27:14
+ AMC 0000 20:52:48
+ UMC 0000 21:14:48
+ YMD 0000 21:38:08
+ TMD 0000 22:03:42
+ EMC 0000 22:57:16
+ JME 0000 23:30:45
+END
+
+<<23_____ ADAK.raw>>
+Team No. 23	Tag ID = ADAK   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check14070877
+ EMB 0000 03:47:21
+ BMD 0000 04:16:55
+ CMC 0000 05:02:36
+ HMB 0000 05:41:18
+ PMC 0000 06:08:14
+ DMC 0000 06:49:09
+ EMC 0000 07:15:19
+ UME 0000 08:03:18
+ SMB 0000 08:57:45
+ WMC 0000 09:21:49
+ HMC 0000 10:16:01
+END
+
+<<23_____ AZAM.raw>>
+Team No. 23	Tag ID = AZAM   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check14663657
+ EMB 0000 03:44:34
+ BMD 0000 04:14:22
+ CMC 0000 05:04:14
+ HMB 0000 05:42:21
+ PMC 0000 06:05:40
+ DMC 0000 06:49:32
+ EMC 0000 07:15:04
+ UME 0000 08:02:16
+ SMB 0000 08:56:12
+ WMC 0000 09:21:33
+ HMC 0000 10:16:34
+END
+
+<<29_____ ABAP.raw>>
+Team No. 29	Tag ID = ABAP   Tags=0012		ReferenceTime=5/01/2008 11:00:00 AM	Check67736882
+ EMB 0000 03:34:42
+ MMC 0000 04:11:02
+ QME 0000 04:38:07
+ ZMC 0000 05:23:33
+ VMB 0000 05:40:22
+ FMB 0000 06:26:59
+ RMD 0000 07:16:50
+ WMB 0000 07:46:24
+ PMC 0000 08:03:32
+ BMF 0000 08:30:28
+ UME 0000 08:56:01
+ HMC 0000 09:44:00
+END
+
+<<29_____ AEAH.raw>>
+Team No. 29	Tag ID = AEAH   Tags=0012		ReferenceTime=5/01/2008 11:00:00 AM	Check12686828
+ EMB 0000 03:35:09
+ MMC 0000 04:13:19
+ QME 0000 04:40:22
+ ZMC 0000 05:22:01
+ VMB 0000 05:42:22
+ FMB 0000 06:26:29
+ RMD 0000 07:14:45
+ WMB 0000 07:48:15
+ PMC 0000 08:06:23
+ BMF 0000 08:32:31
+ UME 0000 08:54:57
+ HMC 0000 09:44:05
+END
+
+<<30_____ ABAJ.raw>>
+Team No. 30	Tag ID = ABAJ   Tags=0013		ReferenceTime=5/01/2008 11:00:00 AM	Check14763741
+ CMF 0000 03:56:21
+ JMD 0000 04:47:47
+ NMD 0000 05:41:59
+ DMC 0000 06:01:14
+ SMD 0000 06:16:52
+ YMD 0000 06:35:59
+ XMB 0000 06:52:49
+ END 0000 07:19:51
+ BME 0000 07:50:54
+ TME 0000 08:12:25
+ QMB 0000 08:43:56
+ KMD 0000 09:24:16
+ QMD 0000 10:02:36
+END
+
+<<30_____ AXAL.raw>>
+Team No. 30	Tag ID = AXAL   Tags=0013		ReferenceTime=5/01/2008 11:00:00 AM	Check67627668
+ CMF 0000 03:58:16
+ JMD 0000 04:46:12
+ NMD 0000 05:42:43
+ DMC 0000 06:03:42
+ SMD 0000 06:17:43
+ YMD 0000 06:34:31
+ XMB 0000 06:55:45
+ END 0000 07:19:09
+ BME 0000 07:51:57
+ TME 0000 08:13:12
+ QMB 0000 08:44:21
+ KMD 0000 09:25:05
+ QMD 0000 10:03:11
+END
+
+<<32_____ ACAO.raw>>
+Team No. 32	Tag ID = ACAO   Tags=0010		ReferenceTime=5/01/2008 11:00:00 AM	Check68062455
+ EMB 0000 03:56:23
+ BMC 0000 04:47:37
+ YME 0000 05:17:46
+ TME 0000 05:58:02
+ JMD 0000 06:16:57
+ QME 0000 07:08:30
+ UMC 0000 07:45:14
+ NMB 0000 08:27:21
+ NME 0000 09:00:52
+ QMD 0000 09:26:39
+END
+
+<<32_____ AEAK.raw>>
+Team No. 32	Tag ID = AEAK   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check67447708
+ EMB 0000 03:57:25
+ BMC 0000 04:45:51
+ YME 0000 05:16:02
+ TME 0000 05:55:19
+ JMD 0000 06:18:34
+ QME 0000 07:11:12
+ UMC 0000 07:48:04
+ NMB 0000 08:25:01
+ NME 0000 09:03:13
+ QMD 0000 09:26:59
+ MMD 0000 10:21:31
+END
+
+<<35_____ ADAO.raw>>
+Team No. 35	Tag ID = ADAO   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check12362333
+ YMD 0000 04:17:33
+ XME 0000 04:42:40
+ TMB 0000 05:22:00
+ WMC 0000 05:53:48
+ GME 0000 06:38:14
+ TME 0000 06:59:07
+ JMC 0000 07:43:41
+ FMD 0000 07:56:58
+ SMD 0000 08:14:27
+ BMF 0000 08:29:55
+ HMC 0000 09:05:48
+END
+
+<<35_____ AEAN.raw>>
+Team No. 35	Tag ID = AEAN   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check69323984
+ YMD 0000 04:15:34
+ XME 0000 04:45:10
+ TMB 0000 05:19:09
+ WMC 0000 05:55:50
+ GME 0000 06:37:01
+ TME 0000 06:56:19
+ JMC 0000 07:41:28
+ FMD 0000 07:57:13
+ SMD 0000 08:16:26
+ BMF 0000 08:31:27
+ HMC 0000 09:08:13
+END
+
+<<36_____ ADAP.raw>>
+Team No. 36	Tag ID = ADAP   Tags=0012		ReferenceTime=5/01/2008 11:00:00 AM	Check68859370
+ CMF 0000 03:32:56
+ DMD 0000 03:55:37
+ ZMC 0000 04:24:54
+ KMB 0000 05:17:03
+ NMD 0000 06:02:22
+ XMB 0000 06:37:03
+ KMD 0000 06:55:52
+ CMC 0000 07:47:58
+ BMC 0000 08:13:53
+ EMC 0000 08:39:48
+ JME 0000 08:58:24
+ HMC 0000 09:45:00
+END
+
+<<36_____ AFAF.raw>>
+Team No. 36	Tag ID = AFAF   Tags=0012		ReferenceTime=5/01/2008 11:00:00 AM	Check66816210
+ CMF 0000 03:34:03
+ DMD 0000 03:53:27
+ ZMC 0000 04:23:05
+ KMB 0000 05:15:25
+ NMD 0000 06:04:28
+ XMB 0000 06:36:48
+ KMD 0000 06:53:58
+ CMC 0000 07:45:08
+ BMC 0000 08:12:36
+ EMC 0000 08:39:27
+ JME 0000 08:56:12
+ HMC 0000 09:47:48
+END
+
+<<37_____ ADAQ.raw>>
+Team No. 37	Tag ID = ADAQ   Tags=0008		ReferenceTime=5/01/2008 11:00:00 AM	Check11637894
+ ZMD 0000 04:13:56
+ JMB 0000 04:57:09
+ WMB 0000 05:23:44
+ FMC 0000 05:39:18
+ TME 0000 06:22:40
+ JME 0000 07:12:10
+ FMD 0000 08:05:39
+ HMC 0000 08:58:38
+END
+
+<<37_____ AFAG.raw>>
+Team No. 37	Tag ID = AFAG   Tags=0008		ReferenceTime=5/01/2008 11:00:00 AM	Check15970925
+ ZMD 0000 04:11:53
+ JMB 0000 04:56:13
+ WMB 0000 05:21:09
+ FMC 0000 05:40:38
+ TME 0000 06:25:23
+ JME 0000 07:14:27
+ FMD 0000 08:06:07
+ HMC 0000 08:59:38
+END
+
+<<38_____ AEAO.raw>>
+Team No. 38	Tag ID = AEAO   Tags=0008		ReferenceTime=5/01/2008 11:00:00 AM	Check11686190
+ EMB 0000 03:40:51
+ GMD 0000 04:26:32
+ BMF 0000 05:00:17
+ EMC 0000 05:41:12
+ SMB 0000 06:29:24
+ TMC 0000 07:23:51
+ KMC 0000 08:06:39
+ QMD 0000 08:43:00
+END
+
+<<38_____ AFAH.raw>>
+Team No. 38	Tag ID = AFAH   Tags=0008		ReferenceTime=5/01/2008 11:00:00 AM	Check66233688
+ EMB 0000 03:43:48
+ GMD 0000 04:27:50
+ BMF 0000 04:59:17
+ EMC 0000 05:40:31
+ SMB 0000 06:31:56
+ TMC 0000 07:26:41
+ KMC 0000 08:07:08
+ QMD 0000 08:40:58
+END
+
+<<40_____ ABAK.raw>>
+Team No. 40	Tag ID = ABAK   Tags=0029		ReferenceTime=5/01/2008 11:00:00 AM	Check68711386
+ EMB 0000 01:53:45
+ TMB 0000 02:39:21
+ BMC 0000 02:59:23
+ HME 0000 03:23:49
+ BMD 0000 03:52:58
+ MMC 0000 04:49:35
+ DMC 0000 05:10:22
+ HMD 0000 05:41:49
+ GMC 0000 06:14:52
+ HMB 0000 06:32:04
+ KMC 0000 07:05:41
+ XMB 0000 07:52:20
+ BMF 0000 08:45:29
+ UMB 0000 09:17:03
+ RMB 0000 09:57:15
+ RME 0000 10:13:21
+ DMD 0000 10:45:53
+ LMD 0000 11:22:07
+ EME 0000 11:51:17
+ FMD 0000 12:12:59
+ CMC 0000 12:47:27
+ OMB 0000 13:05:00
+ BME 0000 13:49:43
+ SME 0000 13:50:19
+ HMC 0000 13:59:02
+ YMB 0000 22:03:35
+ MMB 0000 22:47:40
+ MME 0000 23:33:16
+ HMC 0001 01:10:50
+END
+
+<<40_____ AXAM.raw>>
+Team No. 40	Tag ID = AXAM   Tags=0029		ReferenceTime=5/01/2008 11:00:00 AM	Check62967063
+ EMB 0000 01:54:58
+ TMB 0000 02:40:03
+ BMC 0000 02:58:37
+ HME 0000 03:23:58
+ BMD 0000 03:55:29
+ MMC 0000 04:48:32
+ DMC 0000 05:09:39
+ HMD 0000 05:41:34
+ GMC 0000 06:12:08
+ HMB 0000 06:33:25
+ KMC 0000 07:07:51
+ XMB 0000 07:52:50
+ BMF 0000 08:46:14
+ UMB 0000 09:15:15
+ RMB 0000 09:59:35
+ RME 0000 10:11:50
+ DMD 0000 10:46:42
+ LMD 0000 11:21:46
+ EME 0000 11:52:31
+ FMD 0000 12:15:04
+ CMC 0000 12:50:14
+ OMB 0000 13:07:33
+ BME 0000 13:48:05
+ SME 0000 13:42:16
+ HMC 0000 14:01:36
+ YMB 0000 22:03:12
+ MMB 0000 22:47:55
+ MME 0000 23:34:18
+ HMC 0001 01:12:23
+END
+
+<<43_____ AFAM.raw>>
+Team No. 43	Tag ID = AFAM   Tags=0031		ReferenceTime=5/01/2008 11:00:00 AM	Check65924602
+ CMF 0000 01:43:19
+ JMB 0000 02:03:27
+ UME 0000 02:44:44
+ HMD 0000 03:03:01
+ BME 0000 03:36:11
+ UMB 0000 04:19:22
+ NME 0000 04:37:57
+ MME 0000 05:11:25
+ BMF 0000 05:39:36
+ HMC 0000 06:01:24
+ YMB 0000 10:04:09
+ ZMC 0000 10:49:11
+ EME 0000 11:14:27
+ VMD 0000 11:42:22
+ KMC 0000 12:06:47
+ CME 0000 12:35:24
+ DMC 0000 12:58:38
+ XMB 0000 13:43:50
+ DME 0000 14:20:33
+ SMD 0000 14:51:57
+ GME 0000 15:43:53
+ HMC 0000 16:04:51
+ YMB 0000 19:59:36
+ RMD 0000 20:28:25
+ QMC 0000 21:04:57
+ BMC 0000 21:53:00
+ CMC 0000 22:47:52
+ ZMD 0000 23:19:23
+ CMB 0000 23:51:18
+ TMD 0001 01:27:56
+ VMC 0001 02:07:42
+END
+
+<<43_____ AFAP.raw>>
+Team No. 43	Tag ID = AFAP   Tags=0031		ReferenceTime=5/01/2008 11:00:00 AM	Check67611163
+ CMF 0000 01:44:09
+ JMB 0000 02:02:31
+ UME 0000 02:41:58
+ HMD 0000 03:05:37
+ BME 0000 03:35:53
+ UMB 0000 04:16:38
+ NME 0000 04:39:18
+ MME 0000 05:12:36
+ BMF 0000 05:36:40
+ HMC 0000 05:59:19
+ YMB 0000 10:06:51
+ ZMC 0000 10:47:37
+ EME 0000 11:12:16
+ VMD 0000 11:44:55
+ KMC 0000 12:08:41
+ CME 0000 12:33:22
+ DMC 0000 13:00:42
+ XMB 0000 13:46:30
+ DME 0000 14:22:51
+ SMD 0000 14:52:52
+ GME 0000 15:46:02
+ HMC 0000 16:05:36
+ YMB 0000 20:00:34
+ RMD 0000 20:31:18
+ QMC 0000 21:02:33
+ BMC 0000 21:54:14
+ CMC 0000 22:45:31
+ ZMD 0000 23:22:17
+ CMB 0000 23:49:29
+ TMD 0001 01:29:29
+ VMC 0001 02:05:36
+END
+
+<<45_____ AGAF.raw>>
+Team No. 45	Tag ID = AGAF   Tags=0028		ReferenceTime=5/01/2008 11:00:00 AM	Check63925340
+ DMB 0000 23:34:19
+ EMB 0000 01:58:42
+ NMC 0000 02:25:17
+ EMD 0000 02:40:51
+ XMD 0000 03:24:13
+ JME 0000 04:13:43
+ EME 0000 05:07:12
+ UMB 0000 06:00:11
+ BMF 0000 06:45:52
+ HMD 0000 07:19:37
+ KMC 0000 08:00:32
+ GMD 0000 08:48:44
+ GMC 0000 09:43:11
+ HMC 0000 10:25:59
+ YMB 0000 18:02:20
+ JMD 0000 18:44:23
+ CMB 0000 19:03:23
+ OMC 0000 19:29:46
+ GMB 0000 20:00:03
+ MME 0000 20:54:15
+ DME 0000 21:15:40
+ BMC 0000 21:47:04
+ BME 0000 22:15:07
+ FMD 0000 22:37:33
+ TMC 0000 23:10:52
+ XMB 0000 23:57:17
+ VMC 0001 00:49:04
+ HMC 0001 01:03:59
+END
+
+<<45_____ AGAO.raw>>
+Team No. 45	Tag ID = AGAO   Tags=0028		ReferenceTime=5/01/2008 11:00:00 AM	Check65989239
+ DMB 0000 23:33:06
+ EMB 0000 01:58:00
+ NMC 0000 02:26:03
+ EMD 0000 02:40:42
+ XMD 0000 03:21:42
+ JME 0000 04:14:46
+ EME 0000 05:07:55
+ UMB 0000 06:00:26
+ BMF 0000 06:48:36
+ HMD 0000 07:18:16
+ KMC 0000 07:58:22
+ GMD 0000 08:48:14
+ GMC 0000 09:42:26
+ HMC 0000 10:27:47
+ YMB 0000 18:00:00
+ JMD 0000 18:45:54
+ CMB 0000 19:02:34
+ OMC 0000 19:30:07
+ GMB 0000 19:58:49
+ MME 0000 20:52:10
+ DME 0000 21:12:53
+ BMC 0000 21:44:31
+ BME 0000 22:16:45
+ FMD 0000 22:38:36
+ TMC 0000 23:08:18
+ XMB 0000 23:57:40
+ VMC 0001 00:48:49
+ HMC 0001 01:06:57
+END
+
+<<47_____ AGAH.raw>>
+Team No. 47	Tag ID = AGAH   Tags=0032		ReferenceTime=5/01/2008 11:00:00 AM	Check63727622
+ CMF 0000 01:31:23
+ CMF 0000 01:54:05
+ ZMC 0000 02:43:13
+ PMC 0000 03:18:12
+ MME 0000 03:46:49
+ END 0000 04:01:29
+ HME 0000 04:21:37
+ TMD 0000 04:54:42
+ SMB 0000 05:23:23
+ HMD 0000 05:44:03
+ AME 0000 06:18:28
+ FMC 0000 07:06:16
+ QME 0000 07:43:51
+ SMD 0000 08:09:29
+ WMD 0000 08:33:24
+ BMF 0000 09:09:33
+ VME 0000 09:59:45
+ XMB 0000 10:43:35
+ BMD 0000 11:03:13
+ EMD 0000 11:39:18
+ UMB 0000 12:08:15
+ XME 0000 12:34:54
+ RMD 0000 13:13:52
+ KMC 0000 13:33:14
+ YMD 0000 14:21:19
+ HMB 0000 15:01:47
+ CMB 0000 15:20:51
+ JMB 0000 15:45:20
+ HMC 0000 16:11:24
+ YMB 0001 00:45:58
+ FMB 0001 00:56:17
+ HMC 0001 01:14:46
+END
+
+<<47_____ AGAQ.raw>>
+Team No. 47	Tag ID = AGAQ   Tags=0032		ReferenceTime=5/01/2008 11:00:00 AM	Check10338454
+ CMF 0000 01:32:48
+ CMF 0000  1:51:12
+ ZMC 0000 02:42:51
+ PMC 0000 03:17:57
+ MME 0000 03:47:05
+ END 0000 04:04:18
+ HME 0000 04:21:44
+ TMD 0000 04:56:20
+ SMB 0000 05:21:37
+ HMD 0000 05:42:52
+ AME 0000 06:18:07
+ FMC 0000 07:04:29
+ QME 0000 07:43:20
+ SMD 0000 08:06:45
+ WMD 0000 08:35:01
+ BMF 0000 09:11:29
+ VME 0000 09:59:35
+ XMB 0000 10:41:44
+ BMD 0000 11:02:44
+ EMD 0000 11:38:57
+ UMB 0000 12:10:01
+ XME 0000 12:33:19
+ RMD 0000 13:11:55
+ KMC 0000 13:30:50
+ YMD 0000 14:20:44
+ HMB 0000 15:02:41
+ CMB 0000 15:18:55
+ JMB 0000 15:45:48
+ HMC 0000 16:10:59
+ YMB 0001 00:45:17
+ FMB 0001 00:55:50
+ HMC 0001 01:17:03
+END
+
+<<48_____ AGAJ.raw>>
+Team No. 48	Tag ID = AGAJ   Tags=0029		ReferenceTime=5/01/2008 11:00:00 AM	Check14062921
+ XMC 0000 01:37:32
+ FMB 0000 02:19:11
+ SMB 0000 02:39:35
+ PMC 0000 03:08:24
+ WME 0000 03:34:01
+ TMD 0000 03:50:08
+ LMD 0000 04:38:16
+ HMD 0000 05:30:41
+ QMB 0000 06:12:04
+ DME 0000 06:45:18
+ NMB 0000 07:11:24
+ NME 0000 07:59:59
+ KME 0000 08:34:33
+ WMC 0000 09:06:02
+ KMC 0000 09:37:00
+ GMC 0000 09:59:51
+ VMB 0000 10:34:44
+ HMC 0000 11:00:44
+ YMB 0000 19:27:28
+ ZMD 0000 19:47:19
+ FMD 0000 20:38:16
+ PMC 0000 21:29:24
+ BME 0000 21:45:33
+ JMB 0000 22:04:13
+ CMC 0000 22:41:23
+ MMD 0000 23:25:52
+ XMD 0001 00:06:54
+ BMC 0001 01:21:05
+ HMC 0001 02:16:55
+END
+
+<<48_____ AHAO.raw>>
+Team No. 48	Tag ID = AHAO   Tags=0029		ReferenceTime=5/01/2008 11:00:00 AM	Check61840255
+ XMC 0000 01:39:05
+ FMB 0000 02:19:27
+ SMB 0000 02:39:02
+ PMC 0000 03:07:57
+ WME 0000 03:31:44
+ TMD 0000 03:47:53
+ LMD 0000 04:39:48
+ HMD 0000 05:28:41
+ QMB 0000 06:12:34
+ DME 0000 06:47:23
+ NMB 0000 07:09:33
+ NME 0000 07:57:08
+ KME 0000 08:32:30
+ WMC 0000 09:07:06
+ KMC 0000 09:36:55
+ GMC 0000 09:57:56
+ VMB 0000 10:36:19
+ HMC 0000 11:00:00
+ YMB 0000 19:25:00
+ ZMD 0000 19:46:28
+ FMD 0000 20:39:44
+ PMC 0000 21:26:28
+ BME 0000 21:46:15
+ JMB 0000 22:03:10
+ CMC 0000 22:40:36
+ MMD 0000 23:25:27
+ XMD 0001 00:06:05
+ BMC 0001 01:20:30
+ HMC 0001 02:15:53
+END
+
+<<50_____ ABAL.raw>>
+Team No. 50	Tag ID = ABAL   Tags=0027		ReferenceTime=5/01/2008 11:00:00 AM	Check11054454
+ DMB 0000 01:19:27
+ XMC 0000 01:47:42
+ BMC 0000 02:13:18
+ UME 0000 02:33:12
+ XMD 0000 03:17:39
+ NME 0000 04:07:17
+ EME 0000 04:55:36
+ UMB 0000 05:53:16
+ MMB 0000 06:36:56
+ JMD 0000 07:11:03
+ KMC 0000 07:53:15
+ BMF 0000 08:36:58
+ MME 0000 09:36:46
+ TMC 0000 10:14:41
+ END 0000 10:54:17
+ GMD 0000 11:37:55
+ EMD 0000 11:56:20
+ HME 0000 12:20:15
+ RMD 0000 12:48:48
+ KMC 0000 13:43:27
+ HMD 0000 14:03:59
+ DME 0000 14:38:55
+ ZMD 0000 15:03:41
+ AME 0000 15:26:28
+ HMC 0000 15:59:58
+ YMB 0001 00:50:07
+ HMC 0001 01:59:33
+END
+
+<<50_____ AXAN.raw>>
+Team No. 50	Tag ID = AXAN   Tags=0027		ReferenceTime=5/01/2008 11:00:00 AM	Check62604400
+ DMB 0000 01:21:13
+ XMC 0000 01:49:26
+ BMC 0000 02:16:01
+ UME 0000 02:31:35
+ XMD 0000 03:14:57
+ NME 0000 04:04:27
+ EME 0000 04:57:56
+ UMB 0000 05:50:55
+ MMB 0000 06:36:36
+ JMD 0000 07:10:21
+ KMC 0000 07:51:16
+ BMF 0000 08:39:28
+ MME 0000 09:33:55
+ TMC 0000 10:16:43
+ END 0000 10:53:04
+ GMD 0000 11:35:07
+ EMD 0000 11:54:07
+ HME 0000 12:20:30
+ RMD 0000 12:50:47
+ KMC 0000 13:44:59
+ HMD 0000 14:06:24
+ DME 0000 14:37:48
+ ZMD 0000 15:05:51
+ AME 0000 15:28:17
+ HMC 0000 16:01:36
+ YMB 0001 00:48:01
+ HMC 0001 01:59:48
+END
+
+<<53_____ AGAN.raw>>
+Team No. 53	Tag ID = AGAN   Tags=0030		ReferenceTime=5/01/2008 11:00:00 AM	Check65002901
+ XME 0776 17:19:10
+ UMB 0000 00:29:18
+ UME 0000 01:13:38
+ QMC 0000 01:30:28
+ PMC 0000 02:00:50
+ OMC 0000 02:41:23
+ EME 0000 03:07:44
+ FMD 0000 03:33:36
+ NMD 0000 04:02:34
+ TMC 0000 04:27:43
+ BME 0000 05:09:15
+ NMB 0000 06:01:22
+ BMC 0000 06:30:10
+ GMD 0000 07:04:05
+ KMD 0000 07:54:21
+ HME 0000 08:10:39
+ JMB 0000 08:28:29
+ EMD 0000 09:10:05
+ HMD 0000 09:31:35
+ WME 0000 10:05:03
+ OME 0000 10:45:53
+ NME 0000 11:01:57
+ VME 0000 11:35:45
+ MMB 0000 12:06:58
+ HMB 0000 12:28:20
+ VMB 0000 13:00:03
+ ZMC 0000 13:46:19
+ QME 0000 14:10:26
+ OMD 0000 14:38:03
+ HMC 0000 15:02:59
+END
+
+<<53_____ AJAP.raw>>
+Team No. 53	Tag ID = AJAP   Tags=0030		ReferenceTime=5/01/2008 11:00:00 AM	Check15466154
+ XME 0000 00:00:00
+ UMB 0000 00:32:08
+ UME 0000 01:14:55
+ QMC 0000 01:30:49
+ PMC 0000 02:03:02
+ OMC 0000 02:38:35
+ EME 0000 03:09:47
+ FMD 0000 03:34:32
+ NMD 0000 04:05:09
+ TMC 0000 04:26:23
+ BME 0000 05:06:32
+ NMB 0000 05:59:05
+ BMC 0000 06:29:42
+ GMD 0000 07:03:05
+ KMD 0000 07:51:24
+ HME 0000 08:09:21
+ JMB 0000 08:29:29
+ EMD 0000 09:10:46
+ HMD 0000 09:29:03
+ WME 0000 10:02:13
+ OME 0000 10:45:24
+ NME 0000 11:03:59
+ VME 0000 11:37:27
+ MMB 0000 12:05:38
+ HMB 0000 12:27:26
+ VMB 0000 13:00:11
+ ZMC 0000 13:45:13
+ QME 0000 14:10:29
+ OMD 0000 14:38:24
+ HMC 0000 15:02:49
+END
+
+<<57_____ AHAJ.raw>>
+Team No. 57	Tag ID = AHAJ   Tags=0014		ReferenceTime=5/01/2008 11:00:00 AM	Check64092975
+ XMC 0000 01:48:10
+ DMD 0000 02:15:38
+ KME 0000 02:39:59
+ FME 0000 03:23:45
+ HMC 0000 04:02:05
+ YMC 0000 04:30:22
+ XMB 0000 05:23:51
+ YMB 0000 05:41:10
+ QME 0000 06:38:34
+ RME 0000 07:06:54
+ RMB 0000 07:42:59
+ DME 0000 08:28:50
+ CMC 0000 09:28:15
+ HMC 0000 09:55:51
+END
+
+<<57_____ AKAQ.raw>>
+Team No. 57	Tag ID = AKAQ   Tags=0014		ReferenceTime=5/01/2008 11:00:00 AM	Check14543415
+ XMC 0000 01:45:29
+ DMD 0000 02:14:06
+ KME 0000 02:37:20
+ FME 0000 03:22:32
+ HMC 0000 03:59:15
+ YMC 0000 04:30:39
+ XMB 0000 05:22:35
+ YMB 0000 05:43:33
+ QME 0000 06:38:18
+ RME 0000 07:07:07
+ RMB 0000 07:43:39
+ DME 0000 08:31:42
+ CMC 0000 09:26:34
+ HMC 0000 09:58:05
+END
+
+<<62_____ AHAN.raw>>
+Team No. 62	Tag ID = AHAN   Tags=0018		ReferenceTime=5/01/2008 11:00:00 AM	Check66916418
+ XMC 0000 01:52:18
+ JMC 0000 02:25:51
+ NMB 0000 03:03:26
+ CME 0000 03:28:15
+ XMB 0000 04:08:33
+ BME 0000 04:36:59
+ GMD 0000 05:11:25
+ NMC 0000 05:39:07
+ VMC 0000 06:07:07
+ ZMD 0000 06:43:46
+ RMD 0000 07:28:39
+ QMD 0000 07:50:22
+ NMC 0000 08:20:23
+ FMD 0000 08:35:53
+ TMB 0000 09:20:20
+ DME 0000 09:48:47
+ QMD 0000 10:29:37
+ DMC 0000 11:13:50
+END
+
+<<62_____ AMAP.raw>>
+Team No. 62	Tag ID = AMAP   Tags=0018		ReferenceTime=5/01/2008 11:00:00 AM	Check63067050
+ XMC 0000 01:54:09
+ JMC 0000 02:26:04
+ NMB 0000 03:02:42
+ CME 0000 03:26:49
+ XMB 0000 04:09:03
+ BME 0000 04:36:09
+ GMD 0000 05:12:21
+ NMC 0000 05:41:53
+ VMC 0000 06:04:31
+ ZMD 0000 06:44:04
+ RMD 0000 07:31:23
+ QMD 0000 07:49:01
+ NMC 0000 08:19:12
+ FMD 0000 08:38:49
+ TMB 0000 09:22:25
+ DME 0000 09:46:05
+ QMD 0000 10:31:11
+ DMC 0000 11:16:01
+END
+
+<<64_____ AJAG.raw>>
+Team No. 64	Tag ID = AJAG   Tags=0027		ReferenceTime=5/01/2008 11:00:00 AM	Check64312381
+ XMC 0000 01:27:25
+ PMC 0000 02:10:17
+ END 0000 02:37:26
+ NME 0000 03:28:38
+ XMB 0000 04:13:37
+ BME 0000 04:45:35
+ XME 0000 05:25:02
+ DMD 0000 05:48:41
+ UMB 0000 06:40:39
+ GME 0000 07:34:47
+ UMB 0000 08:07:32
+ FMB 0000 08:22:48
+ HMD 0000 09:03:44
+ FMD 0000 09:32:48
+ SME 0000 10:23:18
+ QMB 0000 10:39:48
+ SMB 0000 11:29:33
+ OMC 0000 12:11:11
+ DME 0000 13:07:42
+ PMC 0000 14:01:17
+ UME 0000 14:19:23
+ QME 0000 14:59:03
+ GMD 0000 15:21:33
+ KMC 0000 15:57:03
+ TMB 0000 16:32:59
+ JME 0000 16:56:56
+ HMC 0000 17:06:10
+END
+
+<<64_____ ANAO.raw>>
+Team No. 64	Tag ID = ANAO   Tags=0027		ReferenceTime=5/01/2008 11:00:00 AM	Check10923660
+ XMC 0000 01:24:52
+ PMC 0000 02:08:23
+ END 0000 02:39:28
+ NME 0000 03:26:34
+ XMB 0000 04:10:57
+ BME 0000 04:43:17
+ XME 0000 05:24:07
+ DMD 0000 05:46:32
+ UMB 0000 06:39:54
+ GME 0000 07:33:49
+ UMB 0000 08:04:39
+ FMB 0000 08:25:12
+ HMD 0000 09:02:30
+ FMD 0000 09:35:09
+ SME 0000 10:20:24
+ QMB 0000 10:41:37
+ SMB 0000 11:28:00
+ OMC 0000 12:13:17
+ DME 0000 13:07:12
+ PMC 0000 13:58:24
+ UME 0000 14:18:19
+ QME 0000 15:01:10
+ GMD 0000 15:22:53
+ KMC 0000 15:54:08
+ TMB 0000 16:34:51
+ JME 0000 16:57:22
+ HMC 0000 17:05:19
+END
+
+<<68_____ AJAL.raw>>
+Team No. 68	Tag ID = AJAL   Tags=0014		ReferenceTime=5/01/2008 11:00:00 AM	Check64271411
+ XMC 0000 01:54:09
+ VMB 0000 02:23:26
+ LMD 0000 03:05:21
+ YME 0000 03:55:12
+ RMB 0000 04:27:42
+ GMC 0000 04:51:26
+ ZMC 0000 05:25:27
+ HMD 0000 06:09:16
+ DME 0000 06:44:10
+ NME 0000 07:15:10
+ VMD 0000 07:46:56
+ JMB 0000 08:29:14
+ BMD 0000 09:24:09
+ HMC 0000 09:44:41
+END
+
+<<68_____ APAO.raw>>
+Team No. 68	Tag ID = APAQ   Tags=0014		ReferenceTime=5/01/2008 11:00:00 AM	Check61284958
+ XMC 0000 01:51:28
+ VMB 0000 02:24:21
+ LMD 0000 03:03:46
+ YME 0000 03:53:11
+ RMB 0000 04:28:52
+ GMC 0000 04:54:14
+ ZMC 0000 05:23:07
+ HMD 0000 06:11:45
+ DME 0000 06:42:57
+ NME 0000 07:15:27
+ VMD 0000 07:44:02
+ JMB 0000 08:30:59
+ BMD 0000 09:24:14
+ HMC 0000 09:43:48
+END
+
+<<69_____ AJAM.raw>>
+Team No. 69	Tag ID = AJAM   Tags=0019		ReferenceTime=5/01/2008 11:00:00 AM	Check14665733
+ EMB 0000 01:21:21
+ UMB 0000 01:59:46
+ HMB 0000 02:25:15
+ KMC 0000 03:02:27
+ OME 0000 03:27:09
+ TMC 0000 03:53:44
+ WME 0000 04:11:22
+ EMC 0000 04:55:41
+ PMC 0000 05:45:58
+ UME 0000 06:19:57
+ XMB 0000 06:53:45
+ BMF 0000 07:22:20
+ HMD 0000 07:43:35
+ END 0000 08:20:37
+ XMD 0000 08:49:26
+ VMB 0000 09:21:17
+ XME 0000 10:04:14
+ LMD 0000 10:23:34
+ HMC 0000 10:44:55
+END
+
+<<69_____ APAP.raw>>
+Team No. 69	Tag ID = APAP   Tags=0019		ReferenceTime=5/01/2008 11:00:00 AM	Check10762194
+ EMB 0000 01:23:16
+ UMB 0000 02:02:13
+ HMB 0000 02:27:01
+ KMC 0000 02:59:34
+ OME 0000 03:29:43
+ TMC 0000 03:55:32
+ WME 0000 04:13:41
+ EMC 0000 04:54:47
+ PMC 0000 05:47:47
+ UME 0000 06:22:28
+ XMB 0000 06:52:46
+ BMF 0000 07:24:18
+ HMD 0000 07:43:17
+ END 0000 08:18:28
+ XMD 0000 08:52:19
+ VMB 0000 09:18:52
+ XME 0000 10:06:45
+ LMD 0000 10:22:10
+ HMC 0000 10:44:42
+END
+
+<<71_____ AJAN.raw>>
+Team No. 71	Tag ID = AJAN   Tags=0023		ReferenceTime=5/01/2008 11:00:00 AM	Check63115583
+ EMB 0000 01:01:38
+ BME 0000 01:37:55
+ FMC 0000 02:05:02
+ QMB 0000 02:50:09
+ BMC 0000 03:24:36
+ MME 0000 04:00:24
+ FME 0000 04:34:28
+ UMB 0000 05:07:55
+ GMC 0000 05:26:15
+ END 0000 06:15:17
+ WMB 0000 07:07:38
+ VME 0000 07:59:51
+ ZME 0000 08:46:23
+ SMD 0000 09:25:35
+ SME 0000 09:56:22
+ JMC 0000 10:21:31
+ MMD 0000 10:50:29
+ HMD 0000 11:35:36
+ RMD 0000 12:15:55
+ OMB 0000 12:58:58
+ PMC 0000 13:37:45
+ DMC 0000 14:26:27
+ QMD 0000 14:59:14
+END
+
+<<71_____ AQAO.raw>>
+Team No. 71	Tag ID = AQAO   Tags=0023		ReferenceTime=5/01/2008 11:00:00 AM	Check12995602
+ EMB 0000 01:01:32
+ BME 0000 01:39:48
+ FMC 0000 02:05:07
+ QMB 0000 02:51:27
+ BMC 0000 03:24:29
+ MME 0000 04:02:03
+ FME 0000 04:31:38
+ UMB 0000 05:07:46
+ GMC 0000 05:24:46
+ END 0000 06:18:16
+ WMB 0000 07:06:51
+ VME 0000 08:01:26
+ ZME 0000 08:44:13
+ SMD 0000 09:26:55
+ SME 0000 09:53:32
+ JMC 0000 10:20:58
+ MMD 0000 10:48:21
+ HMD 0000 11:37:00
+ RMD 0000 12:18:21
+ OMB 0000 12:59:10
+ PMC 0000 13:37:29
+ DMC 0000 14:28:39
+ QMD 0000 15:01:15
+END
+
+<<73_____ AKAG.raw>>
+Team No. 73	Tag ID = AKAG   Tags=0009		ReferenceTime=5/01/2008 11:00:00 AM	Check11505505
+ LMD 0000 02:06:23
+ END 0000 02:16:48
+ BMF 0000 03:04:45
+ JMC 0000 03:33:04
+ UMB 0000 04:21:35
+ PMC 0000 04:51:00
+ TME 0000 05:36:57
+ KME 0000 06:25:28
+ HMC 0000 07:00:36
+END
+
+<<73_____ ARAO.raw>>
+Team No. 73	Tag ID = ARAO   Tags=0009		ReferenceTime=5/01/2008 11:00:00 AM	Check61484789
+ LMD 0000 02:03:45
+ END 0000 02:19:19
+ BMF 0000 03:04:46
+ JMC 0000 03:30:29
+ UMB 0000 04:19:47
+ PMC 0000 04:51:24
+ TME 0000 05:34:21
+ KME 0000 06:27:09
+ HMC 0000 07:03:26
+END
+
+<<77_____ AKAL.raw>>
+Team No. 77	Tag ID = AKAL   Tags=0016		ReferenceTime=5/01/2008 11:00:00 AM	Check64505758
+ YMD 0000 02:16:13
+ QME 0000 02:35:56
+ JMB 0000 02:56:52
+ FMD 0000 03:33:30
+ ZME 0000 04:06:38
+ HMD 0000 04:42:22
+ UME 0000 05:10:30
+ BMC 0000 05:51:32
+ OMB 0000 06:10:08
+ NME 0000 06:56:09
+ EME 0000 07:38:22
+ KMD 0000 08:26:19
+ GMB 0000 09:06:21
+ DME 0000 09:45:34
+ RMD 0000 10:43:12
+ QMD 0000 10:58:56
+END
+
+<<77_____ ATAO.raw>>
+Team No. 77	Tag ID = ATAO   Tags=0016		ReferenceTime=5/01/2008 11:00:00 AM	Check16272642
+ YMD 0000 02:13:46
+ QME 0000 02:36:09
+ JMB 0000 02:57:15
+ FMD 0000 03:34:35
+ ZME 0000 04:05:49
+ HMD 0000 04:44:56
+ UME 0000 05:13:07
+ BMC 0000 05:51:09
+ OMB 0000 06:12:40
+ NME 0000 06:58:01
+ EME 0000 07:40:23
+ KMD 0000 08:27:09
+ GMB 0000 09:06:14
+ DME 0000 09:47:22
+ RMD 0000 10:40:57
+ QMD 0000 10:58:54
+END
+
+<<78_____ AKAM.raw>>
+Team No. 78	Tag ID = AKAM   Tags=0026		ReferenceTime=5/01/2008 11:00:00 AM	Check12287357
+ CMF 0000 01:59:31
+ KMB 0000 02:49:01
+ UMC 0000 03:26:25
+ PMC 0000 03:59:20
+ MMD 0000 04:28:25
+ SMB 0000 05:03:23
+ TME 0000 05:43:42
+ ZMC 0000 06:30:27
+ BMC 0000 07:18:14
+ RMD 0000 07:33:35
+ VME 0000 08:24:23
+ KMC 0000 08:47:53
+ JMD 0000 09:09:51
+ VMD 0000 09:57:00
+ QMC 0000 10:45:40
+ UMB 0000 11:11:31
+ JMB 0000 11:41:19
+ AME 0000 12:21:59
+ MMB 0000 13:02:53
+ NMD 0000 13:33:15
+ XMB 0000 14:26:59
+ HMD 0000 15:01:40
+ WMC 0000 15:17:47
+ NME 0000 15:43:08
+ JME 0000 16:32:45
+ HMC 0000 17:01:16
+END
+
+<<78_____ ATAP.raw>>
+Team No. 78	Tag ID = ATAP   Tags=0026		ReferenceTime=5/01/2008 11:00:00 AM	Check63917384
+ CMF 0000 01:59:03
+ KMB 0000 02:46:22
+ UMC 0000 03:23:56
+ PMC 0000 03:59:20
+ MMD 0000 04:27:14
+ SMB 0000 05:05:09
+ TME 0000 05:46:14
+ ZMC 0000 06:33:07
+ BMC 0000 07:17:21
+ RMD 0000 07:35:09
+ VME 0000 08:22:57
+ KMC 0000 08:47:26
+ JMD 0000 09:12:40
+ VMD 0000 09:58:35
+ QMC 0000 10:46:34
+ UMB 0000 11:10:28
+ JMB 0000 11:39:41
+ AME 0000 12:19:53
+ MMB 0000 13:00:15
+ NMD 0000 13:32:15
+ XMB 0000 14:26:11
+ HMD 0000 15:00:34
+ WMC 0000 15:17:06
+ NME 0000 15:45:43
+ JME 0000 16:31:35
+ HMC 0000 16:59:29
+END
+
+<<79_____ AKAN.raw>>
+Team No. 79	Tag ID = AKAN   Tags=0026		ReferenceTime=5/01/2008 11:00:00 AM	Check63340301
+ CMF 0000 00:53:46
+ VMD 0000 02:29:17
+ OMC 0000 02:52:21
+ CMB 0000 03:28:02
+ KMD 0000 03:54:54
+ SME 0000 04:22:48
+ EME 0000 04:57:08
+ GME 0000 05:24:33
+ GMB 0000 06:13:21
+ DMC 0000 06:58:48
+ XMB 0000 07:20:42
+ BMC 0000 08:01:36
+ WMB 0000 08:41:40
+ TMD 0000 09:08:05
+ XMD 0000 09:44:53
+ UMB 0000 10:13:17
+ FMD 0000 10:54:42
+ HMD 0000 11:25:11
+ NME 0000 11:48:23
+ DME 0000 12:02:58
+ XMB 0000 12:36:23
+ KMB 0000 13:21:30
+ OME 0000 14:09:46
+ VMB 0000 14:55:43
+ WMC 0000 15:17:01
+ HMC 0000 16:07:07
+END
+
+<<79_____ AUAP.raw>>
+Team No. 79	Tag ID = AUAP   Tags=0026		ReferenceTime=5/01/2008 11:00:00 AM	Check62048688
+ CMF 0000 00:56:23
+ VMD 0000 02:31:39
+ OMC 0000 02:50:08
+ CMB 0000 03:29:51
+ KMD 0000 03:57:37
+ SME 0000 04:24:37
+ EME 0000 04:57:44
+ GME 0000 05:25:28
+ GMB 0000 06:10:52
+ DMC 0000 06:58:58
+ XMB 0000 07:21:35
+ BMC 0000 08:00:36
+ WMB 0000 08:44:12
+ TMD 0000 09:09:31
+ XMD 0000 09:47:08
+ UMB 0000 10:16:09
+ FMD 0000 10:54:28
+ HMD 0000 11:24:35
+ NME 0000 11:45:43
+ DME 0000 12:04:32
+ XMB 0000 12:37:07
+ KMB 0000 13:20:09
+ OME 0000 14:10:36
+ VMB 0000 14:55:10
+ WMC 0000 15:18:33
+ HMC 0000 16:06:41
+END
+
+<<7______ AAAM.raw>>
+Team No. 7	Tag ID = AAAM   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check65002804
+ XMC 0776 17:32:14
+ ZMC 0000 03:15:34
+ JMB 0000 03:42:09
+ HME 0000 04:28:08
+ QME 0000 05:13:34
+ UME 0000 05:56:56
+ KMB 0000 06:28:30
+ HMC 0000 07:15:07
+ YMB 0000 08:08:36
+ QMC 0000 08:25:51
+ QMD 0000 08:55:25
+END
+
+<<7______ AXAF.raw>>
+Team No. 7	Tag ID = AXAF   Tags=0011		ReferenceTime=5/01/2008 11:00:00 AM	Check62751224
+ XMC 0776 17:31:01
+ ZMC 0000 03:14:52
+ JMB 0000 03:42:55
+ HME 0000 04:27:59
+ QME 0000 05:11:03
+ UME 0000 05:57:59
+ KMB 0000 06:29:13
+ HMC 0000 07:15:22
+ YMB 0000 08:11:20
+ QMC 0000 08:24:30
+ HMC 0000 08:53:15
+END
+
+<<9______ ABAF.raw>>
+Team No. 9	Tag ID = ABAF   Tags=0043		ReferenceTime=5/01/2008 11:00:00 AM	Check67113204
+ UMC 0000 00:27:00
+ YMD 0000 00:46:55
+ TMD 0000 01:06:44
+ VMD 0000 01:35:51
+ JMB 0000 02:09:03
+ YME 0000 02:37:06
+ KMB 0000 03:00:32
+ HMD 0000 03:49:01
+ HME 0000 04:06:31
+ VME 0000 04:45:04
+ LMB 0000 05:08:00
+ MME 0000 05:23:29
+ PMB 0000 05:46:56
+ MMB 0000 06:18:15
+ UMB 0000 07:02:25
+ RMC 0000 07:34:49
+ RMD 0000 08:49:22
+ UME 0000 09:44:02
+ WME 0000 10:25:14
+ SMB 0000 10:57:13
+ CME 0000 11:29:30
+ OMB 0000 12:25:28
+ ZME 0000 12:55:39
+ DMD 0000 13:46:58
+ OME 0000 14:28:57
+ GME 0000 15:04:35
+ XMD 0000 15:38:36
+ CMC 0000 16:25:29
+ KME 0000 16:59:53
+ RME 0000 17:53:03
+ WMB 0000 18:33:59
+ ZMC 0000 15:52:56
+ XMB 0000 19:34:23
+ MMC 0000 20:04:39
+ BMD 0000 20:27:55
+ GMC 0000 20:54:05
+ LMD 0000 21:16:32
+ SME 0000 21:43:03
+ JMC 0000 22:12:23
+ OMC 0000 22:38:57
+ AMC 0000 23:01:41
+ FME 0000 23:25:44
+ QMD 0000 23:52:29
+END
+
+<<9______ AXAH.raw>>
+Team No. 9	Tag ID = AXAH   Tags=0044		ReferenceTime=5/01/2008 11:00:00 AM	Check10659290
+ UMC 0000 00:26:51
+ YMD 0000 00:46:41
+ TMD 0000 01:06:51
+ VMD 0000 01:35:44
+ JMB 0000 02:09:11
+ YME 0000 02:37:10
+ KMB 0000 03:00:25
+ HMD 0000 03:49:08
+ HME 0000 04:06:46
+ VME 0000 04:45:23
+ JMD 0000 05:07:56
+ MME 0000 05:23:21
+ BMC 0000 05:47:04
+ MMB 0000 06:18:07
+ UMB 0000 07:02:34
+ BME 0000 07:35:03
+ RMD 0000 08:49:31
+ UME 0000 09:44:15
+ WME 0000 10:25:38
+ SMB 0000 10:57:30
+ CME 0000 11:29:47
+ OMB 0000 12:25:37
+ ZME 0000 12:55:48
+ DMD 0000 13:46:55
+ OME 0000 14:28:49
+ GME 0000 15:04:52
+ XMD 0000 15:38:52
+ CMC 0000 16:25:36
+ KME 0000 16:59:48
+ RME 0000 17:52:39
+ WMB 0000 18:34:02
+ ZMC 0000 15:52:56
+ XMB 0000 19:34:18
+ MMC 0000 20:04:47
+ BMD 0000 20:27:35
+ GMC 0000 20:54:13
+ LMD 0000 21:16:15
+ SME 0000 21:43:09
+ JMC 0000 22:12:29
+ OMC 0000 22:39:05
+ AMC 0000 23:01:37
+ QMD 0000 23:13:41
+ FME 0000 23:25:55
+ XME 0000 23:52:27
+END
+
+@@TeamData@@
+<<SpreadSheet.txt>>
+Tag		Team 	names1	names2	names3		course	category
+
+
+		7	Shaun Berg1 & Mick Webster				6hr	M
+		7	Burt Lancaster					
+		9	Ricky Thackray & Ben Corry					M 
+		14	Ron Frederick1 & Ron Wescott				6hr	MSV 
+		16	Keith Conley1 & Tristram Miller				6hr	M 
+		17	Ross Dawson1 & Sue Blood				6hr	XSV 
+		18	"Andy Black, David Palmer & Steve Halpin"					M 
+		23	Annie Whybourne1 & Dan Baschiera				6hr	XV 
+		29	Liz Farquharson1 & Ryan Farquharson				6hr	X 
+		30	Karen Pate & Jane Harries				6hr	W 
+		32	John Lyon & Jeffa Lyon				6hr	"UV,XSV"
+		35	Ted VanGeldermalsen & Derek Morris				6hr	MV 
+		36	Rick Armstrong & Norm McCann				6hr	MV 
+		37	Bob Moore & Pauline Moore				6hr	XSV 
+		38	"Tim Hatley, Elizabeth Hatley "	Suzanne O'Callaghan 			6hr	XV 
+		40	"Kieth Boakes, John Shanahan "	Randall Cook			15in23	MV 
+		43	Prue Dobbin & Ian Mack				15in23	XV 
+		45	Paul Williams & John Toomey				15in23	"AS,WE"
+		47	Ruhi Afnan & Sandra Afnan				15in23	X 
+		48	"Ian Harding, Fay Harding & Doug McMurray"				15in23	XSV 
+		50	"Reddall Leslie, David Sanders & Peter Pavlov"				15in23	MSV 
+		53	Helen Robinson & Christine Storie				15in23	WV 
+		57	Louise Carver & Rebeka Pople				15in23	WV 
+		62	Robyn Tuft & Peter Tuft				15in23	XV
+		64	Peter Milnes & Sue Milnes				15in23	XSV 
+		68	Geoff Mackay & Peter Chen				15in23	MV 
+		69	Vicki Cooper & Graeme Cooper				15in23	"UV,XSV"
+		71	"Theresa Howe, Karen Lane & Mike Howe"				15in23	XV
+		73	Evelyn Colwell & Craig Colwell				15in23	XV
+		77	Andrew McComb & James Nicholson				15in23	MV 
+		78	"Liam McComb, Rory McComb & Brett Merchant"				15in23	"YM,M"
+		79	Mark Mineman & Paul Mineman				15in23	MV 

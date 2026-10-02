@@ -1,0 +1,31 @@
+Team No. 619	Tag ID = AWDG   Tags=0033	Course 6hr
+Mackenzie Odin: Justin Anderson, Gareth Mckerchar
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  20	104		 8/06/2013 10:17:47 AM	         	BRIEFING. Score reset.
+  21	 21	 20	 8/06/2013 10:32:08 AM	  0:03:08	
+  22	 49	 40	 8/06/2013 10:42:11 AM	  0:10:03	 Punch  12 replaced by Group 49.
+  23	 67	 60	 8/06/2013 10:49:25 AM	  0:07:14	
+  24	 58	 50	 8/06/2013 11:15:40 AM	  0:26:15	
+  25	 28	 20	 8/06/2013 12:09:20 PM	  0:53:40	
+  26	 68	 60	 8/06/2013  1:15:35 PM 	  1:06:15	
+  27	 86	 80	 8/06/2013  1:33:20 PM 	  0:17:45	
+  28	 44	 40	 8/06/2013  2:03:25 PM 	  0:30:05	
+  29	 53	 50	 8/06/2013  2:26:57 PM 	  0:23:32	
+  30	 35	 30	 8/06/2013  2:37:55 PM 	  0:10:58	
+  31	 26	 20	 8/06/2013  2:52:34 PM 	  0:14:39	
+  32	 99	 90	 8/06/2013  3:25:06 PM 	  0:32:32	
+  33	 16		 8/06/2013  4:24:40 PM 	  0:59:34	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:24:40 PM 
+Time on course   5:55:40
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

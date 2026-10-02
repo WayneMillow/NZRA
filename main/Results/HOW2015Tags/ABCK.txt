@@ -1,0 +1,26 @@
+Team No. 659	Tag ID = ABCK   Tags=0009	Course 6Hr
+Ruth Knewstubb, Andrew Knewstubb and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:44:35 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:14:18 AM	  0:14:18	
+   3	 95	 90	27/06/2015 12:38:13 PM	  1:23:55	
+   4	 48	 40	27/06/2015  1:05:01 PM	  0:26:48	
+   5	 87	 80	27/06/2015  1:48:21 PM	  0:43:20	
+   6	 60	 60	27/06/2015  2:21:37 PM	  0:33:16	
+   7	 32	 30	27/06/2015  3:01:30 PM	  0:39:53	
+   8	 28	 20	27/06/2015  4:14:48 PM	  1:13:18	
+   9	104		27/06/2015  5:00:59 PM	  0:46:11	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  5:00:59 PM
+Time on course   6:00:59
+
+
+  340	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 330

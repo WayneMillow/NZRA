@@ -1,0 +1,29 @@
+Team No. 25	Tag ID = ALAS   Tags=0012	Course 12hr
+Kristie Diggelmann, Thresia Groot
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008  8:43:10 AM 	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008  9:13:36 AM 	  0:13:36	
+   3	 50	 50	14/06/2008  9:35:48 AM 	  0:22:12	
+   4	 67	 60	14/06/2008 10:00:28 AM	  0:24:40	
+   5	 51	 50	14/06/2008 10:54:52 AM	  0:54:24	
+   6	 82	 80	14/06/2008 11:19:28 AM	  0:24:36	
+   7	 41	 40	14/06/2008 12:22:58 PM	  1:03:30	
+   8	 64	 60	14/06/2008  1:10:00 PM 	  0:47:02	
+   9	 81	 80	14/06/2008  3:11:10 PM 	  2:01:10	
+  10	 35	 30	14/06/2008  3:48:09 PM 	  0:36:59	
+  11	 61	 60	14/06/2008  5:05:19 PM 	  1:17:10	
+  12	108		14/06/2008  7:58:02 PM 	  2:52:43	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  7:58:02 PM 
+Time on course  10:58:02
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

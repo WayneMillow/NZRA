@@ -1,0 +1,27 @@
+Team No. 136	Tag ID = AABD   Tags=0010	Course 3hr
+Amuri Battlers: Julie Jopp, Deannah Shanks and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:05:06 PM	  0:05:06	
+   2	  52 	   50	 3/07/2022 12:08:13 PM	  0:03:07	
+   3	  50 	   50	 3/07/2022 12:28:07 PM	  0:19:54	
+   4	  61 	   60	 3/07/2022 12:44:09 PM	  0:16:02	
+   5	  24 	   20	 3/07/2022  1:07:36 PM	  0:23:27	
+   6	  65 	   60	 3/07/2022  1:26:35 PM	  0:18:59	
+   7	  84 	   80	 3/07/2022  1:42:59 PM	  0:16:24	
+   8	  42 	   40	 3/07/2022  2:32:52 PM	  0:49:53	
+   9	  40 	   40	 3/07/2022  2:45:23 PM	  0:12:31	
+  10	  18 		 3/07/2022  2:59:11 PM	  0:13:48	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:59:11 PM
+Time on course   2:59:11
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

@@ -1,0 +1,23 @@
+Team No. 114	Tag ID = AGBB   Tags=0006	Course 8 Hour
+Kristina Arthur, Faye Nelson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 10:48:01 AM	         	BRIEFING. Score reset.
+   2	 63	 60	 7/03/2009 12:56:30 PM	  1:56:30	
+   3	 81	 80	 7/03/2009  2:13:47 PM 	  1:17:17	
+   4	 43	 40	 7/03/2009  4:16:00 PM 	  2:02:13	
+   5	 31	 30	 7/03/2009  6:02:16 PM 	  1:46:16	
+   6	 F		 7/03/2009  6:34:15 PM 	  0:31:59	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:34:15 PM 
+Time on course   7:34:15
+
+
+  210	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 210

@@ -1,0 +1,29 @@
+Team No. 186	Tag ID = AWDH   Tags=0012	Course 6 hour
+The Drifters: Joe Dobson (NZL), sally dobson (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		24/11/2018 11:38:09 AM	         	BRIEFING. Score reset.
+   2	  58 	   50	24/11/2018 12:13:57 PM	  0:13:57	
+   3	  49 	   40	24/11/2018 12:25:20 PM	  0:11:23	
+   4	  39 	   30	24/11/2018 12:39:20 PM	  0:14:00	
+   5	 103 	  100	24/11/2018  1:12:08 PM	  0:32:48	
+   6	  81 	   80	24/11/2018  1:56:18 PM	  0:44:10	
+   7	  38 	   30	24/11/2018  2:20:04 PM	  0:23:46	
+   8	  26 	   20	24/11/2018  2:44:08 PM	  0:24:04	
+   9	  46 	   40	24/11/2018  3:16:21 PM	  0:32:13	
+  10	  68 	   60	24/11/2018  3:41:12 PM	  0:24:51	
+  11	  69 	   60	24/11/2018  4:40:14 PM	  0:59:02	
+  12	  17 		24/11/2018  5:48:38 PM	  1:08:24	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:48:38 PM
+Time on course   5:48:38
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

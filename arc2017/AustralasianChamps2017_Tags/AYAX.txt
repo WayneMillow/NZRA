@@ -1,0 +1,28 @@
+Team No. 118	Tag ID = AYAX   Tags=0012	Course 7hr
+D and M: Marianna Cochrane (NZL), Denise Anderson (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  104		11/02/2017 10:47:54 AM	         	BRIEFING. Score reset.
+   3	  406	   40	11/02/2017 11:32:37 AM	  0:32:37	
+   4	  507	   50	11/02/2017 11:55:13 AM	  0:22:36	
+   5	  604	   60	11/02/2017 12:31:14 PM	  0:36:01	
+   6	  703	   70	11/02/2017  1:19:06 PM	  0:47:52	
+   7	 1003	  100	11/02/2017  1:44:18 PM	  0:25:12	
+   8	  603	   60	11/02/2017  2:58:07 PM	  1:13:49	
+   9	  905	   90	11/02/2017  3:31:24 PM	  0:33:17	
+  10	  804	   80	11/02/2017  4:46:02 PM	  1:14:38	
+  11	  405	   40	11/02/2017  5:01:14 PM	  0:15:12	
+  12	  109		11/02/2017  5:47:33 PM	  0:46:19	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  5:47:33 PM
+Time on course   6:47:33
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

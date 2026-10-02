@@ -1,0 +1,29 @@
+Team No. 115	Tag ID = AJBB   Tags=0013	Course 6hr
+Raewyn Moss, Christina Robb and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 12		14/06/2008 10:44:36 AM	         	BRIEFING. Score reset.
+   3	 30	 30	14/06/2008 11:14:23 AM	  0:14:23	
+   4	 67	 60	14/06/2008 11:43:15 AM	  0:28:52	
+   5	 51	 50	14/06/2008 12:08:45 PM	  0:25:30	
+   6	 82	 80	14/06/2008 12:37:32 PM	  0:28:47	
+   7	 41	 40	14/06/2008  1:03:37 PM 	  0:26:05	
+   8	 44	 40	14/06/2008  1:23:20 PM 	  0:19:43	
+   9	 57	 50	14/06/2008  2:25:22 PM 	  1:02:02	
+  10	 91	 90	14/06/2008  3:04:31 PM 	  0:39:09	
+  11	 73	 70	14/06/2008  3:32:08 PM 	  0:27:37	
+  12	 64	 60	14/06/2008  4:00:48 PM 	  0:28:40	
+  13	107		14/06/2008  4:57:14 PM 	  0:56:26	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:57:14 PM 
+Time on course   5:57:14
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

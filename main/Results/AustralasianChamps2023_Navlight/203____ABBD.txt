@@ -1,0 +1,18 @@
+Team No. 203	Tag ID = ABBD   Tags=0001	Course 15hr
+Cuzzie Bros: Mathew Smith, Steve Smith
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  19 		17/12/2023  7:33:56 AM	 19:33:56	FINISH TIME.
+END
+
+
+Recognised Course time 17/12/2023 7:33:56 AM
+Time on course  19:33:56
+
+
+    0	Points Scored.
+-5480	Over Course Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0 LATE

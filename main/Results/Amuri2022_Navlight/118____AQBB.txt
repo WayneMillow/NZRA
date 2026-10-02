@@ -1,0 +1,27 @@
+Team No. 118	Tag ID = AQBB   Tags=0010	Course 3hr
+The Boons: Caleb Rust, Michelle Wood and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:02:53 PM	  0:02:53	
+   2	  20 	   20	 3/07/2022 12:08:42 PM	  0:05:49	
+   3	  31 	   30	 3/07/2022 12:10:53 PM	  0:02:11	
+   4	  32 	   30	 3/07/2022 12:19:38 PM	  0:08:45	
+   5	  71 	   70	 3/07/2022 12:24:34 PM	  0:04:56	
+   6	  64 	   60	 3/07/2022 12:36:20 PM	  0:11:46	
+   7	  72 	   70	 3/07/2022 12:57:55 PM	  0:21:35	
+   8	  85 	   80	 3/07/2022  1:24:25 PM	  0:26:30	
+   9	  96 	   90	 3/07/2022  1:56:26 PM	  0:32:01	
+  10	  18 		 3/07/2022  3:00:41 PM	  1:04:15	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:00:41 PM
+Time on course   3:00:41
+
+
+  490	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

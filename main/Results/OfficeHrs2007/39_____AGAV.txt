@@ -1,0 +1,17 @@
+Team No. 39	Tag ID = AGAV   Tags=0000	Course 
+Toby Nielsen to team 25, Robyn Nielsen withdrew
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+END
+
+
+Recognised finish time  2/12/2007  4:31:00 PM
+Time on course   0:00:00
+
+
+    0	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

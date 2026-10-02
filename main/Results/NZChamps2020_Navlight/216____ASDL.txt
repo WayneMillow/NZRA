@@ -1,0 +1,28 @@
+Team No. 216	Tag ID = ASDL   Tags=0011	Course 6 hour
+The Kawekas: John Adams, Rachel Eyre
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  7:46:09 PM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:08:51 PM	  0:08:51	
+   3	  39 	   30	 7/11/2020  1:26:46 PM	  0:17:55	
+   4	  75 	   70	 7/11/2020  2:29:58 PM	  1:03:12	
+   5	  45 	   40	 7/11/2020  3:02:48 PM	  0:32:50	
+   6	  74 	   70	 7/11/2020  3:32:43 PM	  0:29:55	
+   7	  83 	   80	 7/11/2020  4:03:20 PM	  0:30:37	
+   8	  53 	   50	 7/11/2020  4:51:31 PM	  0:48:11	
+   9	  73 	   70	 7/11/2020  5:46:53 PM	  0:55:22	
+  10	  87 	   80	 7/11/2020  6:31:05 PM	  0:44:12	
+  11	  19 		 7/11/2020  6:54:03 PM	  0:22:58	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:54:03 PM
+Time on course   5:54:03
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

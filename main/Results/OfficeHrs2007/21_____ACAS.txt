@@ -1,0 +1,31 @@
+Team No. 21	Tag ID = ACAS   Tags=0014	Course 
+Iain McGowan, Sarah Wilson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 2/12/2007  8:40:01 AM 	         	BRIEFING. Score reset.
+   2	 83	 80	 2/12/2007  9:24:26 AM 	  0:24:26	
+   3	101	100	 2/12/2007  9:51:33 AM 	  0:27:07	
+   4	 43	 40	 2/12/2007 10:02:11 AM	  0:10:38	
+   5	 64	 60	 2/12/2007 10:49:31 AM	  0:47:20	
+   6	 23	 20	 2/12/2007 11:11:28 AM	  0:21:57	
+   7	 46	 40	 2/12/2007 11:27:51 AM	  0:16:23	
+   8	 31	 30	 2/12/2007 12:05:00 PM	  0:37:09	
+   9	 81	 80	 2/12/2007 12:29:09 PM	  0:24:09	
+  10	100	100	 2/12/2007  1:03:50 PM 	  0:34:41	
+  11	 71	 70	 2/12/2007  1:42:04 PM 	  0:38:14	
+  12	 62	 60	 2/12/2007  2:37:56 PM 	  0:55:52	
+  13	 60	 60	 2/12/2007  3:05:47 PM 	  0:27:51	
+  14	 19		 2/12/2007  3:46:38 PM 	  0:40:51	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:46:38 PM 
+Time on course   6:46:38
+
+
+  740	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

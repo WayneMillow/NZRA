@@ -1,0 +1,22 @@
+Team No. 127	Tag ID = AHBC   Tags=0006	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	102		16/06/2007 10:05:12 AM	        	BRIEFING. Score reset.
+   2	 11	 10	16/06/2007 10:15:24 AM	  0:15:24	
+   3	 23	 20	16/06/2007 10:34:06 AM	  0:18:42	
+   4	 37	 30	16/06/2007 10:54:08 AM	  0:20:02	
+   5	 31	 30	16/06/2007 11:28:09 AM	  0:34:01	
+   6	 94		16/06/2007 11:42:43 AM	  0:14:34	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007 11:42:43 AM
+Time on course   1:42:43
+
+
+   90	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 90

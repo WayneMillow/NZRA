@@ -1,0 +1,33 @@
+Team No. 337	Tag ID = AGAW   Tags=0016	Course 6hrA
+Wednesday Girls: Jen Griffin, Jo Gooch and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020  8:57:07 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	 4/07/2020  9:12:31 AM	  0:12:31	
+   3	  56 	   50	 4/07/2020  9:15:48 AM	  0:03:17	
+   4	  31 	   30	 4/07/2020  9:40:08 AM	  0:24:20	
+   5	 105 	  100	 4/07/2020  9:46:32 AM	  0:06:24	
+   6	  28 	   20	 4/07/2020 10:00:09 AM	  0:13:37	
+   7	  42 	   40	 4/07/2020 10:14:31 AM	  0:14:22	
+   8	  74 	   70	 4/07/2020 10:33:51 AM	  0:19:20	
+   9	  71 	   70	 4/07/2020 10:58:33 AM	  0:24:42	
+  10	  40 	   40	 4/07/2020 11:55:44 AM	  0:57:11	
+  11	  81 	   80	 4/07/2020 12:05:36 PM	  0:09:52	
+  12	  59 	   50	 4/07/2020  1:18:26 PM	  1:12:50	
+  13	  52 	   50	 4/07/2020  1:36:22 PM	  0:17:56	
+  14	  49 	   40	 4/07/2020  1:58:46 PM	  0:22:24	
+  15	  78 	   70	 4/07/2020  2:22:23 PM	  0:23:37	
+  16	  11 		 4/07/2020  3:05:57 PM	  0:43:34	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  3:05:57 PM
+Time on course   6:05:57
+
+
+  730	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

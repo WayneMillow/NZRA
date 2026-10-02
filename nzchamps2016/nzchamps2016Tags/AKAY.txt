@@ -1,0 +1,23 @@
+Team No. 78	Tag ID = AKAY   Tags=0006	Course 7Hour
+Dangerous animals: Sally Marett, Amy Alison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:55:24 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:23:18 AM	  0:23:18	
+   3	 52	 50	27/02/2016 11:53:54 AM	  0:30:36	
+   4	 61	 60	27/02/2016 12:44:06 PM	  0:50:12	
+   5	 20	 20	27/02/2016  5:02:44 PM	  4:18:38	
+   6	 18		27/02/2016  5:31:53 PM	  0:29:09	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:31:53 PM
+Time on course   6:31:53
+
+
+  150	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 150

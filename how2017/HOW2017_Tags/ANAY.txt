@@ -1,0 +1,30 @@
+Team No. 2117	Tag ID = ANAY   Tags=0013	Course 6Hr
+Follow the leader: Emma Fissenden, Lauren Fearnley and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		10/06/2017 10:46:12 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:03:24 AM	  0:03:24	
+   3	 21	 20	10/06/2017 11:10:05 AM	  0:06:41	 Punch  12 replaced by Group 21.
+   4	 40	 40	10/06/2017 11:25:32 AM	  0:15:27	
+   5	 42	 40	10/06/2017 11:47:58 AM	  0:22:26	
+   6	100	100	10/06/2017 12:15:03 PM	  0:27:05	
+   7	 61	 60	10/06/2017 12:51:27 PM	  0:36:24	
+   8	 23	 20	10/06/2017  1:30:12 PM	  0:38:45	
+   9	 70	 70	10/06/2017  3:10:39 PM	  1:40:27	
+  10	 30	 30	10/06/2017  3:47:45 PM	  0:37:06	
+  11	 40		10/06/2017  4:11:54 PM	  0:24:09	     Punched on Line 4
+  12	 29	 20	10/06/2017  4:39:39 PM	  0:27:45	
+  13	109		10/06/2017  4:43:32 PM	  0:03:53	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:43:32 PM
+Time on course   5:43:32
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

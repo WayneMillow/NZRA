@@ -1,0 +1,29 @@
+Team No. 188	Tag ID = AZDH   Tags=0012	Course 3 hour
+Not Fast and slightly furious: Claire Spear, Linda Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:46:51 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:11:59 PM	  0:11:59	
+   3	  31 	   30	 7/07/2019 12:23:45 PM	  0:11:46	
+   4	  73 	   70	 7/07/2019 12:32:27 PM	  0:08:42	
+   5	  46 	   40	 7/07/2019 12:52:31 PM	  0:20:04	
+   6	  52 	   50	 7/07/2019 12:59:05 PM	  0:06:34	
+   7	  59 	   50	 7/07/2019  1:20:04 PM	  0:20:59	
+   8	  45 	   40	 7/07/2019  1:36:10 PM	  0:16:06	
+   9	  65 	   60	 7/07/2019  1:57:38 PM	  0:21:28	
+  10	  49 	   40	 7/07/2019  2:10:15 PM	  0:12:37	
+  11	  51 	   50	 7/07/2019  2:21:44 PM	  0:11:29	
+  12	  18 		 7/07/2019  2:41:24 PM	  0:19:40	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:41:24 PM
+Time on course   2:41:24
+
+
+  470	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

@@ -1,0 +1,38 @@
+Team No. 654	Tag ID = ARDN   Tags=0015	Course 10hr
+Magical Mystery Tour minus John: Andre  Eger, Rose Pearson, Nick Riordan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013  8:51:33 AM 	         	BRIEFING. Score reset.
+   2	 66	 60	 8/06/2013  9:44:40 AM 	  0:39:40	
+   3	 74	 70	 8/06/2013 10:16:38 AM	  0:31:58	
+   4	100	100	 8/06/2013 10:29:07 AM	  0:12:29	
+   5	 54	 50	 8/06/2013 10:48:26 AM	  0:19:19	
+   6	 47	 40	 8/06/2013 12:06:35 PM	  1:18:09	
+   7	 83	 80	 8/06/2013 12:28:44 PM	  0:22:09	
+   8	101	100	 8/06/2013  2:24:03 PM 	  1:55:19	
+   9	 96	 90	 8/06/2013  3:23:57 PM 	  0:59:54	
+  10	 50	 50	 8/06/2013  3:43:39 PM 	  0:19:42	
+  11	 87	 80	 8/06/2013  4:01:47 PM 	  0:18:08	
+  12	 22	 20	 8/06/2013  4:36:42 PM 	  0:34:55	
+  13	 70	 70	 8/06/2013  5:24:28 PM 	  0:47:46	
+  14	 31	 30	 8/06/2013  6:35:46 PM 	  1:11:18	
+  15	 14		 8/06/2013  7:07:35 PM 	  0:31:49	FINISH TIME.
+END
+	AddedPunch84	80
+	AddedPunch81	80
+
+Some of your team have missed these Punches.
+  66,74,100,54,47,83,101,96,50,87,22,70,31
+Your score has been reduced by 840 points.
+
+
+Recognised finish time  8/06/2013  7:07:35 PM 
+Time on course  10:02:35
+
+
+  160	Points Scored.
+   60	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 100

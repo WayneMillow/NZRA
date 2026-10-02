@@ -1,0 +1,31 @@
+Team No. 225	Tag ID = AGHD   Tags=0014	Course 15hr
+The Gold Coasters: Jane Briscoe, Andrew Browne and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		16/12/2023 11:41:25 AM	         	BRIEFING. Score reset.
+   2	  22 	   20	16/12/2023 12:30:27 PM	  0:30:27	
+   3	  65 	   60	16/12/2023  1:27:03 PM	  0:56:36	
+   4	  51 	   50	16/12/2023  2:03:05 PM	  0:36:02	
+   5	  73 	   70	16/12/2023  2:40:32 PM	  0:37:27	
+   6	  41 	   40	16/12/2023  3:22:48 PM	  0:42:16	
+   7	  80 	   80	16/12/2023  4:23:27 PM	  1:00:39	
+   8	 100 	  100	16/12/2023  5:14:01 PM	  0:50:34	
+   9	  72 	   70	16/12/2023  6:29:46 PM	  1:15:45	
+  10	  91 	   90	16/12/2023  7:46:33 PM	  1:16:47	
+  11	  66 	   60	16/12/2023  9:29:23 PM	  1:42:50	
+  12	  96 	   90	16/12/2023 10:39:12 PM	  1:09:49	
+  13	  30 	   30	16/12/2023 10:55:29 PM	  0:16:17	
+  14	  18 		17/12/2023  0:50:27 AM	  1:54:58	FINISH TIME.
+END
+
+
+Recognised Course time 17/12/2023 12:50:27 AM
+Time on course  12:50:27
+
+
+  760	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

@@ -1,0 +1,28 @@
+Team No. 653	Tag ID = AHAY   Tags=0012	Course 6_HoW
+Emma Fissenden, Richard Fissenden
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 29		26/06/2010 10:41:11 AM	         	BRIEFING. Score reset.
+   3	 36	 30	26/06/2010 11:13:04 AM	  0:13:04	 Punch  02 replaced by Group 36.
+   4	 94	 90	26/06/2010 11:33:50 AM	  0:20:46	
+   5	 46	 40	26/06/2010 11:53:16 AM	  0:19:26	 Punch  03 replaced by Group 46.
+   6	 76	 70	26/06/2010 12:20:05 PM	  0:26:49	
+   7	 84	 80	26/06/2010 12:50:44 PM	  0:30:39	
+   8	 56	 50	26/06/2010  1:14:47 PM 	  0:24:03	
+   9	 93	 90	26/06/2010  1:36:37 PM 	  0:21:50	
+  10	 34	 30	26/06/2010  2:16:10 PM 	  0:39:33	
+  11	 45	 40	26/06/2010  2:35:29 PM 	  0:19:19	
+  12	 17		26/06/2010  3:03:52 PM 	  0:28:23	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  3:03:52 PM 
+Time on course   4:03:52
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

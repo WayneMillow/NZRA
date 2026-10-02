@@ -1,0 +1,33 @@
+Team No. 202	Tag ID = AJDK   Tags=0016	Course 1.5hr
+Unreal Groms: Jonty Oneill, Fiz Rutherford and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022  1:02:44 PM	  0:02:44	
+   2	  70 	   70	 3/07/2022  1:04:54 PM	  0:02:10	
+   3	  31 	   30	 3/07/2022  1:08:40 PM	  0:03:46	
+   4	  91 	   90	 3/07/2022  1:11:17 PM	  0:02:37	
+   5	  87 	   80	 3/07/2022  1:17:41 PM	  0:06:24	
+   6	  36 	   30	 3/07/2022  1:28:36 PM	  0:10:55	
+   7	  75 	   70	 3/07/2022  1:37:33 PM	  0:08:57	
+   8	  81 	   80	 3/07/2022  1:42:24 PM	  0:04:51	
+   9	  86 	   80	 3/07/2022  1:48:11 PM	  0:05:47	
+  10	  46 	   40	 3/07/2022  1:52:29 PM	  0:04:18	
+  11	  52 	   50	 3/07/2022  1:56:07 PM	  0:03:38	
+  12	  74 	   70	 3/07/2022  2:08:13 PM	  0:12:06	
+  13	  56 	   50	 3/07/2022  2:11:57 PM	  0:03:44	
+  14	  30 	   30	 3/07/2022  2:15:30 PM	  0:03:33	
+  15	  45 	   40	 3/07/2022  2:21:52 PM	  0:06:22	
+  16	  19 		 3/07/2022  2:25:13 PM	  0:03:21	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:25:13 PM
+Time on course   1:25:13
+
+
+  850	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 850

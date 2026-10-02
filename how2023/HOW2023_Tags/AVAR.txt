@@ -1,0 +1,29 @@
+Team No. 17	Tag ID = AVAR   Tags=0013	Course 6hr
+Team Brown: Matthew Brown, Louise Brown
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  30 	   30	 1/07/2023 11:29:12 AM	  0:29:12	
+   2	  53 	   50	 1/07/2023 11:43:34 AM	  0:14:22	
+   3	  71 	   70	 1/07/2023 12:19:05 PM	  0:35:31	
+   4	  20 	   20	 1/07/2023  1:24:13 PM	  1:05:08	
+   5	  70 	   70	 1/07/2023  1:53:43 PM	  0:29:30	
+   6	  80 	   80	 1/07/2023  2:25:40 PM	  0:31:57	
+   7	  52 	   50	 1/07/2023  2:51:08 PM	  0:25:28	
+   8	  40 	   40	 1/07/2023  3:22:18 PM	  0:31:10	
+   9	  41 	   40	 1/07/2023  3:38:51 PM	  0:16:33	
+  10	  42 	   40	 1/07/2023  4:05:08 PM	  0:26:17	
+  11	  43 	   40	 1/07/2023  4:22:49 PM	  0:17:41	
+  12	  16 		 1/07/2023  4:35:25 PM	  0:12:36	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:35:25 PM
+Time on course   5:35:25
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

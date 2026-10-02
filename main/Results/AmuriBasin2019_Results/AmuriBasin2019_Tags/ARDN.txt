@@ -1,0 +1,33 @@
+Team No. 203	Tag ID = ARDN   Tags=0017	Course 3 hour
+True Beerings: Peter Cook, Chris Hasler
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:45:00 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:08:34 PM	  0:08:34	
+   3	  26 	   20	 7/07/2019 12:14:09 PM	  0:05:35	
+   4	  65 	   60	 7/07/2019 12:33:49 PM	  0:19:40	
+   5	  45 	   40	 7/07/2019 12:47:48 PM	  0:13:59	
+   6	  53 	   50	 7/07/2019  1:04:33 PM	  0:16:45	
+   7	  72 	   70	 7/07/2019  1:10:52 PM	  0:06:19	
+   8	  75 	   70	 7/07/2019  1:46:54 PM	  0:36:02	
+   9	  57 	   50	 7/07/2019  2:17:47 PM	  0:30:53	
+  10	  42 	   40	 7/07/2019  2:24:22 PM	  0:06:35	
+  11	  41 	   40	 7/07/2019  2:28:55 PM	  0:04:33	
+  12	  24 	   20	 7/07/2019  2:41:16 PM	  0:12:21	
+  13	  49 	   40	 7/07/2019  2:45:45 PM	  0:04:29	
+  14	  18 		 7/07/2019  2:53:50 PM	  0:08:05	FINISH TIME.
+  15	  19 		 7/07/2019  2:53:59 PM	  0:00:09	FINISH TIME IGNORED.
+  16	  16 		 7/07/2019  2:54:05 PM	  0:00:06	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  7/07/2019  2:53:50 PM
+Time on course   2:53:50
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

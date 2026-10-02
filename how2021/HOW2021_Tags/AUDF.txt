@@ -1,0 +1,31 @@
+Team No. 160	Tag ID = AUDF   Tags=0010	Course 6 hour
+Lost in Loburn: Eleanor Power, Rachel Fahey
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:11:37 AM	  0:11:37	
+   2	  25 	   20	19/06/2021 11:27:39 AM	  0:16:02	
+   3	  38 	   30	19/06/2021 12:05:37 PM	  0:37:58	
+   4	  77 	   70	19/06/2021 12:30:32 PM	  0:24:55	
+   5	  26 	   20	19/06/2021 12:45:11 PM	  0:14:39	
+   6	  64 	   60	19/06/2021  1:10:25 PM	  0:25:14	
+   7	  96 	   90	19/06/2021  1:40:56 PM	  0:30:31	
+   8	  20 	   20	19/06/2021  3:13:26 PM	  1:32:30	
+   9	 100 	  100	19/06/2021  3:27:46 PM	  0:14:20	
+  10	  57 		19/06/2021  5:00:15 PM	  1:32:29	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  48,25,38,77,26,64,96,20,100
+Your score has been reduced by 450 points.
+
+
+Recognised finish time 19/06/2021  5:00:15 PM
+Time on course   6:00:15
+
+
+    0	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = -10

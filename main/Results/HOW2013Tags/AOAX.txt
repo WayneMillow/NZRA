@@ -1,0 +1,33 @@
+Team No. 494	Tag ID = AOAX   Tags=0014	Course 6hr
+The Trophy Hunters: Bill Musgrove, Bernie Schluter
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	104		 8/06/2013 10:19:22 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:37:21 AM	  0:08:21	 Punch  10 replaced by Group 58.
+   3	 76	 70	 8/06/2013 10:53:29 AM	  0:16:08	
+   4	 66	 60	 8/06/2013 11:08:47 AM	  0:15:18	
+   5	 74	 70	 8/06/2013 11:46:06 AM	  0:37:19	
+   6	100	100	 8/06/2013 12:00:46 PM	  0:14:40	
+   7	 57	 50	 8/06/2013 12:22:35 PM	  0:21:49	
+   8	 75	 70	 8/06/2013 12:41:42 PM	  0:19:07	
+   9	 39	 30	 8/06/2013  1:11:26 PM 	  0:29:44	
+  10	 77	 70	 8/06/2013  2:08:05 PM 	  0:56:39	
+  11	101	100	 8/06/2013  2:42:20 PM 	  0:34:15	
+  12	 43	 40	 8/06/2013  3:08:27 PM 	  0:26:07	
+  13	 86	 80	 8/06/2013  4:00:06 PM 	  0:51:39	
+  14	 14		 8/06/2013  4:19:13 PM 	  0:19:07	FINISH TIME.
+END
+	AddedPunch84	80
+	AddedPunch71	70
+
+
+Recognised finish time  8/06/2013  4:19:13 PM 
+Time on course   5:50:13
+
+
+  940	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 940

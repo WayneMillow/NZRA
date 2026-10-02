@@ -1,0 +1,33 @@
+Team No. 22	Tag ID = AEAS   Tags=0016	Course 12hr
+Vincent Pooch, Rex Williams and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008  8:43:32 AM 	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008  9:13:14 AM 	  0:13:14	
+   3	 67	 60	14/06/2008  9:35:17 AM 	  0:22:03	
+   4	 41	 40	14/06/2008  9:57:02 AM 	  0:21:45	
+   5	 73	 70	14/06/2008 10:36:59 AM	  0:39:57	
+   6	 91	 90	14/06/2008 11:13:21 AM	  0:36:22	
+   7	 64	 60	14/06/2008 12:20:26 PM	  1:07:05	
+   8	 81	 80	14/06/2008  1:08:49 PM 	  0:48:23	
+   9	 35	 30	14/06/2008  2:10:48 PM 	  1:01:59	
+  10	 75	 70	14/06/2008  2:32:16 PM 	  0:21:28	
+  11	 59	 50	14/06/2008  3:09:49 PM 	  0:37:33	
+  12	 31	 30	14/06/2008  3:20:57 PM 	  0:11:08	
+  13	 49	 40	14/06/2008  3:40:53 PM 	  0:19:56	
+  14	 32	 30	14/06/2008  7:14:49 PM 	  3:33:56	
+  15	 22	 20	14/06/2008  8:09:24 PM 	  0:54:35	
+  16	106		14/06/2008  8:19:18 PM 	  0:09:54	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  8:19:18 PM 
+Time on course  11:19:18
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

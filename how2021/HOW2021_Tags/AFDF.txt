@@ -1,0 +1,32 @@
+Team No. 153	Tag ID = AFDF   Tags=0016	Course 6 hour
+Fit2Run: Amanda Maclennan, Tine Dahlmann and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:09:57 AM	  0:09:57	
+   2	  24 	   20	19/06/2021 11:24:33 AM	  0:14:36	
+   3	  39 	   30	19/06/2021 11:36:43 AM	  0:12:10	
+   4	  47 	   40	19/06/2021 11:59:31 AM	  0:22:48	
+   5	  80 	   80	19/06/2021 12:12:38 PM	  0:13:07	
+   6	  49 	   40	19/06/2021 12:48:26 PM	  0:35:48	
+   7	  67 	   60	19/06/2021  1:14:22 PM	  0:25:56	
+   8	  35 	   30	19/06/2021  1:26:51 PM	  0:12:29	
+   9	 100 	  100	19/06/2021  1:45:29 PM	  0:18:38	
+  10	  41 	   40	19/06/2021  2:16:32 PM	  0:31:03	
+  11	  20 	   20	19/06/2021  2:53:25 PM	  0:36:53	
+  12	  64 	   60	19/06/2021  3:23:32 PM	  0:30:07	
+  13	  26 	   20	19/06/2021  3:47:59 PM	  0:24:27	
+  14	  77 	   70	19/06/2021  4:00:52 PM	  0:12:53	
+  15	  97 		19/06/2021  4:57:29 PM	  0:56:37	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:57:29 PM
+Time on course   5:57:29
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

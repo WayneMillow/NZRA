@@ -1,0 +1,33 @@
+Team No. 221	Tag ID = AUDR   Tags=0016	Course 6hr
+Just the Two of Us: Rebecca Mansfield, Jane Melville
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:51:37 AM	         	BRIEFING. Score reset.
+   2	  42 	   40	15/06/2019 11:14:52 AM	  0:14:52	
+   3	  31 	   30	15/06/2019 11:22:11 AM	  0:07:19	
+   4	  62 	   60	15/06/2019 11:29:50 AM	  0:07:39	
+   5	  64 	   60	15/06/2019 12:00:14 PM	  0:30:24	
+   6	  44 	   40	15/06/2019 12:21:08 PM	  0:20:54	
+   7	  53 	   50	15/06/2019 12:36:12 PM	  0:15:04	
+   8	  75 	   70	15/06/2019 12:59:27 PM	  0:23:15	
+   9	  80 	   80	15/06/2019  1:20:48 PM	  0:21:21	
+  10	  91 	   90	15/06/2019  1:55:59 PM	  0:35:11	
+  11	  52 	   50	15/06/2019  2:38:49 PM	  0:42:50	
+  12	  72 	   70	15/06/2019  2:54:25 PM	  0:15:36	
+  13	  30 	   30	15/06/2019  3:35:56 PM	  0:41:31	
+  14	  20 	   20	15/06/2019  4:11:59 PM	  0:36:03	
+  15	  35 	   30	15/06/2019  4:26:16 PM	  0:14:17	
+  16	  19 		15/06/2019  4:45:43 PM	  0:19:27	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:45:43 PM
+Time on course   5:45:43
+
+
+  720	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 720

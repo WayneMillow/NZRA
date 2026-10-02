@@ -1,0 +1,28 @@
+Team No. 105	Tag ID = APBA   Tags=0011	Course 6hr
+Deb Bain, Sally Dickson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:21:31 AM	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:37:35 AM	  0:07:35	
+   3	 65	 60	 4/07/2009 11:41:20 AM	  1:03:45	
+   4	 25	 20	 4/07/2009 12:01:24 PM	  0:20:04	
+   5	 66	 60	 4/07/2009 12:46:10 PM	  0:44:46	
+   6	 58	 50	 4/07/2009  1:33:00 PM 	  0:46:50	
+   7	 26	 20	 4/07/2009  2:06:56 PM 	  0:33:56	
+   8	 81	 80	 4/07/2009  2:57:42 PM 	  0:50:46	
+   9	 33	 30	 4/07/2009  3:39:51 PM 	  0:42:09	
+  10	 21	 20	 4/07/2009  3:59:17 PM 	  0:19:26	
+  11	105		 4/07/2009  4:20:14 PM 	  0:20:57	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:20:14 PM 
+Time on course   5:50:14
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

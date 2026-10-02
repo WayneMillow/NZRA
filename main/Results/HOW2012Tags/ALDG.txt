@@ -1,0 +1,23 @@
+Team No. 678	Tag ID = ALDG   Tags=0006	Course 6hr
+Suzanne Cocks, Wendy Smith
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		30/06/2012 10:40:16 AM	         	BRIEFING. Score reset.
+   2	 11	 10	30/06/2012 12:11:16 PM	  1:11:16	 Punch  69 replaced by Group 11.
+   3	 12	 10	30/06/2012 12:49:09 PM	  0:37:53	 Punch  77 replaced by Group 12.
+   4	 70	 70	30/06/2012  2:29:51 PM 	  1:40:42	
+   5	 42	 40	30/06/2012  3:56:01 PM 	  1:26:10	
+   6	108		30/06/2012  4:58:40 PM 	  1:02:39	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:58:40 PM 
+Time on course   5:58:40
+
+
+  130	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 130

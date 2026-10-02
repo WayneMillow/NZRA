@@ -1,0 +1,29 @@
+Team No. 214	Tag ID = AFDK   Tags=0013	Course 6hr
+The Stickies: Bethan Edwards, Nicky Edwards
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		15/06/2019 10:42:58 AM	         	BRIEFING. Score reset.
+   2	  42 	   40	15/06/2019 11:19:17 AM	  0:19:17	
+   3	  31 	   30	15/06/2019 11:31:56 AM	  0:12:39	
+   4	  62 	   60	15/06/2019 11:42:06 AM	  0:10:10	
+   5	  53 	   50	15/06/2019 12:08:48 PM	  0:26:42	
+   6	  75 	   70	15/06/2019 12:41:47 PM	  0:32:59	
+   7	  80 	   80	15/06/2019  1:24:17 PM	  0:42:30	
+   8	  91 	   90	15/06/2019  2:02:06 PM	  0:37:49	
+   9	  52 	   50	15/06/2019  2:38:22 PM	  0:36:16	
+  10	  72 	   70	15/06/2019  2:59:37 PM	  0:21:15	
+  11	  30 	   30	15/06/2019  3:49:59 PM	  0:50:22	
+  12	  19 		15/06/2019  4:22:53 PM	  0:32:54	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:22:53 PM
+Time on course   5:22:53
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

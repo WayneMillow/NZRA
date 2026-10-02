@@ -1,0 +1,24 @@
+Team No. 155	Tag ID = AKDF   Tags=0007	Course 6 hour
+Paw Patrol: Lara Scott, Russell Prince
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:30:27 AM	  0:30:27	
+   2	  25 	   20	19/06/2021 11:53:04 AM	  0:22:37	
+   3	  24 	   20	19/06/2021  1:03:24 PM	  1:10:20	
+   4	  39 	   30	19/06/2021  1:28:39 PM	  0:25:15	
+   5	  47 	   40	19/06/2021  1:59:24 PM	  0:30:45	
+   6	  33 	   30	19/06/2021  3:09:22 PM	  1:09:58	
+   7	  57 		19/06/2021  3:27:03 PM	  0:17:41	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  3:27:03 PM
+Time on course   4:27:03
+
+
+  180	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 180

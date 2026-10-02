@@ -1,0 +1,28 @@
+Team No. 192	Tag ID = AHDJ   Tags=0011	Course 3 hour
+The Nameless Wanderers: tania riddington, Blaise Davison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:40:08 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 7/07/2019 12:17:31 PM	  0:17:31	
+   3	  73 	   70	 7/07/2019 12:25:17 PM	  0:07:46	
+   4	  46 	   40	 7/07/2019 12:41:09 PM	  0:15:52	
+   5	  52 	   50	 7/07/2019 12:47:11 PM	  0:06:02	
+   6	  34 	   30	 7/07/2019  1:14:03 PM	  0:26:52	
+   7	  41 	   40	 7/07/2019  2:04:45 PM	  0:50:42	
+   8	  42 	   40	 7/07/2019  2:13:00 PM	  0:08:15	
+   9	  54 	   50	 7/07/2019  2:29:44 PM	  0:16:44	
+  10	  49 	   40	 7/07/2019  2:48:06 PM	  0:18:22	
+  11	  16 		 7/07/2019  2:59:19 PM	  0:11:13	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:59:19 PM
+Time on course   2:59:19
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

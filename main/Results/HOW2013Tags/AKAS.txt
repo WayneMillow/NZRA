@@ -1,0 +1,33 @@
+Team No. 438	Tag ID = AKAS   Tags=0015	Course 6hr
+Spring chicks: Kim Johnston, Helen  Spring
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 10:20:34 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:39:00 AM	  0:10:00	
+   3	 76	 70	 8/06/2013 10:56:34 AM	  0:17:34	
+   4	 66	 60	 8/06/2013 11:15:41 AM	  0:19:07	
+   5	 74	 70	 8/06/2013 11:58:18 AM	  0:42:37	
+   6	100	100	 8/06/2013 12:16:16 PM	  0:17:58	
+   7	 47	 40	 8/06/2013 12:39:35 PM	  0:23:19	
+   8	 56	 50	 8/06/2013 12:54:29 PM	  0:14:54	
+   9	 83	 80	 8/06/2013  1:12:08 PM 	  0:17:39	
+  10	 38	 30	 8/06/2013  1:27:42 PM 	  0:15:34	
+  11	 28	 20	 8/06/2013  1:44:10 PM 	  0:16:28	
+  12	 39	 30	 8/06/2013  1:58:30 PM 	  0:14:20	
+  13	 68	 60	 8/06/2013  2:37:04 PM 	  0:38:34	
+  14	 86	 80	 8/06/2013  2:57:39 PM 	  0:20:35	
+  15	 14		 8/06/2013  3:36:16 PM 	  0:38:37	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  3:36:16 PM 
+Time on course   5:07:16
+
+
+  820	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 820

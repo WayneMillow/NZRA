@@ -1,0 +1,31 @@
+Team No. 63	Tag ID = AEAX   Tags=0015	Course 12hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	VMJ		16/06/2007  8:25:16 AM 	        	BRIEFING. Score reset.
+   2	 23	 20	16/06/2007  9:09:48 AM 	  0:09:48	
+   3	 37	 30	16/06/2007 10:36:46 AM	  1:26:58	
+   4	 28	 20	16/06/2007 11:07:46 AM	  0:31:00	
+   5	 12	 10	16/06/2007 11:25:33 AM	  0:17:47	
+   6	 29	 20	16/06/2007 11:34:21 AM	  0:08:48	
+   7	 36	 30	16/06/2007 11:46:09 AM	  0:11:48	
+   8	 64	 60	16/06/2007 12:19:59 PM	  0:33:50	
+   9	 71	 70	16/06/2007  1:53:12 PM 	  1:33:13	
+  10	 28		16/06/2007  3:50:58 PM 	  1:57:46	     Punched on Line 4
+  11	 34	 30	16/06/2007  4:15:00 PM 	  0:24:02	
+  12	 35	 30	16/06/2007  4:30:45 PM 	  0:15:45	
+  13	 11	 10	16/06/2007  6:15:02 PM 	  1:44:17	
+  14	 24	 20	16/06/2007  7:20:41 PM 	  1:05:39	
+  15	UMH		16/06/2007  7:49:31 PM 	  0:28:50	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  7:49:31 PM 
+Time on course  10:49:31
+
+
+  350	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

@@ -1,0 +1,31 @@
+Team No. 181	Tag ID = AMDH   Tags=0014	Course 6 hour
+Team Geddes: Holly Geddes, Nikki Knowles and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:11:50 AM	  0:11:50	
+   2	  25 	   20	19/06/2021 11:29:42 AM	  0:17:52	
+   3	  77 	   70	19/06/2021 12:07:55 PM	  0:38:13	
+   4	  58 	   50	19/06/2021 12:31:13 PM	  0:23:18	
+   5	  67 	   60	19/06/2021 12:50:04 PM	  0:18:51	
+   6	  35 	   30	19/06/2021  1:05:55 PM	  0:15:51	
+   7	 100 	  100	19/06/2021  1:32:57 PM	  0:27:02	
+   8	  41 	   40	19/06/2021  1:57:12 PM	  0:24:15	
+   9	  96 	   90	19/06/2021  2:32:19 PM	  0:35:07	
+  10	  69 	   60	19/06/2021  2:47:41 PM	  0:15:22	
+  11	  63 	   60	19/06/2021  3:25:40 PM	  0:37:59	
+  12	  40 	   40	19/06/2021  3:59:21 PM	  0:33:41	
+  13	  47 	   40	19/06/2021  4:42:04 PM	  0:42:43	
+  14	  57 		19/06/2021  5:13:06 PM	  0:31:02	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:13:06 PM
+Time on course   6:13:06
+
+
+  700	Points Scored.
+ -140	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

@@ -1,0 +1,29 @@
+Team No. 179	Tag ID = AKAZ   Tags=0013	Course 7hr
+Missing Link: Joanne Phelan (NZL), Tania Holden (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  104		11/02/2017 10:44:48 AM	         	BRIEFING. Score reset.
+   3	  310	   30	11/02/2017 11:09:29 AM	  0:09:29	
+   4	  406	   40	11/02/2017 11:33:02 AM	  0:23:33	
+   5	  507	   50	11/02/2017 11:56:27 AM	  0:23:25	
+   6	  506	   50	11/02/2017 12:28:24 PM	  0:31:57	
+   7	  606	   60	11/02/2017 12:59:15 PM	  0:30:51	
+   8	 1001	  100	11/02/2017  1:43:27 PM	  0:44:12	
+   9	  605	   60	11/02/2017  2:29:36 PM	  0:46:09	
+  10	  508	   50	11/02/2017  3:04:45 PM	  0:35:09	
+  11	  804	   80	11/02/2017  3:31:07 PM	  0:26:22	
+  12	  405	   40	11/02/2017  3:53:04 PM	  0:21:57	
+  13	  108		11/02/2017  5:26:41 PM	  1:33:37	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  5:26:41 PM
+Time on course   6:26:41
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

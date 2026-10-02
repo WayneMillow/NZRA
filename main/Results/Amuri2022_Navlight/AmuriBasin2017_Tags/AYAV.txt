@@ -1,0 +1,29 @@
+Team No. 2244	Tag ID = AYAV   Tags=0011	Course 3Hr
+Kolkata: Manaswita Bhattacharya, Ben Munro and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 9/07/2017 12:09:25 PM	  0:09:25	Manual BRIEF allowed.
+   2	  41 	   40	 9/07/2017 12:27:31 PM	  0:18:06	
+   3	  63 	   60	 9/07/2017 12:45:43 PM	  0:18:12	
+   4	  64 	   60	 9/07/2017  1:04:37 PM	  0:18:54	
+   5	  73 	   70	 9/07/2017  1:29:08 PM	  0:24:31	
+   6	  58 	   50	 9/07/2017  1:57:11 PM	  0:28:03	
+   7	  55 	   50	 9/07/2017  2:13:38 PM	  0:16:27	
+   8	  81 	   80	 9/07/2017  2:33:18 PM	  0:19:40	
+   9	  31 	   30	 9/07/2017  2:46:47 PM	  0:13:29	
+  10	  37 	   30	 9/07/2017  2:55:28 PM	  0:08:41	
+  11	 108 		 9/07/2017  3:00:35 PM	  0:05:07	FINISH TIME.
+END
+	Manual BRIEF Accepted on line 1
+
+
+Recognised finish time  9/07/2017  3:00:35 PM
+Time on course   3:00:35
+
+
+  490	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

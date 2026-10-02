@@ -1,0 +1,20 @@
+Team No. 76	Tag ID = AGAY   Tags=0003	Course 6hr
+St Jo's Kaikoura 1: Tamzyn Reid, Ben Ross and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023  2:38:26 PM	  3:38:26	
+   2	  64 	   60	 1/07/2023  3:04:41 PM	  0:26:15	
+   3	  17 		 1/07/2023  4:15:08 PM	  1:10:27	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:15:08 PM
+Time on course   5:15:08
+
+
+  100	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 100

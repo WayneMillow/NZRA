@@ -1,0 +1,13 @@
+
+
+$header
+
+$realname  ($email)
+Street: $Street
+  Town: $Town
+ Phone: $Phone
+   Fax: $Fax
+
+Comments:
+    $Comments
+

@@ -1,0 +1,31 @@
+Team No. 56	Tag ID = AQAW   Tags=0014	Course 12hr
+Norfolk and Clue: Sarah MacAvoy, Pennie Saunders
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		15/06/2019  8:50:07 AM	         	BRIEFING. Score reset.
+   2	  35 	   30	15/06/2019  9:23:30 AM	  0:23:30	
+   3	  73 	   70	15/06/2019 10:01:49 AM	  0:38:19	
+   4	  69 	   60	15/06/2019 10:23:31 AM	  0:21:42	
+   5	  92 	   90	15/06/2019 10:48:32 AM	  0:25:01	
+   6	  61 	   60	15/06/2019 12:13:05 PM	  1:24:33	
+   7	 100 	  100	15/06/2019 12:45:20 PM	  0:32:15	
+   8	  60 	   60	15/06/2019  1:19:54 PM	  0:34:34	
+   9	  51 	   50	15/06/2019  1:42:48 PM	  0:22:54	
+  10	  96 	   90	15/06/2019  2:07:12 PM	  0:24:24	
+  11	 105 	  100	15/06/2019  2:38:31 PM	  0:31:19	
+  12	  65 	   60	15/06/2019  3:16:15 PM	  0:37:44	
+  13	  50 	   50	15/06/2019  3:59:44 PM	  0:43:29	
+  14	  16 		15/06/2019  6:13:19 PM	  2:13:35	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  6:13:19 PM
+Time on course   9:13:19
+
+
+  820	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 820

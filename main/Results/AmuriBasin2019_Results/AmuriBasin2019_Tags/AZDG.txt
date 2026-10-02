@@ -1,0 +1,32 @@
+Team No. 175	Tag ID = AZDG   Tags=0015	Course 3 hour
+Dazza's Angels: Daryl Mauger, Angela Harris and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:46:51 AM	         	BRIEFING. Score reset.
+   2	  73 	   70	 7/07/2019 12:16:29 PM	  0:16:29	
+   3	  46 	   40	 7/07/2019 12:28:27 PM	  0:11:58	
+   4	  52 	   50	 7/07/2019 12:35:09 PM	  0:06:42	
+   5	  43 	   40	 7/07/2019 12:58:32 PM	  0:23:23	
+   6	  62 	   60	 7/07/2019  1:13:56 PM	  0:15:24	
+   7	  66 	   60	 7/07/2019  1:28:52 PM	  0:14:56	
+   8	  77 	   70	 7/07/2019  1:40:24 PM	  0:11:32	
+   9	  40 	   40	 7/07/2019  1:50:34 PM	  0:10:10	
+  10	  48 	   40	 7/07/2019  2:18:27 PM	  0:27:53	
+  11	  85 	   80	 7/07/2019  2:26:48 PM	  0:08:21	
+  12	  49 	   40	 7/07/2019  3:04:51 PM	  0:38:03	
+  13	  26 	   20	 7/07/2019  3:08:56 PM	  0:04:05	
+  14	  19 		 7/07/2019  3:11:47 PM	  0:02:51	FINISH TIME.
+  15	  18 		 7/07/2019  3:11:49 PM	  0:00:02	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  7/07/2019  3:11:47 PM
+Time on course   3:11:47
+
+
+  610	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

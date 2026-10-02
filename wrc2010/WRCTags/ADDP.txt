@@ -1,0 +1,27 @@
+Team No. 546	Tag ID = ADDP   Tags=0010	Course 0
+Belinda Bright (AUS), Debbie Hotchkis (AUS)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 B6		20/11/2010 11:58:01 AM	         	BRIEFING. Score reset.
+   2	 58	 50	20/11/2010 12:58:42 PM	  0:58:42	
+   3	 94	 90	20/11/2010  1:24:07 PM 	  0:25:25	
+   4	 25	 20	20/11/2010  2:34:55 PM 	  1:10:48	
+   5	102	100	20/11/2010  3:58:59 PM 	  1:24:04	
+   6	 65	 60	20/11/2010  5:02:06 PM 	  1:03:07	
+   7	 46	 40	20/11/2010  6:54:15 PM 	  1:52:09	
+   8	 29	 20	20/11/2010  7:22:40 PM 	  0:28:25	
+   9	 F1		20/11/2010  8:38:27 PM 	  1:15:47	FINISH TIME.
+  10	 F2		21/11/2010 11:10:34 AM	 14:32:07	FINISH TIME.
+END
+
+
+Recognised finish time 21/11/2010 11:10:34 AM
+Time on course  23:10:34
+
+
+  380	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 380

@@ -1,0 +1,28 @@
+Team No. 217	Tag ID = AUDM   Tags=0011	Course 6 hour
+UltraGrr's: Graeme Read, Richard English
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  7:54:55 PM	         	BRIEFING. Score reset.
+   2	  87 	   80	 7/11/2020  1:46:21 PM	  0:46:21	
+   3	 104 	  100	 7/11/2020  2:46:57 PM	  1:00:36	
+   4	  44 	   40	 7/11/2020  3:15:45 PM	  0:28:48	
+   5	  89 	   80	 7/11/2020  3:37:40 PM	  0:21:55	
+   6	  73 	   70	 7/11/2020  4:12:21 PM	  0:34:41	
+   7	  83 	   80	 7/11/2020  5:07:35 PM	  0:55:14	
+   8	  45 	   40	 7/11/2020  5:24:20 PM	  0:16:45	
+   9	  85 	   80	 7/11/2020  5:43:59 PM	  0:19:39	
+  10	 107 	  100	 7/11/2020  6:25:16 PM	  0:41:17	
+  11	  17 		 7/11/2020  6:59:23 PM	  0:34:07	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:59:23 PM
+Time on course   5:59:23
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

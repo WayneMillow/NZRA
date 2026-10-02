@@ -1,0 +1,24 @@
+Team No. 73	Tag ID = AZAX   Tags=0007	Course 7Hour
+Baby Cuz and Blondie: Natasha Black, Daniel Black
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:50:04 AM	         	BRIEFING. Score reset.
+   2	 30	 30	16/02/2015  2:56:11 AM	         	Punch clock failed.
+   3	 11	 10	27/02/2016 12:09:21 PM	  1:09:21	
+   4	 81	 80	27/02/2016 12:43:08 PM	  0:33:47	
+   5	 52	 50	27/02/2016  3:56:10 PM	  3:13:02	
+   6	 21	 20	27/02/2016  4:48:35 PM	  0:52:25	
+   7	 17		27/02/2016  5:15:28 PM	  0:26:53	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:15:28 PM
+Time on course   6:15:28
+
+
+  190	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

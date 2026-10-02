@@ -1,0 +1,32 @@
+Team No. 2106	Tag ID = ASAQ   Tags=0015	Course 3Hr
+One more round: Mellisssa Brown, Donna Inwood and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:53:26 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:06:26 PM	  0:06:26	
+   3	  41 	   40	 9/07/2017 12:15:14 PM	  0:08:48	
+   4	  63 	   60	 9/07/2017 12:30:12 PM	  0:14:58	
+   5	  64 	   60	 9/07/2017 12:43:29 PM	  0:13:17	
+   6	  23 	   20	 9/07/2017 12:55:32 PM	  0:12:03	
+   7	  35 	   30	 9/07/2017  1:02:01 PM	  0:06:29	
+   8	  84 	   80	 9/07/2017  1:14:45 PM	  0:12:44	
+   9	  73 	   70	 9/07/2017  1:30:13 PM	  0:15:28	
+  10	  67 	   60	 9/07/2017  1:58:28 PM	  0:28:15	
+  11	  93 	   90	 9/07/2017  2:10:17 PM	  0:11:49	
+  12	  33 	   30	 9/07/2017  2:44:01 PM	  0:33:44	
+  13	  31 	   30	 9/07/2017  2:49:15 PM	  0:05:14	
+  14	  37 	   30	 9/07/2017  2:54:39 PM	  0:05:24	
+  15	 108 		 9/07/2017  2:58:54 PM	  0:04:15	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:58:54 PM
+Time on course   2:58:54
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

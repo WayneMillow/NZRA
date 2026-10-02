@@ -1,0 +1,29 @@
+Team No. 158	Tag ID = AQDF   Tags=0013	Course 6hr
+KFC: Fiona McDonald, Claire Morris and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:45:56 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	15/06/2019 11:21:57 AM	  0:21:57	
+   3	  54 	   50	15/06/2019 11:39:52 AM	  0:17:55	
+   4	  83 	   80	15/06/2019 12:04:42 PM	  0:24:50	
+   5	  49 	   40	15/06/2019 12:23:08 PM	  0:18:26	
+   6	  82 	   80	15/06/2019 12:56:59 PM	  0:33:51	
+   7	  43 	   40	15/06/2019  2:00:37 PM	  1:03:38	
+   8	  73 	   70	15/06/2019  2:25:55 PM	  0:25:18	
+   9	  35 	   30	15/06/2019  3:09:43 PM	  0:43:48	
+  10	  20 	   20	15/06/2019  3:32:24 PM	  0:22:41	
+  11	  31 	   30	15/06/2019  4:24:46 PM	  0:52:22	
+  12	  19 		15/06/2019  4:41:32 PM	  0:16:46	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:41:32 PM
+Time on course   5:41:32
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

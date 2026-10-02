@@ -1,0 +1,32 @@
+Team No. 142	Tag ID = ANBD   Tags=0016	Course 6hr
+Kerry Glynn, Leigh Gray and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 11		14/06/2008 10:44:42 AM	         	BRIEFING. Score reset.
+   3	 30	 30	14/06/2008 11:09:51 AM	  0:09:51	     Group 30 replaces 98.
+   4	 67	 60	14/06/2008 11:29:03 AM	  0:19:12	
+   5	 51	 50	14/06/2008 11:49:38 AM	  0:20:35	
+   6	 82	 80	14/06/2008 12:13:29 PM	  0:23:51	
+   7	 41	 40	14/06/2008 12:33:23 PM	  0:19:54	
+   8	 44	 40	14/06/2008 12:48:47 PM	  0:15:24	
+   9	 57	 50	14/06/2008  1:14:54 PM 	  0:26:07	
+  10	 91	 90	14/06/2008  1:44:54 PM 	  0:30:00	
+  11	 73	 70	14/06/2008  2:06:33 PM 	  0:21:39	
+  12	 45	 40	14/06/2008  2:29:36 PM 	  0:23:03	
+  13	 81	 80	14/06/2008  3:27:08 PM 	  0:57:32	
+  14	 35	 30	14/06/2008  3:54:53 PM 	  0:27:45	
+  15	 59	 50	14/06/2008  4:33:29 PM 	  0:38:36	
+  16	106		14/06/2008  5:02:50 PM 	  0:29:21	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  5:02:50 PM 
+Time on course   6:02:50
+
+
+  710	Points Scored.
+   30	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 680

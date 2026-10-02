@@ -1,0 +1,28 @@
+Team No. 56	Tag ID = ARAW   Tags=0011	Course 24 Hour
+Two Cubes: Sue Galloway, Cherie McKenzie
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		23/11/2019 11:59:05 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	23/11/2019 12:19:43 PM	  0:19:43	
+   3	  51 	   50	23/11/2019  1:00:26 PM	  0:40:43	
+   4	  71 	   70	23/11/2019  1:59:02 PM	  0:58:36	
+   5	  80 	   80	23/11/2019  2:50:50 PM	  0:51:48	
+   6	  87 	   80	23/11/2019  4:23:22 PM	  1:32:32	
+   7	  61 	   60	23/11/2019  5:21:59 PM	  0:58:37	
+   8	  55 	   50	23/11/2019  7:08:56 PM	  1:46:57	
+   9	  73 	   70	23/11/2019  8:01:49 PM	  0:52:53	
+  10	  65 	   60	23/11/2019  8:59:13 PM	  0:57:24	
+  11	  19 		24/11/2019 10:43:13 AM	 13:44:00	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2019 10:43:13 AM
+Time on course  22:43:13
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

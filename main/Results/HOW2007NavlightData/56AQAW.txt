@@ -1,0 +1,30 @@
+Team No. 56	Tag ID = AQAW   Tags=0014	Course 12hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	KMH		12/06/2006  3:16:16 PM 	        	BRIEFING. Score reset.
+   2	 11	 10	16/06/2007  9:07:51 AM 	  0:07:51	
+   3	 24	 20	16/06/2007  9:22:24 AM 	  0:14:33	
+   4	 51	 50	16/06/2007  9:47:32 AM 	  0:25:08	
+   5	 33	 30	16/06/2007 11:07:30 AM	  1:19:58	
+   6	 46	 40	16/06/2007 11:32:59 AM	  0:25:29	
+   7	 27	 20	16/06/2007 12:13:38 PM	  0:40:39	
+   8	 64	 60	16/06/2007 12:46:24 PM	  0:32:46	
+   9	 71	 70	16/06/2007  1:53:33 PM 	  1:07:09	
+  10	 34	 30	16/06/2007  3:00:46 PM 	  1:07:13	
+  11	 28	 20	16/06/2007  4:47:44 PM 	  1:46:58	
+  12	 37	 30	16/06/2007  5:05:51 PM 	  0:18:07	
+  13	 23	 20	16/06/2007  6:26:21 PM 	  1:20:30	
+  14	QMH		16/06/2007  8:01:52 PM 	  1:35:31	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  8:01:52 PM 
+Time on course  11:01:52
+
+
+  400	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

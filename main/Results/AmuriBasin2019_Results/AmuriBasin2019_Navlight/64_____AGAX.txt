@@ -1,0 +1,31 @@
+Team No. 64	Tag ID = AGAX   Tags=0014	Course 6 hour
+Caffeine Aftershocks: Kelly Ashley, Shane Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 7/07/2019  9:49:52 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 7/07/2019 10:18:21 AM	  0:18:21	
+   3	  51 	   50	 7/07/2019 10:38:05 AM	  0:19:44	
+   4	  49 	   40	 7/07/2019 10:50:26 AM	  0:12:21	
+   5	  65 	   60	 7/07/2019 11:16:28 AM	  0:26:02	
+   6	  45 	   40	 7/07/2019 11:37:10 AM	  0:20:42	
+   7	  53 	   50	 7/07/2019 12:12:17 PM	  0:35:07	
+   8	  54 	   50	 7/07/2019 12:32:28 PM	  0:20:11	
+   9	  42 	   40	 7/07/2019  1:03:38 PM	  0:31:10	
+  10	  57 	   50	 7/07/2019  1:29:25 PM	  0:25:47	
+  11	  85 	   80	 7/07/2019  2:10:19 PM	  0:40:54	
+  12	  48 	   40	 7/07/2019  2:28:01 PM	  0:17:42	
+  13	  62 	   60	 7/07/2019  3:11:05 PM	  0:43:04	
+  14	  18 		 7/07/2019  4:04:17 PM	  0:53:12	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  4:04:17 PM
+Time on course   6:04:17
+
+
+  590	Points Scored.
+ -100	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

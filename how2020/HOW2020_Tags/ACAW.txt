@@ -1,0 +1,32 @@
+Team No. 334	Tag ID = ACAW   Tags=0015	Course 6hrA
+wallflowers: Frances Wall, David Wall
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020  8:44:59 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	 4/07/2020  9:14:34 AM	  0:14:34	
+   3	  56 	   50	 4/07/2020  9:18:29 AM	  0:03:55	
+   4	  31 	   30	 4/07/2020  9:56:21 AM	  0:37:52	
+   5	 105 	  100	 4/07/2020 10:03:56 AM	  0:07:35	
+   6	  28 	   20	 4/07/2020 10:24:14 AM	  0:20:18	
+   7	  42 	   40	 4/07/2020 10:35:32 AM	  0:11:18	
+   8	  71 	   70	 4/07/2020 11:10:37 AM	  0:35:05	
+   9	  52 	   50	 4/07/2020 11:31:16 AM	  0:20:39	
+  10	  59 	   50	 4/07/2020 11:56:49 AM	  0:25:33	
+  11	  43 	   40	 7/07/2019  9:50:15 PM	         	Punch clock failed.
+  12	  49 	   40	 4/07/2020 12:49:32 PM	  0:52:43	
+  13	  48 	   40	 4/07/2020  1:04:26 PM	  0:14:54	
+  14	  74 	   70	 4/07/2020  2:28:22 PM	  1:23:56	
+  15	  14 		 4/07/2020  3:11:00 PM	  0:42:38	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  3:11:00 PM
+Time on course   6:11:00
+
+
+  620	Points Scored.
+ -220	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

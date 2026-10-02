@@ -1,0 +1,31 @@
+Team No. 2182	Tag ID = AZBA   Tags=0014	Course 6Hr
+Willis and Co: Carol Wilson, Simon Wilson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:46:12 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:06:05 AM	  0:06:05	 Punch  11 replaced by Group 27.
+   3	 21	 20	10/06/2017 11:15:46 AM	  0:09:41	
+   4	 40	 40	10/06/2017 11:35:44 AM	  0:19:58	
+   5	 42	 40	10/06/2017 11:59:13 AM	  0:23:29	
+   6	 71	 70	10/06/2017 12:23:43 PM	  0:24:30	
+   7	100	100	10/06/2017 12:50:12 PM	  0:26:29	
+   8	 61	 60	10/06/2017  1:28:27 PM	  0:38:15	
+   9	 23	 20	10/06/2017  2:12:03 PM	  0:43:36	
+  10	 70	 70	10/06/2017  2:43:48 PM	  0:31:45	
+  11	 25	 20	10/06/2017  3:20:08 PM	  0:36:20	
+  12	 22	 20	10/06/2017  3:53:24 PM	  0:33:16	
+  13	 29	 20	10/06/2017  4:25:50 PM	  0:32:26	 Punch  50 replaced by Group 29.
+  14	107		10/06/2017  4:31:46 PM	  0:05:56	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:31:46 PM
+Time on course   5:31:46
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

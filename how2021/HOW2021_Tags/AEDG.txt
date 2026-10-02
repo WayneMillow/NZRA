@@ -1,0 +1,32 @@
+Team No. 165	Tag ID = AEDG   Tags=0015	Course 6 hour
+Blistered Sisters: Annalese Lissington, Debby Galletly and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:08:22 AM	  0:08:22	
+   2	  24 	   20	19/06/2021 11:17:53 AM	  0:09:31	
+   3	  39 	   30	19/06/2021 11:28:31 AM	  0:10:38	
+   4	  47 	   40	19/06/2021 11:46:34 AM	  0:18:03	
+   5	  80 	   80	19/06/2021 11:58:39 AM	  0:12:05	
+   6	  59 	   50	19/06/2021 12:39:31 PM	  0:40:52	
+   7	  61 	   60	19/06/2021  1:19:10 PM	  0:39:39	
+   8	  72 	   70	19/06/2021  1:39:35 PM	  0:20:25	
+   9	  52 	   50	19/06/2021  1:58:24 PM	  0:18:49	
+  10	 102 	  100	19/06/2021  2:15:42 PM	  0:17:18	
+  11	  42 	   40	19/06/2021  2:45:52 PM	  0:30:10	
+  12	  62 	   60	19/06/2021  3:03:46 PM	  0:17:54	
+  13	  31 	   30	19/06/2021  3:27:09 PM	  0:23:23	
+  14	  50 	   50	19/06/2021  3:56:15 PM	  0:29:06	
+  15	  57 		19/06/2021  5:13:38 PM	  1:17:23	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:13:38 PM
+Time on course   6:13:38
+
+
+  710	Points Scored.
+ -140	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

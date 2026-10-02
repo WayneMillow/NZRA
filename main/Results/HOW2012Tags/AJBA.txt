@@ -1,0 +1,37 @@
+Team No. 611	Tag ID = AJBA   Tags=0020	Course 6hr
+Bill Musgrove, Mark Hawkins and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 17		30/06/2012 10:44:59 AM	         	BRIEFING. Score reset.
+   2	 12	 10	30/06/2012 11:05:59 AM	  0:05:59	 Punch  77 replaced by Group 12.
+   3	 43	 40	30/06/2012 11:19:03 AM	  0:13:04	 Punch  86 replaced by Group 43.
+   4	 32	 30	30/06/2012 11:31:33 AM	  0:12:30	
+   5	 70	 70	30/06/2012 11:50:08 AM	  0:18:35	
+   6	 81	 80	30/06/2012 12:06:17 PM	  0:16:09	
+   7	 62	 60	30/06/2012 12:22:59 PM	  0:16:42	
+   8	 21	 20	30/06/2012 12:52:09 PM	  0:29:10	
+   9	 33	 30	30/06/2012 12:56:50 PM	  0:04:41	
+  10	 44	 40	30/06/2012  1:18:58 PM 	  0:22:08	
+  11	 91	 90	30/06/2012  1:41:23 PM 	  0:22:25	
+  12	 72	 70	30/06/2012  1:59:11 PM 	  0:17:48	
+  13	 35	 30	30/06/2012  2:21:12 PM 	  0:22:01	
+  14	 22	 20	30/06/2012  2:38:04 PM 	  0:16:52	
+  15	 48	 40	30/06/2012  2:51:46 PM 	  0:13:42	
+  16	 63	 60	30/06/2012  3:16:16 PM 	  0:24:30	
+  17	 83	 80	30/06/2012  3:43:44 PM 	  0:27:28	
+  18	 54	 50	30/06/2012  4:09:47 PM 	  0:26:03	
+  19	 93	 90	30/06/2012  4:35:16 PM 	  0:25:29	 Punch  97 replaced by Group 93.
+  20	107		30/06/2012  4:47:36 PM 	  0:12:20	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:47:36 PM 
+Time on course   5:47:36
+
+
+  910	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 910

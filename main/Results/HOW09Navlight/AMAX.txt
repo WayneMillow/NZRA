@@ -1,0 +1,31 @@
+Team No. 66	Tag ID = AMAX   Tags=0014	Course 6hr
+Nigel & Paul: Nigel Leigh, Paul Conner
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:22:08 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009 10:46:56 AM	  0:16:56	
+   3	 81	 80	 4/07/2009 11:11:39 AM	  0:24:43	
+   4	 58	 50	 4/07/2009 12:03:57 PM	  0:52:18	
+   5	 26	 20	 4/07/2009 12:29:04 PM	  0:25:07	
+   6	 46	 40	 4/07/2009  1:03:13 PM 	  0:34:09	
+   7	 38	 30	 4/07/2009  1:44:21 PM 	  0:41:08	
+   8	 57	 50	 4/07/2009  2:15:07 PM 	  0:30:46	
+   9	 47	 40	 4/07/2009  2:37:13 PM 	  0:22:06	
+  10	 66	 60	 4/07/2009  3:06:46 PM 	  0:29:33	
+  11	 25	 20	 4/07/2009  3:35:44 PM 	  0:28:58	
+  12	 65	 60	 4/07/2009  3:47:31 PM 	  0:11:47	
+  13	 10	 10	 4/07/2009  4:11:47 PM 	  0:24:16	
+  14	106		 4/07/2009  4:23:33 PM 	  0:11:46	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:23:33 PM 
+Time on course   5:53:33
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

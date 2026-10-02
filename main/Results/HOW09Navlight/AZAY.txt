@@ -1,0 +1,24 @@
+Team No. 85	Tag ID = AZAY   Tags=0007	Course 12hr
+Seppo Kuusisto, Norilie Lopez
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  8:46:32 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009  9:14:54 AM 	  0:09:54	
+   3	 65	 60	 4/07/2009  9:53:15 AM 	  0:38:21	
+   4	 25	 20	 4/07/2009 10:19:47 AM	  0:26:32	
+   5	 66	 60	 4/07/2009 11:04:49 AM	  0:45:02	
+   6	 58	 50	 4/07/2009 11:41:54 AM	  0:37:05	
+   7	104		 4/07/2009  2:55:24 PM 	  3:13:30	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  2:55:24 PM 
+Time on course   5:50:24
+
+
+  200	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 200

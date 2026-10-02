@@ -1,0 +1,30 @@
+Team No. 4	Tag ID = ATAQ   Tags=0013	Course 6hr
+Better at Running up a Tab: Kate Boyd, Kylee Habgood and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  60 	   60	 3/07/2022 10:10:09 AM	  0:10:09	
+   2	  42 	   40	 3/07/2022 10:31:16 AM	  0:21:07	
+   3	  63 	   60	 3/07/2022 11:09:01 AM	  0:37:45	
+   4	  96 	   90	 3/07/2022 11:27:14 AM	  0:18:13	
+   5	  49 	   40	 3/07/2022 12:09:11 PM	  0:41:57	
+   6	  79 	   70	 3/07/2022 12:36:11 PM	  0:27:00	
+   7	  69 	   60	 3/07/2022 12:46:02 PM	  0:09:51	
+   8	  95 	   90	 3/07/2022  1:16:35 PM	  0:30:33	
+   9	  83 	   80	 3/07/2022  1:39:50 PM	  0:23:15	
+  10	  59 	   50	 3/07/2022  1:47:30 PM	  0:07:40	
+  11	  29 	   20	 3/07/2022  1:59:34 PM	  0:12:04	
+  12	  78 	   70	 3/07/2022  2:14:54 PM	  0:15:20	
+  13	  19 		 3/07/2022  3:53:28 PM	  1:38:34	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:53:28 PM
+Time on course   5:53:28
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

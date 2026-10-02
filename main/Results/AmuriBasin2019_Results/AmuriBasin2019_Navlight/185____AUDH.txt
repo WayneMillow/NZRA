@@ -1,0 +1,31 @@
+Team No. 185	Tag ID = AUDH   Tags=0014	Course 3 hour
+End Game: Debby Galletly, Robyn Frost and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:49:07 AM	         	BRIEFING. Score reset.
+   2	  26 	   20	 7/07/2019 12:03:39 PM	  0:03:39	
+   3	  51 	   50	 7/07/2019 12:12:53 PM	  0:09:14	
+   4	  65 	   60	 7/07/2019 12:29:58 PM	  0:17:05	
+   5	  28 	   20	 7/07/2019 12:41:46 PM	  0:11:48	
+   6	  54 	   50	 7/07/2019 12:53:41 PM	  0:11:55	
+   7	  41 	   40	 7/07/2019  1:03:16 PM	  0:09:35	
+   8	  42 	   40	 7/07/2019  1:19:46 PM	  0:16:30	
+   9	  57 	   50	 7/07/2019  1:25:49 PM	  0:06:03	
+  10	  85 	   80	 7/07/2019  1:44:40 PM	  0:18:51	
+  11	  48 	   40	 7/07/2019  1:58:14 PM	  0:13:34	
+  12	  55 	   50	 7/07/2019  2:17:25 PM	  0:19:11	
+  13	  62 	   60	 7/07/2019  2:31:46 PM	  0:14:21	
+  14	  16 		 7/07/2019  3:09:05 PM	  0:37:19	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:09:05 PM
+Time on course   3:09:05
+
+
+  560	Points Scored.
+ -100	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

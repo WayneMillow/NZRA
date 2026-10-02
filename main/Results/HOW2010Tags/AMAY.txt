@@ -1,0 +1,33 @@
+Team No. 656	Tag ID = AMAY   Tags=0016	Course 6_HoW
+Lydia Nuttall, Lydia Hadfield
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 23		26/06/2010 10:28:23 AM	         	BRIEFING. Score reset.
+   2	 46	 40	26/06/2010 11:12:38 AM	  0:12:38	 Punch  03 replaced by Group 46.
+   3	 94	 90	26/06/2010 11:19:55 AM	  0:07:17	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 37	 30	24/06/2010  6:37:00 PM 	         	1.683 Days early.
+   6	 76	 70	26/06/2010 12:15:49 PM	  1:06:50	 Punch  04 replaced by Group 76.
+   7	 58	 50	26/06/2010 12:30:33 PM	  0:14:44	
+   8	 86	 80	26/06/2010 12:55:55 PM	  0:25:22	
+   9	102	100	26/06/2010  1:27:06 PM 	  0:31:11	
+  10	 77	 70	26/06/2010  1:39:11 PM 	  0:12:05	
+  11	 85	 80	26/06/2010  2:08:11 PM 	  0:29:00	
+  12	 84	 80	26/06/2010  3:47:17 PM 	  1:39:06	
+  13	 56	 50	26/06/2010  4:03:37 PM 	  0:16:20	
+  14	 45	 40	26/06/2010  4:17:00 PM 	  0:13:23	
+  15	 18		26/06/2010  4:44:21 PM 	  0:27:21	FINISH TIME.
+  16	 18		26/06/2010  4:44:22 PM 	  0:00:01	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:44:22 PM 
+Time on course   5:44:22
+
+
+  830	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 830

@@ -1,0 +1,37 @@
+Team No. 686	Tag ID = ABDH   Tags=0020	Course 6hr
+Catherine Loye, Ellie Stuckey and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		30/06/2012 10:48:19 AM	         	BRIEFING. Score reset.
+   2	 93	 90	30/06/2012 11:13:33 AM	  0:13:33	
+   3	 54	 50	30/06/2012 11:42:29 AM	  0:28:56	
+   4	 83	 80	30/06/2012 12:15:24 PM	  0:32:55	
+   5	 48	 40	30/06/2012 12:41:36 PM	  0:26:12	
+   6	 22	 20	30/06/2012 12:54:34 PM	  0:12:58	
+   7	 35	 30	30/06/2012  1:23:28 PM 	  0:28:54	
+   8	 72	 70	30/06/2012  1:35:19 PM 	  0:11:51	
+   9	 91	 90	30/06/2012  1:54:46 PM 	  0:19:27	
+  10	 44	 40	30/06/2012  2:10:11 PM 	  0:15:25	
+  11	 33	 30	30/06/2012  2:30:49 PM 	  0:20:38	
+  12	 62	 60	30/06/2012  3:01:54 PM 	  0:31:05	
+  13	 81	 80	30/06/2012  3:20:17 PM 	  0:18:23	
+  14	 70	 70	30/06/2012  3:41:40 PM 	  0:21:23	
+  15	 32	 30	30/06/2012  3:56:11 PM 	  0:14:31	
+  16	 43	 40	30/06/2012  4:08:06 PM 	  0:11:55	 Punch  86 replaced by Group 43.
+  17	 20	 20	30/06/2012  4:24:54 PM 	  0:16:48	 Punch  79 replaced by Group 20.
+  18	 10	 10	30/06/2012  4:29:53 PM 	  0:04:59	 Punch  67 replaced by Group 10.
+  19	 12	 10	30/06/2012  4:45:38 PM 	  0:15:45	
+  20	109		30/06/2012  4:50:55 PM 	  0:05:17	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:50:55 PM 
+Time on course   5:50:55
+
+
+  860	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 860

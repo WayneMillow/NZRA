@@ -1,0 +1,28 @@
+Team No. 56	Tag ID = AQAW   Tags=0011	Course 24 Hour
+Two Cubes: Sue Galloway, Cherie McKenzie
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		23/11/2019 11:59:03 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	23/11/2019 12:19:45 PM	  0:19:45	
+   3	  51 	   50	23/11/2019  1:00:23 PM	  0:40:38	
+   4	  71 	   70	23/11/2019  1:58:56 PM	  0:58:33	
+   5	  80 	   80	23/11/2019  2:50:43 PM	  0:51:47	
+   6	  87 	   80	23/11/2019  4:23:16 PM	  1:32:33	
+   7	  61 	   60	23/11/2019  5:22:04 PM	  0:58:48	
+   8	  55 	   50	23/11/2019  7:09:42 PM	  1:47:38	
+   9	  73 	   70	23/11/2019  8:01:51 PM	  0:52:09	
+  10	  65 	   60	23/11/2019  8:59:20 PM	  0:57:29	
+  11	  18 		24/11/2019 10:42:58 AM	 13:43:38	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2019 10:42:58 AM
+Time on course  22:42:58
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

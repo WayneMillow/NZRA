@@ -1,0 +1,25 @@
+Team No. 32	Tag ID = AZAS   Tags=0008	Course 7Hour
+Andy Jo: Jo Martindale, Andy Thompson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:49:39 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:18:02 AM	  0:18:02	
+   3	 52	 50	27/02/2016 11:35:38 AM	  0:17:36	
+   4	 93	 90	27/02/2016 12:10:42 PM	  0:35:04	
+   5	 72	 70	27/02/2016  1:33:24 PM	  1:22:42	
+   6	 54	 50	27/02/2016  2:39:11 PM	  1:05:47	
+   7	100	100	27/02/2016  3:36:32 PM	  0:57:21	
+   8	 19		27/02/2016  6:04:22 PM	  2:27:50	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  6:04:22 PM
+Time on course   7:04:22
+
+
+  380	Points Scored.
+  -50	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 330

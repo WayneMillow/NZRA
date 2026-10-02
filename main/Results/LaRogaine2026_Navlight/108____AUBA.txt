@@ -1,0 +1,22 @@
+Team No. 108	Tag ID = AUBA   Tags=0005	Course 03 hour
+Peak Predators: Nikolai Wright, Jane Wright and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:47:28 am	         	BRIEFING. Score reset.
+   2	  31 	20	31/01/2026 11:45:27 am	  0:45:27	
+   3	  20 	30	31/01/2026 11:51:01 am	  0:05:34	
+   4	  80 	80	31/01/2026  1:00:16 pm	  1:09:15	
+   5	  18 		31/01/2026  1:53:07 pm	  0:52:51	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  1:53:07 pm
+Time on course   2:53:07
+
+
+  130	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 130

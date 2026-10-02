@@ -1,0 +1,30 @@
+Team No. 2213	Tag ID = AGBC   Tags=0013	Course 6Hr
+Panda: Amanda Richards, Paula Bateup
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:47:03 AM	         	BRIEFING. Score reset.
+   2	 29	 20	10/06/2017 11:03:42 AM	  0:03:42	 Punch  50 replaced by Group 29.
+   3	 20	 20	10/06/2017 11:20:55 AM	  0:17:13	
+   4	 31	 30	10/06/2017 11:43:57 AM	  0:23:02	
+   5	 41	 40	10/06/2017 12:13:13 PM	  0:29:16	
+   6	 37	 30	10/06/2017 12:51:56 PM	  0:38:43	
+   7	 80	 80	10/06/2017  1:18:01 PM	  0:26:05	
+   8	 51	 50	10/06/2017  1:41:39 PM	  0:23:38	
+   9	 28	 20	10/06/2017  1:57:18 PM	  0:15:39	
+  10	 81	 80	10/06/2017  2:28:08 PM	  0:30:50	
+  11	100	100	10/06/2017  3:17:51 PM	  0:49:43	
+  12	 22	 20	10/06/2017  4:14:42 PM	  0:56:51	
+  13	109		10/06/2017  4:41:34 PM	  0:26:52	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:41:34 PM
+Time on course   5:41:34
+
+
+  490	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 490

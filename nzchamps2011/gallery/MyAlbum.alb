@@ -1,0 +1,255 @@
+<webalbum version="1.8.2">
+  <title></title>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <outputdirectory>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\Album2\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>14</thumbnailrows>
+    <thumbnailcols>5</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <caption>
+        <line>Full moon - awesome</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\Full moon - awesome.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Water course</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Water course.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Cabbages</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A cabbage on its own.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Dusk</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\Dusk.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Stock routes - a number of choices</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A good route choice.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A knoll, the middle one</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A knoll, middle one.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A knoll</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A Knoll.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A pond, SE side</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A pond, S side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A rock, E of saddle</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A rock,E of saddle.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Beef burger</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\Beef burger.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A rocky outcrop</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A rocky outcrop.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Cows and calves</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Cows &amp; calves.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A small knoll, SE side</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A small knoll (1), SE side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A lone pine</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\A lone pine.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Good stock route to saddle</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Another good stock route - contouring .jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A small knoll, SE side</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\A small knoll, SE side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Dip to cool off</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Dip to cool off .jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Easier route ahead</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Easier route.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Cabbage tree on rocky outcrop</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\A cabbage tree on a rocky outcrop.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Easy travel</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Easy travel.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Distant cabbage tree</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\A cabbage tree.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Nice lunch spot</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Nice spot for lunch.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Good stock track</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\One of many excellent stock tracks.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Good travel and navigational reference</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Good to travel on and a navigational reference .jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A man made feature</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\A man made feature.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The knoll, E side</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\The Knoll, E Side .jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A small group of manuka trees</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\A small group of a manuka trees.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Passage to saddle</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Saddle to passage.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The forest bunker</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\The Bunker.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Forest bunker</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\The Bunker1.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>A large rock, E side</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\A large rock, E side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Another knoll, E side</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\The Knoll, E Side.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>The watercourse, 10m above SE bend</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\The water course, 10m above the SE bend.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Tricky to cross</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Tricky to cross.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Middle of manuka grove</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\In the middle of a manuka grove.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Up and over</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Up and over.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Water course junction</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Water course junction.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Flat and fast</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\ThirdLot\Flat and fast.jpg</filename>
+    </photo>
+    <photo>
+      <caption>
+        <line>Bigger country</line>
+      </caption>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2011\Pics\SecondLot\Opencountry.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>

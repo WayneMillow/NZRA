@@ -1,0 +1,32 @@
+Team No. 131	Tag ID = ARBC   Tags=0015	Course 6 hour
+Right of Centre: Mike Beer, Adam griffiths and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:11:09 AM	  0:11:09	
+   2	  24 	   20	19/06/2021 11:24:17 AM	  0:13:08	
+   3	  47 	   40	19/06/2021 11:50:14 AM	  0:25:57	
+   4	  49 	   40	19/06/2021 12:07:36 PM	  0:17:22	
+   5	  67 	   60	19/06/2021 12:44:29 PM	  0:36:53	
+   6	  35 	   30	19/06/2021 12:58:21 PM	  0:13:52	
+   7	 100 	  100	19/06/2021  1:16:32 PM	  0:18:11	
+   8	  20 	   20	19/06/2021  1:53:43 PM	  0:37:11	
+   9	  64 	   60	19/06/2021  2:18:05 PM	  0:24:22	
+  10	  26 	   20	19/06/2021  2:39:45 PM	  0:21:40	
+  11	  77 	   70	19/06/2021  2:55:33 PM	  0:15:48	
+  12	  58 	   50	19/06/2021  3:20:07 PM	  0:24:34	
+  13	  25 	   20	19/06/2021  4:01:10 PM	  0:41:03	
+  14	  48 	   40	19/06/2021  4:25:34 PM	  0:24:24	
+  15	  97 		19/06/2021  4:42:45 PM	  0:17:11	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:42:45 PM
+Time on course   5:42:45
+
+
+  600	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

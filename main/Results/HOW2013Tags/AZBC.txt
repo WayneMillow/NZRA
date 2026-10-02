@@ -1,0 +1,26 @@
+Team No. 576	Tag ID = AZBC   Tags=0008	Course 6hr
+Moa Hunters: Bill Hall, Phil Hall
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:20:49 AM	         	BRIEFING. Score reset.
+   2	 20	 20	 8/06/2013 11:03:26 AM	  0:34:26	
+   3	 76	 70	 8/06/2013 11:35:35 AM	  0:32:09	
+   4	 66	 60	 8/06/2013 12:29:43 PM	  0:54:08	
+   5	 57	 50	 8/06/2013  2:38:03 PM 	  2:08:20	
+   6	 75	 70	 8/06/2013  3:16:56 PM 	  0:38:53	
+   7	 58	 50	 8/06/2013  4:06:45 PM 	  0:49:49	
+   8	 14		 8/06/2013  4:19:11 PM 	  0:12:26	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:19:11 PM 
+Time on course   5:50:11
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

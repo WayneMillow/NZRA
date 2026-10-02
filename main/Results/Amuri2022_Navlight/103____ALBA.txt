@@ -1,0 +1,32 @@
+Team No. 103	Tag ID = ALBA   Tags=0015	Course 3hr
+Hirschfeld Family: Leah Hirschfeld, Ben Hirschfeld and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:02:37 PM	  0:02:37	
+   2	  20 	   20	 3/07/2022 12:08:57 PM	  0:06:20	
+   3	  31 	   30	 3/07/2022 12:12:06 PM	  0:03:09	
+   4	  71 	   70	 3/07/2022 12:27:14 PM	  0:15:08	
+   5	  22 	   20	 3/07/2022 12:43:09 PM	  0:15:55	
+   6	  32 	   30	 3/07/2022 12:47:42 PM	  0:04:33	
+   7	  60 	   60	 3/07/2022  1:01:45 PM	  0:14:03	
+   8	  40 	   40	 3/07/2022  1:06:46 PM	  0:05:01	
+   9	  50 	   50	 3/07/2022  1:22:11 PM	  0:15:25	
+  10	  61 	   60	 3/07/2022  1:35:52 PM	  0:13:41	
+  11	  53 	   50	 3/07/2022  1:59:46 PM	  0:23:54	
+  12	  43 	   40	 3/07/2022  2:16:01 PM	  0:16:15	
+  13	  33 	   30	 3/07/2022  2:33:33 PM	  0:17:32	
+  14	  52 	   50	 3/07/2022  2:39:19 PM	  0:05:46	
+  15	  18 		 3/07/2022  2:51:01 PM	  0:11:42	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:51:01 PM
+Time on course   2:51:01
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

@@ -1,0 +1,33 @@
+Team No. 2217	Tag ID = AZAS   Tags=0016	Course 3Hr
+Where is the start line: Claire McCarthy, Becky Anderson and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:53:09 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:05:40 PM	  0:05:40	
+   3	  41 	   40	 9/07/2017 12:13:45 PM	  0:08:05	
+   4	  63 	   60	 9/07/2017 12:25:06 PM	  0:11:21	
+   5	  64 	   60	 9/07/2017 12:36:52 PM	  0:11:46	
+   6	  23 	   20	 9/07/2017 12:48:04 PM	  0:11:12	
+   7	  35 	   30	 9/07/2017 12:52:38 PM	  0:04:34	
+   8	  84 	   80	 9/07/2017  1:06:46 PM	  0:14:08	
+   9	  58 	   50	 9/07/2017  1:28:04 PM	  0:21:18	
+  10	  73 	   70	 9/07/2017  1:50:31 PM	  0:22:27	
+  11	  67 	   60	 9/07/2017  2:12:44 PM	  0:22:13	
+  12	  81 	   80	 9/07/2017  2:25:18 PM	  0:12:34	
+  13	  31 	   30	 9/07/2017  2:35:41 PM	  0:10:23	
+  14	  33 	   30	 9/07/2017  2:44:28 PM	  0:08:47	
+  15	  37 	   30	 9/07/2017  2:54:14 PM	  0:09:46	
+  16	 109 		 9/07/2017  2:59:18 PM	  0:05:04	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:59:18 PM
+Time on course   2:59:18
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

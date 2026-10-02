@@ -1,0 +1,32 @@
+Team No. 109	Tag ID = AXBA   Tags=0015	Course 24 hour
+Summerhill Explorers: Alice Perry (NZL), Alan Harvey (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:56:51 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	24/11/2018  1:29:52 PM	  1:29:52	
+   3	  67 	   60	24/11/2018  2:10:55 PM	  0:41:03	
+   4	  46 	   40	24/11/2018  2:34:54 PM	  0:23:59	
+   5	  68 	   60	24/11/2018  2:58:14 PM	  0:23:20	
+   6	  97 	   90	24/11/2018  4:01:10 PM	  1:02:56	
+   7	  72 	   70	24/11/2018  4:58:31 PM	  0:57:21	
+   8	  76 	   70	24/11/2018  6:07:09 PM	  1:08:38	
+   9	  65 	   60	24/11/2018  6:31:42 PM	  0:24:33	
+  10	  43 	   40	24/11/2018  6:48:45 PM	  0:17:03	
+  11	  32 	   30	24/11/2018  7:46:20 PM	  0:57:35	
+  12	  80 	   80	24/11/2018  8:42:39 PM	  0:56:19	
+  13	  78 	   70	24/11/2018 11:36:35 PM	  2:53:56	
+  14	  34 	   30	25/11/2018  1:33:11 AM	  1:56:36	
+  15	  18 		25/11/2018  5:28:32 AM	  3:55:21	FINISH TIME.
+END
+
+
+Recognised finish time 25/11/2018  5:28:32 AM
+Time on course  17:28:32
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

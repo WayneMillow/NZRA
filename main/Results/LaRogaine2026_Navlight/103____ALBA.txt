@@ -1,0 +1,24 @@
+Team No. 103	Tag ID = ALBA   Tags=0007	Course 03 hour
+Woop Woop: Kim de Graaf, Catherine Low
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:49:37 am	         	BRIEFING. Score reset.
+   2	  40 	40	31/01/2026 11:10:33 am	  0:10:33	
+   3	  60 	60	31/01/2026 11:21:20 am	  0:10:47	
+   4	  62 	60	31/01/2026 11:41:19 am	  0:19:59	
+   5	 100 	100	31/01/2026 12:10:39 pm	  0:29:20	
+   6	  92 	90	31/01/2026  1:22:07 pm	  1:11:28	
+   7	  19 		31/01/2026  2:15:18 pm	  0:53:11	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  2:15:18 pm
+Time on course   3:15:18
+
+
+  350	Points Scored.
+ -160	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

@@ -1,0 +1,31 @@
+Team No. 1198	Tag ID = AZBB   Tags=0014	Course FAM 3Hr
+ATS: alex shaw, emily shaw and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:47:45 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:04:20 PM	  0:04:20	
+   3	  41 	   40	 9/07/2017 12:10:45 PM	  0:06:25	
+   4	  63 	   60	 9/07/2017 12:20:43 PM	  0:09:58	
+   5	  23 	   20	 9/07/2017 12:29:06 PM	  0:08:23	
+   6	  35 	   30	 9/07/2017 12:33:04 PM	  0:03:58	
+   7	  61 	   60	 9/07/2017 12:40:48 PM	  0:07:44	
+   8	  91 	   90	 9/07/2017  1:01:51 PM	  0:21:03	
+   9	  45 	   40	 9/07/2017  1:17:05 PM	  0:15:14	
+  10	  83 	   80	 8/07/2017  1:24:32 PM	         	Punch clock failed.
+  11	  44 	   40	 9/07/2017  1:54:53 PM	  0:37:48	
+  12	 102 	  100	 9/07/2017  2:05:43 PM	  0:10:50	
+  13	  81 	   80	 9/07/2017  2:44:24 PM	  0:38:41	
+  14	 108 		 9/07/2017  2:55:31 PM	  0:11:07	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:55:31 PM
+Time on course   2:55:31
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

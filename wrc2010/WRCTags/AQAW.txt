@@ -1,0 +1,28 @@
+Team No. 95	Tag ID = AQAW   Tags=0011	Course 0
+Ilya Slepov (RUS), Ekaterina Oleynikova (RUS)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 B4		20/11/2010 11:53:57 AM	         	BRIEFING. Score reset.
+   2	 29	 20	20/11/2010 12:12:42 PM	  0:12:42	
+   3	 46	 40	20/11/2010 12:29:55 PM	  0:17:13	
+   4	 25	 20	20/11/2010  1:06:14 PM 	  0:36:19	
+   5	 63	 60	20/11/2010  1:52:12 PM 	  0:45:58	
+   6	105	100	20/11/2010  2:53:56 PM 	  1:01:44	
+   7	 83	 80	20/11/2010  4:52:57 PM 	  1:59:01	
+   8	102	100	20/11/2010  5:34:42 PM 	  0:41:45	
+   9	 65	 60	20/11/2010  6:32:12 PM 	  0:57:30	
+  10	 F1		20/11/2010  8:12:40 PM 	  1:40:28	FINISH TIME.
+  11	 F6		21/11/2010 11:40:11 AM	 15:27:31	FINISH TIME.
+END
+
+
+Recognised finish time 21/11/2010 11:40:11 AM
+Time on course  23:40:11
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

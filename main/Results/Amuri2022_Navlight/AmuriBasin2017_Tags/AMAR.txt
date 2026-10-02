@@ -1,0 +1,31 @@
+Team No. 2136	Tag ID = AMAR   Tags=0014	Course 3Hr
+The Wine Down Girls: Deb Wilson, Janine Romano and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:46:25 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:05:11 PM	  0:05:11	
+   3	  41 	   40	 9/07/2017 12:13:17 PM	  0:08:06	
+   4	  55 	   50	 9/07/2017 12:18:46 PM	  0:05:29	
+   5	  58 	   50	 9/07/2017 12:30:13 PM	  0:11:27	
+   6	  82 	   80	 9/07/2017 12:54:22 PM	  0:24:09	
+   7	  34 	   30	 9/07/2017  1:38:22 PM	  0:44:00	
+   8	  66 	   60	 9/07/2017  2:10:46 PM	  0:32:24	
+   9	  53 	   50	 9/07/2017  2:21:39 PM	  0:10:53	
+  10	  33 	   30	 9/07/2017  2:35:17 PM	  0:13:38	
+  11	  43 	   40	 9/07/2017  2:41:58 PM	  0:06:41	
+  12	  31 	   30	 9/07/2017  2:45:28 PM	  0:03:30	
+  13	  37 	   30	 9/07/2017  2:50:39 PM	  0:05:11	
+  14	 108 		 9/07/2017  2:56:13 PM	  0:05:34	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:56:13 PM
+Time on course   2:56:13
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

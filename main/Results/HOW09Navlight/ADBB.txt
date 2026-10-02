@@ -1,0 +1,25 @@
+Team No. 112	Tag ID = ADBB   Tags=0008	Course 6hr
+The Boys Made Us Do It: Tamsyn Fussell, Rebecca Burns and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  9:54:02 AM 	         	BRIEFING. Score reset.
+   2	 81	 80	 4/07/2009 11:12:07 AM	  0:42:07	
+   3	 33	 30	 4/07/2009 12:18:57 PM	  1:06:50	
+   4	 34	 30	 4/07/2009  1:45:58 PM 	  1:27:01	
+   5	 22	 20	 4/07/2009  2:55:26 PM 	  1:09:28	
+   6	 54	 50	 4/07/2009  3:18:52 PM 	  0:23:26	
+   7	 32	 30	 4/07/2009  3:40:29 PM 	  0:21:37	
+   8	107		 4/07/2009  4:20:27 PM 	  0:39:58	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:20:27 PM 
+Time on course   5:50:27
+
+
+  240	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 240

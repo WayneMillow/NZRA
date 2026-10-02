@@ -1,0 +1,26 @@
+Team No. 112	Tag ID = ACBB   Tags=0010	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 86		12/06/2006  4:45:58 PM 	        	BRIEFING. Score reset.
+   2	 23	 20	16/06/2007 10:25:32 AM	  0:25:32	
+   3	 36	 30	16/06/2007 10:48:22 AM	  0:22:50	
+   4	 29	 20	16/06/2007 11:01:54 AM	  0:13:32	
+   5	 12	 10	16/06/2007 11:17:32 AM	  0:15:38	
+   6	 29		16/06/2007 11:43:40 AM	  0:26:08	     Punched on Line 4
+   7	 37	 30	16/06/2007 12:53:40 PM	  1:10:00	
+   8	 34	 30	16/06/2007  1:29:32 PM 	  0:35:52	
+   9	 80	 80	16/06/2007  2:05:19 PM 	  0:35:47	
+  10	 99		16/06/2007  4:09:42 PM 	  2:04:23	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  4:09:42 PM 
+Time on course   6:09:42
+
+
+  220	Points Scored.
+  100	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 120

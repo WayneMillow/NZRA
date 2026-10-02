@@ -1,0 +1,35 @@
+Team No. 17	Tag ID = AZAR   Tags=0017	Course 24hr
+Caffeine Aftershocks: Shane Ashley, Kelly Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		16/12/2023 11:45:07 AM	         	BRIEFING. Score reset.
+   2	  26 	   20	16/12/2023 12:25:53 PM	  0:25:53	
+   3	  24 	   20	16/12/2023  1:20:09 PM	  0:54:16	
+   4	  85 	   80	16/12/2023  2:15:56 PM	  0:55:47	
+   5	  55 	   50	16/12/2023  3:46:43 PM	  1:30:47	
+   6	  31 	   30	16/12/2023  4:51:42 PM	  1:04:59	
+   7	  38 	   30	16/12/2023  6:29:40 PM	  1:37:58	
+   8	  47 	   40	16/12/2023  7:05:35 PM	  0:35:55	
+   9	  49 	   40	16/12/2023  8:10:32 PM	  1:04:57	
+  10	  23 	   20	17/12/2023  3:04:23 AM	  6:53:51	
+  11	  29 	   20	17/12/2023  3:44:27 AM	  0:40:04	
+  12	  28 	   20	17/12/2023  4:16:45 AM	  0:32:18	
+  13	  27 	   20	17/12/2023  5:18:35 AM	  1:01:50	
+  14	  93 	   90	17/12/2023  7:21:22 AM	  2:02:47	
+  15	  77 	   70	17/12/2023  8:32:42 AM	  1:11:20	
+  16	  35 	   30	17/12/2023  9:43:35 AM	  1:10:53	
+  17	  19 		17/12/2023 10:12:31 AM	  0:28:56	FINISH TIME.
+END
+	AddedPunch67	60
+
+
+Recognised finish time 17/12/2023 10:12:31 AM
+Time on course  22:12:31
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

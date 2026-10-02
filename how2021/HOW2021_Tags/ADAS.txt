@@ -1,0 +1,32 @@
+Team No. 21	Tag ID = ADAS   Tags=0016	Course 12 hour
+Fantastic Foresterrs: Josie Boland, Ket Bradshaw
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021  9:16:01 AM	  0:16:01	
+   2	  38 	   30	19/06/2021 10:06:39 AM	  0:50:38	
+   3	  89 	   80	19/06/2021 10:44:27 AM	  0:37:48	
+   4	  44 	   40	19/06/2021 11:22:07 AM	  0:37:40	
+   5	  68 	   60	19/06/2021 12:03:15 PM	  0:41:08	
+   6	  78 	   70	19/06/2021 12:32:43 PM	  0:29:28	
+   7	  37 	   30	19/06/2021  1:23:33 PM	  0:50:50	
+   8	  95 	   90	19/06/2021  1:55:01 PM	  0:31:28	
+   9	  27 	   20	19/06/2021  2:27:57 PM	  0:32:56	
+  10	  71 	   70	19/06/2021  3:13:27 PM	  0:45:30	
+  11	  30 	   30	19/06/2021  3:46:58 PM	  0:33:31	
+  12	 105 	  100	19/06/2021  4:04:41 PM	  0:17:43	
+  13	  96 	   90	19/06/2021  5:39:49 PM	  1:35:08	
+  14	  77 	   70	19/06/2021  7:20:06 PM	  1:40:17	
+  15	  97 		19/06/2021  8:37:45 PM	  1:17:39	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  8:37:45 PM
+Time on course  11:37:45
+
+
+  820	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 820

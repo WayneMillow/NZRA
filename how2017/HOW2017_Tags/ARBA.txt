@@ -1,0 +1,35 @@
+Team No. 2172	Tag ID = ARBA   Tags=0018	Course 6Hr
+Brede's Bunch: Sarah Snelder, Gilda Otway and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:44:26 AM	         	BRIEFING. Score reset.
+   2	 29	 20	10/06/2017 11:01:52 AM	  0:01:52	 Punch  50 replaced by Group 29.
+   3	 20	 20	10/06/2017 11:13:33 AM	  0:11:41	
+   4	 21	 20	10/06/2017 11:23:18 AM	  0:09:45	
+   5	 40	 40	10/06/2017 11:39:33 AM	  0:16:15	
+   6	 42	 40	10/06/2017 12:01:19 PM	  0:21:46	
+   7	100	100	10/06/2017 12:17:20 PM	  0:16:01	
+   8	 60	 60	10/06/2017 12:32:35 PM	  0:15:15	
+   9	 37	 30	10/06/2017 12:41:20 PM	  0:08:45	
+  10	 80	 80	10/06/2017 12:58:03 PM	  0:16:43	
+  11	 51	 50	10/06/2017  1:12:09 PM	  0:14:06	
+  12	 28	 20	10/06/2017  1:32:41 PM	  0:20:32	
+  13	 91	 90	10/06/2017  1:52:55 PM	  0:20:14	
+  14	 62	 60	10/06/2017  2:27:43 PM	  0:34:48	
+  15	 93	 90	10/06/2017  2:53:35 PM	  0:25:52	
+  16	 52	 50	10/06/2017  3:36:36 PM	  0:43:01	
+  17	 23	 20	10/06/2017  4:03:51 PM	  0:27:15	
+  18	108		10/06/2017  5:02:20 PM	  0:58:29	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:02:20 PM
+Time on course   6:02:20
+
+
+  790	Points Scored.
+  -30	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

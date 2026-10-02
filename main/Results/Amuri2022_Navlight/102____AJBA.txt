@@ -1,0 +1,28 @@
+Team No. 102	Tag ID = AJBA   Tags=0011	Course 3hr
+Desperately seeking: Robyn Frost, Louise Sue
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  52 	   50	 3/07/2022 12:07:46 PM	  0:07:46	
+   2	  33 	   30	 3/07/2022 12:14:51 PM	  0:07:05	
+   3	  43 	   40	 3/07/2022 12:32:52 PM	  0:18:01	
+   4	  44 	   40	 3/07/2022 12:42:56 PM	  0:10:04	
+   5	  55 	   50	 3/07/2022 12:49:08 PM	  0:06:12	
+   6	  97 	   90	 3/07/2022  1:01:41 PM	  0:12:33	
+   7	  54 	   50	 3/07/2022  1:14:22 PM	  0:12:41	
+   8	 101 	  100	 3/07/2022  1:34:22 PM	  0:20:00	
+   9	  23 	   20	 3/07/2022  6:02:16 AM	         	Punch clock failed.
+  10	  53 	   50	 3/07/2022  2:28:08 PM	  0:53:46	
+  11	  18 		 3/07/2022  2:51:23 PM	  0:23:15	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:51:23 PM
+Time on course   2:51:23
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

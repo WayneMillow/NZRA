@@ -1,0 +1,25 @@
+Team No. 60	Tag ID = AZAW   Tags=0008	Course 6hr
+Back to Basics: Leigh Power, William Power
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:09:52 AM	  0:09:52	
+   2	  40 	   40	 1/07/2023 11:37:29 AM	  0:27:37	
+   3	  80 	   80	 1/07/2023 12:35:04 PM	  0:57:35	
+   4	  71 	   70	 1/07/2023  1:54:55 PM	  1:19:51	
+   5	  53 	   50	 1/07/2023  2:30:04 PM	  0:35:09	
+   6	  30 	   30	 1/07/2023  3:12:24 PM	  0:42:20	
+   7	  62 	   60	 1/07/2023  3:47:38 PM	  0:35:14	
+   8	  18 		 1/07/2023  4:28:31 PM	  0:40:53	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:28:31 PM
+Time on course   5:28:31
+
+
+  370	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

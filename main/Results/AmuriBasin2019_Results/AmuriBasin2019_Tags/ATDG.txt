@@ -1,0 +1,30 @@
+Team No. 172	Tag ID = ATDG   Tags=0013	Course 3 hour
+Are We There Yet?: Ben Jordan, Luke Jordan and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:37:52 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:08:41 PM	  0:08:41	
+   3	  49 	   40	 7/07/2019 12:13:54 PM	  0:05:13	
+   4	  65 	   60	 7/07/2019 12:21:26 PM	  0:07:32	
+   5	  45 	   40	 7/07/2019 12:31:03 PM	  0:09:37	
+   6	  67 	   60	 7/07/2019  1:07:09 PM	  0:36:06	
+   7	  54 	   50	 7/07/2019  1:18:12 PM	  0:11:03	
+   8	  41 	   40	 7/07/2019  1:27:02 PM	  0:08:50	
+   9	  42 	   40	 7/07/2019  1:33:35 PM	  0:06:33	
+  10	  57 	   50	 7/07/2019  1:40:07 PM	  0:06:32	
+  11	 102 	  100	 7/07/2019  2:28:59 PM	  0:48:52	
+  12	  55 	   50	 7/07/2019  2:40:19 PM	  0:11:20	
+  13	  16 		 7/07/2019  3:17:02 PM	  0:36:43	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:17:02 PM
+Time on course   3:17:02
+
+
+  580	Points Scored.
+ -180	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

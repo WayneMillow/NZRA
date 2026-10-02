@@ -1,0 +1,27 @@
+Team No. 59	Tag ID = AXAW   Tags=0011	Course 6hr
+Helen McKendrey, Nicola Mitchell and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 13		 4/07/2009  9:51:03 AM 	         	BRIEFING. Score reset.
+   3	 45	 40	 4/07/2009 11:00:49 AM	  0:30:49	
+   4	 53	 50	 4/07/2009 11:21:04 AM	  0:20:15	
+   5	 32	 30	 4/07/2009 11:50:19 AM	  0:29:15	
+   6	 44	 40	 4/07/2009  1:18:17 PM 	  1:27:58	
+   7	 54	 50	 4/07/2009  1:51:07 PM 	  0:32:50	
+   8	 22	 20	 4/07/2009  2:16:24 PM 	  0:25:17	
+   9	 34	 30	 4/07/2009  3:19:39 PM 	  1:03:15	
+  10	 21	 20	 4/07/2009  3:48:35 PM 	  0:28:56	
+  11	107		 4/07/2009  4:09:59 PM 	  0:21:24	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:09:59 PM 
+Time on course   5:39:59
+
+
+  280	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

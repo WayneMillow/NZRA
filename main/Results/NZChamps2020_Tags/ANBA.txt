@@ -1,0 +1,35 @@
+Team No. 104	Tag ID = ANBA   Tags=0017	Course 15 hour
+Red Hot Hilly Trekkers: Anna Squires, Nick Offerd
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  28 	   20	 7/11/2020 12:22:11 PM	  0:22:11	
+   2	  34 	   30	 7/11/2020  1:06:13 PM	  0:44:02	
+   3	  86 	   80	 7/11/2020  1:51:20 PM	  0:45:07	
+   4	  73 	   70	 7/11/2020  3:32:07 PM	  1:40:47	
+   5	  89 	   80	 7/11/2020  4:11:28 PM	  0:39:21	
+   6	 103 	  100	 7/11/2020  5:01:55 PM	  0:50:27	
+   7	  82 	   80	 7/11/2020  6:49:16 PM	  1:47:21	
+   8	  67 	   60	 7/11/2020  7:27:44 PM	  0:38:28	
+   9	 104 	  100	 7/11/2020  8:34:32 PM	  1:06:48	
+  10	  44 	   40	 7/11/2020  9:25:47 PM	  0:51:15	
+  11	  87 	   80	 7/11/2020 10:21:28 PM	  0:55:41	
+  12	  17 		 7/11/2020 11:40:10 PM	  1:18:42	FINISH TIME.
+  13	  13 		 8/11/2020  8:49:53 AM	  9:09:43	DEPARTURE TIME.
+  14	  25 	   20	 8/11/2020  9:14:16 AM	  0:24:23	
+  15	  47 	   40	 8/11/2020  9:47:24 AM	  0:33:08	
+  16	  35 	   30	 8/11/2020 10:45:48 AM	  0:58:24	
+  17	  19 		 8/11/2020 11:16:44 AM	  0:30:56	FINISH TIME.
+END
+	AddedPunch54	50
+
+
+Recognised Course time 8/11/2020 2:07:01 AM
+Time on course  14:07:01
+
+
+  880	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 880

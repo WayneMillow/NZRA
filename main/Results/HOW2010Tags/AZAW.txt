@@ -1,0 +1,33 @@
+Team No. 627	Tag ID = AZAW   Tags=0017	Course 6_HoW
+Rose Timlin, Jeni Reveley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 23		26/06/2010 10:29:39 AM	         	BRIEFING. Score reset.
+   3	 46	 40	26/06/2010 11:20:51 AM	  0:20:51	 Punch  03 replaced by Group 46.
+   4	 94	 90	26/06/2010 11:32:23 AM	  0:11:32	
+   5	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   6	 32	 30	26/06/2010 12:09:06 PM	  1:00:07	
+   7	 37	 30	24/06/2010  6:57:44 PM 	         	1.668 Days early.
+   8	 76	 70	26/06/2010  1:22:25 PM 	  1:13:19	
+   9	 84	 80	26/06/2010  1:44:18 PM 	  0:21:53	
+  10	 56	 50	26/06/2010  2:07:43 PM 	  0:23:25	
+  11	 93	 90	26/06/2010  2:25:50 PM 	  0:18:07	
+  12	 89	 80	26/06/2010  3:07:58 PM 	  0:42:08	
+  13	 34	 30	26/06/2010  3:30:01 PM 	  0:22:03	
+  14	 45	 40	26/06/2010  3:58:06 PM 	  0:28:05	
+  15	 20	 20	26/06/2010  4:32:27 PM 	  0:34:21	
+  16	 36	 30	26/06/2010  4:40:18 PM 	  0:07:51	
+  17	 16		26/06/2010  4:52:54 PM 	  0:12:36	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:52:54 PM 
+Time on course   5:52:54
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

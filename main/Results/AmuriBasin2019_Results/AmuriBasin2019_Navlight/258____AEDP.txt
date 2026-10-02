@@ -1,0 +1,33 @@
+Team No. 258	Tag ID = AEDP   Tags=0016	Course 1.5 hour
+Mountain Rangers: Jono Simpson, Peter Williams and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:43:01 PM	         	BRIEFING. Score reset.
+   2	  22 	   20	 7/07/2019 12:55:45 PM	         	Punch clock failed.
+   3	  21 	   20	 7/07/2019  1:00:58 PM	  0:00:58	
+   4	  47 	   40	 7/07/2019  1:05:19 PM	  0:04:21	
+   5	  31 	   30	 7/07/2019  1:15:29 PM	  0:10:10	
+   6	  73 	   70	 7/07/2019  1:22:49 PM	  0:07:20	
+   7	  33 	   30	 7/07/2019  1:29:55 PM	  0:07:06	
+   8	  46 	   40	 7/07/2019  1:40:03 PM	  0:10:08	
+   9	  52 	   50	 7/07/2019  1:47:16 PM	  0:07:13	
+  10	  59 	   50	 7/07/2019  1:55:41 PM	  0:08:25	
+  11	  45 	   40	 7/07/2019  1:59:59 PM	  0:04:18	
+  12	  65 	   60	 7/07/2019  2:08:10 PM	  0:08:11	
+  13	  49 	   40	 7/07/2019  2:13:37 PM	  0:05:27	
+  14	  32 	   30	 7/07/2019  2:16:43 PM	  0:03:06	
+  15	  26 	   20	 7/07/2019  2:19:49 PM	  0:03:06	
+  16	  16 		 7/07/2019  2:23:24 PM	  0:03:35	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:23:24 PM
+Time on course   1:23:24
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

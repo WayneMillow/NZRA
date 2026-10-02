@@ -1,0 +1,30 @@
+Team No. 24	Tag ID = AJAS   Tags=0013	Course 
+Frances Wall, Jenny Maclaren and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 2/12/2007  8:41:39 AM 	         	BRIEFING. Score reset.
+   2	 23	 20	 2/12/2007  9:11:59 AM 	  0:11:59	
+   3	 46	 40	 2/12/2007  9:27:46 AM 	  0:15:47	
+   4	 31	 30	 2/12/2007 10:08:34 AM	  0:40:48	
+   5	 71	 70	 2/12/2007 10:44:06 AM	  0:35:32	
+   6	 81	 80	 2/12/2007 11:01:48 AM	  0:17:42	
+   7	100	100	 2/12/2007 11:52:39 AM	  0:50:51	
+   8	 93	 90	 2/12/2007 12:47:52 PM	  0:55:13	
+   9	 61	 60	 2/12/2007  1:41:37 PM 	  0:53:45	
+  10	 62	 60	 2/12/2007  2:08:10 PM 	  0:26:33	
+  11	 40	 40	 2/12/2007  2:27:25 PM 	  0:19:15	
+  12	 60	 60	 2/12/2007  3:22:18 PM 	  0:54:53	
+  13	 19		 2/12/2007  3:58:12 PM 	  0:35:54	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:58:12 PM 
+Time on course   6:58:12
+
+
+  650	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

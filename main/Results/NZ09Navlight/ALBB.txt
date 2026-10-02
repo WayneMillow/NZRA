@@ -1,0 +1,25 @@
+Team No. 116	Tag ID = ALBB   Tags=0009	Course 8 Hour
+Melanie Heather, Eamon Sullivan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 S		 7/03/2009 10:45:29 AM	         	BRIEFING. Score reset.
+   3	 20	 20	 7/03/2009 11:22:45 AM	  0:22:45	
+   4	 56	 50	 7/03/2009 12:01:07 PM	  0:38:22	
+   5	 63	 60	 7/03/2009  2:22:32 PM 	  2:21:25	
+   6	 73	 70	 7/03/2009  3:28:11 PM 	  1:05:39	
+   7	 67	 60	 7/03/2009  5:18:57 PM 	  1:50:46	
+   8	 33	 30	 7/03/2009  6:19:47 PM 	  1:00:50	
+   9	 F		 7/03/2009  6:46:39 PM 	  0:26:52	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:46:39 PM 
+Time on course   7:46:39
+
+
+  290	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 290

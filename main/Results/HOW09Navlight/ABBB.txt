@@ -1,0 +1,29 @@
+Team No. 111	Tag ID = ABBB   Tags=0012	Course 6hr
+S.O.B.B: Kirk Blumers, Danny Burns and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:09:14 AM	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:37:26 AM	  0:07:26	
+   3	 65	 60	 4/07/2009 11:22:20 AM	  0:44:54	
+   4	 25	 20	 4/07/2009 11:33:08 AM	  0:10:48	
+   5	 66	 60	 4/07/2009 12:03:22 PM	  0:30:14	
+   6	 58	 50	 4/07/2009 12:37:19 PM	  0:33:57	
+   7	 23	 20	 4/07/2009  1:39:19 PM 	  1:02:00	
+   8	 62	 60	 4/07/2009  1:52:37 PM 	  0:13:18	
+   9	 22	 20	 4/07/2009  2:29:48 PM 	  0:37:11	
+  10	 34	 30	 4/07/2009  3:24:22 PM 	  0:54:34	
+  11	 21	 20	 4/07/2009  3:53:35 PM 	  0:29:13	
+  12	105		 4/07/2009  4:19:17 PM 	  0:25:42	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:19:17 PM 
+Time on course   5:49:17
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

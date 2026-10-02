@@ -1,0 +1,27 @@
+Team No. 126	Tag ID = AGBC   Tags=0010	Course 6 hour
+The Heartless Bastards: Kev Stobbs, Steve Petty
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:23:36 AM	  0:23:36	
+   2	  25 	   20	19/06/2021 11:47:12 AM	  0:23:36	
+   3	  77 	   70	19/06/2021 12:34:56 PM	  0:47:44	
+   4	  26 	   20	19/06/2021 12:53:27 PM	  0:18:31	
+   5	  64 	   60	19/06/2021  1:13:10 PM	  0:19:43	
+   6	 100 	  100	19/06/2021  2:07:52 PM	  0:54:42	
+   7	  35 	   30	19/06/2021  2:32:47 PM	  0:24:55	
+   8	  67 	   60	19/06/2021  2:50:37 PM	  0:17:50	
+   9	  38 	   30	19/06/2021  3:44:30 PM	  0:53:53	
+  10	  97 		19/06/2021  4:51:38 PM	  1:07:08	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:51:38 PM
+Time on course   5:51:38
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

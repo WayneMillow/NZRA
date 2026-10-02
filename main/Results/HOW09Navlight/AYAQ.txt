@@ -1,0 +1,27 @@
+Team No. 6	Tag ID = AYAQ   Tags=0010	Course 6hr
+Nicola Petty, Mark Petty and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  9:51:31 AM 	         	BRIEFING. Score reset.
+   2	 32	 30	 4/07/2009 11:28:23 AM	  0:58:23	
+   3	 52	 50	 4/07/2009  1:04:57 PM 	  1:36:34	
+   4	 43	 40	 4/07/2009  1:28:05 PM 	  0:23:08	
+   5	 60	 60	 4/07/2009  2:36:48 PM 	  1:08:43	
+   6	 41	 40	 4/07/2009  3:07:56 PM 	  0:31:08	
+   7	 42	 40	 4/07/2009  3:29:17 PM 	  0:21:21	
+   8	 61	 60	 4/07/2009  4:12:30 PM 	  0:43:13	
+   9	 44	 40	 4/07/2009  4:52:09 PM 	  0:39:39	
+  10	109		 4/07/2009  6:41:27 PM 	  1:49:18	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  6:41:27 PM 
+Time on course   8:11:27
+
+
+  360	Points Scored.
+ -360	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

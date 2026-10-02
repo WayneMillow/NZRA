@@ -1,0 +1,32 @@
+Team No. 47	Tag ID = AXAV   Tags=0015	Course 24 hour
+Around the clock: Danielle Blackmore, Annabelle Latz
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  8:33:59 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020 12:19:20 PM	  0:19:20	
+   3	  34 	   30	 7/11/2020 12:59:43 PM	  0:40:23	
+   4	  86 	   80	 7/11/2020  1:42:45 PM	  0:43:02	
+   5	 107 	  100	 7/11/2020  3:00:45 PM	  1:18:00	
+   6	  85 	   80	 7/11/2020  3:38:36 PM	  0:37:51	
+   7	  45 	   40	 7/11/2020  4:14:43 PM	  0:36:07	
+   8	  83 	   80	 7/11/2020  4:45:04 PM	  0:30:21	
+   9	  74 	   70	 7/11/2020  5:15:46 PM	  0:30:42	
+  10	  66 	   60	 7/11/2020  6:11:55 PM	  0:56:09	
+  11	  72 	   70	 7/11/2020  6:59:45 PM	  0:47:50	
+  12	  57 	   50	 7/11/2020  7:20:08 PM	  0:20:23	
+  13	  95 	   90	 7/11/2020  8:31:20 PM	  1:11:12	
+  14	  84 	   80	 8/11/2020  7:26:42 AM	 10:55:22	
+  15	  18 		 8/11/2020  9:24:14 AM	  1:57:32	FINISH TIME.
+END
+
+
+Recognised finish time  8/11/2020  9:24:14 AM
+Time on course  21:24:14
+
+
+  850	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 850

@@ -1,0 +1,23 @@
+Team No. 642	Tag ID = AJBC   Tags=0006	Course 6Hr
+Georgia Anderson, Fergus Bevan-McCrimmon
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 91		27/06/2015 10:47:09 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:25:25 AM	  0:25:25	
+   3	 28	 20	27/06/2015  1:06:02 PM	  1:40:37	
+   4	 32	 30	27/06/2015  1:28:49 PM	  0:22:47	
+   5	 70	 70	27/06/2015  4:02:45 PM	  2:33:56	
+   6	108		27/06/2015  4:53:10 PM	  0:50:25	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:53:10 PM
+Time on course   5:53:10
+
+
+  140	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 140

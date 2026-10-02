@@ -1,0 +1,29 @@
+Team No. 189	Tag ID = ABDJ   Tags=0012	Course 6 hour
+The Burrows: Karen Burrows, Paul Burrows
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		11/06/2022 10:27:06 AM	         	BRIEFING. Score reset.
+   2	  56 	   50	11/06/2022 11:17:33 AM	  0:17:33	
+   3	  23 	   20	11/06/2022 11:32:48 AM	  0:15:15	
+   4	  69 	   60	11/06/2022 12:21:38 PM	  0:48:50	
+   5	  80 	   80	11/06/2022 12:39:19 PM	  0:17:41	
+   6	  41 	   40	11/06/2022  1:16:03 PM	  0:36:44	
+   7	  51 	   50	11/06/2022  1:39:46 PM	  0:23:43	
+   8	  30 	   30	11/06/2022  2:24:25 PM	  0:44:39	
+   9	  42 	   40	11/06/2022  2:51:04 PM	  0:26:39	
+  10	  27 	   20	11/06/2022  3:30:23 PM	  0:39:19	
+  11	  39 	   30	11/06/2022  4:05:13 PM	  0:34:50	
+  12	  13 		11/06/2022  4:32:55 PM	  0:27:42	FINISH TIME.
+END
+
+
+Recognised finish time 11/06/2022  4:32:55 PM
+Time on course   5:32:55
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

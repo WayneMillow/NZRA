@@ -1,0 +1,31 @@
+Team No. 208	Tag ID = AUAW   Tags=0051	Course 7Hour
+Monty Shearer, Jeremy Norbury, Kenza Randle, Sydney Cook
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  38	 12		24/11/2012 10:25:12 AM	         	BRIEFING. Score reset.
+  39	 46	 40	24/11/2012 10:55:21 AM	  0:25:21	
+  40	 62	 60	24/11/2012 11:39:52 AM	  0:44:31	
+  41	 42	 40	24/11/2012 12:04:51 PM	  0:24:59	
+  42	 47	 40	24/11/2012 12:27:54 PM	  0:23:03	
+  43	 33	 30	24/11/2012  1:05:11 PM 	  0:37:17	
+  44	 93	 90	24/11/2012  1:31:13 PM 	  0:26:02	
+  45	 37	 30	24/11/2012  1:56:34 PM 	  0:25:21	
+  46	 67	 60	24/11/2012  2:37:58 PM 	  0:41:24	
+  47	 59	 50	24/11/2012  3:04:59 PM 	  0:27:01	
+  48	 59		24/11/2012  3:05:00 PM 	  0:00:01	     Punched on Line 47
+  49	 71	 70	24/11/2012  4:32:59 PM 	  1:27:59	
+  50	 35	 30	24/11/2012  5:06:18 PM 	  0:33:19	
+  51	105		24/11/2012  5:24:43 PM 	  0:18:25	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2012  5:24:43 PM 
+Time on course   6:54:43
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

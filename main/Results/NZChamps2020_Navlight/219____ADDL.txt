@@ -1,0 +1,28 @@
+Team No. 219	Tag ID = ADDL   Tags=0011	Course 6 hour
+Bollybrisltoes: Greg Bristow, Josie Boland
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 10:58:54 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:11:52 PM	  0:11:52	
+   3	  48 	   40	 7/11/2020  1:36:04 PM	  0:24:12	
+   4	  24 	   20	 7/11/2020  1:59:04 PM	  0:23:00	
+   5	  75 	   70	 7/11/2020  2:33:43 PM	  0:34:39	
+   6	  45 	   40	 7/11/2020  3:12:54 PM	  0:39:11	
+   7	  85 	   80	 7/11/2020  3:35:52 PM	  0:22:58	
+   8	 107 	  100	 7/11/2020  4:14:29 PM	  0:38:37	
+   9	  86 	   80	 7/11/2020  5:30:42 PM	  1:16:13	
+  10	  87 	   80	 7/11/2020  6:32:50 PM	  1:02:08	
+  11	  19 		 7/11/2020  7:11:21 PM	  0:38:31	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  7:11:21 PM
+Time on course   6:11:21
+
+
+  530	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

@@ -1,0 +1,30 @@
+Team No. 220	Tag ID = ALAW   Tags=0045	Course 7Hour
+Julie Nelson, Will Nelson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  33	 12		24/11/2012 10:23:40 AM	         	BRIEFING. Score reset.
+  34	 35	 30	24/11/2012 10:50:46 AM	  0:20:46	
+  35	 20	 20	24/11/2012 11:20:36 AM	  0:29:50	
+  36	 40	 40	24/11/2012 11:48:31 AM	  0:27:55	
+  37	 30	 30	24/11/2012 12:15:18 PM	  0:26:47	
+  38	 70	 70	24/11/2012  1:00:27 PM 	  0:45:09	
+  39	 54	 50	24/11/2012  2:33:37 PM 	  1:33:10	
+  40	 60	 60	24/11/2012  3:14:17 PM 	  0:40:40	
+  41	 58	 50	24/11/2012  3:47:01 PM 	  0:32:44	
+  42	 72	 70	24/11/2012  4:06:16 PM 	  0:19:15	
+  43	 21	 20	24/11/2012  4:41:14 PM 	  0:34:58	
+  44	 46	 40	24/11/2012  5:01:17 PM 	  0:20:03	
+  45	105		24/11/2012  5:15:34 PM 	  0:14:17	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2012  5:15:34 PM 
+Time on course   6:45:34
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

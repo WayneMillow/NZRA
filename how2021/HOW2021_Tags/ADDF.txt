@@ -1,0 +1,29 @@
+Team No. 152	Tag ID = ADDF   Tags=0012	Course 6 hour
+Fit4Fun: Liz Woodhouse, Mary-Anne Turner and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:10:58 AM	  0:10:58	
+   2	  24 	   20	19/06/2021 11:25:14 AM	  0:14:16	
+   3	  39 	   30	19/06/2021 11:42:36 AM	  0:17:22	
+   4	  47 	   40	19/06/2021 12:05:20 PM	  0:22:44	
+   5	  80 	   80	19/06/2021 12:19:30 PM	  0:14:10	
+   6	  49 	   40	19/06/2021  1:06:30 PM	  0:47:00	
+   7	  58 	   50	19/06/2021  1:37:56 PM	  0:31:26	
+   8	  77 	   70	19/06/2021  2:15:15 PM	  0:37:19	
+   9	  38 	   30	19/06/2021  2:49:23 PM	  0:34:08	
+  10	  25 	   20	19/06/2021  3:49:26 PM	  1:00:03	
+  11	  48 	   40	19/06/2021  4:09:09 PM	  0:19:43	
+  12	  57 		19/06/2021  4:25:38 PM	  0:16:29	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:25:38 PM
+Time on course   5:25:38
+
+
+  450	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 450

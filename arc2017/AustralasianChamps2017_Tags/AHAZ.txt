@@ -1,0 +1,33 @@
+Team No. 176	Tag ID = AHAZ   Tags=0016	Course 7hr
+Up Schist Creek: Penny Smale (NZL), Rachael Baxter (NZL) and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  104		11/02/2017 10:44:16 AM	         	BRIEFING. Score reset.
+   2	  310	   30	11/02/2017 11:08:36 AM	  0:08:36	
+   3	  407	   40	11/02/2017 11:34:04 AM	  0:25:28	
+   4	  704	   70	11/02/2017 11:58:09 AM	  0:24:05	
+   5	  409	   40	11/02/2017 12:21:18 PM	  0:23:09	
+   6	  601	   60	11/02/2017 12:41:24 PM	  0:20:06	
+   7	  702	   70	11/02/2017  1:14:33 PM	  0:33:09	
+   8	  805	   80	11/02/2017  1:38:57 PM	  0:24:24	
+   9	  602	   60	11/02/2017  2:11:43 PM	  0:32:46	
+  10	  306	   30	11/02/2017  2:39:53 PM	  0:28:10	
+  11	  504	   50	11/02/2017  3:23:12 PM	  0:43:19	
+  12	  701	   70	11/02/2017  3:41:22 PM	  0:18:10	
+  13	 1003	  100	11/02/2017  4:13:14 PM	  0:31:52	
+  14	  410	   40	11/02/2017  4:34:57 PM	  0:21:43	
+  15	  406	   40	11/02/2017  5:49:44 PM	  1:14:47	
+  16	  109		11/02/2017  6:00:12 PM	  0:10:28	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  6:00:12 PM
+Time on course   7:00:12
+
+
+  780	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 770

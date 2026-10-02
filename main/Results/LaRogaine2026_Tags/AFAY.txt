@@ -1,0 +1,28 @@
+Team No. 76	Tag ID = AFAY   Tags=0011	Course 06 hour
+Louan the Late: Louan Bildstein, Maria
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		31/01/2026  9:47:59 am	         	BRIEFING. Score reset.
+   2	  83 	80	31/01/2026 12:56:01 pm	  2:56:01	
+   3	  45 	40	31/01/2026  1:24:10 pm	  0:28:09	
+   4	  85 	80	31/01/2026  1:41:35 pm	  0:17:25	
+   5	  95 	90	31/01/2026 11:28:20 am	         	Split time negative.
+   6	  89 	80	31/01/2026  2:30:22 pm	  3:02:02	
+   7	  89 		31/01/2026  2:31:03 pm	  0:00:41	     Punched on Line 6
+   8	  89 		31/01/2026  2:31:30 pm	  0:00:27	     Punched on Line 6
+   9	 101 	100	31/01/2026  3:14:35 pm	  0:43:05	
+  10	  34 	30	31/01/2026  3:41:52 pm	  0:27:17	
+  11	  19 		31/01/2026  4:26:27 pm	  0:44:35	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  4:26:27 pm
+Time on course   6:26:27
+
+
+  500	Points Scored.
+ -405	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 95

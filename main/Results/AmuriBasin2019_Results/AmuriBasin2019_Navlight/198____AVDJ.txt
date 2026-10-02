@@ -1,0 +1,29 @@
+Team No. 198	Tag ID = AVDJ   Tags=0013	Course 3 hour
+Westies M.I.A: Sarah Crofts, Belinda McAnally
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:50:27 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:30:48 PM	  0:30:48	
+   3	  31 	   30	 7/07/2019 12:48:21 PM	  0:17:33	
+   4	  73 	   70	 7/07/2019 12:57:16 PM	  0:08:55	
+   5	  46 	   40	 7/07/2019  1:13:30 PM	  0:16:14	
+   6	  52 	   50	 7/07/2019  1:21:00 PM	  0:07:30	
+   7	  43 	   40	 7/07/2019  1:38:20 PM	  0:17:20	
+   8	  75 	   70	 7/07/2019  2:02:30 PM	  0:24:10	
+   9	  42 	   40	 7/07/2019  2:21:05 PM	  0:18:35	
+  10	  41 	   40	 7/07/2019  2:27:35 PM	  0:06:30	
+  11	  49 	   40	 7/07/2019  2:47:49 PM	  0:20:14	
+  12	  19 		 7/07/2019  2:58:12 PM	  0:10:23	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:58:12 PM
+Time on course   2:58:12
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

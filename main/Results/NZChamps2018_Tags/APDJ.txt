@@ -1,0 +1,27 @@
+Team No. 195	Tag ID = APDJ   Tags=0010	Course 6 hour
+Wild Raspberries: Stephen Cooper (NZL), Kiri Pullar (NZL) and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		24/11/2018 11:38:01 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018 12:35:11 PM	  0:35:11	
+   3	  46 	   40	24/11/2018 12:54:38 PM	  0:19:27	
+   4	  68 	   60	24/11/2018  2:08:03 PM	  1:13:25	
+   5	  97 	   90	24/11/2018  3:07:20 PM	  0:59:17	
+   6	  84 	   80	24/11/2018  3:32:39 PM	  0:25:19	
+   7	  38 	   30	24/11/2018  4:08:50 PM	  0:36:11	
+   8	  81 	   80	24/11/2018  4:41:25 PM	  0:32:35	
+   9	  26 	   20	24/11/2018  5:13:07 PM	  0:31:42	
+  10	  17 		24/11/2018  5:41:00 PM	  0:27:53	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:41:00 PM
+Time on course   5:41:00
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

@@ -1,0 +1,33 @@
+Team No. 456	Tag ID = ABAV   Tags=0014	Course 6hr
+ATA Girls: Ann Grant, Ali Moore, Tania Reid
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 10:18:12 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:37:56 AM	  0:08:56	
+   3	 30	 30	 8/06/2013 10:55:10 AM	  0:17:14	
+   4	 49	 40	 8/06/2013 11:34:45 AM	  0:39:35	 Punch  12 replaced by Group 49.
+   5	 67	 60	 8/06/2013 11:46:00 AM	  0:11:15	
+   6	 76	 70	 8/06/2013 12:26:55 PM	  0:40:55	
+   7	 66	 60	 8/06/2013 12:58:47 PM	  0:31:52	
+   8	 74	 70	 8/06/2013  1:56:26 PM 	  0:57:39	
+   9	100	100	 8/06/2013  2:26:49 PM 	  0:30:23	
+  10	 65	 60	 8/06/2013  2:46:06 PM 	  0:19:17	
+  11	 75	 70	 8/06/2013  3:10:55 PM 	  0:24:49	
+  12	 20	 20	 8/06/2013  3:36:46 PM 	  0:25:51	
+  13	 58	 50	 8/06/2013  3:49:40 PM 	  0:12:54	
+  14	 14		 8/06/2013  4:01:58 PM 	  0:12:18	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:01:58 PM 
+Time on course   5:32:58
+
+
+  820	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 820

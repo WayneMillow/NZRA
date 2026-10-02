@@ -1,0 +1,29 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	W	W	F	
+					O	V	S	O	V	S	O	V	S	J	J	X	O	
+							V			V			V					
+ 1	63	1650	   9:59:25	Off course  on purpose (David Pustai, Mitchell Cockburn.)	1	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	75	1550	   9:55:23	Racey Delaceys (Guy de Lacey, Jacob de Lacey.)	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	65	1550	   9:58:21	Doublecheck (Lukas Marek, Jakub Prochazka.)	3	.	.	.	.	.	.	.	.	.	.	.	.	
+ 4	64	1435	 10:02:17	Ice cream please (Paul Churton, David Ruddenklau.)	4	1	.	.	.	.	.	.	.	.	.	.	.	
+ 5	66	1320	   9:53:58	Weekend warriors (Anna Cunningham, Diana Johnston, Rebecca Willis.)	.	.	.	1	.	.	.	.	.	.	.	.	.	
+ 6	58	1220	   9:59:34	Quadruple J (Joshua Jones, James Johnston.)	5	.	.	.	.	.	.	.	.	1	.	.	.	
+ 7	70	1210	 10:01:07	Lost Controls (Rafe Persson, Joe Hughes.)	6	.	.	.	.	.	.	.	.	2	.	.	.	
+ 8	54	1120	   9:59:01	Schotts (Victoria Stott, John Schollum.)	.	.	.	.	.	.	1	1	.	.	.	.	.	
+ 9	74	1110	   9:39:10	Banks Robbers (Blake Thomson, Chris Barker, Thomas Petit.)	7	.	.	.	.	.	.	.	.	.	.	.	.	
+ 10	71	1080	   9:46:06	Tassie Devils (Liz Canning, Hugh Fitzgerald.)	.	.	.	.	.	.	2	2	1	.	.	.	.	
+ 11	69	1040	   9:58:16	Slow Grind (Nicole Owen, Campbell Potter.)	.	.	.	.	.	.	3	.	.	.	.	.	.	
+ 12	55	960	   9:59:36	Peninsula Punishers (Ben Wright, James Thompson, Robert Lambie.)	8	.	.	.	.	.	.	.	.	.	.	.	.	
+ 13	72	955	 10:00:46	Wander Girls (Sofia Podolyan, Evie Nicholls.)	.	.	.	2	.	.	.	.	.	.	1	.	.	
+ 14	77	955	 10:01:00	Punch Drunk (Stephanie Woods, Douglas Woods.)	.	.	.	.	.	.	4	3	.	.	.	.	.	
+ 15	57	940	   9:58:30	Beinhart (Shane Jacobs, Falk Werner, Carmen Jacobs, Annika Werner.)	.	.	.	.	.	.	5	4	.	.	.	.	.	
+ 16	79	920	   9:54:27	Bacon Egg Pie (Erin, Laura, Phillipa.)	.	.	.	3	.	.	.	.	.	.	.	.	.	
+ 17	56	880	   9:56:01	Lost but laughing (Lisa Ainley, Joolz Moore.)	.	.	.	4	1	1	.	.	.	.	.	.	.	
+ 18	51	740	   9:54:14	Still Crazy (Jac Woudberg, Lesley Woudberg.)	.	.	.	.	.	.	6	5	2	.	.	.	.	
+ 19	61	730	   9:54:58	Bedford Eggs (Emma Bedford, Arthur Bedford, Hannah Bedford, Lennon Bedford.)	.	.	.	.	.	.	7	.	.	.	.	.	.	
+ 20	53	650	   9:51:26	Les Tortues (Dawn Proud, Siobhan Cross, Jenny Whittaker.)	.	.	.	5	2	2	.	.	.	.	.	.	.	
+ 21	52	515	 10:16:35	GRRE (Graeme Read, Richard English.)	9	2	1	.	.	.	.	.	.	.	.	.	.	
+ 22	59	490	   9:54:16	Frilly Frillers (Connor Fearon, Alice Webster.)	.	.	.	.	.	.	8	.	.	.	.	.	.	
+ 23	68	475	 10:18:24	TEAK (Andrew Whooley, Emma Bradley, Tora Hamblett, Karen Gray.)	.	.	.	.	.	.	9	.	.	.	.	.	.	
+ 24	73	380	   9:59:31	Bean and a Pea (Nina Bradford, Pennie Saunders.)	.	.	.	6	3	.	.	.	.	.	.	.	.	
+ 25	60	240	   9:53:22	Tortoises sometimes win (Elsie Bedford, Kim Bedford.)	.	.	.	7	.	.	.	.	.	.	.	.	.	
+ 26	76	95	 10:26:27	Louan the Late (Louan Bildstein, Maria.)	.	.	.	8	.	.	.	.	.	.	.	.	.	

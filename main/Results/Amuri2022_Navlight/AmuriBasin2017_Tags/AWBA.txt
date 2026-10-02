@@ -1,0 +1,36 @@
+Team No. 3235	Tag ID = AWBA   Tags=0020	Course 6Hr
+Violet Trio: Caitlin Corbin, Tahlia Whiting and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 9/07/2017  9:56:03 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 9/07/2017 10:12:25 AM	  0:12:25	
+   3	  81 	   80	 9/07/2017 10:29:23 AM	  0:16:58	
+   4	  54 	   50	 4/07/2017  4:41:23 AM	         	Punch clock failed.
+   5	  93 	   90	 9/07/2017 11:27:42 AM	  0:58:19	
+   6	  42 	   40	 9/07/2017 11:46:01 AM	  0:18:19	
+   7	  82 	   80	 9/07/2017 12:16:14 PM	  0:30:13	
+   8	  34 	   30	 9/07/2017 12:29:21 PM	  0:13:07	
+   9	  74 	   70	 9/07/2017 12:38:16 PM	  0:08:55	
+  10	  52 	   50	 9/07/2017 12:56:40 PM	  0:18:24	
+  11	 102 	  100	 9/07/2017  1:14:21 PM	  0:17:41	
+  12	  44 	   40	 9/07/2017  1:30:20 PM	  0:15:59	
+  13	  83 	   80	 8/07/2017  1:24:32 PM	         	Punch clock failed.
+  14	  45 	   40	 9/07/2017  2:14:20 PM	  0:44:00	
+  15	  61 	   60	 9/07/2017  2:36:19 PM	  0:21:59	
+  16	  23 	   20	 9/07/2017  3:05:43 PM	  0:29:24	
+  17	  63 	   60	 9/07/2017  3:15:23 PM	  0:09:40	
+  18	  21 	   20	 9/07/2017  3:36:28 PM	  0:21:05	
+  19	 108 		 9/07/2017  3:43:50 PM	  0:07:22	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:43:50 PM
+Time on course   5:43:50
+
+
+  940	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 940

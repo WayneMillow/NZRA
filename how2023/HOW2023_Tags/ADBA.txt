@@ -1,0 +1,24 @@
+Team No. 100	Tag ID = ADBA   Tags=0007	Course 6hr
+Not so Common: Anne Commons, Natasha Commons
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:12:00 AM	  0:12:00	
+   2	  64 	   60	 1/07/2023 11:47:36 AM	  0:35:36	
+   3	  22 	   20	 1/07/2023 12:05:52 PM	  0:18:16	
+   4	  91 	   90	 1/07/2023 12:29:52 PM	  0:24:00	
+   5	  72 	   70	 1/07/2023  1:31:19 PM	  1:01:27	
+   6	  73 	   70	 1/07/2023  2:15:50 PM	  0:44:31	
+   7	  18 		 1/07/2023  4:28:19 PM	  2:12:29	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:28:19 PM
+Time on course   5:28:19
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

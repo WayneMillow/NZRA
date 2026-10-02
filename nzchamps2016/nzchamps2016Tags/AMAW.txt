@@ -1,0 +1,32 @@
+Team No. 54	Tag ID = AMAW   Tags=0015	Course 7Hour
+Dennis the Menace and Gnasher: Tim Dennis, Frank Dennis
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:50:43 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:18:58 AM	  0:18:58	
+   3	 52	 50	27/02/2016 11:38:02 AM	  0:19:04	
+   4	 93	 90	27/02/2016 12:11:57 PM	  0:33:55	
+   5	 61	 60	27/02/2016 12:39:49 PM	  0:27:52	
+   6	 53	 50	27/02/2016  1:11:56 PM	  0:32:07	
+   7	 23	 20	27/02/2016  1:45:05 PM	  0:33:09	
+   8	 50	 50	27/02/2016  2:15:48 PM	  0:30:43	
+   9	 60	 60	27/02/2016  2:48:42 PM	  0:32:54	
+  10	 81	 80	27/02/2016  3:48:46 PM	  1:00:04	
+  11	 11	 10	27/02/2016  4:20:49 PM	  0:32:03	
+  12	 41	 40	27/02/2016  4:42:57 PM	  0:22:08	
+  13	 76	 70	27/02/2016  5:09:09 PM	  0:26:12	
+  14	 20	 20	27/02/2016  5:28:25 PM	  0:19:16	
+  15	 19		27/02/2016  5:50:00 PM	  0:21:35	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:50:00 PM
+Time on course   6:50:00
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

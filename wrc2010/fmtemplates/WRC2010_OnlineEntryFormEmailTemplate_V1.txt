@@ -1,0 +1,22 @@
+
+$header
+
+    Registration ID:  $reg_id
+    Team category: $gender_event$agegroup
+    Prequalification:  $prequal    
+                       $qualmem    $qualevent $qualcategory $qualplace  
+					   (Junk for irf or noqual, meaningful for byevent and qualsv)
+    $messagemail  
+        $comments
+
+
+      $realname    $gender1        $dob1    (Team Contact)
+	  $email        $country1
+
+    
+      $realname2    $gender2       $dob2
+	  $email2       $country2
+      
+  
+      $realname3    $gender3       $dob3
+	  $email3       $country3

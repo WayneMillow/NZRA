@@ -1,0 +1,33 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	W	X	M	W	X	
+						V	S		V	S		V	S	J	J	J	U	U	U	
+							V			V			V				V	V	V	
+ 1	224	2440	 14:30:40	The bros (Alan Friedman, Andrew Friedman.)	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	220	2160	 14:27:28	SALAR (Sam Walton, Lauren Walton.)	.	.	.	.	.	.	1	.	.	.	.	.	.	.	.	
+ 3	42	2140	 14:39:38	K2 (Katie  Wright, Konrad  Legge.)	.	.	.	.	.	.	2	.	.	.	.	.	.	.	.	
+ 4	223	2090	 14:26:29	Team Littleridge (Brett Penridge, Rebecca Penridge.)	.	.	.	.	.	.	3	.	.	.	.	.	.	.	.	
+ 5	222	2060	 14:59:16	Team Dixon (Dave Dixon, Jessica Dixon.)	.	.	.	.	.	.	4	.	.	.	.	.	.	.	.	
+ 6	230	1900	 14:41:35	Natural Gas (Andrew Kerr, Angus Kerr.)	2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 7	212	1820	 14:31:18	Mum's on Holiday (Olivia McLeod, Vania Smith.)	.	.	.	1	.	.	.	.	.	.	.	.	.	.	.	
+ 8	205	1800	 14:42:29	Dated Loaf and Pikelet (Rob Garden, Marquita Gelderman, Cath Heppelthwaite.)	.	.	.	.	.	.	5	1	1	.	.	.	.	.	.	
+ 9	229	1750	 14:37:25	Souther Traverse (Gwylfa  Moore, Amy Hore.)	.	.	.	2	.	.	.	.	.	.	.	.	.	.	.	
+ 10	217	1650	 14:49:18	Reunited Beavers (Janet Musker, Lesa Muir.)	.	.	.	3	1	.	.	.	.	.	.	.	.	.	.	
+ 11	226	1550	 14:43:18	Tri Adventure Aunties (Jan Leverton, Kim  Beckinsale.)	.	.	.	4	2	1	.	.	.	.	.	.	.	.	.	
+ 12	200	1520	 14:46:47	About Time (Twyla Kingan, Claire Muir.)	.	.	.	5	3	.	.	.	.	.	.	.	.	.	.	
+ 13	213	1490	 12:48:49	Mums on the run (Elke Braun-Elwert, Adiella Stewart.)	.	.	.	6	.	.	.	.	.	.	.	.	.	.	.	
+ 14	227	1350	 14:32:33	Triple Word Score (Heather Smith, Dusk Mains, Emma Soppit.)	.	.	.	7	.	.	.	.	.	.	.	.	.	.	.	
+ 15	207	1290	 14:34:13	Happy Horses Run Wild (Rob Horsenail, Jodi Horsenail.)	.	.	.	.	.	.	6	.	.	.	.	.	.	.	.	
+ 16	201	1180	 14:12:07	CherryGaines (Clayton  Cherry, Paige Cherry.)	.	.	.	.	.	.	7	.	.	.	.	.	.	.	.	
+ 17	221	1130	 14:34:13	Scrambled legs (Paul Burrows, Karen Burrows.)	.	.	.	.	.	.	8	2	2	.	.	.	.	.	.	
+ 18	216	1120	 13:15:06	Powered by Chocolate (Anna Pellett, Bella Rentoul.)	.	.	.	8	.	.	.	.	.	.	.	.	.	.	.	
+ 19	209	1060	 14:31:08	JEM (Jas Robb, Emma Power.)	.	.	.	9	.	.	.	.	.	.	.	.	.	.	.	
+ 20	202	970	   6:10:52	Crash Team Racing (Amy White, John White.)	.	.	.	.	.	.	9	.	.	.	.	.	.	.	.	
+ 21	102	970	 13:49:46	The tailenders (Helen Dent, Ciara McAdden, Andrea Atkinson, Zhi Jin Jin Tan.)	.	.	.	10	.	.	.	.	.	.	.	.	.	.	.	
+ 22	208	890	 13:19:28	JDog (Jen Weaver, Andre Hill.)	.	.	.	.	.	.	10	.	.	.	.	.	.	.	.	
+ 23	225	760	 12:50:31	The Gold Coasters (Jane Briscoe, Andrew Browne, Andrew  McGill, Maria  Vera, Zoe  Richards.)	.	.	.	.	.	.	11	.	.	.	.	.	.	.	.	
+ 24	218	640	   5:51:54	Rex & Co (Peter Jackson, Rex Williams, Vincent Pooch.)	3	1	1	.	.	.	.	.	.	.	.	.	1	.	.	
+ 25	228	590	   8:20:07	UTSOAC/1NS: Everymore All the Day (Salome  Hussein, Ehren  Holgersson.)	.	.	.	.	.	.	12	.	.	.	.	.	.	.	.	
+ 26	210	210	 14:28:19	Lost bearings (Kalle Pokkinen, Tapio Sorsa, Manoj Patel, James Crabb, Brian Andrews.)	4	2	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 27	215	0	 14:19:25	Nevermind (Andrew Collins, Connor Bootsma, Natasha Walters.)
+ 28	206	280	 LATE	Green Eggs and Ham (Sharon Morrison, Gary Lister, Stu Patterson.)
+ 29	204	-1930	 14:50:28	DaMtastic (Michael Speck, Daniel Jessop.)	5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 30	203	0	 LATE	Cuzzie Bros (Mathew Smith, Steve Smith.)

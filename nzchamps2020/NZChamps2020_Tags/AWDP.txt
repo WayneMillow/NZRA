@@ -1,0 +1,28 @@
+Team No. 219	Tag ID = AWDP   Tags=0011	Course 6 hour
+Bollybrisltoes: Greg Bristow, Josie Boland
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 10:58:52 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:11:54 PM	  0:11:54	
+   3	  48 	   40	 7/11/2020  1:36:01 PM	  0:24:07	
+   4	  24 	   20	 7/11/2020  1:59:01 PM	  0:23:00	
+   5	  75 	   70	 7/11/2020  2:33:33 PM	  0:34:32	
+   6	  45 	   40	 7/11/2020  3:12:50 PM	  0:39:17	
+   7	  85 	   80	 7/11/2020  3:35:48 PM	  0:22:58	
+   8	 107 	  100	 7/11/2020  4:14:14 PM	  0:38:26	
+   9	  86 	   80	 7/11/2020  5:30:44 PM	  1:16:30	
+  10	  87 	   80	 7/11/2020  6:32:47 PM	  1:02:03	
+  11	  17 		 7/11/2020  7:11:23 PM	  0:38:36	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  7:11:23 PM
+Time on course   6:11:23
+
+
+  530	Points Scored.
+ -120	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

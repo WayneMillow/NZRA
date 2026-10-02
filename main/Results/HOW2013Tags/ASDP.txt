@@ -1,0 +1,31 @@
+Team No. 683	Tag ID = ASDP   Tags=0013	Course 2.5hr
+Janet Harding, Mathew Harding, A G, Sam G
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 12:41:40 PM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013  1:05:48 PM 	  0:04:48	
+   3	 17	 10	 8/06/2013  1:12:41 PM 	  0:06:53	
+   4	 30	 30	 8/06/2013  1:35:13 PM 	  0:22:32	
+   5	 18	 10	 8/06/2013  1:42:09 PM 	  0:06:56	
+   6	 23	 20	 8/06/2013  2:03:02 PM 	  0:20:53	
+   7	 49	 40	 8/06/2013  2:15:40 PM 	  0:12:38	 Punch  12 replaced by Group 49.
+   8	 67	 60	 8/06/2013  2:28:49 PM 	  0:13:09	
+   9	 93	 90	 8/06/2013  2:41:02 PM 	  0:12:13	
+  10	 27	 20	 8/06/2013  2:58:13 PM 	  0:17:11	
+  11	 58	 50	 8/06/2013  3:15:53 PM 	  0:17:40	 Punch  10 replaced by Group 58.
+  12	 19	 10	 8/06/2013  3:20:16 PM 	  0:04:23	
+  13	 16		 8/06/2013  3:24:48 PM 	  0:04:32	FINISH TIME.
+END
+	AddedPunch94	90
+
+
+Recognised finish time  8/06/2013  3:24:48 PM 
+Time on course   2:23:48
+
+
+  450	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 450

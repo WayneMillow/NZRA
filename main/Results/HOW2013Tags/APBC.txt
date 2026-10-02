@@ -1,0 +1,35 @@
+Team No. 568	Tag ID = APBC   Tags=0018	Course 6hr
+I will always listen to what you say!: Alice  Barach, Mick Bruhn
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:16:10 AM	         	BRIEFING. Score reset.
+   2	 20	 20	 8/06/2013 10:41:56 AM	  0:12:56	
+   3	 58	 50	 8/06/2013 10:55:38 AM	  0:13:42	
+   4	 67	 60	 8/06/2013 11:22:07 AM	  0:26:29	
+   5	 49	 40	 8/06/2013 11:33:24 AM	  0:11:17	 Punch  12 replaced by Group 49.
+   6	 30	 30	 8/06/2013 11:55:25 AM	  0:22:01	
+   7	 53	 50	 8/06/2013 12:12:02 PM	  0:16:37	
+   8	 35	 30	 8/06/2013 12:20:08 PM	  0:08:06	
+   9	 26	 20	 8/06/2013 12:33:52 PM	  0:13:44	
+  10	 79	 70	 8/06/2013  1:21:23 PM 	  0:47:31	
+  11	 42	 40	 8/06/2013  1:37:16 PM 	  0:15:53	
+  12	 24	 20	 8/06/2013  1:56:25 PM 	  0:19:09	
+  13	 60	 60	 8/06/2013  2:14:56 PM 	  0:18:31	
+  14	 51	 50	 8/06/2013  2:30:42 PM 	  0:15:46	
+  15	 31	 30	 8/06/2013  2:38:48 PM 	  0:08:06	
+  16	 99	 90	 8/06/2013  2:58:45 PM 	  0:19:57	
+  17	 44	 40	 8/06/2013  3:52:47 PM 	  0:54:02	
+  18	 16		 8/06/2013  4:22:31 PM 	  0:29:44	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:22:31 PM 
+Time on course   5:53:31
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

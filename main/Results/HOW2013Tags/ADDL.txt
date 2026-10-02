@@ -1,0 +1,27 @@
+Team No. 680	Tag ID = ADDL   Tags=0011	Course 2.5hr
+Kevin Moginie, Georgie Moginie, Katie Moginie
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	104		 8/06/2013  1:19:37 PM 	         	BRIEFING. Score reset.
+   3	 58	 50	 8/06/2013  1:26:38 PM 	  0:07:01	 Punch  10 replaced by Group 58.
+   4	 20	 20	 8/06/2013  1:50:43 PM 	  0:24:05	
+   5	 85	 80	 8/06/2013  1:59:33 PM 	  0:08:50	
+   6	 75	 70	 8/06/2013  2:16:15 PM 	  0:16:42	
+   7	 36	 30	 8/06/2013  2:36:11 PM 	  0:19:56	
+   8	 76	 70	 8/06/2013  2:49:02 PM 	  0:12:51	
+   9	 27	 20	 8/06/2013  2:57:26 PM 	  0:08:24	
+  10	 17	 10	 8/06/2013  3:25:00 PM 	  0:27:34	
+  11	 15		 8/06/2013  3:29:01 PM 	  0:04:01	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:29:01 PM 
+Time on course   2:28:01
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

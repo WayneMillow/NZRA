@@ -1,0 +1,7 @@
+﻿The WAV files in this folder should be copied onto the C:\Program Files\NavLight Rogaine Scoring folder,
+along with the RogaineSCORE.exe file.
+
+Ruuning RogaineSCORE from that location should create a folder C:\ProgramData\NavLightData
+into which the WAV files wil be copied when you run RogaineSCORE. (or you can do it yourself.)
+
+The WAV files are not important but they enhance your auditory experience.

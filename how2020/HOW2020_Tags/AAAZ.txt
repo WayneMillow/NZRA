@@ -1,0 +1,28 @@
+Team No. 524	Tag ID = AAAZ   Tags=0042	Course 6hrB
+Cashmere HC 2: Ryan Moore, Jake van Keulen and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  32	  10 		 4/07/2020 10:26:06 AM	         	BRIEFING. Score reset.
+  33	  56 	   50	 4/07/2020 11:09:35 AM	  0:09:35	
+  34	  25 	   20	 4/07/2020 11:11:33 AM	  0:01:58	
+  35	  31 	   30	 4/07/2020 11:23:16 AM	  0:11:43	
+  36	 105 	  100	 4/07/2020 11:27:00 AM	  0:03:44	
+  37	  28 	   20	 4/07/2020 11:37:54 AM	  0:10:54	
+  38	  42 	   40	 4/07/2020 11:47:28 AM	  0:09:34	
+  39	  74 	   70	 4/07/2020 11:58:24 AM	  0:10:56	
+  40	  71 	   70	 4/07/2020 12:14:52 PM	  0:16:28	
+  41	  64 	   60	 4/07/2020 12:44:21 PM	  0:29:29	
+  42	  14 		 4/07/2020  3:08:29 PM	  2:24:08	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  3:08:29 PM
+Time on course   4:08:29
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

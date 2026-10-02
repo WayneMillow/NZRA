@@ -1,0 +1,41 @@
+Team No. 215	Tag ID = APCK   Tags=0020	Course 15hr
+Nevermind: Andrew Collins, Connor Bootsma and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		16/12/2023 11:36:53 AM	         	BRIEFING. Score reset.
+   2	  88 	   80	16/12/2023 12:35:56 PM	  0:35:56	
+   3	  81 	   80	16/12/2023  1:10:40 PM	  0:34:44	
+   4	  65 	   60	16/12/2023  1:25:11 PM	  0:14:31	
+   5	  51 	   50	16/12/2023  2:17:32 PM	  0:52:21	
+   6	  80 	   80	16/12/2023  4:09:09 PM	  1:51:37	
+   7	  72 	   70	16/12/2023  4:44:51 PM	  0:35:42	
+   8	 100 	  100	16/12/2023  5:47:47 PM	  1:02:56	
+   9	  63 	   60	16/12/2023  6:55:52 PM	  1:08:05	
+  10	  90 	   90	16/12/2023  7:35:33 PM	  0:39:41	
+  11	  38 	   30	16/12/2023  9:11:18 PM	  1:35:45	
+  12	  47 	   40	16/12/2023  9:30:53 PM	  0:19:35	
+  13	  18 		16/12/2023 10:21:25 PM	  0:50:32	FINISH TIME.
+  14	  15 		17/12/2023  7:18:24 AM	  8:56:59	DEPARTURE TIME.
+  15	  46 	   40	17/12/2023  7:56:54 AM	  0:38:30	
+  16	  62 	   60	17/12/2023  8:34:51 AM	  0:37:57	
+  17	  29 	   20	17/12/2023  9:30:21 AM	  0:55:30	
+  18	  77 	   70	17/12/2023  9:45:00 AM	  0:14:39	
+  19	  37 	   30	17/12/2023  9:58:41 AM	  0:13:41	
+  20	  19 		17/12/2023 11:15:55 AM	  1:17:14	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  88,81,65,51,80,72,100,63,90,38,47,46,62,29,77,37
+Your score has been reduced by 960 points.
+
+
+Recognised Course time 17/12/2023 2:18:56 AM
+Time on course  14:18:56
+
+
+    0	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

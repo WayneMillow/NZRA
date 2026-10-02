@@ -1,0 +1,31 @@
+Team No. 633	Tag ID = AZDK   Tags=0014	Course 6_HoW
+Meg Cadillac, Sonja Hazlett and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:38:20 AM	         	BRIEFING. Score reset.
+   2	 36	 30	26/06/2010 11:10:56 AM	  0:10:56	
+   3	 94	 90	26/06/2010 11:31:22 AM	  0:20:26	
+   4	 46	 40	26/06/2010 11:51:15 AM	  0:19:53	 Punch  03 replaced by Group 46.
+   5	 37	 30	24/06/2010  6:45:00 PM 	         	1.677 Days early.
+   6	 76	 70	26/06/2010  1:05:13 PM 	  1:13:58	
+   7	 84	 80	26/06/2010  1:32:00 PM 	  0:26:47	
+   8	 45	 40	26/06/2010  1:56:45 PM 	  0:24:45	
+   9	 34	 30	26/06/2010  2:23:33 PM 	  0:26:48	
+  10	 89	 80	26/06/2010  3:00:05 PM 	  0:36:32	
+  11	 35	 30	26/06/2010  3:34:02 PM 	  0:33:57	
+  12	 93	 90	26/06/2010  3:52:26 PM 	  0:18:24	
+  13	 20	 20	26/06/2010  4:34:23 PM 	  0:41:57	 Punch  01 replaced by Group 20.
+  14	 17		26/06/2010  4:44:25 PM 	  0:10:02	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:44:25 PM 
+Time on course   5:44:25
+
+
+  630	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

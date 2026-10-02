@@ -1,0 +1,30 @@
+Team No. 618	Tag ID = AXBA   Tags=0013	Course 6hr
+Ray Harrow, Jen Harrow
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		30/06/2012 10:44:50 AM	         	BRIEFING. Score reset.
+   2	 93	 90	30/06/2012 11:14:09 AM	  0:14:09	 Punch  97 replaced by Group 93.
+   3	 71	 70	30/06/2012 11:30:21 AM	  0:16:12	
+   4	 65	 60	30/06/2012 11:52:56 AM	  0:22:35	
+   5	 74	 70	30/06/2012 12:11:57 PM	  0:19:01	
+   6	 56	 50	30/06/2012 12:48:21 PM	  0:36:24	
+   7	 94	 90	30/06/2012  1:02:09 PM 	  0:13:48	
+   8	 75	 70	30/06/2012  1:34:46 PM 	  0:32:37	
+   9	 30	 30	30/06/2012  2:01:47 PM 	  0:27:01	
+  10	 80	 80	30/06/2012  3:01:57 PM 	  1:00:10	
+  11	 58	 50	30/06/2012  3:15:40 PM 	  0:13:43	
+  12	 90	 90	30/06/2012  3:39:44 PM 	  0:24:04	
+  13	106		30/06/2012  4:32:08 PM 	  0:52:24	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:32:08 PM 
+Time on course   5:32:08
+
+
+  750	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 750

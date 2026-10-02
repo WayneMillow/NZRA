@@ -1,0 +1,30 @@
+Team No. 136	Tag ID = ABBD   Tags=0013	Course 24 hour
+Desperate Housewives: Jeni Pelvin (NZL), Tim Easterbrook (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:45:48 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018  1:06:56 PM	  1:06:56	
+   3	  68 	   60	24/11/2018  2:09:21 PM	  1:02:25	
+   4	  75 	   70	24/11/2018  3:13:33 PM	  1:04:12	
+   5	  97 	   90	24/11/2018  3:59:10 PM	  0:45:37	
+   6	  84 	   80	24/11/2018  4:39:08 PM	  0:39:58	
+   7	  25 	   20	24/11/2018  6:41:56 PM	  2:02:48	
+   8	  62 	   60	24/11/2018  7:35:18 PM	  0:53:22	
+   9	 104 	  100	24/11/2018  8:47:18 PM	  1:12:00	
+  10	  18 		25/11/2018  1:26:51 AM	  4:39:33	FINISH TIME.
+  11	  49 	   40	25/11/2018  9:31:36 AM	  8:04:45	
+  12	  58 	   50	25/11/2018  9:54:41 AM	  0:23:05	
+  13	  18 		25/11/2018 10:31:00 AM	  0:36:19	FINISH TIME.
+END
+
+
+Recognised finish time 25/11/2018 10:31:00 AM
+Time on course  22:31:00
+
+
+  630	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

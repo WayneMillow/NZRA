@@ -1,0 +1,30 @@
+Team No. 106	Tag ID = AUDO   Tags=0013	Course 6 hour
+Silver and Gold: Rhys Jones, Joshua Jones
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:10:15 AM	  0:10:15	
+   2	  39 	   30	19/06/2021 11:35:13 AM	  0:24:58	
+   3	  59 	   50	19/06/2021 11:57:51 AM	  0:22:38	
+   4	  61 	   60	19/06/2021 12:29:47 PM	  0:31:56	
+   5	  72 	   70	19/06/2021  1:03:31 PM	  0:33:44	
+   6	  52 	   50	19/06/2021  1:25:38 PM	  0:22:07	
+   7	 102 	  100	19/06/2021  1:41:35 PM	  0:15:57	
+   8	  42 	   40	19/06/2021  2:16:39 PM	  0:35:04	
+   9	  62 	   60	19/06/2021  2:41:18 PM	  0:24:39	
+  10	  31 	   30	19/06/2021  3:06:20 PM	  0:25:02	
+  11	  80 	   80	19/06/2021  4:03:17 PM	  0:56:57	
+  12	  47 	   40	19/06/2021  4:16:36 PM	  0:13:19	
+  13	  57 		19/06/2021  4:47:44 PM	  0:31:08	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:47:44 PM
+Time on course   5:47:44
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

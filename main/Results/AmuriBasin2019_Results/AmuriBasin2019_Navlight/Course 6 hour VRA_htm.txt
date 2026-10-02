@@ -1,0 +1,65 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	F	X	F	
+					O	V	S	O	V	S	O	V	S	J	J	J	O	
+							V			V			V					
+ 1	12	2400	   5:43:45	TnT (Tane Cambridge, Tim Farrant.)	1	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	35	2400	   5:53:28	The Gorse Appreciation Club (Dave Quested, Darron Jones.)	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	11	2240	   5:58:11	Tiki Tour (Struan Webb, George Lucas.)	3	.	.	.	.	.	.	.	.	.	.	.	.	
+ 4	61	2010	   5:59:03	Looks Right (Tim Wright, Martin Lukes.)	.	1	.	.	.	.	.	.	.	.	.	.	.	
+ 5	65	1990	   5:27:58	Final test before marriage (Rhys John, Jennifer Walker.)	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 6	29	1850	   5:50:56	Crossing Peaks (Jake Vargo, Hayley Richards, Alistair Bird, Sam Bell.)	.	.	.	.	.	.	2	.	.	.	.	.	.	
+ 7	54	1750	   5:40:51	Perambulating (Tobi Wulff, John Montgomery.)	4	.	.	.	.	.	.	.	.	.	.	.	.	
+ 8	59	1720	   5:54:41	Triple A (Alistar Adams, Aliesha Pile.)	.	.	.	.	.	.	3	.	.	.	.	.	.	
+ 9	39	1660	   5:43:40	Checkpoint Charlie's Cheviot4Sq (Kerry Tull, Monty Montgomery.)	5	.	.	.	.	.	.	.	.	.	.	.	.	
+ 10	45	1640	   5:37:44	Compass Challenged (David Ruddenklau, Matthew Hall.)	6	.	.	.	.	.	.	.	.	.	.	.	.	
+ 11	16	1640	   5:46:27	Old Fellas (Dave Armstrong, Guy de Lacey.)	.	2	.	.	.	.	.	.	.	.	.	.	.	
+ 12	31	1630	   5:49:57	Learning to Fly (Mike Robins, Ian Walsh.)	7	.	.	.	.	.	.	.	.	.	.	.	.	
+ 13	21	1630	   5:56:24	MLT (Lauren Fearnley, Tania Ross, Mitch Fearnley.)	.	.	.	.	.	.	4	.	.	.	.	.	.	
+ 14	66	1620	   5:54:34	CIC Financial (Nathan Hay, Kieran Sutherland.)	8	.	.	.	.	.	.	.	.	.	.	.	.	
+ 15	28	1600	   5:47:20	Waihora Wombles (Nathan Welch, David Bailey, Jamie Wallace.)	.	3	.	.	.	.	.	.	.	.	.	.	.	
+ 16	47	1580	   5:50:21	Spring Ducklings (Nicole Symons, Kat Reynolds.)	.	.	.	1	.	.	.	.	.	.	.	.	.	
+ 17	30	1570	   5:57:55	Blind leading the blind (Lottie Armstrong, Chris Greenan.)	.	.	.	.	.	.	5	.	.	.	.	.	.	
+ 18	71	1500	   5:59:44	STAC (Tom Wells, Henry Spark, Ayrton Shadbolt.)	.	.	.	.	.	.	.	.	.	1	.	.	.	
+ 19	15	1460	   5:55:20	Baker's Dozen (Viv Prince, Emma de Lacey, Josie Boland.)	.	.	.	.	1	.	.	.	.	.	.	.	.	
+ 20	7	1430	   5:56:20	Rock Hounders (Kim Whitman, Paul Whitman.)	.	.	.	.	.	.	.	1	.	.	.	.	.	
+ 21	55	1420	   5:41:25	The Spitting Lamas (Josie Parkinson-Cribb, Jenna Hughes-Games.)	.	.	.	2	.	.	.	.	.	.	.	.	.	
+ 22	34	1330	   5:56:38	Run Fast (nick burson, Mark Smith, Phil stevenson.)	9	.	.	.	.	.	.	.	.	.	.	.	.	
+ 23	70	1310	   6:00:13	Totara Takes The Hills (Emma Rudge, Charlotte Skelton.)	.	.	.	3	.	.	.	.	.	.	.	.	.	
+ 24	9	1290	   6:06:32	Bee team (John West, Monika Bratownik, Jonathan Carr, Emma Rogers.)	.	.	.	.	.	.	6	.	.	.	.	.	.	
+ 25	19	1260	   5:57:11	Not over the hill yet (Els Coster, Rachel Simons, Brian Wilson.)	.	.	.	.	.	.	.	2	.	.	.	.	.	
+ 26	32	1240	   5:47:30	Team Danger (Joanna Dangerfield, Liam Dangerfield.)	.	.	.	.	.	.	7	.	.	.	.	.	.	
+ 27	3	1240	   5:49:30	Juiced in Time (Angela Romano, Janine Romano, Fiona Vetcher.)	.	.	.	.	2	.	.	.	.	.	.	.	.	
+ 28	10	1230	   5:48:28	Can Breathe (Kevin Holland, Shane Fellows.)	.	4	.	.	.	.	.	.	.	.	.	.	.	
+ 29	25	1190	   5:48:32	Gin'll fix it (Karen Gray, Justine schroder, Emma Bradley.)	.	.	.	.	3	.	.	.	.	.	.	.	.	
+ 30	52	1190	   5:52:24	Reds Revenge (Mark Flintoft, Amy Streebola.)	.	.	.	.	.	.	.	3	.	.	.	.	.	
+ 31	1	1160	   5:54:05	Let's Wander Together (Liz Millow, Trevor Merrifield, Wayne Millow.)	.	.	.	.	.	.	.	4	.	.	.	.	.	
+ 32	8	1150	   5:36:48	Two Wines and a Cider (Michelle Spencer, Maria Adams, Emma Fissenden.)	.	.	.	4	.	.	.	.	.	.	.	.	.	
+ 33	60	1130	   5:34:59	Two lost souls (Lee Robertson, Rebecca Redmond.)	.	.	.	.	4	.	.	.	.	.	.	.	.	
+ 34	18	1130	   5:43:04	Mac and Tonic (Nic Hardaker, Tony Munnerley, Alison MacDonald.)	.	.	.	.	.	.	.	5	.	.	.	.	.	
+ 35	17	1100	   5:53:46	Spinning Compass (Matt Stewart, Todd Kraiger.)	.	5	.	.	.	.	.	.	.	.	.	.	.	
+ 36	50	1090	   5:26:01	Woop Woop (Catherine Low, Ahmad Abu-Aysha.)	.	.	.	.	.	.	8	.	.	.	.	.	.	
+ 37	46	1080	   6:03:17	Apple Pi (Sandra Appleby, Martin Cleland.)	.	.	.	.	.	.	.	6	.	.	.	.	.	
+ 38	57	1070	   5:01:23	robbed and shorn (Shawn Richards, Robert Phillips.)	10	.	.	.	.	.	.	.	.	.	.	.	.	
+ 39	20	1070	   5:46:11	The Oldies (Bill Kennedy, Anne Kennedy, Peter Squires.)	.	.	.	.	.	.	.	7	.	.	.	.	.	
+ 40	49	1060	   5:41:53	After Shockers (Dee Guthrie, Jason Rentoul.)	.	.	.	.	.	.	9	.	.	.	.	.	.	
+ 41	48	1030	   6:01:21	Just Coasting (Janelle Trounson, Jules Watts.)	.	.	.	5	.	.	.	.	.	.	.	.	.	
+ 42	4	960	   5:51:51	Skeleton Crew (Ashley Windsor, Helen Nugteren.)	.	.	.	.	.	.	.	8	.	.	.	.	.	
+ 43	37	960	   6:01:39	Shamus Thorney Cox (Craig Cox, Shane Horgan, Paul Thornley.)	.	6	.	.	.	.	.	.	.	.	.	.	.	
+ 44	38	950	   6:01:15	Rewired 2.0 (Grant MacDonald, Hans Andersen.)	.	7	.	.	.	.	.	.	.	.	.	.	.	
+ 45	13	950	   6:17:41	Amuri Warriors (Kristen Diederich, Olivia Rutherford, Kiley Bailey.)	.	.	.	6	.	.	.	.	.	.	.	.	.	
+ 46	27	920	   5:52:32	911 (nerida manson, Sarah mcleod.)	.	.	.	.	5	.	.	.	.	.	.	.	.	
+ 47	43	910	   5:43:09	Blister Sisters (Angela Powell, Kay Nelson, Martine Cooper.)	.	.	.	.	6	.	.	.	.	.	.	.	.	
+ 48	62	880	   5:33:26	Do it for the gram. (Sara Smith, Beth Jagusch.)	.	.	.	7	.	.	.	.	.	.	.	.	.	
+ 49	44	840	   5:48:36	Just the Two of Us (Jane Melville, Janene Sandford.)	.	.	.	.	7	.	.	.	.	.	.	.	.	
+ 50	5	800	   5:33:46	Chafing the dream (Rebecca Dondertman, Annalese Lissingtom, Sacha Mcdougall.)	.	.	.	8	.	.	.	.	.	.	.	.	.	
+ 51	26	730	   5:53:31	Never too late (Corry Scrivener, Wendy Stewart, Chris Dixon.)	.	.	.	.	8	.	.	.	.	.	.	.	.	
+ 52	67	710	   5:32:08	She be coming around the mountai (Michelle Clyne, Sandi Wood, Karla Poyner.)	.	.	.	.	9	.	.	.	.	.	.	.	.	
+ 53	36	670	   5:44:48	Three Wise Women (Helen Rouse, Raewyn Moss, Christina Robb.)	.	.	.	.	10	.	.	.	.	.	.	.	.	
+ 54	41	620	   6:23:09	One Direction (Richard McIntosh, Karen Muller.)	.	.	.	.	.	.	.	9	.	.	.	.	.	
+ 55	53	530	   4:51:41	Sweet Cheeks (Natalie McLaughan, Yo Gulliver, Jo James.)	.	.	.	.	11	.	.	.	.	.	.	.	.	
+ 56	6	520	   4:22:37	Chafing the dream (Michelle Anderson, Annabel Crozier, Kristina townsend.)	.	.	.	9	.	.	.	.	.	.	.	.	.	
+ 57	2	510	   5:55:21	Muscles   Mascara (Juanita VASZILYKO, Stacey Cowan.)	.	.	.	10	.	.	.	.	.	.	.	.	.	
+ 58	58	490	   5:59:10	Rogaining Rookies (Roger Williams, Rebecca Mansfield, John Taggart, Julia Smedley.)	.	.	.	.	.	.	.	10	.	.	.	.	.	
+ 59	64	490	   6:04:18	Caffeine Aftershocks (Kelly Ashley, Shane Ashley.)	.	.	.	.	.	.	.	11	.	.	.	.	.	
+ 60	63	450	   5:44:12	Further Faster (Julie-Anne Christy, Senka Radonich.)	.	.	.	11	.	.	.	.	.	.	.	.	.	
+ 61	42	440	   5:27:03	K   C smashing it (Kristal Richards, Campbell Crimp.)	.	.	.	.	.	.	10	.	.	.	.	.	.	
+ 62	51	230	   4:43:58	Special Ks (Ruth Knewstubb, Andrew Knewstubb.)	.	.	.	.	.	.	.	.	.	.	.	.	1	

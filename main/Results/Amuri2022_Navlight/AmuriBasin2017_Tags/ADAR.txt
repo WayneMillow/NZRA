@@ -1,0 +1,28 @@
+Team No. 2117	Tag ID = ADAR   Tags=0011	Course 3Hr
+Winter Wanderers: Nicola McKinlay-Clark, Andy McKinlay-Clark and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:48:29 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	 9/07/2017 12:10:20 PM	  0:10:20	
+   3	  81 	   80	 9/07/2017 12:25:05 PM	  0:14:45	
+   4	  54 	   50	 4/07/2017  7:03:50 AM	         	0.206 Days early.
+   5	  93 	   90	 9/07/2017  1:51:15 PM	  1:26:10	
+   6	  67 	   60	 9/07/2017  2:07:57 PM	  0:16:42	
+   7	  55 	   50	 9/07/2017  2:23:44 PM	  0:15:47	
+   8	  41 	   40	 9/07/2017  2:29:51 PM	  0:06:07	
+   9	  21 	   20	 9/07/2017  2:40:37 PM	  0:10:46	
+  10	  37 	   30	 9/07/2017  2:51:09 PM	  0:10:32	
+  11	 108 		 9/07/2017  2:58:22 PM	  0:07:13	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:58:22 PM
+Time on course   2:58:22
+
+
+  450	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 450

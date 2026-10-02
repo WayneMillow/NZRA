@@ -1,0 +1,36 @@
+Team No. 668	Tag ID = APDF   Tags=0019	Course 6hr
+Tamsin Page, Penny Claridge and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		30/06/2012 10:41:08 AM	         	BRIEFING. Score reset.
+   2	 93	 90	30/06/2012 11:13:22 AM	  0:13:22	 Punch  97 replaced by Group 93.
+   3	 71	 70	30/06/2012 11:31:02 AM	  0:17:40	
+   4	 10	 10	30/06/2012 11:47:11 AM	  0:16:09	
+   5	 20	 20	30/06/2012 11:52:40 AM	  0:05:29	 Punch  79 replaced by Group 20.
+   6	 43	 40	30/06/2012 12:09:51 PM	  0:17:11	 Punch  86 replaced by Group 43.
+   7	 32	 30	30/06/2012 12:22:38 PM	  0:12:47	
+   8	 70	 70	30/06/2012 12:59:07 PM	  0:36:29	
+   9	 61	 60	30/06/2012  1:27:17 PM 	  0:28:10	
+  10	 62	 60	30/06/2012  2:04:25 PM 	  0:37:08	
+  11	 81	 80	30/06/2012  2:21:21 PM 	  0:16:56	
+  12	 33	 30	30/06/2012  2:35:08 PM 	  0:13:47	
+  13	 21	 20	30/06/2012  2:40:07 PM 	  0:04:59	
+  14	 44	 40	30/06/2012  3:08:17 PM 	  0:28:10	
+  15	 91	 90	30/06/2012  3:29:58 PM 	  0:21:41	
+  16	 72	 70	30/06/2012  3:57:03 PM 	  0:27:05	
+  17	 63	 60	30/06/2012  4:09:49 PM 	  0:12:46	
+  18	 11	 10	30/06/2012  4:44:05 PM 	  0:34:16	
+  19	108		30/06/2012  4:50:53 PM 	  0:06:48	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:50:53 PM 
+Time on course   5:50:53
+
+
+  850	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 850

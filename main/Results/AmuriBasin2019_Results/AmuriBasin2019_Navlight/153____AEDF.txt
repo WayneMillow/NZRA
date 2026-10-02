@@ -1,0 +1,31 @@
+Team No. 153	Tag ID = AEDF   Tags=0014	Course 3 hour
+Keep up Dad: Tom Adams, Milly Adams and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:42:18 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:07:39 PM	  0:07:39	
+   3	  31 	   30	 7/07/2019 12:17:40 PM	  0:10:01	
+   4	  73 	   70	 7/07/2019 12:26:06 PM	  0:08:26	
+   5	  46 	   40	 7/07/2019 12:45:29 PM	  0:19:23	
+   6	  52 	   50	 7/07/2019 12:51:06 PM	  0:05:37	
+   7	  43 	   40	 7/07/2019  1:10:40 PM	  0:19:34	
+   8	  75 	   70	 7/07/2019  1:32:36 PM	  0:21:56	
+   9	  41 	   40	 7/07/2019  1:50:11 PM	  0:17:35	
+  10	  54 	   50	 7/07/2019  2:01:51 PM	  0:11:40	
+  11	  28 	   20	 7/07/2019  2:17:19 PM	  0:15:28	
+  12	  49 	   40	 7/07/2019  2:28:59 PM	  0:11:40	
+  13	  51 	   50	 7/07/2019  2:36:53 PM	  0:07:54	
+  14	  16 		 7/07/2019  2:45:54 PM	  0:09:01	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:45:54 PM
+Time on course   2:45:54
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

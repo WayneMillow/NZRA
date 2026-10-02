@@ -1,0 +1,30 @@
+Team No. 2130	Tag ID = ABAZ   Tags=0013	Course 6Hr
+NikNatJim: James Palmer, Nick Bryan and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:39:17 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:06:06 AM	  0:06:06	
+   3	 22	 20	10/06/2017 11:31:43 AM	  0:25:37	
+   4	 24	 20	10/06/2017 11:54:09 AM	  0:22:26	
+   5	 74	 70	10/06/2017 12:21:22 PM	  0:27:13	
+   6	 46	 40	10/06/2017 12:39:05 PM	  0:17:43	
+   7	 94	 90	10/06/2017  1:22:51 PM	  0:43:46	
+   8	 54	 50	10/06/2017  1:39:33 PM	  0:16:42	
+   9	 33	 30	10/06/2017  2:01:52 PM	  0:22:19	
+  10	 30	 30	10/06/2017  2:49:43 PM	  0:47:51	
+  11	 40	 40	10/06/2017  3:30:11 PM	  0:40:28	
+  12	 21	 20	10/06/2017  3:53:29 PM	  0:23:18	
+  13	107		10/06/2017  4:08:27 PM	  0:14:58	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:08:27 PM
+Time on course   5:08:27
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

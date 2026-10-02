@@ -1,0 +1,45 @@
+
+$header
+
+    Team category: $gender$agegroup
+    UniChallenge: $uni $uniname
+    Event: $event
+    Total Fees: $$totalfees to be paid by $payment, ($calc_messagemail).
+         (Entry Fees = $$totalentryfee, Bus Fares = $$totalbusfee)
+    $messagemail  
+        $comments
+
+
+Team Members:
+ 
+      $realname    $email    (Team Contact)
+      $address  $town  $postcode
+      $phone
+      Entry fee - $$entryfee1
+      $bus - $$busfee1
+    
+      $realname2    $email2
+      $address2  $town2  $postcode2
+      $phone2
+      Entry fee - $$entryfee2
+      $bus2 - $$busfee2
+      
+      $realname3    $email3_message
+      $address3_message   $town3_message   $postcode3_message 
+      $phone3_message 
+      $entryfee3_message
+      $bus3
+      
+      $realname4    $email4_message
+      $address4_message  $town4_message  $postcode4_message
+      $phone4_message
+      $entryfee4_message
+      $bus4
+      
+      
+      $realname5    $email5_message
+      $address5_message  $town5_message  $postcode5_message
+      $phone5_message
+      $entryfee5_message
+      $bus5
+

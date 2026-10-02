@@ -1,0 +1,33 @@
+Team No. 40	Tag ID = AJAV   Tags=0016	Course 
+Martin Etherington, Sharon Govenlock
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 2/12/2007  8:45:04 AM 	         	BRIEFING. Score reset.
+   2	 23	 20	 2/12/2007  9:10:42 AM 	  0:10:42	
+   3	 64	 60	 2/12/2007  9:30:24 AM 	  0:19:42	
+   4	 83	 80	 2/12/2007  9:50:52 AM 	  0:20:28	
+   5	101	100	 2/12/2007 10:12:09 AM	  0:21:17	
+   6	 43	 40	 2/12/2007 10:32:31 AM	  0:20:22	
+   7	 33	 30	 2/12/2007 11:39:05 AM	  1:06:34	
+   8	 22	 20	 2/12/2007 11:59:08 AM	  0:20:03	
+   9	 91	 90	 2/12/2007 12:48:26 PM	  0:49:18	
+  10	 50	 50	 2/12/2007  1:22:38 PM 	  0:34:12	
+  11	 48	 40	 2/12/2007  1:39:05 PM 	  0:16:27	
+  12	 24	 20	 2/12/2007  1:50:31 PM 	  0:11:26	
+  13	 36	 30	 2/12/2007  2:08:17 PM 	  0:17:46	
+  14	 34	 30	 2/12/2007  2:54:54 PM 	  0:46:37	
+  15	 25	 20	 2/12/2007  3:11:07 PM 	  0:16:13	
+  16	 18		 2/12/2007  3:23:14 PM 	  0:12:07	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:23:14 PM 
+Time on course   6:23:14
+
+
+  630	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

@@ -1,0 +1,30 @@
+Team No. 219	Tag ID = AGAW   Tags=0046	Course 7Hour
+Keri Barnett, Malcolm Creagh, Ella Creagh, Annie Wardle
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  34	 12		24/11/2012 10:23:27 AM	         	BRIEFING. Score reset.
+  35	 35	 30	24/11/2012 10:50:26 AM	  0:20:26	
+  36	 20	 20	24/11/2012 11:20:48 AM	  0:30:22	
+  37	 40	 40	24/11/2012 11:48:00 AM	  0:27:12	
+  38	 30	 30	24/11/2012 12:15:07 PM	  0:27:07	
+  39	 70	 70	24/11/2012  1:00:05 PM 	  0:44:58	
+  40	 54	 50	24/11/2012  2:36:22 PM 	  1:36:17	
+  41	 60	 60	24/11/2012  3:13:48 PM 	  0:37:26	
+  42	 58	 50	24/11/2012  3:48:07 PM 	  0:34:19	
+  43	 72	 70	24/11/2012  4:07:42 PM 	  0:19:35	
+  44	 21	 20	24/11/2012  4:42:43 PM 	  0:35:01	
+  45	 46	 40	24/11/2012  5:02:34 PM 	  0:19:51	
+  46	107		24/11/2012  5:15:47 PM 	  0:13:13	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2012  5:15:47 PM 
+Time on course   6:45:47
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

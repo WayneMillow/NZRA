@@ -1,0 +1,25 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	W	W	F	
+					O	V	S	O	V	S	O	V	S	J	J	X	O	
+							V			V			V					
+ 1	18	3230	 11:58:14	Old and Slow (Steve ONeill, Greig Hamilton.)	1	1	.	.	.	.	.	.	.	.	.	.	.	
+ 2	23	3090	 11:59:06	Port Hills Warriors (Peter Menis, Tim Farrant.)	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	24	2980	 11:53:41	Triple Threat (William Archibald, Mark Gardyne, Jack Davies.)	3	.	.	.	.	.	.	.	.	.	.	.	.	
+ 4	15	2780	 11:58:07	Forever Forests (Jamie Mountier, Milan Brodina.)	4	.	.	.	.	.	.	.	.	.	.	.	.	
+ 5	20	2560	 11:52:11	Capital Rogaine Tax (Sara Vermeulen, Timothy Hargrave, Chris Greenan.)	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 6	9	2510	 11:44:59	Backcountry Studio (Anita Copplestone, Ira Sizova, Kirk McDonald, Alaina Morrison.)	.	.	.	.	.	.	2	.	.	.	.	.	.	
+ 7	19	2430	 11:57:35	Tenacious Turtles (Nathan Harris, Ev Tolerton.)	5	.	.	.	.	.	.	.	.	.	.	.	.	
+ 8	13	2300	 11:50:33	Two and a half old men (Jamie Macalister, Paul Daly, Zinta Mcguinniety.)	6	2	.	.	.	.	.	.	.	.	.	.	.	
+ 9	5	2290	 11:51:38	Slanky (James Sullivan, Luaks Waller.)	7	.	.	.	.	.	.	.	.	1	.	.	.	
+ 10	16	2170	 11:42:36	Viande et deux Legumes (Rob Harrow, Jo Forbes, Jill Wesrenra.)	.	.	.	.	.	.	3	1	.	.	.	.	.	
+ 11	6	2170	 11:53:29	K&R (Kaye Harding, Richard Spelman.)	.	.	.	.	.	.	4	2	1	.	.	.	.	
+ 12	22	2160	 11:55:23	Not Fast Enough (Chris McHarg, Andrew Hawke.)	8	3	.	.	.	.	.	.	.	.	.	.	.	
+ 13	21	2160	 11:55:26	Resisting a Rest (Benjamin Still, Dave Hume, Emma Rogers.)	.	.	.	.	.	.	5	3	.	.	.	.	.	
+ 14	4	1890	 11:52:09	Toe Patrol (Alistair Boyce, Paul Kelly.)	9	4	.	.	.	.	.	.	.	.	.	.	.	
+ 15	14	1830	 11:57:29	In and out of control (Vivienne Prince, Alister Metherell.)	.	.	.	.	.	.	6	4	2	.	.	.	.	
+ 16	25	1780	 11:57:58	Over the Hill (Richard Malloch, Alan Moore.)	10	5	1	.	.	.	.	.	.	.	.	.	.	
+ 17	12	1710	 11:56:41	Flutterbys (Val Rogers, Kathrin Mueller.)	.	.	.	1	1	1	.	.	.	.	.	.	.	
+ 18	8	1640	 11:35:16	Fairlie Lost (Karen Clarke, Fiona Cutler, Kim Jordan, Kelly Cassie.)	.	.	.	2	2	.	.	.	.	.	.	.	.	
+ 19	17	1620	 11:57:14	JDog (Jennifer Weaver, Andre Hill.)	.	.	.	.	.	.	7	5	.	.	.	.	.	
+ 20	10	1560	 11:48:06	Lost Plotters (Nic Chinn, Katie Saunders, Lia Stiles.)	.	.	.	3	3	.	.	.	.	.	.	.	.	
+ 21	11	1190	 11:40:30	Sorry Not Sorry (Donna Bradbury, Kay Chapman.)	.	.	.	4	4	2	.	.	.	.	.	.	.	
+ 22	7	1150	 11:25:41	Frogs (Nathalie Giraudon, Emmanuel Stauder.)	.	.	.	.	.	.	8	6	.	.	.	.	.	

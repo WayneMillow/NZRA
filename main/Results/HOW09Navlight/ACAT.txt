@@ -1,0 +1,22 @@
+Team No. 33	Tag ID = ACAT   Tags=0005	Course 12hr
+Cadets: John McDonald, Christine Reiter
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  7:59:32 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009  9:40:37 AM 	  0:35:37	
+   3	 34	 30	 4/07/2009 11:12:17 AM	  1:31:40	
+   4	 10	 10	 4/07/2009  1:42:35 PM 	  2:30:18	
+   5	106		 4/07/2009  2:00:53 PM 	  0:18:18	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  2:00:53 PM 
+Time on course   4:55:53
+
+
+   60	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 60

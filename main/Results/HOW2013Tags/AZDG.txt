@@ -1,0 +1,29 @@
+Team No. 620	Tag ID = AZDG   Tags=0025	Course 2.5hr
+Mackenzie ONE: Michael Anderson, Thomas Newell
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  14	108		 8/06/2013 12:44:43 PM	         	BRIEFING. Score reset.
+  15	 19	 10	 8/06/2013  1:04:20 PM 	  0:03:20	
+  16	 40	 40	 8/06/2013  1:20:20 PM 	  0:16:00	
+  17	 28	 20	 8/06/2013  1:30:17 PM 	  0:09:57	
+  18	 97	 90	 8/06/2013  1:37:23 PM 	  0:07:06	
+  19	 65	 60	 8/06/2013  1:53:16 PM 	  0:15:53	
+  20	 57	 50	 8/06/2013  2:15:18 PM 	  0:22:02	
+  21	 85	 80	 8/06/2013  2:36:47 PM 	  0:21:29	
+  22	 20	 20	 8/06/2013  2:46:39 PM 	  0:09:52	
+  23	 58	 50	 8/06/2013  3:05:32 PM 	  0:18:53	 Punch  10 replaced by Group 58.
+  24	 58		 8/06/2013  3:07:04 PM 	  0:01:32	     Punched on Line 23
+  25	 16		 8/06/2013  3:23:46 PM 	  0:16:42	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:23:46 PM 
+Time on course   2:22:46
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

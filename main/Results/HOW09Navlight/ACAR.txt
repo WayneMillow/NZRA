@@ -1,0 +1,33 @@
+Team No. 8	Tag ID = ACAR   Tags=0016	Course 12hr
+Kanas City Southern Depot: Nathan Harris, Ev Tolerton and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009  8:02:48 AM 	         	BRIEFING. Score reset.
+   2	 45	 40	 4/07/2009  9:48:31 AM 	  0:43:31	
+   3	 53	 50	 4/07/2009 10:24:03 AM	  0:35:32	
+   4	 32	 30	 4/07/2009 11:08:55 AM	  0:44:52	
+   5	 31	 30	 4/07/2009 11:28:44 AM	  0:19:49	
+   6	 44	 40	 4/07/2009 12:45:18 PM	  1:16:34	
+   7	 61	 60	 4/07/2009  1:22:38 PM 	  0:37:20	
+   8	 80	 80	 4/07/2009  1:53:13 PM 	  0:30:35	
+   9	 71	 70	 4/07/2009  2:47:54 PM 	  0:54:41	
+  10	 30	 30	 4/07/2009  3:21:32 PM 	  0:33:38	
+  11	 55	 50	 4/07/2009  4:28:18 PM 	  1:06:46	
+  12	 62	 60	 4/07/2009  4:49:02 PM 	  0:20:44	
+  13	 22	 20	 4/07/2009  5:20:38 PM 	  0:31:36	
+  14	 54	 50	 4/07/2009  5:45:55 PM 	  0:25:17	
+  15	 33	 30	 4/07/2009  6:44:10 PM 	  0:58:15	
+  16	106		 4/07/2009  7:30:06 PM 	  0:45:56	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  7:30:06 PM 
+Time on course  10:25:06
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

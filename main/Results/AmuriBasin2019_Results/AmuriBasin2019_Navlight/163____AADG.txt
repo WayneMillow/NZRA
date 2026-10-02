@@ -1,0 +1,27 @@
+Team No. 163	Tag ID = AADG   Tags=0010	Course 3 hour
+Cranford Crocs: Jill Dampier-Crossley, Chris Dampier-Crossley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:41:00 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:12:25 PM	  0:12:25	
+   3	  49 	   40	 7/07/2019 12:27:28 PM	  0:15:03	
+   4	  24 	   20	 7/07/2019 12:36:50 PM	  0:09:22	
+   5	  54 	   50	 7/07/2019 12:49:01 PM	  0:12:11	
+   6	  41 	   40	 7/07/2019  1:00:55 PM	  0:11:54	
+   7	  42 	   40	 7/07/2019  1:11:50 PM	  0:10:55	
+   8	  57 	   50	 7/07/2019  1:22:08 PM	  0:10:18	
+   9	  86 	   80	 7/07/2019  1:53:15 PM	  0:31:07	
+  10	  16 		 7/07/2019  3:08:58 PM	  1:15:43	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:08:58 PM
+Time on course   3:08:58
+
+
+  370	Points Scored.
+  -90	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

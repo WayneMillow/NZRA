@@ -1,0 +1,43 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	J	J	J	M	W	X	
+						V	S		V	S		V	S	M	W	X	U	U	U	
+							V			V			V				V	V	V	
+ 1	108	5100	 23:56:05	Bee Fast Honey Fuel (Jonty Mckinnel, Tiaan Mckinnel.)	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	115	4500	 23:57:35	The Young Guns (Greig Hamilton, Fergus O'Neill.)	2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 3	101	4480	 23:57:10	Further Forests (Jamie Mountier, Michael Mitchell.)	3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 4	117	3940	 23:41:12	Steve O'neill (Steve O'Neill, Martin Freeman.)	4	1	1	.	.	.	.	.	.	.	.	.	.	.	.	
+ 5	104	3670	 23:48:31	Born Free (Aliesha Pile, Ben Brown.)	.	.	.	.	.	.	1	.	.	.	.	.	.	.	.	
+ 6	126	3670	 23:51:57	Joint Pain (Rachel Lynskey, Anna Yeoman, Vania Smith.)	.	.	.	1	1	.	.	.	.	.	.	.	.	.	.	
+ 7	134	3590	 23:21:36	Same Sam But Different (Sam Walton, Sam Eames.)	5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 8	141	3490	 23:21:58	Finding The Mojo (Robert Harrow, Peter Montgomery.)	6	2	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 9	113	3380	 23:54:25	Pete Performance Mark My Words (Pieter leigh, Mark Gardyne.)	7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 10	116	3290	 23:43:07	Mumzy And Sunzy (Jack Davies, Jean Beaumont.)	.	.	.	.	.	.	2	.	.	.	.	.	.	.	.	
+ 11	136	3080	 23:49:17	L2 (Leon Perrie, Lara Shepherd.)	.	.	.	.	.	.	3	1	.	.	.	.	.	.	.	
+ 12	137	3060	 23:57:10	Resisting A Rest (Emma Rogers, Benjamin Still, Phill Wallis.)	.	.	.	.	.	.	4	.	.	.	.	.	.	.	.	
+ 13	121	3020	 23:26:16	Adventure Before Dementia (Jenni Blyleven, Anne Frankland.)	.	.	.	2	2	1	.	.	.	.	.	.	.	.	.	
+ 14	107	2970	 23:36:28	Backcountry Studio (Ira Sizova, Alaina Morrison.)	.	.	.	3	.	.	.	.	.	.	.	.	.	.	.	
+ 15	105	2960	 23:35:29	Loose Moose (Daniel Johnston, Matt Johnson.)	8	3	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 16	138	2940	 23:54:16	Dark Side (Matthew Hall, Dave Hume.)	9	4	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 17	139	2910	 23:23:35	Totally Random (Dave Crofts, Mathew Bell.)	10	5	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 18	129	2900	 23:49:59	Wonky Donkeys (Chris Dixon, Caroline Elliott.)	.	.	.	4	3	2	.	.	.	.	.	.	.	.	.	
+ 19	119	2870	 23:15:26	Alex Follows Meals With Mase (Alex, Mason Gray.)	11	.	.	.	.	.	.	.	.	1	.	.	.	.	.	
+ 20	118	2840	 23:17:34	Gerry And The Pacemakers (Peter Cleary, Callum Cleary, Gerard Cleary.)	12	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 21	135	2820	 23:50:40	Bad Jelly Witches (Jo Forbes, Jill Westenra, Antonia Wood, Mary McBride.)	.	.	.	5	4	3	.	.	.	.	.	.	.	.	.	
+ 22	143	2700	 22:57:33	Racey Delaceys (Emma de Lacey, Guy de Lacey.)	.	.	.	.	.	.	5	2	1	.	.	.	.	.	1	
+ 23	131	2700	 23:39:39	Missing Bits (Douglas Woods, Colin Dixon.)	13	6	3	.	.	.	.	.	.	.	.	.	1	.	.	
+ 24	142	2610	 23:10:24	Frustration With The Declination - Fwd (Callum Irvine, Stephen Busby.)	14	7	4	.	.	.	.	.	.	.	.	.	.	.	.	
+ 25	133	2610	 23:55:18	Strong Sassy And Dangerously Gassy (Genevieve Leech, Lisa Ainley, Fiona Shanhun.)	.	.	.	6	5	.	.	.	.	.	.	.	.	.	.	
+ 26	123	2580	 23:31:51	Pulp Friction (Darren Clay, Dave Cowie, Rob White.)	15	8	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 27	112	2570	 23:55:10	Up Schist Creek (Penny Smale, Rachael Baxter.)	.	.	.	7	6	.	.	.	.	.	.	.	.	.	.	
+ 28	125	2490	 23:15:01	St Pedro's Boys (John Mckinnel, Kevin Dugan.)	16	9	5	.	.	.	.	.	.	.	.	.	.	.	.	
+ 29	103	2410	 23:45:42	Af No Problem (Pat Bodger, Steve John.)	17	10	6	.	.	.	.	.	.	.	.	.	2	.	.	
+ 30	111	2410	 23:54:13	Taranaki Toa (Anna Crawford, Stacey Colbourne, Laura Buttimore.)	.	.	.	8	.	.	.	.	.	.	.	.	.	.	.	
+ 31	110	2360	 23:40:35	Schotts (Victoria Stott, John Schollum.)	.	.	.	.	.	.	6	3	.	.	.	.	.	.	.	
+ 32	132	2340	 22:09:46	Gps - Grants Precious Sidekick (Grant Edmondson, Maya Edmondson.)	.	.	.	.	.	.	7	.	.	.	.	.	.	.	.	
+ 33	122	2060	 23:45:30	North Loburn Reunion (Louise O'Connell, Alister Metherell.)	.	.	.	.	.	.	8	4	2	.	.	.	.	.	2	
+ 34	127	1910	 20:43:24	Checkpoint 52 (Nicole Ranger, Glen Warner.)	.	.	.	.	.	.	9	5	.	.	.	.	.	.	.	
+ 35	114	1730	 10:18:39	Ganga & Marmalade (angus watson, grace seeley.)	.	.	.	.	.	.	10	.	.	.	.	.	.	.	.	
+ 36	120	1650	 23:28:34	Flutterbys (Kathrin Mueller, Val Rogers.)	.	.	.	9	7	4	.	.	.	.	.	.	.	1	.	
+ 37	130	1630	 23:10:30	Manager And Assistant (Nic Kerr, Abby Dixon.)	.	.	.	10	.	.	.	.	.	.	.	.	.	.	.	
+ 38	124	1270	 22:15:18	Cosmic Kiwis (Mathew Ludgate, Adam Ludgate.)	18	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 39	128	840	 19:43:13	Mcme- Bats From Hell (Trevor Roy Merrifield, Andrew McGowan.)	19	11	7	.	.	.	.	.	.	.	.	.	3	.	.	
+ 40	140	800	 23:53:00	Powered By Chocolate (Anna Pellett, Bella Rentoul.)	.	.	.	11	.	.	.	.	.	.	.	.	.	.	.	

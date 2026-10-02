@@ -1,0 +1,34 @@
+Team No. 43	Tag ID = APAV   Tags=0016	Course 
+Steve McKinstry, Anna Balfour
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 2/12/2007  8:58:29 AM 	         	BRIEFING. Score reset.
+   2	 25	 20	 2/12/2007  9:04:54 AM 	  0:04:54	
+   3	 34	 30	 2/12/2007  9:17:44 AM 	  0:12:50	
+   4	 42	 40	 2/12/2007  9:46:27 AM 	  0:28:43	
+   5	 80	 80	 2/12/2007 10:08:55 AM	  0:22:28	
+   6	 51	 50	 2/12/2007 10:59:07 AM	  0:50:12	
+   7	 44	 40	 2/12/2007 11:29:43 AM	  0:30:36	
+   8	 92	 90	 2/12/2007 12:02:47 PM	  0:33:04	
+   9	 36	 30	 2/12/2007 12:33:32 PM	  0:30:45	
+  10	 70	 70	 2/12/2007  1:04:29 PM 	  0:30:57	
+  11	 24	 20	 2/12/2007  1:33:29 PM 	  0:29:00	
+  12	 48	 40	 2/12/2007  1:43:50 PM 	  0:10:21	
+  13	 50	 50	 2/12/2007  2:08:21 PM 	  0:24:31	
+  14	 91	 90	 2/12/2007  2:25:31 PM 	  0:17:10	
+  15	 41	 40	 2/12/2007  3:08:18 PM 	  0:42:47	
+  16	 17		 2/12/2007  3:30:09 PM 	  0:21:51	FINISH TIME.
+END
+	AddedPunch45	40
+
+
+Recognised finish time  2/12/2007  3:30:09 PM 
+Time on course   6:30:09
+
+
+  730	Points Scored.
+   40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

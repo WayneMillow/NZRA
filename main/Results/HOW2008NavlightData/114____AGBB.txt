@@ -1,0 +1,28 @@
+Team No. 114	Tag ID = AGBB   Tags=0012	Course 6hr
+Toni Hobbs, Joy Helmore and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 11		14/06/2008 10:46:05 AM	         	BRIEFING. Score reset.
+   3	 22	 20	14/06/2008 11:11:38 AM	  0:11:38	     Group 22 replaces 96.
+   4	 49	 40	14/06/2008 11:32:18 AM	  0:20:40	
+   5	 59	 50	14/06/2008 12:03:51 PM	  0:31:33	
+   6	 31	 30	14/06/2008 12:16:09 PM	  0:12:18	
+   7	 75	 70	14/06/2008 12:53:40 PM	  0:37:31	
+   8	 35	 30	14/06/2008  1:43:37 PM 	  0:49:57	
+   9	 41	 40	14/06/2008  3:24:25 PM 	  1:40:48	
+  10	 51	 50	14/06/2008  4:04:47 PM 	  0:40:22	
+  11	 30	 30	14/06/2008  4:31:21 PM 	  0:26:34	     Group 30 replaces 98.
+  12	108		14/06/2008  4:46:40 PM 	  0:15:19	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  4:46:40 PM 
+Time on course   5:46:40
+
+
+  360	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 360

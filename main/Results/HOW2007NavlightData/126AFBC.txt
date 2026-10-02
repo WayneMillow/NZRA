@@ -1,0 +1,25 @@
+Team No. 126	Tag ID = AFBC   Tags=0009	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 88		12/06/2006  4:42:43 PM 	        	BRIEFING. Score reset.
+   2	 11	 10	16/06/2007 10:10:30 AM	  0:10:30	
+   3	 23	 20	16/06/2007 10:31:58 AM	  0:21:28	
+   4	 37	 30	16/06/2007 11:30:57 AM	  0:58:59	
+   5	 28	 20	16/06/2007 11:51:27 AM	  0:20:30	
+   6	 12	 10	16/06/2007  1:00:51 PM 	  1:09:24	
+   7	 29	 20	16/06/2007  1:20:49 PM 	  0:19:58	
+   8	 36	 30	16/06/2007  1:43:45 PM 	  0:22:56	
+   9	 97		16/06/2007  2:36:38 PM 	  0:52:53	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  2:36:38 PM 
+Time on course   4:36:38
+
+
+  140	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 140

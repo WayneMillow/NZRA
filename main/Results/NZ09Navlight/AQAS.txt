@@ -1,0 +1,17 @@
+Team No. 27	Tag ID = AQAS   Tags=0000	Course 24 Hour
+Andrew McGowan, Trevor Merrifield
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+END					(WARNING - No FINISH Punch found.)
+
+
+Recognised finish time  8/03/2009 12:31:00 PM
+Time on course   0:00:00	(No FINISH Punch found.)
+
+
+    0	Points Scored.
+    0	Late Time Disqualification.
+  Withdrawn.	Manual adjustment.
+
+
+FINAL SCORE = 0 Withdrawn.

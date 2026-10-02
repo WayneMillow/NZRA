@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" />
+<head><title>WRC2010 On-line Entry Form</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="language" content="en" />
+<link rel="stylesheet" href="images/wrc2010_168.css" type="text/css" />
+</head>
+
+<body style="background: #A9BAC3">
+<br /><br />
+
+<form method="post" action="" name="OnlineEntryForm">
+<!-- <form method="post" action="sendform8.php" name="OnlineEntryForm">  -->
+<!-- <form method="post" action="WRC_Online#" name="OnlineEntryForm">    Goes around in circles -->
+
+<input type="hidden" name="mail_options" value="PlainTemplate=WRC2010_OnlineEntryFormEmailTemplate.txt,TemplateMissing=" /> 
+
+<input type="hidden" name="recipients" value="registrationFMNP6WQ2wrc2010.org.nz, kennedyzFMNP6WQ2xtra.co.nz" />
+
+<!-- Note that subject is a derived field so that RegID included in the title  -->
+<!-- <input type="hidden" name="subject" value="9th World Rogaining Championships 2010 Registration" />  -->
+
+<!-- Note that "good_template" is defined in derive_fields so can have a different response for differrent qualifying categories  -->
+<!-- <input type="hidden" name="good_template" value="WRC_EntryFormResponse.htm" />  -->
+<!--  <input type="hidden" name="good_url" value="Events/HOW2008_OnlineEntryFormResponse.htm" />  -->
+
+<input type="hidden" name="bad_template" value="WRC_EntryFormIncomplete.htm" />
+
+
+
+                      <!-- CONDITIONS  -->
+ <!--  NAMES, EMAIL, GENDER, COUNTRY for members 1 and 2 -->
+<input type="hidden" name="conditions1" value=":@@TEST@firstname1@the Firstname of Team Member1@
+:@TEST@lastname1@the Lastname of Team Member 1@
+:@TEST@email1@the email address of Team Member 1@
+:@TEST@gender1@the gender of Team Member 1@
+:@TEST@country1@the country for Team Member 1@
+:@TEST@firstname2@the Firstname of Team Member 2@
+:@TEST@lastname2@the Lastname of Team Member 2@
+:@TEST@email2@the email address of Team Member 2@
+:@TEST@gender2@the gender of Team Member 2@
+:@TEST@country2@the country for Team Member 2@" />
+
+ <!-- DOB Checks  for members 1 and 2  -->
+<input type="hidden" name="conditions2" value=":@@TEST@dob1 !~ /- -/@date of birth of Member 1 is incomplete@
+:@TEST@dob2 !~ /- -/@date of birth of Member 2 is incomplete@" />
+
+ <!--  NAMES, EMAIL, GENDER, COUNTRY for Member 3  -->
+<!-- The sequence below checks that if there is ANY field supplied for Member 3 then all must be supplied; OR ELSE NONE ARE SUPPLIED as is necessary for printout to be blank. There are independent checks for each state of Member 3 so that we only get one error message provided there is the correct response to the first error that is notified.  -->
+<input type="hidden" name="conditions3" value=":@@IF@firstname3@lastname3@@enter all of Firstname, Lastname, Email and Country for Team Member 3 or clear them all if there is no Member 3@" />
+
+<input type="hidden" name="conditions4" value=":@@IF@lastname3@email3@@enter all of Firstname, Lastname, Email and Country for Team Member 3 or clear them all if there is no Member 3@" />
+
+<input type="hidden" name="conditions5" value=":@@IF@email3@country3@@enter all of Firstname, Lastname, Email and Country for Team Member 3 or clear them all if there is no Member 3@" />
+
+<input type="hidden" name="conditions6" value=":@@IF@country3@firstname3@@enter all of Firstname, Lastname, Email and Country for Team Member 3 or clear them all if there is no Member 3@" />
+
+<!-- Check that gender is entered. However, don't include it in the test loop because user might select gender unintentionally and there is then no way for the user to clear it -->
+<input type="hidden" name="conditions7" value=":@@IF@firstname3@gender3@@select the gender of Team Member 3@" />
+
+ <!-- DOB check for member 3  -->
+<input type="hidden" name="conditions8" value=":@@IF@firstname3@dob3 !~ /- -/@@date of birth of Member 3 is incomplete@" />
+
+<!-- CHECK that there is a GENDER and AGE GROUP entry for the Team  -->
+<input type="hidden" name="conditions9" value=":@@TEST@gender_event@the gender of the team is not specified under Team Category@:@TEST@agegroup@the Team's Age Group is not specified under Team Category@" />
+
+<!-- Now the PREQUALIFICATION Checks.  prequal  qualmem  place  category  qualevent 
+     Status radio button must be selected -->
+<input type="hidden" name="conditions10" value=":@@TEST@prequal@the Team's prequalification status has not been specified. You must select one of Priority entry, IRF member, SuperVet, or No priority@" />
+
+<!-- Member 3 is specified as the qualifying member but no Team Member 3 is entered -->
+<input type="hidden" name="conditions11" value=":@@IF@qualmem ~ /3/@firstname3@@Team Member 3 is selected as the qualifying member but Member 3 is not registered.@" />
+
+<!--  If prequal is "event" or "qualsv" then the qualifying member, place, category, and event must be specified. If "irf" or "noqual" then qualification details are not used (junk) -->
+<input type="hidden" name="conditions12" value=":@@IF@prequal ~ /(byevent|qualsv)/@qualstring !~ /- -/@@the conditions under which you qualify are incomplete. Select the event, place, category and qualifying team member@" />
+
+<!-- If claiming WRC1992 to WRC2004 then only 1st place in an open grade (MO, WO, XO) qualifies; WRC1992 to WRC2004 are not qualifying events for a SuperVet under 1.4; under 1.4 a SuperVet must be 1st or 2nd  -->
+<input type="hidden" name="conditions13" value=":@@IF@event_test ~ /(byevent) WRC(2004|2002|2000|1998|1996|1992)/@catplace_test ~ /O 1st/@@for WRC1992 to WRC2004 only 1st place in an Open Category qualifies@
+:@IF@prequal ~ /qualsv/@agegroup ~ /SV/@@under criterion 1.4 you must enter in a SuperVet age group in WRC2010@
+:@IF@prequal ~ /qualsv/@qualevent !~ /WRC(2004|2002|2000|1998|1996|1992)/@@WRC1992 to WRC 2004 are not qualifying events for a SuperVet@
+:@IF@prequal ~ /qualsv/@catplace_test ~ /SV (1st|2nd)/@@under criterion 1.4 a SuperVet must have been 1st or 2nd in a SuperVet category@" />
+
+<!-- END OF CONDITIONS  -->
+
+
+
+<!--  Template names will be WRC_EntryFormResponse_byevent.htm, WRC_EntryFormResponse_irf.htm, WRC_EntryFormResponse_qualsv.htm, and WRC_EntryFormResponse_noqual.htm. 
+Removed   entryfee = %'$180'%,   qualstring = qualplace.qualcategory+qualevent,  -->
+<input type="hidden" name="derive_fields" value="
+header= %'WRC Registration sent on '%.%dayname%.%2C%+%date%+%'at'%+%time%,
+good_template = %'WRC_EntryFormResponse_'%.prequal.%2E%.%'htm'%,
+reg_id = %nextnum%,
+reg_date = %dom%.%'-'%.%month%,
+reg_time = %time%,
+subject = %'WRC2010 Registration'%.%2C%+%' RegID'% + reg_id,
+messageresponse=%if(comments;%'You provided the following message: '%;%''%)%,
+messagemail=%if(comments;%'Message: '%;%'Message: none'%)%,
+realname = firstname1 + lastname1,
+realname2 = firstname2 + lastname2,
+realname3 = firstname3 + lastname3,
+email = email1,
+dob1 = dob1_day + dob1_mnth + dob1_yr,
+dob2 = dob2_day + dob2_mnth + dob2_yr,
+dob3 = dob3_day + dob3_mnth + dob3_yr,
+eventstring = qualevent + qualcategory + qualplace,
+qualstring = qualmem + qualevent + qualcategory + qualplace,
+event_test = prequal + qualevent,
+catplace_test = qualcategory + qualplace,
+member3_heading = %if(realname3;%'Team Member 3: '%;%''%)%,
+realname3_show = %if(realname3;realname3;%''%)%,
+gender3_heading = %if(realname3;%'Gender: '%;%''%)%,
+gender3_show = %if(realname3;gender3;%''%)%,
+dob3_heading = %if(realname3;%'Date of Birth: '%;%''%)%,
+dob3_show = %if(realname3;dob3;%''%)%,
+email3_heading = %if(realname3;%'Email: '%;%''%)%,
+email3_show = %if(realname3;email3;%''%)%,
+country3_heading = %if(realname3;%'Country: '%;%''%)%,
+country3_show = %if(realname3;country3;%''%)%,
+webname3 = %'<br />'%.realname3 +%'('%.gender3.%')'%,
+webname3 = %if(realname3;webname3;%''%)%,
+webcountry3 = %'<br />'%.country3,
+webcountry3 = %if(realname3;webcountry3;%''%)%" />
+
+
+          <!-- FORM CONTROL FINISHED; NOW PRESENT THE FORM DATA  -->
+<div class="medium" style="width: 800px; border: 1px solid; margin: auto auto; background: #F8F8F8;">  <!-- Surrounding div, border -->
+
+	<div style="float: left; margin: 20px 20px; width:90%; text-align: center;"><img align="left" name="logo" src="images/WRC_logo600.gif"><br /><h1 style="padding: 15px 0px;">9th World Rogaining Championships 2010<br />Registration Form</h1></div>
+
+	
+<div class="medium" style="width: 80%; margin: auto auto; clear: both;">  <!-- begin team details    -->
+	
+<table style="padding: 5px 0px; margin: auto auto;" border=0>
+
+               <!--  TEAM MEMBER 1 -->
+<tr> 
+<td class=mediumB colspan=7 style="padding: 5px 0px;"><span style="text-decoration: underline; color: #444444;">Team Member 1:</span><span class=medium> (this is the team contact person)</span></td></tr>
+<tr> 
+<td width=30>&nbsp;</td>
+<td width=90 style="padding: 5px 0px;" align=right class=smallerB>Firstname:&nbsp;&nbsp;</td>
+<td width=200><input type="text" name="firstname1" size=20 style="font-size: 12px;"></td>
+<td width=100 align=right class=smallerB>Gender:&nbsp;&nbsp;</td>
+<td colspan=3 class=smallerB>&nbsp;&nbsp;<input type="radio" name="gender1" value= "M">&nbsp;Male&nbsp;&nbsp;&nbsp;<input type="radio" name="gender1" value= "F">&nbsp;Female</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td valign=top align=right class=smallerB>Lastname:&nbsp;&nbsp;</td>
+<td valign=top><input type="text" name="lastname1" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB  valign="top">Date of Birth:&nbsp;&nbsp;</td>
+<td align="center" class=smallerB><select name="dob1_day" style="width: 50px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+<option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+<option>21</option><option>22</option><option>23</option><option>24</option><option>25</option>
+<option>26</option><option>27</option><option>28</option><option>29</option><option>30</option>
+<option>31</option></select><br/>Day</td>
+<td align="center" class=smallerB><select name="dob1_mnth" style="width: 50px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>Jan</option><option>Feb</option><option>Mar</option><option>Apr</option><option>May</option>
+<option>June</option><option>July</option><option>Aug</option><option>Sep</option><option>Oct</option>
+<option>Nov</option><option>Dec</option></select><br/>Month</td>
+<td align="center" class=smallerB><select name="dob1_yr" style="width: 60px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>1930</option><option>1931</option><option>1932</option><option>1933</option><option>1934</option>
+<option>1935</option><option>1936</option><option>1937</option><option>1938</option><option>1939</option>
+<option>1940</option><option>1941</option><option>1942</option><option>1943</option><option>1944</option>
+<option>1945</option><option>1946</option><option>1947</option><option>1948</option><option>1949</option>
+<option>1950</option><option>1951</option><option>1952</option><option>1953</option><option>1954</option>
+<option>1955</option><option>1956</option><option>1957</option><option>1958</option><option>1959</option>
+<option>1960</option><option>1961</option><option>1962</option><option>1963</option><option>1964</option>
+<option>1965</option><option>1966</option><option>1967</option><option>1968</option><option>1969</option>
+<option>1970</option><option>1971</option><option>1972</option><option>1973</option><option>1974</option>
+<option>1975</option><option>1976</option><option>1977</option><option>1978</option><option>1979</option>
+<option>1980</option><option>1981</option><option>1982</option><option>1983</option><option>1984</option>
+<option>1985</option><option>1986</option><option>1987</option><option>1988</option><option>1989</option>
+<option>1990</option><option>1991</option><option>1992</option><option>1993</option><option>1994</option>
+<option>1995</option><option>1996</option></select><br/>Year</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td align=right class=smallerB>Email:&nbsp;&nbsp;</td>
+<td><input type="text" name="email1" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Country:&nbsp;&nbsp;</td>
+<td colspan=3 ><input type="text" name="country1" size=20 style="font-size: 12px;"></td></tr>
+
+                   <!--  TEAM MEMBER 2 -->
+<tr> 
+<td class=mediumB colspan=7 style="padding: 35px 0px 5px 0px;"><span style="text-decoration: underline; color: #444444;">Team Member 2:</span></td></tr>
+<tr> 
+<td>&nbsp;</td><td style="padding: 5px 0px;" align=right class=smallerB>Firstname:&nbsp;&nbsp;</td>
+<td><input type="text" name="firstname2" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Gender:&nbsp;&nbsp;</td>
+<td colspan=3 class=smallerB>&nbsp;&nbsp;<input type="radio" name="gender2" value= "M">&nbsp;Male&nbsp;&nbsp;&nbsp;<input type="radio" name="gender2" value= "F">&nbsp;Female</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td valign=top align=right class=smallerB>Lastname:&nbsp;&nbsp;</td>
+<td valign=top><input type="text" name="lastname2" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB  valign="top">Date of Birth:&nbsp;&nbsp;</td>
+<td align="center" class=smallerB><select name="dob2_day" style="width: 50px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+<option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+<option>21</option><option>22</option><option>23</option><option>24</option><option>25</option>
+<option>26</option><option>27</option><option>28</option><option>29</option><option>30</option>
+<option>31</option></select><br/>Day</td>
+<td align="center" class=smallerB><select name="dob2_mnth" style="width: 50px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>Jan</option><option>Feb</option><option>Mar</option><option>Apr</option><option>May</option>
+<option>June</option><option>July</option><option>Aug</option><option>Sep</option><option>Oct</option>
+<option>Nov</option><option>Dec</option></select><br/>Month</td>
+<td align="center" class=smallerB><select name="dob2_yr" style="width: 60px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>1930</option><option>1931</option><option>1932</option><option>1933</option><option>1934</option>
+<option>1935</option><option>1936</option><option>1937</option><option>1938</option><option>1939</option>
+<option>1940</option><option>1941</option><option>1942</option><option>1943</option><option>1944</option>
+<option>1945</option><option>1946</option><option>1947</option><option>1948</option><option>1949</option>
+<option>1950</option><option>1951</option><option>1952</option><option>1953</option><option>1954</option>
+<option>1955</option><option>1956</option><option>1957</option><option>1958</option><option>1959</option>
+<option>1960</option><option>1961</option><option>1962</option><option>1963</option><option>1964</option>
+<option>1965</option><option>1966</option><option>1967</option><option>1968</option><option>1969</option>
+<option>1970</option><option>1971</option><option>1972</option><option>1973</option><option>1974</option>
+<option>1975</option><option>1976</option><option>1977</option><option>1978</option><option>1979</option>
+<option>1980</option><option>1981</option><option>1982</option><option>1983</option><option>1984</option>
+<option>1985</option><option>1986</option><option>1987</option><option>1988</option><option>1989</option>
+<option>1990</option><option>1991</option><option>1992</option><option>1993</option><option>1994</option>
+<option>1995</option><option>1996</option></select><br/>Year</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td align=right class=smallerB>Email:&nbsp;&nbsp;</td>
+<td><input type="text" name="email2" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Country:&nbsp;&nbsp;</td>
+<td colspan=3 ><input type="text" name="country2" size=25 style="font-size: 12px;"></td></tr>
+
+                 <!--  TEAM MEMBER 3 -->
+<tr> 
+<td class=mediumB colspan=7 style="padding: 35px 0px 5px 0px;"><span style="text-decoration: underline; color: #444444;">Team Member 3:</span><span class=medium> (if applicable)</span></td></tr>
+<tr> 
+<td>&nbsp;</td><td style="padding: 5px 0px;" align=right class=smallerB>Firstname:&nbsp;&nbsp;</td>
+<td><input type="text" name="firstname3" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Gender:&nbsp;&nbsp;</td>
+<td colspan=3 class=smallerB>&nbsp;&nbsp;<input type="radio" name="gender3" value= "M">&nbsp;Male&nbsp;&nbsp;&nbsp;<input type="radio" name="gender3" value= "F">&nbsp;Female</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td><td valign=top align=right class=smallerB>Lastname:&nbsp;&nbsp;</td>
+<td valign=top><input type="text" name="lastname3" size=20 style="font-size: 12px;"></td>
+<td align=right class=smallerB  valign="top">Date of Birth:&nbsp;&nbsp;</td>
+<td align="center" class=smallerB><select name="dob3_day" style="width: 50px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+<option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+<option>21</option><option>22</option><option>23</option><option>24</option><option>25</option>
+<option>26</option><option>27</option><option>28</option><option>29</option><option>30</option>
+<option>31</option></select><br/>Day</td>
+<td align="center" class=smallerB><select name="dob3_mnth" style="width: 50px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>Jan</option><option>Feb</option><option>Mar</option><option>Apr</option><option>May</option>
+<option>June</option><option>July</option><option>Aug</option><option>Sep</option><option>Oct</option>
+<option>Nov</option><option>Dec</option></select><br/>Month</td>
+<td align="center" class=smallerB><select name="dob3_yr" style="width: 60px; font-size: 12px;">
+<option selected="selected" value="- - - - ">- - - -</option>
+<option>1930</option><option>1931</option><option>1932</option><option>1933</option><option>1934</option>
+<option>1935</option><option>1936</option><option>1937</option><option>1938</option><option>1939</option>
+<option>1940</option><option>1941</option><option>1942</option><option>1943</option><option>1944</option>
+<option>1945</option><option>1946</option><option>1947</option><option>1948</option><option>1949</option>
+<option>1950</option><option>1951</option><option>1952</option><option>1953</option><option>1954</option>
+<option>1955</option><option>1956</option><option>1957</option><option>1958</option><option>1959</option>
+<option>1960</option><option>1961</option><option>1962</option><option>1963</option><option>1964</option>
+<option>1965</option><option>1966</option><option>1967</option><option>1968</option><option>1969</option>
+<option>1970</option><option>1971</option><option>1972</option><option>1973</option><option>1974</option>
+<option>1975</option><option>1976</option><option>1977</option><option>1978</option><option>1979</option>
+<option>1980</option><option>1981</option><option>1982</option><option>1983</option><option>1984</option>
+<option>1985</option><option>1986</option><option>1987</option><option>1988</option><option>1989</option>
+<option>1990</option><option>1991</option><option>1992</option><option>1993</option><option>1994</option>
+<option>1995</option><option>1996</option></select><br/>Year</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td align=right class=smallerB>Email:&nbsp;&nbsp;</td>
+<td><input type="text" name="email3" size=30 style="font-size: 12px;"></td>
+<td align=right class=smallerB>Country:&nbsp;&nbsp;</td>
+<td colspan=3 ><input type="text" name="country3" size=25 style="font-size: 12px;"></td></tr>
+</table>
+
+<br clear="both"><br />
+
+	          <!-- TEAM DETAILS -->
+
+<h3>Team Category <span class="medium">(all team members must comply)</span></h3>
+<table border=0>
+<tr><td width="170px" align=right class=mediumB>Gender:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td width="100px" class=smallerB><input type="radio" name="gender_event" value= "M">&nbsp;&nbsp;Men</td>
+<td width="100px" class=smallerB><input type="radio" name="gender_event" value= "W">&nbsp;&nbsp;Women</td>
+<td width="100px" class=smallerB><input type="radio" name="gender_event" value= "X">&nbsp;&nbsp;miXed</td>
+<td width="100px">&nbsp;</td>
+</tr>
+<tr><td align=right valign=top class=mediumB>Age Group:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><span class="smaller">(on first day of event)&nbsp;&nbsp;</span></td>
+<td class=smallerB><input type="radio" name="agegroup" value= "J">&nbsp;&nbsp;Junior<br><span class="smaller">&nbsp;&nbsp;&nbsp;(under 20)</span></td>
+<td class=smallerB><input type="radio" name="agegroup" value= "O">&nbsp;&nbsp;Open<br>&nbsp;</td>
+<td class=smallerB><input type="radio" name="agegroup" value= "V">&nbsp;&nbsp;Veteran<br><span class="smaller">&nbsp;&nbsp;&nbsp;(40 or over)</span></td>
+<td class=smallerB><input type="radio" name="agegroup" value= "SV">&nbsp;&nbsp;SuperVet<br><span class="smaller">&nbsp;&nbsp;&nbsp;(55 or over)</span></td>
+</tr></table>
+
+<br clear=both /><br />
+
+         <!-- PRE_QUALIFICATION  -->
+		 
+<h2>Prequalification Status</h2>
+<p> The IRF have determined a set of criteria for priority entry into the World Rogaining Championships. For information on these criteria, and an outline of the registration procedure that is to be followed, see the <a target="website" href="registration.htm">WRC2010 website</a>.</p>
+
+<p>Please select the classification that your team satisfies:</p>
+
+<p class="in1"><input type="radio" name="prequal" value= "byevent"><font class=smallerB>&nbsp;&nbsp;Priority entry via criteria (1.1) or (1.2)</font><br />
+<input type="radio" name="prequal" value= "irf"><font class=smallerB>&nbsp;&nbsp;IRF Member or Observer (1.3)</font><br />
+<input type="radio" name="prequal" value= "qualsv"><font class=smallerB>&nbsp;&nbsp;SuperVet via criterion (1.4)</font><br />
+<input type="radio" name="prequal" value= "noqual"><font class=smallerB>&nbsp;&nbsp;No priority entry criteria apply</font></p>
+
+<p><br />If your team meets a criterion for priority entry via 1.1, 1.2 or 1.4 then select below the combination of team member, event, placing, and category by which your team qualifies. SuperVets applying under clause 1.4 must select the SuperVet category and the SuperVet placing in which they would have finished in their qualifying event.</p>
+
+<table border="0" style="margin: auto auto;">
+<tr>
+<td align="center" class="smallerB">Qualifying<br />Member</td>
+<td align="center" valign="bottom" class="smallerB">Place</td>
+<td align="center" valign="bottom" class="smallerB">Category</td>
+<td align="center" valign="bottom" class="smallerB">Event</td></tr>
+<tr>
+<td align="center"><select name="qualmem" style="width: 120px; font-size: 12px;">
+<option selected="selected" value="- - - - ">&nbsp;&nbsp;&nbsp;&nbsp; - - - - - - - - -</option>
+<option value="1">Team Member 1</option>
+<option value="2">Team Member 2</option>
+<option value="3">Team Member 3</option></select></td>
+<td align="center"><select name="qualplace" style="width: 60px; font-size: 12px;">
+<option selected="selected" value="- - - - ">&nbsp;&nbsp;- - - -</option>
+<option>1st</option>
+<option>2nd</option>
+<option>3rd</option></select></td>
+<td align="center"><select name="qualcategory" style="width: 60px; font-size: 12px;">
+<option selected="selected" value="- - - - ">&nbsp;&nbsp;- - - -</option>
+<option>MO</option>
+<option>WO</option>
+<option>XO</option>
+<option>MJ</option>
+<option>WJ</option>
+<option>XJ</option>
+<option>MV</option>
+<option>WV</option>
+<option>XV</option>
+<option>MSV</option>
+<option>WSV</option>
+<option>XSV</option></select></td>
+<td align="center"><select name="qualevent" style="width: 200px; font-size: 12px;">
+<option value="- - - - " selected="selected">&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - - - -  </option>
+<option value="WRC2008">8th World Champs 2008 (Estonia)</option>
+<option value="WRC2006">7th World Champs 2006 (Warrumbungles)</option>
+<option value="WRC2004">6th World Champs 2004 (Arizona)</option>
+<option value="WRC2002">5th World Champs 2002 (Czech Republic)</option>
+<option value="WRC2000">4th World Champs 2000 (New Zealand)</option>
+<option value="WRC1998">3rd World Champs 1998 (Canada)</option>
+<option value="WRC1996">2nd World Champs 1996 (Western Australia)</option>
+<option value="WRC1992">1st World Champs 1992 (Australia)</option>
+<option value="- - - - ">&nbsp;&nbsp;&nbsp;&nbsp;- - - - - - - - - - - - - - - - - -</option>
+<option value="ERC2009">European Championships 2009</option>
+<option value="ERC2008">European Championships 2008</option>
+<option value="NARC2009">North American Championships 2009</option>
+<option value="NARC2008">North American Championships 2008</option>
+<option value="NZRC2009">New Zealand Championships 2009</option>
+<option value="NZRC2008">New Zealand Championships 2008</option>
+<option value="ARC2009">Australian Championships 2009</option>
+<option value="ARC2008">Australian Championships 2008</option></select></td></tr>
+<tr><td class="smaller" colspan=4>If your team qualifies via more than one criterion select the one that is most important to you.</td></tr>
+</table>
+
+<br clear="both" />
+
+            <!-- COMMENTS  -->
+<h2>Message</h2>
+<p>If you have any message for the organisers please type it here:</p>
+<table style="margin-left: 60px;" border="0"> 
+<tr><td><textarea name="comments" COLS=50 ROWS=6 wrap=physical></textarea></td></tr>
+</table>
+
+<br clear="both" />
+
+<p>Check that the details you have supplied above are correct and then submit this form. After submission you will be presented with an acknowledgement page showing the details that we have recorded. If any of the information is wrong please return to this form, correct it, and resubmit.</p>
+
+<p>Your application will be processed in accordance with the phases explained on the website.
+To see the progress with the processing of your entry please consult the list of <a target="website" href="entrants.htm">WRC2010&nbsp;entrants</a>. When your application has been approved we will send you an email requesting payment. To secure your entry payment is required within 2 weeks of this notification. </p> 
+
+<p>If you have any queries about your entry then email the <a href="contacts.htm">organisers</a> <span style="text-decoration:line-through;">WRC2010 Registration</span>.</p>
+
+<br clear="both" />
+
+<p><center><span style="color: red;" class="subtitle">The entry form submission has been disabled</span><br/><br /><input type="submit" value="  Register  " disabled="disabled"> <input type="reset" value="Clear Form"><br>
+ <font class=medium>Processing may take up to 10 seconds, please wait...</font>
+</center></p>
+
+</div>  <!-- End of team details  -->
+
+<br clear=left>
+
+<p align="right" class="smallest"><br>Powered by free <a target=_blank href="http://www.tectite.com/">FormMail</a> from www.tectite.com</p>
+</form>
+</div>    <!-- End of surrounding div, border -->
+<br /><br />
+</body> 
+</html>  

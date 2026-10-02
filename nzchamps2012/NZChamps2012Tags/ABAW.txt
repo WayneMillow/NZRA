@@ -1,0 +1,26 @@
+Team No. 216	Tag ID = ABAW   Tags=0065	Course 7Hour
+Tim Jowett, Daniel Turek, Jenn Turek
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  57	 12		24/11/2012 10:21:39 AM	         	BRIEFING. Score reset.
+  58	 25	 20	24/11/2012 10:59:25 AM	  0:29:25	
+  59	 60	 60	24/11/2012 11:35:37 AM	  0:36:12	
+  60	 58	 50	24/11/2012 12:11:58 PM	  0:36:21	
+  61	 84	 80	24/11/2012  1:07:45 PM 	  0:55:47	
+  62	 83	 80	24/11/2012  2:11:50 PM 	  1:04:05	
+  63	 42	 40	24/11/2012  3:09:49 PM 	  0:57:59	
+  64	 62	 60	24/11/2012  3:58:54 PM 	  0:49:05	
+  65	106		24/11/2012  5:29:06 PM 	  1:30:12	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2012  5:29:06 PM 
+Time on course   6:59:06
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

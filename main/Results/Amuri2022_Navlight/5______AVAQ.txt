@@ -1,0 +1,31 @@
+Team No. 5	Tag ID = AVAQ   Tags=0014	Course 6hr
+Wacky Racers: Mia Beswick, Tarsh Commons and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  60 	   60	 3/07/2022 10:14:26 AM	  0:14:26	
+   2	  72 	   70	 3/07/2022 10:53:54 AM	  0:39:28	
+   3	  85 	   80	 3/07/2022 11:25:28 AM	  0:31:34	
+   4	  68 	   60	 3/07/2022 12:08:56 PM	  0:43:28	
+   5	  88 	   80	 3/07/2022 12:31:29 PM	  0:22:33	
+   6	 102 	  100	 3/07/2022 12:42:06 PM	  0:10:37	
+   7	  98 	   90	 3/07/2022  5:11:52 AM	         	Punch clock failed.
+   8	  27 	   20	 3/07/2022  1:21:24 PM	  0:39:18	
+   9	  59 	   50	 3/07/2022  1:37:07 PM	  0:15:43	
+  10	  29 	   20	 3/07/2022  1:50:46 PM	  0:13:39	
+  11	  78 	   70	 3/07/2022  2:15:41 PM	  0:24:55	
+  12	  63 	   60	 3/07/2022  3:15:41 PM	  1:00:00	
+  13	  42 	   40	 3/07/2022  3:30:27 PM	  0:14:46	
+  14	  19 		 3/07/2022  3:53:21 PM	  0:22:54	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:53:21 PM
+Time on course   5:53:21
+
+
+  800	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 800

@@ -1,0 +1,31 @@
+Team No. 117	Tag ID = AOBB   Tags=0015	Course 8 Hour
+Josie Boland, Greg Bristow
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 S		 7/03/2009 10:56:24 AM	         	BRIEFING. Score reset.
+   3	 21	 20	 7/03/2009 11:17:57 AM	  0:17:57	
+   4	 30	 30	 7/03/2009 11:34:22 AM	  0:16:25	
+   5	 54	 50	 7/03/2009 12:14:02 PM	  0:39:40	
+   6	 35	 30	 7/03/2009 12:47:31 PM	  0:33:29	
+   7	 75	 70	 7/03/2009  1:32:25 PM 	  0:44:54	
+   8	 76	 70	 7/03/2009  2:30:02 PM 	  0:57:37	
+   9	 65	 60	 7/03/2009  3:24:15 PM 	  0:54:13	
+  10	 83	 80	 7/03/2009  4:04:57 PM 	  0:40:42	
+  11	 83		 7/03/2009  4:09:08 PM 	  0:04:11	     Punched on Line 10
+  12	 41	 40	 7/03/2009  4:50:10 PM 	  0:41:02	
+  13	 46	 40	 7/03/2009  5:26:41 PM 	  0:36:31	
+  14	 31	 30	 7/03/2009  5:54:27 PM 	  0:27:46	
+  15	 F		 7/03/2009  6:14:43 PM 	  0:20:16	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:14:43 PM 
+Time on course   7:14:43
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

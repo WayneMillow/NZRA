@@ -1,0 +1,28 @@
+Team No. 130	Tag ID = APBC   Tags=0011	Course 3hr
+Q.A.F.: Frank Anderson, Amy Anderson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  52 	   50	 3/07/2022 12:06:46 PM	  0:06:46	
+   2	  33 	   30	 3/07/2022 12:13:04 PM	  0:06:18	
+   3	  50 	   50	 3/07/2022 12:23:55 PM	  0:10:51	
+   4	  61 	   60	 3/07/2022 12:41:28 PM	  0:17:33	
+   5	  53 	   50	 3/07/2022  1:05:07 PM	  0:23:39	
+   6	  43 	   40	 3/07/2022  1:20:51 PM	  0:15:44	
+   7	  44 	   40	 3/07/2022  1:31:16 PM	  0:10:25	
+   8	  55 	   50	 3/07/2022  1:54:35 PM	  0:23:19	
+   9	  97 	   90	 3/07/2022  2:04:42 PM	  0:10:07	
+  10	  54 	   50	 3/07/2022  2:22:03 PM	  0:17:21	
+  11	  19 		 3/07/2022  2:54:48 PM	  0:32:45	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:54:48 PM
+Time on course   2:54:48
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

@@ -1,0 +1,29 @@
+Team No. 645	Tag ID = AXDL   Tags=0012	Course 6_HoW
+Heidi Whiteside, Jo Stone
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:48:59 AM	         	BRIEFING. Score reset.
+   2	 76	 70	26/06/2010 11:25:07 AM	  0:25:07	
+   3	 58	 50	26/06/2010 12:01:32 PM	  0:36:25	
+   4	 58		26/06/2010 12:01:46 PM	  0:00:14	     Punched on Line 3
+   5	 86	 80	26/06/2010 12:46:56 PM	  0:45:10	
+   6	 67	 60	26/06/2010  1:31:10 PM 	  0:44:14	
+   7	 37	 30	24/06/2010  9:32:03 PM 	         	1.561 Days early.
+   8	 94	 90	26/06/2010  3:23:10 PM 	  1:52:00	 Punch  05 replaced by Group 94.
+   9	 46	 40	26/06/2010  3:41:30 PM 	  0:18:20	
+  10	 36	 30	26/06/2010  4:10:03 PM 	  0:28:33	 Punch  02 replaced by Group 36.
+  11	 50	 50	26/06/2010  4:25:05 PM 	  0:15:02	
+  12	 15		26/06/2010  4:51:31 PM 	  0:26:26	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:51:31 PM 
+Time on course   5:51:31
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

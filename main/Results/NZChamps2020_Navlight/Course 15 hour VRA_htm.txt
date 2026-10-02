@@ -1,0 +1,9 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	W	W	W	X	X	X	M	W	M	W	X	X	
+					O	V	S	O	V	S	O	V	S	J	J	U	U	U	J	
+							V			V			V			V	V	V		
+ 1	102	1510	 14:33:54	Lost Banditos (Mark McCulloch, Deryk Cleland.)	1	1	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	32	1320	 14:20:46	Checkpoint 52 (Ellen Mary Puller, Nicole Ranger, Glen Warner.)	.	.	.	.	.	.	1	.	.	.	.	.	.	.	.	
+ 3	103	1020	 13:52:39	Fab Four (Darrell Thomson, Peter Bylsma, Cindy Baker, Esther Bylsma.)	.	.	.	.	.	.	2	1	.	.	.	.	.	.	.	
+ 4	104	880	 14:07:01	Red Hot Hilly Trekkers (Anna Squires, Nick Offerd.)	.	.	.	.	.	.	3	2	.	.	.	.	.	.	.	
+ 5	101	610	 14:53:22	You said 'retreat'. (Alane Sue Paterson, Shelley Friedrich, Jo Bradley.)	.	.	.	1	1	.	.	.	.	.	.	.	.	.	.	
+ 6	105	340	   5:30:22	Let's Not Get Lost This Time (Christopher Dewhurst, Gemma Green.)	.	.	.	.	.	.	4	.	.	.	.	.	.	.	1	

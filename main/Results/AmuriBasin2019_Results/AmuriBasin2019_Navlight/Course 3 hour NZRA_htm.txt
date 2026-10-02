@@ -1,0 +1,55 @@
+ 1	168	Ferg and Dad (Fergus McCone, James McCone.)	   3:00:46	990( 10)	FO1
+ 2	156	Paper Shufflers (Will Vickers, Monica Schwass.)	   2:56:28	980	XO1
+ 3	204	Follow Me (Nick Brady, Liz Brady, Matt Brady, Aaro6 Brady.)	   2:56:57	920	FO2
+ 4	154	Black Smoke (Elise Johns, Harley Manion, Tim Murdoch.)	   3:06:54	880( 70)	MO1
+ 5	174	Gone astray (Amy Blair, Bryn Palmer, Mat Palmer.)	   2:56:23	870	FO3
+ 6	210	wait dont run (Shane Harrison, Kristin Harrison.)	   2:46:08	860	XV1
+ 7	160	Nice day for a walk in the hills (Wendy Ford, Richard Clarkson.)	   2:48:16	860	XV2
+ 8	170	Dalligaf Brothers (Hugh Saunders, Archie Tayler, Beau Armstrong.)	   2:50:04	850	MJ1
+ 9	173	The Nortys (Holly Norton, Ned Norton, Lena Norton, Tamsin Page.)	   2:53:47	780	FO4
+ 10	178	The IVs (Guy Blomfield, Ben Dampier-Crossley, Hamish Blomfield, Liv Dampier-Crossley.)	   3:01:18	780( 20)	FO5
+ 11	206	Simons Chickens (Lucy Kitchin, Nathan Sheppard.)	   2:38:27	750	XO2
+ 12	212	Thrills n spills (Nardia Turner, Natasha Richardson, Julie Shore.)	   2:53:43	720	WV1
+ 13	211	Bad Larrys (Travis Ryan- Salter, Jamie Mountier, Nicki McFadzien.)	   3:14:23	710( 150)	XO3
+ 14	194	Hanmer Falcons (Max Jackson, Flynn Pearson, Will Long, Tom Hodges.)	   2:43:11	700	MJ2
+ 15	196	The Twonies (Meagan Kelly, Kim Hamilton.)	   3:01:38	700( 20)	WV2
+ 16	176	Team Gould (Matthew Gould, Vikki Gould.)	   3:01:03	690( 20)	XV3
+ 17	182	LJJ (Lucas Kelly, Jimmy Rumble, Jack Kelly.)	   3:02:55	690( 30)	MJ3
+ 18	180	6 on a good day (Jane Alexander, Aaron Ang.)	   2:58:37	670	XO4
+ 19	195	Moss and Twigs (Fynn McLaughlan, Campbell Park, Callum McLaughlan, Paul Park.)	   2:52:23	660	FO6
+ 20	207	MattAlly (Matthew Hirschfeld, Ally Hirschfeld.)	   2:52:42	650	FJ1
+ 21	184	Max Attack (Jeremy Grooby, Jordan Grooby, Rachael Grooby.)	   2:53:03	650	XO5
+ 22	157	A6 (Sarah Morgan, Emily Shaw.)	   2:57:11	650	WV3
+ 23	202	Crusty   Co (Connor Wilson, Simon Wilson, Rommel Wilson, Sam Wilson.)	   3:03:50	640( 40)	FO7
+ 24	167	Buzzy Bees (Milly DC, Belinda McCone, Max McCone, Georgie ONeill, Zoe Bailey.)	   2:50:20	630	XO6
+ 25	162	Racy Rascals (Lauren Brinsford, Tara Abbott, Jess Earl, Dee Ginders.)	   3:01:47	620( 20)	WO1
+ 26	179	Which way is South Georgia? (Susan Alexander, Keith Alexander.)	   2:57:04	600	XV4
+ 27	183	Mountain Monkeys (Oliver Simpson, Annabel Harris, Todd Williams.)	   3:03:22	600( 40)	FO8
+ 28	193	Mums on a Mish (Hannah Sumner, Liss Shaw.)	   3:07:36	600( 80)	WO2
+ 29	190	Team Watt (David Watt, Hannah Watt.)	   2:55:23	590	FO9
+ 30	187	Just a Stroll in the Park (Genevieve Macilquham, Julie Groen, Penny Willocks, Philippa Daly.)	   3:07:39	590( 80)	WV4
+ 31	205	BDO (Simon Wing, Rod Hansen.)	   3:20:27	560( 210)	MO2
+ 32	161	Medbury maggots (Iain Wright, Craig Ginders, Richard Frost, Nick Abbott.)	   3:22:04	560( 230)	MO3
+ 33	203	True Beerings (Peter Cook, Chris Hasler.)	   2:53:50	550	MO4
+ 34	169	GandS (Stephanie Farrant, Greg Smithson.)	   2:58:58	550	FO10
+ 35	153	Keep up Dad (Tom Adams, Milly Adams, Hayden Adams.)	   2:45:56	540	FO11
+ 36	171	Fast ferrets (Alice Vanderweg, Cherie Holdom.)	   2:53:21	520	WO3
+ 37	200	Need Oxygen (Linda Loffhagen, Timothy Harris.)	   2:45:23	510	XV5
+ 38	177	Mountain Goats (Harry Glasson, Sarah Glasson, Gus McKenzie, Jo McKenzie.)	   3:08:02	510( 90)	FO12
+ 39	175	Dazzas Angels (Daryl Mauger, Angela Harris, Anna Gunn.)	   3:11:47	490( 120)	XV6
+ 40	188	Not Fast and slightly furious (Claire Spear, Linda Wright.)	   2:41:28	470	WV5
+ 41	181	cherex (Cherie Richardson, Rex Williams.)	   2:54:46	460	XV7
+ 42	198	Westies M.I.A (Sarah Crofts, Belinda McAnally.)	   2:58:12	460	WV6
+ 43	185	End Game (Debby Galletly, Robyn Frost, Liv Pinckney.)	   3:09:08	460( 100)	WO4
+ 44	152	Moov faster (Claire Calderwood, Gemma Chick, Casey Colebrook.)	   2:51:21	430	WO5
+ 45	199	Tarao Eh (Ari Newell, Degan DeVree, Mateo Jamieson, Rhys Lewis, William Gould.)	   2:28:16	420	XJ1
+ 46	158	Head Torture (Lauren McCauley, Bianca Sullivan, Nicholas McCauley, Myles McCauley.)	   2:53:57	420	FO13
+ 47	197	The Three Possums (Sara Paris, Anna Jenkins, Angela Chaplin.)	   2:54:04	400	WO6
+ 48	172	Are We There Yet? (Ben Jordan, Luke Jordan, Kim Jordan.)	   3:17:21	400( 180)	FO14
+ 49	192	The Nameless Wanderers (tania riddington, Blaise Davison.)	   2:59:21	390	WO7
+ 50	189	Zero to Hero (Zara Taylor, Laura Williamson, Beth Williamson.)	   3:16:43	370( 170)	WO8
+ 51	159	Team Mc (Nikki Begg, Shelley McCully, Keeley Begg, Kate McCully.)	   3:01:41	360( 20)	FO15
+ 52	165	The Mauraders (Emily Hodges, Andy Hodges.)	   3:10:04	330( 110)	FO16
+ 53	209	Lets Be In (Zaya McDonald, Chantal Woodham, Billie Hadler, Kylie Hammond.)	   3:10:32	330( 110)	FO17
+ 54	163	Cranford Crocs (Jill Dampier-Crossley, Chris Dampier-Crossley.)	   3:08:58	280( 90)	XV8
+ 55	201	Where are We? (Amanda Norris, Alex Westrupp.)	   2:41:54	270	XO7

@@ -1,0 +1,40 @@
+Team No. 589	Tag ID = AECK   Tags=0021	Course 6hr
+Jog Walk , we're late, Run!: Dallas Bean, Martin Foster
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:16:39 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:36:10 AM	  0:07:10	
+   3	 44	 40	 8/06/2013 10:51:48 AM	  0:15:38	
+   4	 86	 80	 8/06/2013 11:02:47 AM	  0:10:59	
+   5	 68	 60	 8/06/2013 11:19:33 AM	  0:16:46	
+   6	 77	 70	 8/06/2013 11:36:13 AM	  0:16:40	
+   7	101	100	 8/06/2013 12:03:01 PM	  0:26:48	
+   8	 43	 40	 8/06/2013 12:24:36 PM	  0:21:35	
+   9	 25	 20	 8/06/2013 12:44:10 PM	  0:19:34	
+  10	 62	 60	 8/06/2013  1:11:20 PM 	  0:27:10	
+  11	 99	 90	 8/06/2013  1:43:23 PM 	  0:32:03	
+  12	 31	 30	 8/06/2013  2:01:53 PM 	  0:18:30	
+  13	 51	 50	 8/06/2013  2:07:56 PM 	  0:06:03	
+  14	 60	 60	 8/06/2013  2:18:48 PM 	  0:10:52	
+  15	 35	 30	 8/06/2013  2:48:55 PM 	  0:30:07	
+  16	 53	 50	 8/06/2013  2:59:23 PM 	  0:10:28	
+  17	 30	 30	 8/06/2013  3:14:26 PM 	  0:15:03	
+  18	 67	 60	 8/06/2013  3:43:23 PM 	  0:28:57	
+  19	 49	 40	 8/06/2013  3:52:20 PM 	  0:08:57	 Punch  12 replaced by Group 49.
+  20	 58	 50	 8/06/2013  4:13:20 PM 	  0:21:00	 Punch  10 replaced by Group 58.
+  21	 16		 8/06/2013  4:21:22 PM 	  0:08:02	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:21:22 PM 
+Time on course   5:52:22
+
+
+ 1150	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1150

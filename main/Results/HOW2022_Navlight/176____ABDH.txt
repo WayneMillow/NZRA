@@ -1,0 +1,31 @@
+Team No. 176	Tag ID = ABDH   Tags=0014	Course 6 hour
+Back to Basics: Leigh Power, William Power
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		11/06/2022 10:43:01 AM	         	BRIEFING. Score reset.
+   2	  24 	   20	11/06/2022 11:18:32 AM	  0:18:32	
+   3	  79 	   70	11/06/2022 11:58:34 AM	  0:40:02	
+   4	  78 	   70	11/06/2022  1:01:14 PM	  1:02:40	
+   5	  49 	   40	11/06/2022  1:15:07 PM	  0:13:53	
+   6	  95 	   90	11/06/2022  1:27:47 PM	  0:12:40	
+   7	  42 	   40	11/06/2022  1:42:49 PM	  0:15:02	
+   8	  30 	   30	11/06/2022  2:09:26 PM	  0:26:37	
+   9	  51 	   50	11/06/2022  2:33:03 PM	  0:23:37	
+  10	  41 	   40	11/06/2022  2:51:46 PM	  0:18:43	
+  11	  69 	   60	11/06/2022  3:27:34 PM	  0:35:48	
+  12	  23 	   20	11/06/2022  4:02:34 PM	  0:35:00	
+  13	  56 	   50	11/06/2022  4:16:18 PM	  0:13:44	
+  14	  14 		11/06/2022  4:31:58 PM	  0:15:40	FINISH TIME.
+END
+
+
+Recognised finish time 11/06/2022  4:31:58 PM
+Time on course   5:31:58
+
+
+  580	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

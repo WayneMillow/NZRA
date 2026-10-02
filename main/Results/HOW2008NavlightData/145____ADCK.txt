@@ -1,0 +1,30 @@
+Team No. 145	Tag ID = ADCK   Tags=0013	Course 6hr
+Anne Murphy, Doona Green and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 11		14/06/2008 10:45:13 AM	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008 11:10:19 AM	  0:10:19	     Group 30 replaces 98.
+   3	 50	 50	14/06/2008 11:30:09 AM	  0:19:50	
+   4	 75	 70	14/06/2008 11:56:57 AM	  0:26:48	
+   5	 63	 60	14/06/2008 12:43:05 PM	  0:46:08	
+   6	 52	 50	14/06/2008  1:11:47 PM 	  0:28:42	
+   7	 71	 70	14/06/2008  1:37:43 PM 	  0:25:56	
+   8	 32	 30	14/06/2008  2:55:07 PM 	  1:17:24	
+   9	 59	 50	14/06/2008  3:18:02 PM 	  0:22:55	
+  10	 31	 30	14/06/2008  3:28:27 PM 	  0:10:25	
+  11	 49	 40	14/06/2008  3:39:59 PM 	  0:11:32	
+  12	 22	 20	14/06/2008  3:54:25 PM 	  0:14:26	     Group 22 replaces 97.
+  13	108		14/06/2008  3:59:31 PM 	  0:05:06	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  3:59:31 PM 
+Time on course   4:59:31
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

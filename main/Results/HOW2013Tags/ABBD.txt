@@ -1,0 +1,30 @@
+Team No. 577	Tag ID = ABBD   Tags=0013	Course 2.5hr
+Fairlie Fire: Deb Scott, Kate Jeaffreson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 12:47:33 PM	         	BRIEFING. Score reset.
+   2	 19	 10	 8/06/2013  1:06:15 PM 	  0:05:15	
+   3	 40	 40	 8/06/2013  1:23:34 PM 	  0:17:19	
+   4	 97	 90	 8/06/2013  1:32:37 PM 	  0:09:03	
+   5	 65	 60	 8/06/2013  1:45:11 PM 	  0:12:34	
+   6	 75	 70	 8/06/2013  2:22:15 PM 	  0:37:04	
+   7	 85	 80	 8/06/2013  2:31:29 PM 	  0:09:14	
+   8	 76	 70	 8/06/2013  2:44:07 PM 	  0:12:38	
+   9	 27	 20	 8/06/2013  2:50:05 PM 	  0:05:58	
+  10	 67	 60	 8/06/2013  3:05:34 PM 	  0:15:29	
+  11	 93	 90	 8/06/2013  3:14:31 PM 	  0:08:57	
+  12	 17	 10	 8/06/2013  3:25:41 PM 	  0:11:10	
+  13	 16		 8/06/2013  3:29:59 PM 	  0:04:18	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:29:59 PM 
+Time on course   2:28:59
+
+
+  600	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600

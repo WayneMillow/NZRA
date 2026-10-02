@@ -1,0 +1,23 @@
+Team No. 115	Tag ID = AKBB   Tags=0006	Course 6hr
+Raewyn Moss, Christine Robb and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009  9:53:35 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:42:29 AM	  0:12:29	
+   3	 65	 60	 4/07/2009 12:02:16 PM	  1:19:47	
+   4	 25	 20	 4/07/2009 12:20:55 PM	  0:18:39	
+   5	 66	 60	 4/07/2009  1:01:54 PM 	  0:40:59	
+   6	104		 4/07/2009  4:24:36 PM 	  3:22:42	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:24:36 PM 
+Time on course   5:54:36
+
+
+  150	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 150

@@ -1,0 +1,27 @@
+Team No. 154	Tag ID = AHDF   Tags=0011	Course 6 hour
+Late's Great: Max Cunningham (NZL), Ollie Bixley (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  10 		24/11/2018 11:56:58 AM	         	BRIEFING. Score reset.
+   3	  49 	   40	24/11/2018 12:13:50 PM	  0:13:50	
+   4	  58 	   50	24/11/2018 12:23:29 PM	  0:09:39	
+   5	  40 	   40	24/11/2018 12:44:42 PM	  0:21:13	
+   6	  61 	   60	24/11/2018  1:07:58 PM	  0:23:16	
+   7	  51 	   50	24/11/2018  1:31:58 PM	  0:24:00	
+   8	  44 	   40	24/11/2018  2:00:45 PM	  0:28:47	
+   9	  71 	   70	24/11/2018  2:20:27 PM	  0:19:42	
+  10	  70 	   70	24/11/2018  3:02:51 PM	  0:42:24	
+  11	  18 		24/11/2018  6:42:01 PM	  3:39:10	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  6:42:01 PM
+Time on course   6:42:01
+
+
+  420	Points Scored.
+ -420	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420 LATE

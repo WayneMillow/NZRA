@@ -1,0 +1,33 @@
+Team No. 23	Tag ID = AHAS   Tags=0016	Course 24 Hour
+Sandra Flamank, Terry Connolly
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 11:43:48 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 7/03/2009 12:14:26 PM	  0:14:26	
+   3	 30	 30	 7/03/2009 12:29:00 PM	  0:14:34	
+   4	 54	 50	 7/03/2009 12:55:00 PM	  0:26:00	
+   5	 75	 70	 7/03/2009  4:07:59 PM 	  3:12:59	
+   6	 76	 70	 7/03/2009  5:00:22 PM 	  0:52:23	
+   7	 65	 60	 7/03/2009  5:45:14 PM 	  0:44:52	
+   8	 87	 80	 7/03/2009  7:07:52 PM 	  1:22:38	
+   9	 55	 50	 7/03/2009  7:58:34 PM 	  0:50:42	
+  10	 92	 90	 7/03/2009  8:41:27 PM 	  0:42:53	
+  11	 32	 30	 7/03/2009  9:28:40 PM 	  0:47:13	
+  12	 31	 30	 8/03/2009  7:23:21 AM 	  9:54:41	
+  13	 46	 40	 8/03/2009  7:50:47 AM 	  0:27:26	
+  14	 41	 40	 8/03/2009  8:50:40 AM 	  0:59:53	
+  15	 80	 80	 8/03/2009  9:37:10 AM 	  0:46:30	
+  16	 F		 8/03/2009 11:06:47 AM	  1:29:37	FINISH TIME.
+END
+
+
+Recognised finish time  8/03/2009 11:06:47 AM
+Time on course  23:06:47
+
+
+  740	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

@@ -1,0 +1,43 @@
+Team No. 143	Tag ID = AJAX   Tags=0023	Course 15hr
+Directionally Challenged: Catherine Low (NZL), Tom Rose (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	  107		11/02/2017 11:46:02 AM	         	BRIEFING. Score reset.
+   3	  509	   50	11/02/2017 12:26:52 PM	  0:26:52	
+   4	  803	   80	11/02/2017 12:59:32 PM	  0:32:40	
+   5	  405	   40	11/02/2017  1:37:24 PM	  0:37:52	
+   6	  804	   80	11/02/2017  2:22:49 PM	  0:45:25	
+   7	  709	   70	11/02/2017  3:33:45 PM	  1:10:56	
+   8	  905	   90	11/02/2017  5:00:11 PM	  1:26:26	
+   9	  605	   60	11/02/2017  5:59:59 PM	  0:59:48	
+  10	 1001	  100	11/02/2017  6:20:36 PM	  0:20:37	
+  11	  606	   60	11/02/2017  6:45:21 PM	  0:24:45	
+  12	  506	   50	11/02/2017  7:19:41 PM	  0:34:20	
+  13	  309	   30	11/02/2017  8:00:40 PM	  0:40:59	
+  14	  109		11/02/2017  8:25:07 PM	  0:24:27	FINISH TIME.
+  15	  311	   30	12/02/2017  0:12:14 AM	  3:47:07	
+  16	  404	   40	12/02/2017  0:58:29 AM	  0:46:15	
+  17	  109		12/02/2017  1:25:46 AM	  0:27:17	FINISH TIME.
+  18	  104		12/02/2017  7:21:34 AM	  5:55:48	DEPARTURE TIME.
+  19	  310	   30	12/02/2017  7:38:14 AM	  0:16:40	
+  20	  407	   40	12/02/2017  8:11:17 AM	  0:33:03	
+  21	  704	   70	12/02/2017  8:42:43 AM	  0:31:26	
+  22	  507	   50	12/02/2017 10:01:16 AM	  1:18:33	
+  23	   18		12/02/2017 10:38:35 AM	  0:37:19	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  311,404,310,407,704,507
+Your score has been reduced by 260 points.
+
+
+Recognised finish time 12/02/2017 10:38:35 AM
+Time on course  16:42:47
+
+
+  710	Points Scored.
+ -710	Course Time Disqualification.
+970	Manual adjustment.
+
+
+FINAL SCORE = 970

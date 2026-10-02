@@ -1,0 +1,27 @@
+Team No. 617	Tag ID = ATDG   Tags=0029	Course 2.5hr
+Mackenzie UNE: Isabel Clarke, Thea Mould
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  20	108		 8/06/2013 12:47:17 PM	         	BRIEFING. Score reset.
+  21	 19	 10	 8/06/2013  1:05:14 PM 	  0:04:14	
+  22	 29	 20	 8/06/2013  1:16:55 PM 	  0:11:41	
+  23	 40	 40	 8/06/2013  1:23:58 PM 	  0:07:03	
+  24	 76	 70	 8/06/2013  2:41:29 PM 	  1:17:31	
+  25	 27	 20	 8/06/2013  2:49:03 PM 	  0:07:34	
+  26	 67	 60	 8/06/2013  3:09:21 PM 	  0:20:18	
+  27	 93	 90	 8/06/2013  3:15:19 PM 	  0:05:58	
+  28	 17	 10	 8/06/2013  3:25:20 PM 	  0:10:01	
+  29	 16		 8/06/2013  3:29:02 PM 	  0:03:42	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:29:02 PM 
+Time on course   2:28:02
+
+
+  320	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 320

@@ -1,0 +1,26 @@
+Team No. 658	Tag ID = APBD   Tags=0009	Course 6Hr
+Juliet HENRY, Beatrice Gonzales and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 94		27/06/2015 10:46:18 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:21:30 AM	  0:21:30	
+   3	 95	 90	27/06/2015 12:42:38 PM	  1:21:08	
+   4	 48	 40	27/06/2015  1:02:42 PM	  0:20:04	
+   5	 87	 80	27/06/2015  1:27:34 PM	  0:24:52	
+   6	 20	 20	27/06/2015  2:00:40 PM	  0:33:06	
+   7	 40	 40	27/06/2015  2:43:30 PM	  0:42:50	
+   8	 28	 20	27/06/2015  4:34:22 PM	  1:50:52	
+   9	108		27/06/2015  5:08:39 PM	  0:34:17	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  5:08:39 PM
+Time on course   6:08:39
+
+
+  310	Points Scored.
+  -90	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 220

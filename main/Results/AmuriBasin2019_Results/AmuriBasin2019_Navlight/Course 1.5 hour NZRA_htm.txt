@@ -1,0 +1,16 @@
+ 1	261	Team French (Lauren French, Michelle French.)	   1:27:41	550	WO1
+ 2	258	Mountain Rangers (Jono Simpson, Peter Williams, Caroline Simpson, Sarah Williams.)	   1:23:26	540	FO1
+ 3	255	Byns (Ben Chaffey, Lyn Crean.)	   1:29:15	530	XV1
+ 4	264	Giggle Crew (Victoria Kelly, Rory Palmer, Charlotte Hastings, Isaac Kelly, Nicholas Kelly.)	   1:23:55	510	FO2
+ 5	262	Frisky fillys (Julie Jopp, Paige Jopp.)	   1:24:50	480	FO3
+ 6	259	Pinck Panthers (Henry Pinckney, Issy Pinckney.)	   1:32:18	395( 15)	FO4
+ 7	252	Are we half way yet (Archie McCone, Kevin ONeill, Sam ONeill.)	   1:32:19	395( 15)	FO5
+ 8	253	Sherwood Shortcuts (Jack Boissard, Alex Boissard, Guy Boissard.)	   1:32:25	385( 15)	FO6
+ 9	257	Three Blind Mice (Molly McKenzie, Honor McKenzie, Dave McKenzie.)	   1:26:55	370	FO7
+ 10	251	Black Attack (Julia Black, Tom Black, Sara Black.)	   1:27:00	370	FO8
+ 11	265	BenNIck (Ben Hirschfeld, Nick Hirschfeld.)	   1:28:11	330	FJ1
+ 12	263	Joppstars (Macey Jopp, Kate Jopp, Craig Jopp.)	   1:23:35	300	FO9
+ 13	254	Savage Safaris (Jack Savage, James Cleeve, Stanley Savage, Jason Savage.)	   1:25:15	300	FO10
+ 14	256	Rotherham Rascals (Ginny Macfarlane, Riley Mason, George Thompson, Alex Thompson, Noah Rasmussen.)	   1:25:06	220	XO1
+ 15	260	The Milkshakers (Holly Jackson, Belinda Rutherford.)	   1:31:14	200( 10)	WO2
+ 16	266	Headless Chickens (Michael Van Vledder, Matthew Bridges.)	   1:23:09	180	FO11

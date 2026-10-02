@@ -1,0 +1,27 @@
+Team No. 70	Tag ID = AUAX   Tags=0010	Course 7Hour
+Samfred: Sam Coupland, Wilfred Spearing
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:49:54 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:17:58 AM	  0:17:58	
+   3	 70	 70	27/02/2016 12:39:21 PM	  1:21:23	
+   4	 43	 40	27/02/2016 12:59:04 PM	  0:19:43	
+   5	104	100	27/02/2016  1:27:17 PM	  0:28:13	
+   6	 68	 60	27/02/2016  2:11:02 PM	  0:43:45	
+   7	 56	 50	27/02/2016  4:05:36 PM	  1:54:34	
+   8	 55	 50	27/02/2016  4:42:00 PM	  0:36:24	
+   9	 93	 90	27/02/2016  5:14:48 PM	  0:32:48	
+  10	 18		27/02/2016  5:57:06 PM	  0:42:18	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:57:06 PM
+Time on course   6:57:06
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

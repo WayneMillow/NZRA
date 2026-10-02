@@ -1,0 +1,29 @@
+ 1	214	Forrest dwelling ultra ninjas (Louis Schindler, Christo Saggers.)	   5:44:32	1070	MO1,MV1
+ 2	205	Mama and Fauxpa (Ian Forne, Emily Forne.)	   5:59:22	950	XO1
+ 3	225	Grizzlies (George Lucas, Alistair Bird.)	   5:57:23	940	MO2
+ 4	204	Cunning and Stealth (Tim Bygate, Hugh MacMillan.)	   5:45:35	680	MO3,MV2,MSV1
+ 5	226	Fish Out of Water (Kate Salmon, Steve Salmon.)	   5:58:29	680	XO2
+ 6	220	Duncans team (Duncan Rutherford, Kevin Oneill.)	   5:53:43	670	MO4
+ 7	217	UltraGrr's (Graeme Read, Richard English.)	   5:59:23	670	MO5,MV3,MSV2,MUV1
+ 8	228	The Drifters (Sarah Wright, Diane Dinnis.)	   6:05:04	660( 60)	WO1,WV1
+ 9	230	F K J (James Wright, Felix Hunt, Katherine Babington.)	   5:58:21	650	XO3,XJ1
+ 10	222	Waimea Toa (Eddie Swain, William Seymour.)	   5:59:57	650	MO6,MJ1
+ 11	211	TOF (Hayden McCoy, Simon Olsen.)	   5:52:12	620	MO7
+ 12	107	Better Late than Never (Neal Hay, Riley Flanagan.)	   5:57:38	590	MO8,MJ2
+ 13	203	The Water Boys (Mark Dawson, Neville Laverack.)	   5:52:38	540	MO9,MV4
+ 14	212	Wonky Thoroughbreds (Tessa Dixon, Abby Dixon, Tita Elliott.)	   6:03:37	540( 40)	WO2
+ 15	210	Fooken chizzled (Carmen Fookes, Sarah Chisnell.)	   5:47:26	520	WO3
+ 16	213	The Flying Circus (Kathryn Conradson, Paulette Birchfield, Lynette O'Connor.)	   5:47:59	520	WO4,WV2
+ 17	231	The Wright Family (Tim Wright, Anna Wright.)	   5:59:05	520	XO4
+ 18	216	The Kawekas (John Adams, Rachel Eyre.)	   5:54:04	510	XO5,XV1
+ 19	202	Roamin' Holiday (Penny Richards, Saralinda MacMillan.)	   5:55:21	500	WO5,WV3,WSV1
+ 20	201	The Holy Rollers (Kevin Stobbs, Steve Petty, Andy Griffiths.)	   5:58:17	410	MO10,MV5,MSV3,MUV2
+ 21	219	Bollybrisltoes (Greg Bristow, Josie Boland.)	   6:11:23	410( 120)	XO6,XV2,XSV1
+ 22	208	3 Gens (Rex Williams, Cherie Richardson, Ethan Richardson.)	   5:54:14	390	XO7
+ 23	227	Hot Pools Await! (Fleur Murray, Lesley Pawley.)	   5:45:42	380	WO6,WV4
+ 24	215	Grasso and Rock-a-truck (Zhiyin Zhu, Zhien Zhu, Rhys Jones.)	   5:50:10	290	XO8
+ 25	221	Waimea dahl bhat power (Annie Swain, Amelia Clarke, Charlotte Taylor, Cassie Cameron, Grace Cliffe.)	   5:40:48	200	WO7,WJ1
+ 26	209	AB positive (Anna Varnham, Beverley Holder.)	   5:40:43	150	WO8,WV5,WSV2
+ 27	207	anglican we do it (Georgia-Rae Flack, Sue Galloway, Cherie McKenzie.)	   6:04:08	130( 50)	WO9
+ 28	218	Out of control chicks (Theresa Bygate, Bridget Guerin.)	   5:33:58	110	WO10,WV6
+ 29	223	Lost and confused (Josh Hudson, Amy Burney, Christian Miller.)	 LATE	470

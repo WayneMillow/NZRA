@@ -1,0 +1,32 @@
+Team No. 121	Tag ID = AVBB   Tags=0015	Course 3hr
+Just For Laughs: Chloe-Ann Laugesen, Terry Laugesen and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:06:24 PM	  0:06:24	
+   2	  52 	   50	 3/07/2022 12:09:13 PM	  0:02:49	
+   3	  33 	   30	 3/07/2022 12:14:45 PM	  0:05:32	
+   4	  43 	   40	 3/07/2022 12:28:59 PM	  0:14:14	
+   5	  44 	   40	 3/07/2022 12:42:07 PM	  0:13:08	
+   6	  55 	   50	 3/07/2022 12:49:36 PM	  0:07:29	
+   7	  97 	   90	 3/07/2022  1:01:54 PM	  0:12:18	
+   8	  54 	   50	 3/07/2022  1:14:30 PM	  0:12:36	
+   9	 101 	  100	 3/07/2022  1:31:44 PM	  0:17:14	
+  10	  25 	   20	 3/07/2022  1:37:33 PM	  0:05:49	
+  11	  53 	   50	 3/07/2022  2:01:38 PM	  0:24:05	
+  12	  24 	   20	 3/07/2022  2:15:17 PM	  0:13:39	
+  13	  61 	   60	 3/07/2022  2:27:50 PM	  0:12:33	
+  14	  41 	   40	 3/07/2022  2:49:30 PM	  0:21:40	
+  15	  19 		 3/07/2022  2:52:10 PM	  0:02:40	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:52:10 PM
+Time on course   2:52:10
+
+
+  660	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 660

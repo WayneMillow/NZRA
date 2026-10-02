@@ -1,0 +1,23 @@
+18	CRS 12 hour	3230	 0	 3230 Points.	Finish 31/01/2026  8:58:14 pm	AWAR,AXAR
+23	CRS 12 hour	3090	 0	 3090 Points.	Finish 31/01/2026  8:59:06 pm	AHAS,AGAS
+24	CRS 12 hour	2980	 0	 2980 Points.	Finish 31/01/2026  8:53:41 pm	AJAS,AKAS
+15	CRS 12 hour	2780	 0	 2780 Points.	Finish 31/01/2026  8:58:07 pm	ADHA,AEHB
+20	CRS 12 hour	2560	 0	 2560 Points.	Finish 31/01/2026  8:52:11 pm	ABAS,AAAS
+9	CRS 12 hour	2510	 0	 2510 Points.	Finish 31/01/2026  8:44:59 pm	AEAR,AKHC
+19	CRS 12 hour	2430	 0	 2430 Points.	Finish 31/01/2026  8:57:35 pm	AZAR,AYAR
+13	CRS 12 hour	2300	 0	 2300 Points.	Finish 31/01/2026  8:50:33 pm	AMAR,ANAR
+5	CRS 12 hour	2290	 0	 2290 Points.	Finish 31/01/2026  8:51:38 pm	AVAQ,AWAQ
+16	CRS 12 hour	2170	 0	 2170 Points.	Finish 31/01/2026  8:42:36 pm	ASAR,ATAR
+6	CRS 12 hour	2170	 0	 2170 Points.	Finish 31/01/2026  8:53:29 pm	AXAQ,AYAQ
+22	CRS 12 hour	2160	 0	 2160 Points.	Finish 31/01/2026  8:55:23 pm	AFAS,AEAS
+21	CRS 12 hour	2160	 0	 2160 Points.	Finish 31/01/2026  8:55:26 pm	ADAS,ACAS
+4	CRS 12 hour	1890	 0	 1890 Points.	Finish 31/01/2026  8:52:09 pm	ATAQ,AUAQ
+14	CRS 12 hour	1830	 0	 1830 Points.	Finish 31/01/2026  8:57:29 pm	APAR,AOAR
+25	CRS 12 hour	1780	 0	 1780 Points.	Finish 31/01/2026  8:57:58 pm	AMAS,ALAS
+12	CRS 12 hour	1710	 0	 1710 Points.	Finish 31/01/2026  8:56:41 pm	AKAR,ALAR
+8	CRS 12 hour	1640	 0	 1640 Points.	Finish 31/01/2026  8:35:16 pm	ACAR,ABAR
+17	CRS 12 hour	1620	 0	 1620 Points.	Finish 31/01/2026  8:57:14 pm	AUAR,AVAR
+10	CRS 12 hour	1560	 0	 1560 Points.	Finish 31/01/2026  8:48:06 pm	AGAR,AUHC
+11	CRS 12 hour	1190	 0	 1190 Points.	Finish 31/01/2026  8:40:30 pm	AJAR,AHAR
+7	CRS 12 hour	1150	 0	 1150 Points.	Finish 31/01/2026  8:25:41 pm	AAAR,AZAQ
+ NUMBER OF LINES IS 22

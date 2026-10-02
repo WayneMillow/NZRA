@@ -1,0 +1,27 @@
+Team No. 110	Tag ID = AYBA   Tags=0010	Course 3hr
+Eastside Girls: Katherine Tarr, Lynda Bluck and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:02:14 PM	  0:02:14	
+   2	  20 	   20	 3/07/2022 12:07:21 PM	  0:05:07	
+   3	  31 	   30	 3/07/2022 12:10:23 PM	  0:03:02	
+   4	  32 	   30	 3/07/2022 12:20:34 PM	  0:10:11	
+   5	  71 	   70	 3/07/2022 12:26:50 PM	  0:06:16	
+   6	  64 	   60	 3/07/2022 12:41:48 PM	  0:14:58	
+   7	  72 	   70	 3/07/2022 12:58:36 PM	  0:16:48	
+   8	  85 	   80	 3/07/2022  1:16:42 PM	  0:18:06	
+   9	  22 	   20	 3/07/2022  2:48:59 PM	  1:32:17	
+  10	  18 		 3/07/2022  2:56:33 PM	  0:07:34	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:56:33 PM
+Time on course   2:56:33
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

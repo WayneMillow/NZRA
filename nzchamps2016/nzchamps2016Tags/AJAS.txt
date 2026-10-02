@@ -1,0 +1,28 @@
+Team No. 24	Tag ID = AJAS   Tags=0011	Course 7Hour
+Law sky walker: Bud Law, cameron walker
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:49:35 AM	         	BRIEFING. Score reset.
+   2	 41	 40	27/02/2016 11:23:58 AM	  0:23:58	
+   3	 11	 10	27/02/2016 11:40:06 AM	  0:16:08	
+   4	 81	 80	27/02/2016 12:05:33 PM	  0:25:27	
+   5	 60	 60	27/02/2016 12:40:06 PM	  0:34:33	
+   6	 50	 50	27/02/2016  1:14:40 PM	  0:34:34	
+   7	 23	 20	27/02/2016  1:32:16 PM	  0:17:36	
+   8	 53	 50	27/02/2016  1:49:03 PM	  0:16:47	
+   9	 61	 60	27/02/2016  2:20:28 PM	  0:31:25	
+  10	 93	 90	27/02/2016  2:51:56 PM	  0:31:28	
+  11	 19		27/02/2016  4:37:02 PM	  1:45:06	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  4:37:02 PM
+Time on course   5:37:02
+
+
+  460	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 460

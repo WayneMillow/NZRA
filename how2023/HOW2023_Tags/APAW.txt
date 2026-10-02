@@ -1,0 +1,24 @@
+Team No. 55	Tag ID = APAW   Tags=0007	Course 6hr
+Caffeine Aftershocks: Shane Ashley, Kelly Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:10:13 AM	  0:10:13	
+   2	  64 	   60	 1/07/2023 11:51:41 AM	  0:41:28	
+   3	  22 	   20	 1/07/2023 12:14:31 PM	  0:22:50	
+   4	  91 	   90	 1/07/2023 12:42:35 PM	  0:28:04	
+   5	  72 	   70	 1/07/2023  1:26:17 PM	  0:43:42	
+   6	  73 	   70	 1/07/2023  2:10:07 PM	  0:43:50	
+   7	  16 		 1/07/2023  3:57:48 PM	  1:47:41	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  3:57:48 PM
+Time on course   4:57:48
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

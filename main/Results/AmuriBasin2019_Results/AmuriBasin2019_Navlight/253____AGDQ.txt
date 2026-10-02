@@ -1,0 +1,30 @@
+Team No. 253	Tag ID = AGDQ   Tags=0013	Course 1.5 hour
+Sherwood Shortcuts: Jack Boissard, Alex Boissard and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:42:19 PM	         	BRIEFING. Score reset.
+   2	  22 	   20	 7/07/2019 12:56:27 PM	         	Punch clock failed.
+   3	  21 	   20	 7/07/2019  1:02:51 PM	  0:02:51	
+   4	  47 	   40	 7/07/2019  1:08:23 PM	  0:05:32	
+   5	  31 	   30	 7/07/2019  1:17:25 PM	  0:09:02	
+   6	  73 	   70	 7/07/2019  1:24:27 PM	  0:07:02	
+   7	  33 	   30	 7/07/2019  1:31:07 PM	  0:06:40	
+   8	  46 	   40	 7/07/2019  1:49:51 PM	  0:18:44	
+   9	  52 	   50	 7/07/2019  1:55:02 PM	  0:05:11	
+  10	  59 	   50	 7/07/2019  2:10:16 PM	  0:15:14	
+  11	  39 	   30	 7/07/2019  2:22:43 PM	  0:12:27	
+  12	  26 	   20	 7/07/2019  2:29:13 PM	  0:06:30	
+  13	  19 		 7/07/2019  2:32:25 PM	  0:03:12	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:32:25 PM
+Time on course   1:32:25
+
+
+  400	Points Scored.
+  -15	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 385

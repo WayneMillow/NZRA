@@ -1,0 +1,33 @@
+Team No. 682	Tag ID = AUDR   Tags=0016	Course 2.5hr
+Max Petersen, Jac Petersen
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 12:48:34 PM	         	BRIEFING. Score reset.
+   2	 17	 10	 8/06/2013  1:13:23 PM 	  0:12:23	
+   3	 49	 40	 8/06/2013  1:22:36 PM 	  0:09:13	 Punch  12 replaced by Group 49.
+   4	 67	 60	 8/06/2013  1:33:16 PM 	  0:10:40	
+   5	 93	 90	 8/06/2013  1:38:48 PM 	  0:05:32	
+   6	 27	 20	 8/06/2013  1:56:31 PM 	  0:17:43	
+   7	 76	 70	 8/06/2013  2:04:51 PM 	  0:08:20	
+   8	 85	 80	 8/06/2013  2:12:22 PM 	  0:07:31	
+   9	 20	 20	 8/06/2013  2:22:31 PM 	  0:10:09	
+  10	 58	 50	 8/06/2013  2:37:14 PM 	  0:14:43	 Punch  10 replaced by Group 58.
+  11	 58		 8/06/2013  2:37:23 PM 	  0:00:09	     Punched on Line 10
+  12	 19	 10	 8/06/2013  2:43:00 PM 	  0:05:37	
+  13	 21	 20	 8/06/2013  2:55:10 PM 	  0:12:10	 Punch  11 replaced by Group 21.
+  14	 18	 10	 8/06/2013  3:07:20 PM 	  0:12:10	
+  15	 30	 30	 8/06/2013  3:12:04 PM 	  0:04:44	
+  16	 15		 8/06/2013  3:28:40 PM 	  0:16:36	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:28:40 PM 
+Time on course   2:27:40
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

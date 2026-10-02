@@ -1,0 +1,33 @@
+Team No. 32	Tag ID = AAAT   Tags=0016	Course 6hr
+Apple Pi: Sandra Appleby, Martin Cleland
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  50 	   50	 3/07/2022 10:25:14 AM	  0:25:14	
+   2	  24 	   20	 3/07/2022 10:39:06 AM	  0:13:52	
+   3	  65 	   60	 3/07/2022 11:01:08 AM	  0:22:02	
+   4	  23 	   20	 3/07/2022  3:18:20 AM	         	Punch clock failed.
+   5	 101 	  100	 3/07/2022 11:40:35 AM	  0:39:27	
+   6	  73 	   70	 3/07/2022 11:59:20 AM	  0:18:45	
+   7	  38 	   30	 3/07/2022 12:17:02 PM	  0:17:42	
+   8	  28 	   20	 3/07/2022 12:57:47 PM	  0:40:45	
+   9	 103 	  100	 3/07/2022  1:23:12 PM	  0:25:25	
+  10	  82 	   80	 3/07/2022  1:47:47 PM	  0:24:35	
+  11	  97 	   90	 3/07/2022  2:19:39 PM	  0:31:52	
+  12	  55 	   50	 3/07/2022  2:34:54 PM	  0:15:15	
+  13	  44 	   40	 3/07/2022  2:43:47 PM	  0:08:53	
+  14	  43 	   40	 3/07/2022  2:54:52 PM	  0:11:05	
+  15	  19 		 3/07/2022  3:34:09 PM	  0:39:17	FINISH TIME.
+  16	  18 		 3/07/2022  3:34:15 PM	  0:00:06	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  3/07/2022  3:34:09 PM
+Time on course   5:34:09
+
+
+  770	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 770

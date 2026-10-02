@@ -1,0 +1,31 @@
+Team No. 199	Tag ID = AXDJ   Tags=0014	Course 6hr
+In first place: Justine Schroder, Ronda South and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:50:04 AM	         	BRIEFING. Score reset.
+   2	  42 	   40	15/06/2019 11:13:28 AM	  0:13:28	
+   3	  31 	   30	15/06/2019 11:21:40 AM	  0:08:12	
+   4	  62 	   60	15/06/2019 11:56:08 AM	  0:34:28	
+   5	  53 	   50	15/06/2019 12:23:10 PM	  0:27:02	
+   6	  75 	   70	15/06/2019 12:41:13 PM	  0:18:03	
+   7	  94 	   90	15/06/2019  1:03:08 PM	  0:21:55	
+   8	  55 	   50	15/06/2019  1:36:30 PM	  0:33:22	
+   9	 101 	  100	15/06/2019  2:06:38 PM	  0:30:08	
+  10	  91 	   90	15/06/2019  2:42:04 PM	  0:35:26	
+  11	  52 	   50	15/06/2019  3:20:36 PM	  0:38:32	
+  12	  72 	   70	15/06/2019  3:34:38 PM	  0:14:02	
+  13	  30 	   30	15/06/2019  4:16:20 PM	  0:41:42	
+  14	  17 		15/06/2019  4:55:44 PM	  0:39:24	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:55:44 PM
+Time on course   5:55:44
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

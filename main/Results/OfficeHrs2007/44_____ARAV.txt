@@ -1,0 +1,32 @@
+Team No. 44	Tag ID = ARAV   Tags=0015	Course 
+Piers Maclaren, Bruce Manley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 2/12/2007  8:37:59 AM 	         	BRIEFING. Score reset.
+   2	 46	 40	 2/12/2007  9:17:29 AM 	  0:17:29	
+   3	 60	 60	 2/12/2007  9:48:37 AM 	  0:31:08	
+   4	 62	 60	 2/12/2007 10:08:23 AM	  0:19:46	
+   5	 61	 60	 2/12/2007 10:36:03 AM	  0:27:40	
+   6	 90	 90	 2/12/2007 10:57:29 AM	  0:21:26	
+   7	 40	 40	 2/12/2007 11:27:31 AM	  0:30:02	
+   8	 63	 60	 2/12/2007 12:35:05 PM	  1:07:34	
+   9	 47	 40	 2/12/2007 12:53:25 PM	  0:18:20	
+  10	 51	 50	 2/12/2007  1:58:34 PM 	  1:05:09	
+  11	 44	 40	 2/12/2007  2:23:51 PM 	  0:25:17	
+  12	 34	 30	 2/12/2007  2:55:40 PM 	  0:31:49	
+  13	 25	 20	 2/12/2007  3:11:35 PM 	  0:15:55	
+  14	 23	 20	 2/12/2007  3:30:58 PM 	  0:19:23	
+  15	 19		 2/12/2007  3:43:57 PM 	  0:12:59	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:43:57 PM 
+Time on course   6:43:57
+
+
+  610	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

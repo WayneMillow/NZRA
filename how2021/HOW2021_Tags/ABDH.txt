@@ -1,0 +1,27 @@
+Team No. 176	Tag ID = ABDH   Tags=0010	Course 6 hour
+Sole Mates: Michele Collins, Cheryl Monahan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:12:31 AM	  0:12:31	
+   2	  25 	   20	19/06/2021 11:26:53 AM	  0:14:22	
+   3	  47 	   40	19/06/2021 12:35:05 PM	  1:08:12	
+   4	  49 	   40	19/06/2021  1:02:41 PM	  0:27:36	
+   5	  58 	   50	19/06/2021  1:26:02 PM	  0:23:21	
+   6	  67 	   60	19/06/2021  1:49:02 PM	  0:23:00	
+   7	  35 	   30	19/06/2021  2:10:08 PM	  0:21:06	
+   8	 100 	  100	19/06/2021  2:33:42 PM	  0:23:34	
+   9	  40 	   40	19/06/2021  3:09:24 PM	  0:35:42	
+  10	  57 		19/06/2021  5:00:10 PM	  1:50:46	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:00:10 PM
+Time on course   6:00:10
+
+
+  420	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

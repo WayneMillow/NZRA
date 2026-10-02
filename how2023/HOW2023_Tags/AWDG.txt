@@ -1,0 +1,33 @@
+Team No. 174	Tag ID = AWDG   Tags=0016	Course 12hr
+Momentarily Misplaced Not Lost: Harry Young, Hollie Walton and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023  9:31:47 AM	  0:31:47	
+   2	  63 	   60	 1/07/2023  9:46:40 AM	  0:14:53	
+   3	  52 	   50	 1/07/2023 10:17:57 AM	  0:31:17	
+   4	  40 	   40	 1/07/2023 10:49:40 AM	  0:31:43	
+   5	  62 	   60	 1/07/2023 11:09:25 AM	  0:19:45	
+   6	  80 	   80	 1/07/2023 12:02:31 PM	  0:53:06	
+   7	  70 	   70	 1/07/2023  1:27:17 PM	  1:24:46	
+   8	 100 	  100	 1/07/2023  2:34:06 PM	  1:06:49	
+   9	  50 	   50	 1/07/2023  2:49:34 PM	  0:15:28	
+  10	  51 	   50	 1/07/2023  3:46:53 PM	  0:57:19	
+  11	  61 	   60	 1/07/2023  4:16:17 PM	  0:29:24	
+  12	  90 	   90	 1/07/2023  4:47:53 PM	  0:31:36	
+  13	  71 	   70	 1/07/2023  5:27:12 PM	  0:39:19	
+  14	  53 	   50	 1/07/2023  6:04:03 PM	  0:36:51	
+  15	  54 	   50	 1/07/2023  8:05:47 PM	  2:01:44	
+  16	  18 		 1/07/2023  8:51:14 PM	  0:45:27	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  8:51:14 PM
+Time on course  11:51:14
+
+
+  920	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 920

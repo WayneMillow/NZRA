@@ -1,0 +1,29 @@
+Team No. 671	Tag ID = APDL   Tags=0011	Course 6hr
+Him and Him: Daryl Poulsen, Wayne Willis
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:19:01 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:34:01 AM	  0:05:01	 Punch  11 replaced by Group 21.
+   3	 53	 50	 8/06/2013 10:53:49 AM	  0:19:48	
+   4	 44	 40	 8/06/2013 11:05:45 AM	  0:11:56	
+   5	 86	 80	 8/06/2013 11:20:58 AM	  0:15:13	
+   6	 68	 60	 8/06/2013 11:44:35 AM	  0:23:37	
+   7	101	100	 8/06/2013  1:18:01 PM 	  1:33:26	
+   8	 43	 40	 8/06/2013  1:50:58 PM 	  0:32:57	
+   9	 25	 20	 8/06/2013  2:44:14 PM 	  0:53:16	
+  10	 99	 90	 8/06/2013  3:32:14 PM 	  0:48:00	
+  11	 14		 8/06/2013  4:27:52 PM 	  0:55:38	FINISH TIME.
+END
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:27:52 PM 
+Time on course   5:58:52
+
+
+  580	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

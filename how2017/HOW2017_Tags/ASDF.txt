@@ -1,0 +1,31 @@
+Team No. 2255	Tag ID = ASDF   Tags=0014	Course 6Hr
+S.O.S: Helen Burnett, Sami Chesterton and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		10/06/2017 10:44:46 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:07:08 AM	  0:07:08	 Punch  11 replaced by Group 27.
+   3	 21	 20	10/06/2017 11:15:10 AM	  0:08:02	
+   4	 22	 20	10/06/2017 11:47:13 AM	  0:32:03	
+   5	 30	 30	10/06/2017 12:02:28 PM	  0:15:15	
+   6	 71	 70	10/06/2017 12:44:03 PM	  0:41:35	
+   7	100	100	10/06/2017  1:11:36 PM	  0:27:33	
+   8	 60	 60	10/06/2017  2:00:20 PM	  0:48:44	
+   9	 37	 30	10/06/2017  2:28:30 PM	  0:28:10	
+  10	 90	 90	10/06/2017  3:31:33 PM	  1:03:03	
+  11	 20	 20	10/06/2017  4:13:11 PM	  0:41:38	
+  12	 29	 20	10/06/2017  4:29:03 PM	  0:15:52	
+  13	 29		10/06/2017  4:29:02 PM	         	 Punch  50 replaced by Group 29. Punched on Line 12
+  14	106		10/06/2017  4:32:44 PM	  0:03:42	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:32:44 PM
+Time on course   5:32:44
+
+
+  480	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

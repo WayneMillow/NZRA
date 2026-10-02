@@ -1,0 +1,34 @@
+Team No. 77	Tag ID = AHAY   Tags=0016	Course 06 hour
+Punch Drunk: Stephanie Woods, Douglas Woods
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026  9:52:08 am	         	BRIEFING. Score reset.
+   2	  40 	40	31/01/2026 10:10:19 am	  0:10:19	
+   3	  62 	60	31/01/2026 10:34:54 am	  0:24:35	
+   4	 100 	100	31/01/2026 10:59:55 am	  0:25:01	
+   5	  92 	90	31/01/2026 11:46:57 am	  0:47:02	
+   6	  54 	50	31/01/2026 12:11:56 pm	  0:24:59	
+   7	  93 	90	31/01/2026 12:34:25 pm	  0:22:29	
+   8	  83 	80	31/01/2026  1:06:20 pm	  0:31:55	
+   9	 101 	100	31/01/2026  1:58:32 pm	  0:52:12	
+  10	  94 	90	31/01/2026  2:32:00 pm	  0:33:28	
+  11	  34 	30	31/01/2026  2:46:13 pm	  0:14:13	
+  12	  84 	80	31/01/2026  2:58:30 pm	  0:12:17	
+  13	  24 	20	31/01/2026  3:13:27 pm	  0:14:57	
+  14	  74 	70	31/01/2026  3:29:03 pm	  0:15:36	
+  15	  30 	30	31/01/2026  3:56:28 pm	  0:27:25	
+  16	  18 		31/01/2026  4:01:00 pm	  0:04:32	FINISH TIME.
+END
+	AddedPunch44	40
+
+
+Recognised finish time 31/01/2026  4:01:00 pm
+Time on course   6:01:00
+
+
+  970	Points Scored.
+  -15	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 955

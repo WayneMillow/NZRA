@@ -1,0 +1,34 @@
+Team No. 41	Tag ID = ALAV   Tags=0017	Course 
+Tim Sikma, Clare McLennan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		 2/12/2007  8:10:05 AM 	         	     Test tag.
+   2	 13		 2/12/2007  8:53:40 AM 	         	BRIEFING. Score reset.
+   3	 46	 40	 2/12/2007  9:15:04 AM 	  0:15:04	
+   4	 60	 60	 2/12/2007  9:48:26 AM 	  0:33:22	
+   5	 62	 60	 2/12/2007 10:11:05 AM	  0:22:39	
+   6	 40	 40	 2/12/2007 10:28:29 AM	  0:17:24	
+   7	 90	 90	 2/12/2007 10:51:35 AM	  0:23:06	
+   8	 61	 60	 2/12/2007 11:12:27 AM	  0:20:52	
+   9	 93	 90	 2/12/2007 11:51:26 AM	  0:38:59	
+  10	100	100	 2/12/2007 12:44:28 PM	  0:53:02	
+  11	 81	 80	 2/12/2007 12:59:45 PM	  0:15:17	
+  12	 71	 70	 2/12/2007  1:12:47 PM 	  0:13:02	
+  13	 31	 30	 2/12/2007  1:32:40 PM 	  0:19:53	
+  14	 23	 20	 2/12/2007  2:21:37 PM 	  0:48:57	
+  15	 64	 60	 2/12/2007  2:39:51 PM 	  0:18:14	
+  16	 83	 80	 2/12/2007  3:12:29 PM 	  0:32:38	
+  17	 16		 2/12/2007  3:36:54 PM 	  0:24:25	FINISH TIME.
+END
+
+
+Recognised finish time  2/12/2007  3:36:54 PM 
+Time on course   6:36:54
+
+
+  880	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 880

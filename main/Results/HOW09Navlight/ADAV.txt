@@ -1,0 +1,28 @@
+Team No. 37	Tag ID = ADAV   Tags=0011	Course 12hr
+Calvyn Clark, Dianne Phillips
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009  8:10:10 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009  9:20:57 AM 	  0:15:57	
+   3	 33	 30	 4/07/2009  9:44:50 AM 	  0:23:53	
+   4	 81	 80	 4/07/2009 10:40:06 AM	  0:55:16	
+   5	 62	 60	 4/07/2009  1:04:14 PM 	  2:24:08	
+   6	 78	 70	 4/07/2009  1:54:49 PM 	  0:50:35	
+   7	 55	 50	 4/07/2009  2:26:33 PM 	  0:31:44	
+   8	 61	 60	 4/07/2009  4:18:16 PM 	  1:51:43	
+   9	 44	 40	 4/07/2009  5:29:59 PM 	  1:11:43	
+  10	 54	 50	 4/07/2009  6:03:09 PM 	  0:33:10	
+  11	105		 4/07/2009  8:01:07 PM 	  1:57:58	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  8:01:07 PM 
+Time on course  10:56:07
+
+
+  460	Points Scored.
+  270	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

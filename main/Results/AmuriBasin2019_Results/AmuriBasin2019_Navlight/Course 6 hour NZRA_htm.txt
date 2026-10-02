@@ -1,0 +1,62 @@
+ 1	12	TnT (Tane Cambridge, Tim Farrant.)	   5:43:45	2400	MO1
+ 2	35	The Gorse Appreciation Club (Dave Quested, Darron Jones.)	   5:53:28	2400	MO2
+ 3	11	Tiki Tour (Struan Webb, George Lucas.)	   5:58:11	2240	MO3
+ 4	61	Looks Right (Tim Wright, Martin Lukes.)	   5:59:03	2010	MV1
+ 5	65	Final test before marriage (Rhys John, Jennifer Walker.)	   5:27:58	1990	XO1
+ 6	29	Crossing Peaks (Jake Vargo, Hayley Richards, Alistair Bird, Sam Bell.)	   5:50:56	1850	XO2
+ 7	54	Perambulating (Tobi Wulff, John Montgomery.)	   5:40:51	1750	MO4
+ 8	59	Triple A (Alistar Adams, Aliesha Pile.)	   5:54:41	1720	XO3
+ 9	39	Checkpoint Charlie's Cheviot4Sq (Kerry Tull, Monty Montgomery.)	   5:43:40	1660	MO5
+ 10	45	Compass Challenged (David Ruddenklau, Matthew Hall.)	   5:37:44	1640	MO6
+ 11	16	Old Fellas (Dave Armstrong, Guy de Lacey.)	   5:46:27	1640	MV2
+ 12	31	Learning to Fly (Mike Robins, Ian Walsh.)	   5:49:57	1630	MO7
+ 13	21	MLT (Lauren Fearnley, Tania Ross, Mitch Fearnley.)	   5:56:24	1630	XO4
+ 14	66	CIC Financial (Nathan Hay, Kieran Sutherland.)	   5:54:34	1620	MO8
+ 15	28	Waihora Wombles (Nathan Welch, David Bailey, Jamie Wallace.)	   5:47:20	1600	MV3
+ 16	47	Spring Ducklings (Nicole Symons, Kat Reynolds.)	   5:50:21	1580	WO1
+ 17	30	Blind leading the blind (Lottie Armstrong, Chris Greenan.)	   5:57:55	1570	XO5
+ 18	71	STAC (Tom Wells, Henry Spark, Ayrton Shadbolt.)	   5:59:44	1500	MJ1
+ 19	15	Baker's Dozen (Viv Prince, Emma de Lacey, Josie Boland.)	   5:55:20	1460	WV1
+ 20	7	Rock Hounders (Kim Whitman, Paul Whitman.)	   5:56:20	1430	XV1
+ 21	55	The Spitting Lamas (Josie Parkinson-Cribb, Jenna Hughes-Games.)	   5:41:25	1420	WO2
+ 22	34	Run Fast (nick burson, Mark Smith, Phil stevenson.)	   5:56:38	1330	MO9
+ 23	70	Totara Takes The Hills (Emma Rudge, Charlotte Skelton.)	   6:00:13	1310( 20)	WO3
+ 24	9	Bee team (John West, Monika Bratownik, Jonathan Carr, Emma Rogers.)	   6:06:32	1290( 140)	XO6
+ 25	19	Not over the hill yet (Els Coster, Rachel Simons, Brian Wilson.)	   5:57:11	1260	XV2
+ 26	32	Team Danger (Joanna Dangerfield, Liam Dangerfield.)	   5:47:30	1240	XO7
+ 27	3	Juiced in Time (Angela Romano, Janine Romano, Fiona Vetcher.)	   5:49:30	1240	WV2
+ 28	10	Can Breathe (Kevin Holland, Shane Fellows.)	   5:48:28	1230	MV4
+ 29	25	Gin'll fix it (Karen Gray, Justine schroder, Emma Bradley.)	   5:48:32	1190	WV3
+ 30	52	Reds Revenge (Mark Flintoft, Amy Streebola.)	   5:52:24	1190	XV3
+ 31	1	Let's Wander Together (Liz Millow, Trevor Merrifield, Wayne Millow.)	   5:54:05	1160	XV4
+ 32	8	Two Wines and a Cider (Michelle Spencer, Maria Adams, Emma Fissenden.)	   5:36:48	1150	WO4
+ 33	60	Two lost souls (Lee Robertson, Rebecca Redmond.)	   5:34:59	1130	WV4
+ 34	18	Mac and Tonic (Nic Hardaker, Tony Munnerley, Alison MacDonald.)	   5:43:04	1130	XV5
+ 35	17	Spinning Compass (Matt Stewart, Todd Kraiger.)	   5:53:46	1100	MV5
+ 36	50	Woop Woop (Catherine Low, Ahmad Abu-Aysha.)	   5:26:01	1090	XO8
+ 37	46	Apple Pi (Sandra Appleby, Martin Cleland.)	   6:03:17	1080( 80)	XV6
+ 38	57	robbed and shorn (Shawn Richards, Robert Phillips.)	   5:01:23	1070	MO10
+ 39	20	The Oldies (Bill Kennedy, Anne Kennedy, Peter Squires.)	   5:46:11	1070	XV7
+ 40	49	After Shockers (Dee Guthrie, Jason Rentoul.)	   5:41:53	1060	XO9
+ 41	48	Just Coasting (Janelle Trounson, Jules Watts.)	   6:01:21	1030( 40)	WO5
+ 42	4	Skeleton Crew (Ashley Windsor, Helen Nugteren.)	   5:51:51	960	XV8
+ 43	37	Shamus Thorney Cox (Craig Cox, Shane Horgan, Paul Thornley.)	   6:01:39	960( 40)	MV6
+ 44	38	Rewired 2.0 (Grant MacDonald, Hans Andersen.)	   6:01:15	950( 40)	MV7
+ 45	13	Amuri Warriors (Kristen Diederich, Olivia Rutherford, Kiley Bailey.)	   6:17:41	950( 360)	WO6
+ 46	27	911 (nerida manson, Sarah mcleod.)	   5:52:32	920	WV5
+ 47	43	Blister Sisters (Angela Powell, Kay Nelson, Martine Cooper.)	   5:43:09	910	WV6
+ 48	62	Do it for the gram. (Sara Smith, Beth Jagusch.)	   5:33:26	880	WO7
+ 49	44	Just the Two of Us (Jane Melville, Janene Sandford.)	   5:48:36	840	WV7
+ 50	5	Chafing the dream (Rebecca Dondertman, Annalese Lissingtom, Sacha Mcdougall.)	   5:33:46	800	WO8
+ 51	26	Never too late (Corry Scrivener, Wendy Stewart, Chris Dixon.)	   5:53:31	730	WV8
+ 52	67	She be coming around the mountai (Michelle Clyne, Sandi Wood, Karla Poyner.)	   5:32:08	710	WV9
+ 53	36	Three Wise Women (Helen Rouse, Raewyn Moss, Christina Robb.)	   5:44:48	670	WV10
+ 54	41	One Direction (Richard McIntosh, Karen Muller.)	   6:23:09	620( 480)	XV9
+ 55	53	Sweet Cheeks (Natalie McLaughan, Yo Gulliver, Jo James.)	   4:51:41	530	WV11
+ 56	6	Chafing the dream (Michelle Anderson, Annabel Crozier, Kristina townsend.)	   4:22:37	520	WO9
+ 57	2	Muscles   Mascara (Juanita VASZILYKO, Stacey Cowan.)	   5:55:21	510	WO10
+ 58	58	Rogaining Rookies (Roger Williams, Rebecca Mansfield, John Taggart, Julia Smedley.)	   5:59:10	490	XV10
+ 59	64	Caffeine Aftershocks (Kelly Ashley, Shane Ashley.)	   6:04:18	490( 100)	XV11
+ 60	63	Further Faster (Julie-Anne Christy, Senka Radonich.)	   5:44:12	450	WO11
+ 61	42	K   C smashing it (Kristal Richards, Campbell Crimp.)	   5:27:03	440	XO10
+ 62	51	Special Ks (Ruth Knewstubb, Andrew Knewstubb.)	   4:43:58	230	FO1

@@ -1,0 +1,27 @@
+Team No. 647	Tag ID = AZAX   Tags=0010	Course 6_HoW
+Karen McCall, Lee-Ann Grosvenor and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:37:10 AM	         	BRIEFING. Score reset.
+   2	 36	 30	26/06/2010 11:13:17 AM	  0:13:17	 Punch  02 replaced by Group 36.
+   3	 94	 90	26/06/2010 11:35:01 AM	  0:21:44	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 32	 30	26/06/2010 12:24:32 PM	  1:15:33	
+   6	 37	 30	24/06/2010  7:23:46 PM 	         	1.65  Days early.
+   7	 76	 70	26/06/2010  1:35:11 PM 	  1:10:39	
+   8	 84	 80	26/06/2010  3:47:36 PM 	  2:12:25	
+   9	 45	 40	26/06/2010  4:06:16 PM 	  0:18:40	
+  10	 15		26/06/2010  4:38:39 PM 	  0:32:23	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:38:39 PM 
+Time on course   5:38:39
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

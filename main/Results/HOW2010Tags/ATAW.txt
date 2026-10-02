@@ -1,0 +1,24 @@
+Team No. 623	Tag ID = ATAW   Tags=0006	Course 6_HoW
+Kelby Rogers, Victoria Rogers
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:36:01 AM	         	BRIEFING. Score reset.
+   2	 89	 80	26/06/2010 11:52:29 AM	  0:52:29	
+   3	 74	 70	26/06/2010 11:15:32 AM	         	Split time negative.
+   4	 54	 50	26/06/2010  2:52:56 PM 	  3:37:24	
+   5	 73	 70	26/06/2010  4:00:42 PM 	  1:07:46	
+   6	 17		26/06/2010  5:05:36 PM 	  1:04:54	FINISH TIME.
+END
+	AddedPunch63	60
+
+
+Recognised finish time 26/06/2010  5:05:36 PM 
+Time on course   6:05:36
+
+
+  330	Points Scored.
+   60	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 270

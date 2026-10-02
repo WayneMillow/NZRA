@@ -1,0 +1,32 @@
+Team No. 542	Tag ID = AXBA   Tags=0015	Course 10hr
+Hard as Concrete: Iain Miller, Rex Williams
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013  9:15:15 AM 	         	BRIEFING. Score reset.
+   2	 53	 50	 8/06/2013  9:56:09 AM 	  0:40:54	
+   3	 44	 40	 8/06/2013 10:10:10 AM	  0:14:01	
+   4	 86	 80	 8/06/2013 10:24:56 AM	  0:14:46	
+   5	 68	 60	 8/06/2013 10:49:12 AM	  0:24:16	
+   6	 77	 70	 8/06/2013 11:11:45 AM	  0:22:33	
+   7	 34	 30	 8/06/2013 11:34:17 AM	  0:22:32	
+   8	 78	 70	 8/06/2013 12:15:01 PM	  0:40:44	
+   9	 32	 30	 8/06/2013 12:47:20 PM	  0:32:19	
+  10	 96	 90	 8/06/2013  1:02:12 PM 	  0:14:52	
+  11	 50	 50	 8/06/2013  1:23:36 PM 	  0:21:24	
+  12	 87	 80	 8/06/2013  1:45:50 PM 	  0:22:14	
+  13	 69	 60	 8/06/2013  2:08:19 PM 	  0:22:29	
+  14	101	100	 8/06/2013  2:28:04 PM 	  0:19:45	
+  15	 13		 8/06/2013  3:55:54 PM 	  1:27:50	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:55:54 PM 
+Time on course   6:50:54
+
+
+  810	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 810

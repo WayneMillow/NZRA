@@ -1,0 +1,33 @@
+Team No. 102	Tag ID = AHBA   Tags=0014	Course 12hr
+The Wiz Kids: Liz Millow, Wayne Millow
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 		 1/07/2023  9:09:37 AM	  0:09:37	No BRIEF Punch. No score.
+   2	  40 	   40	 1/07/2023  9:31:07 AM	  0:21:30	
+   3	  63 	   60	 1/07/2023 10:39:28 AM	  1:08:21	
+   4	  42 	   40	 1/07/2023 10:55:41 AM	  0:16:13	
+   5	  22 	   20	 1/07/2023 11:46:15 AM	  0:50:34	
+   6	  91 	   90	 1/07/2023 12:05:00 PM	  0:18:45	
+   7	  72 	   70	 1/07/2023  1:05:26 PM	  1:00:26	
+   8	  73 	   70	 1/07/2023  1:45:10 PM	  0:39:44	
+   9	 103 	  100	 1/07/2023  2:12:17 PM	  0:27:07	
+  10	  58 	   50	 1/07/2023  3:15:01 PM	  1:02:44	
+  11	  77 	   70	 1/07/2023  4:01:07 PM	  0:46:06	
+  12	  45 	   40	 1/07/2023  5:02:00 PM	  1:00:53	
+  13	  34 	   30	 1/07/2023  7:43:21 PM	  2:41:21	
+  14	  18 		 1/07/2023  8:53:02 PM	  1:09:41	FINISH TIME.
+END
+	AddedPunch48	40
+	AddedPunch64	60
+
+
+Recognised finish time  1/07/2023  8:53:02 PM
+Time on course  11:53:02
+
+
+  780	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

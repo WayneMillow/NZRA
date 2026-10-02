@@ -1,0 +1,35 @@
+Team No. 340	Tag ID = AMAW   Tags=0032	Course 6hrA
+Peggy squares: Kate Rattray, Sheryl Fraser and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  15	  10 		 4/07/2020  8:52:52 AM	         	BRIEFING. Score reset.
+  16	  56 	   50	 4/07/2020  9:09:58 AM	  0:09:58	
+  17	  25 	   20	 4/07/2020  9:12:37 AM	  0:02:39	
+  18	  31 	   30	 4/07/2020  9:27:23 AM	  0:14:46	
+  19	 105 	  100	 4/07/2020  9:32:42 AM	  0:05:19	
+  20	  28 	   20	 4/07/2020  9:46:44 AM	  0:14:02	
+  21	  15 	   10	 4/07/2020  9:53:01 AM	  0:06:17	
+  22	  74 	   70	 4/07/2020 10:08:24 AM	  0:15:23	
+  23	  71 	   70	 4/07/2020 10:30:05 AM	  0:21:41	
+  24	  52 	   50	 4/07/2020 10:42:59 AM	  0:12:54	
+  25	  59 	   50	 4/07/2020 11:00:42 AM	  0:17:43	
+  26	  58 	   50	 4/07/2020 11:29:46 AM	  0:29:04	
+  27	  90 	   90	 4/07/2020 12:25:18 PM	  0:55:32	
+  28	 107 	  100	26/01/2021  8:04:10 AM	939:38:52	After course closure.
+  29	  50 	   50	 4/07/2020  1:24:35 PM	         	Split time negative.
+  30	  45 	   40	 4/07/2020  1:52:49 PM	  0:28:14	
+  31	  37 	   30	 4/07/2020  2:09:11 PM	  0:16:22	
+  32	  14 		 4/07/2020  2:57:52 PM	  0:48:41	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  2:57:52 PM
+Time on course   5:57:52
+
+
+  830	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 830

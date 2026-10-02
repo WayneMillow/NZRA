@@ -1,0 +1,28 @@
+Team No. 643	Tag ID = AJDJ   Tags=0011	Course 6hr
+Time Travellers: Nadia Mcgeachen, Harriet Sanders
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	108		 8/06/2013 10:25:57 AM	         	BRIEFING. Score reset.
+   3	 21	 20	 8/06/2013 10:33:47 AM	  0:04:47	
+   4	 86	 80	 8/06/2013 11:24:36 AM	  0:50:49	
+   5	 68	 60	 8/06/2013 11:48:09 AM	  0:23:33	
+   6	101	100	 8/06/2013  1:20:31 PM 	  1:32:22	
+   7	 43	 40	 8/06/2013  1:47:22 PM 	  0:26:51	
+   8	 25	 20	 8/06/2013  2:27:52 PM 	  0:40:30	
+   9	 26	 20	 8/06/2013  3:34:15 PM 	  1:06:23	
+  10	 53	 50	 8/06/2013  3:56:29 PM 	  0:22:14	
+  11	 15		 8/06/2013  4:13:23 PM 	  0:16:54	FINISH TIME.
+END
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:13:23 PM 
+Time on course   5:44:23
+
+
+  470	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

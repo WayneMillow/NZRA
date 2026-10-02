@@ -1,0 +1,32 @@
+Team No. 91	Tag ID = AMAZ   Tags=0015	Course 12hr
+Kerry Mulligan, Amber Sinton and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  8:09:55 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009  9:14:02 AM 	  0:09:02	
+   3	 65	 60	 4/07/2009  9:42:19 AM 	  0:28:17	
+   4	 25	 20	 4/07/2009  9:55:28 AM 	  0:13:09	
+   5	 66	 60	 4/07/2009 10:19:08 AM	  0:23:40	
+   6	 58	 50	 4/07/2009 10:45:44 AM	  0:26:36	
+   7	 26	 20	 4/07/2009 11:11:34 AM	  0:25:50	
+   8	 46	 40	 4/07/2009 11:36:47 AM	  0:25:13	
+   9	 73	 70	 4/07/2009 12:34:12 PM	  0:57:25	
+  10	 63	 60	 4/07/2009  2:44:10 PM 	  2:09:58	
+  11	 11	 10	 4/07/2009  3:24:36 PM 	  0:40:26	
+  12	 38	 30	 4/07/2009  4:04:36 PM 	  0:40:00	
+  13	 57	 50	 4/07/2009  4:32:44 PM 	  0:28:08	
+  14	 47	 40	 4/07/2009  5:02:21 PM 	  0:29:37	
+  15	106		 4/07/2009  7:14:52 PM 	  2:12:31	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  7:14:52 PM 
+Time on course  10:09:52
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

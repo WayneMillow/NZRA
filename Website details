@@ -1,0 +1,60 @@
+Dear Mr. Wayne Millow,
+Thank you for your order #84896 rogaine.org.nz. 
+Please print this email as it contains information you may need for future reference.
+YOUR WEBSITE CONTROL PANEL 
+------------------------------------------------------------------------------------------------------- 
+Your Control Panel allows you to manage all aspects of your new hosting account. 
+In order to manage your subscription, please use your web browser and go to:
+http://www.mycp.co.nz 
+Username: wayne.millow@gmail.com 
+Password: The password you used when creating your account.
+You can recover your password by visiting https://hspc.openhost.net.nz/cp/login.cgi/act,remind
+Once you have logged onto your control panel, you can manage your hosting subscription by choosing the subscription in the drop-down box. (Top-Right Corner of the screen).
+(Please note: FTP and Email information below does not apply to database-only plans.)
+YOUR FTP DETAILS 
+------------------------------------------------------------------------------------------------------- 
+FTP allows you to move your files from you computer to your website account..
+
+
+Please use the following information
+
+Domain name: rogaine.org.nz
+FTP Host: rogaine.org.nz 
+FTP Alternate Host: 112.109.81.140
+FTP login: zrogaine36416nz
+FTP and Domain password: **********
+FTP SERVER PATH
+Please upload your files and folders to: /httpdocs
+If you have HTTPS configured, please upload your files to: /httpsdocs
+If your domain's DNS has not propagated and you wish to use FTP you can identify your hosting IP address by logging onto your control panel and choose your hosting plan from the Subscription drop down box (top right). Under the Hosting section you will see an IP address - 112.109.81.140 - you can then use this IP address in place of a FTP server name. You can also preview your website prior to DNS propagation by clicking on the "Site Preview" button from your control panel
+EMAIL SETUP 
+-------------------------------------------------------------------------------------------------------
+Please see the following article to create email addresses in your hosting control panel:
+Create email address in hosting control panel.
+Following article shows you the settings on collecting your mail on your computer:
+Settings on collecting your mail on your computer.
+Please see the following articles on setting up your computer to receive emails:
+Outlook 2010 - if you have Outlook installed.
+Apple Mail - if you have Apple Mail.
+Thunderbird - if you have Thunderbird
+WEBMAIL ACCESS 
+------------------------------------------------------------------------------------------------------- 
+Webmail is enabled and accessible at the following address.
+http://webmail.rogaine.org.nz
+DNS INFORMATION 
+------------------------------------------------------------------------------------------------------- 
+If you have chosen to update your domains name servers outside of OpenHost, please 
+use the following Name Servers for your domain 
+
+ns1.openhost.net.nz 
+ns2.openhost.net.nz
+ns3.openhost.net.nz
+SUPPORT 
+------------------------------------------------------------------------------------------------------- 
+We have answers to all of the most frequently asked questions on our support website. 
+Our support site knowlegebase is updated continual basis and is very easy to use.
+Please visit http://support.openhost.co.nz
+Our support website also allows you to create trackable "Trouble Tickets" -- This is often 
+the fastest and easiest way to resolve an issue.
+Thank you for choosing OpenHost.
+------------------------------- 

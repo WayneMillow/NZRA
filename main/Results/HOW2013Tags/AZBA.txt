@@ -1,0 +1,37 @@
+Team No. 543	Tag ID = AZBA   Tags=0018	Course 6hr
+The Howlings: Rob Howell, Nicky Page
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 10:15:10 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:32:22 AM	  0:03:22	
+   3	 49	 40	 8/06/2013 10:43:19 AM	  0:10:57	 Punch  12 replaced by Group 49.
+   4	 67	 60	 8/06/2013 10:53:56 AM	  0:10:37	
+   5	 30	 30	 8/06/2013 11:30:59 AM	  0:37:03	
+   6	 53	 50	 8/06/2013 11:44:11 AM	  0:13:12	
+   7	 99	 90	 8/06/2013 12:16:51 PM	  0:32:40	
+   8	 62	 60	 8/06/2013 12:42:38 PM	  0:25:47	
+   9	 25	 20	 8/06/2013  1:21:14 PM 	  0:38:36	
+  10	 43	 40	 8/06/2013  1:38:13 PM 	  0:16:59	
+  11	101	100	 8/06/2013  1:52:10 PM 	  0:13:57	
+  12	 34	 30	 8/06/2013  2:13:12 PM 	  0:21:02	
+  13	 77	 70	 8/06/2013  2:29:21 PM 	  0:16:09	
+  14	 68	 60	 8/06/2013  2:54:19 PM 	  0:24:58	
+  15	 20	 20	 8/06/2013  3:23:16 PM 	  0:28:57	
+  16	 76	 70	 8/06/2013  3:35:16 PM 	  0:12:00	
+  17	 58	 50	 8/06/2013  3:52:54 PM 	  0:17:38	
+  18	 13		 8/06/2013  4:25:43 PM 	  0:32:49	FINISH TIME.
+END
+	AddedPunch94	90
+	AddedPunch80	80
+
+
+Recognised finish time  8/06/2013  4:25:43 PM 
+Time on course   5:56:43
+
+
+  980	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 980

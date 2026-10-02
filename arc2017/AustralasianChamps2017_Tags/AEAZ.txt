@@ -1,0 +1,29 @@
+Team No. 172	Tag ID = AEAZ   Tags=0012	Course 7hr
+Are we there yet?: Rebecca Ruddenklau (NZL), Amy Winter (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  106		11/02/2017 10:41:57 AM	         	BRIEFING. Score reset.
+   2	  310	   30	11/02/2017 11:11:33 AM	  0:11:33	
+   3	  406	   40	11/02/2017 11:37:40 AM	  0:26:07	
+   4	  507	   50	11/02/2017 12:01:34 PM	  0:23:54	
+   5	  403	   40	11/02/2017  1:35:09 PM	  1:33:35	
+   6	  512	   50	11/02/2017  2:10:22 PM	  0:35:13	
+   7	  705	   70	11/02/2017  2:51:03 PM	  0:40:41	
+   8	  314	   30	11/02/2017  3:15:02 PM	  0:23:59	
+   9	  708	   70	11/02/2017  4:00:00 PM	  0:44:58	
+  10	  400	   40	11/02/2017  4:21:31 PM	  0:21:31	
+  11	  205	   20	11/02/2017  4:57:52 PM	  0:36:21	
+  12	  109		11/02/2017  5:54:06 PM	  0:56:14	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  5:54:06 PM
+Time on course   6:54:06
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

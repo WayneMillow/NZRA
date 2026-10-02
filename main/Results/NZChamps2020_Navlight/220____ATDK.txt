@@ -1,0 +1,30 @@
+Team No. 220	Tag ID = ATDK   Tags=0013	Course 6 hour
+Duncans team: Duncan Rutherford, Kevin Oneill
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:37:16 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:08:40 PM	  0:08:40	
+   3	  39 	   30	 7/11/2020  1:26:03 PM	  0:17:23	
+   4	  34 	   30	 7/11/2020  2:01:21 PM	  0:35:18	
+   5	 107 	  100	 7/11/2020  2:37:42 PM	  0:36:21	
+   6	  85 	   80	 7/11/2020  3:07:52 PM	  0:30:10	
+   7	  45 	   40	 7/11/2020  3:28:11 PM	  0:20:19	
+   8	  74 	   70	 7/11/2020  3:51:07 PM	  0:22:56	
+   9	  83 	   80	 7/11/2020  4:11:51 PM	  0:20:44	
+  10	  44 	   40	 7/11/2020  5:29:45 PM	  1:17:54	
+  11	 104 	  100	 7/11/2020  5:50:10 PM	  0:20:25	
+  12	  87 	   80	 7/11/2020  6:23:15 PM	  0:33:05	
+  13	  18 		 7/11/2020  6:53:43 PM	  0:30:28	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:53:43 PM
+Time on course   5:53:43
+
+
+  670	Points Scored.
+     	No Time Penalty.
+70	Manual adjustment.
+
+
+FINAL SCORE = 740

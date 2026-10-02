@@ -1,0 +1,30 @@
+Team No. 548	Tag ID = AKBB   Tags=0013	Course 6hr
+The Chances; Fat, Slim, Last & No: Mary-ann O'brien, Patrick O'brien, Lynda Rossiter, Trevor Rossiter
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:17:01 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:41:16 AM	  0:12:16	 Punch  10 replaced by Group 58.
+   3	 75	 70	 8/06/2013 12:08:37 PM	  1:27:21	
+   4	 28	 20	 8/06/2013 12:30:33 PM	  0:21:56	
+   5	 39	 30	 8/06/2013 12:50:52 PM	  0:20:19	
+   6	101	100	 8/06/2013  1:49:17 PM 	  0:58:25	
+   7	 77	 70	 8/06/2013  2:34:29 PM 	  0:45:12	
+   8	 77		 8/06/2013  2:34:43 PM 	  0:00:14	     Punched on Line 7
+   9	 68	 60	 8/06/2013  2:56:07 PM 	  0:21:24	
+  10	 86	 80	 8/06/2013  3:21:59 PM 	  0:25:52	
+  11	 44	 40	 8/06/2013  3:46:53 PM 	  0:24:54	
+  12	 53	 50	 8/06/2013  4:03:01 PM 	  0:16:08	
+  13	 14		 8/06/2013  4:22:59 PM 	  0:19:58	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:22:59 PM 
+Time on course   5:53:59
+
+
+  570	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 570

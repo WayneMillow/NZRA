@@ -1,0 +1,28 @@
+Team No. 263	Tag ID = AYDO   Tags=0011	Course 1.5 hour
+Joppstars: Macey Jopp, Kate Jopp and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:45:14 PM	         	BRIEFING. Score reset.
+   2	  26 	   20	 7/07/2019  1:01:41 PM	  0:01:41	
+   3	  51 	   50	 7/07/2019  1:10:18 PM	  0:08:37	
+   4	  23 	   20	 7/07/2019  1:20:25 PM	  0:10:07	
+   5	  33 	   30	 7/07/2019  1:31:41 PM	  0:11:16	
+   6	  73 	   70	 7/07/2019  1:43:38 PM	  0:11:57	
+   7	  31 	   30	 7/07/2019  1:53:44 PM	  0:10:06	
+   8	  47 	   40	 7/07/2019  2:06:16 PM	  0:12:32	
+   9	  21 	   20	 7/07/2019  2:12:06 PM	  0:05:50	
+  10	  22 	   20	 7/07/2019  2:20:46 PM	  0:08:40	
+  11	  16 		 7/07/2019  2:23:35 PM	  0:02:49	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:23:35 PM
+Time on course   1:23:35
+
+
+  300	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 300

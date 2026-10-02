@@ -1,0 +1,25 @@
+Team No. 106	Tag ID = AMHC   Tags=0008	Course 03 hour
+La Foxes: Alexander Wright, Griffin de Lange and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026 10:47:31 am	         	BRIEFING. Score reset.
+   2	  30 	30	31/01/2026 11:20:07 am	  0:20:07	
+   3	  34 	30	31/01/2026 11:46:25 am	  0:26:18	
+   4	  84 	80	31/01/2026 11:57:29 am	  0:11:04	
+   5	  24 	20	31/01/2026 12:35:28 pm	  0:37:59	
+   6	  74 	70	31/01/2026 12:49:12 pm	  0:13:44	
+   7	  31 	20	31/01/2026  1:05:07 pm	  0:15:55	
+   8	  19 		31/01/2026  1:50:33 pm	  0:45:26	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  1:50:33 pm
+Time on course   2:50:33
+
+
+  250	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 250

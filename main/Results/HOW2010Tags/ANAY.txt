@@ -1,0 +1,36 @@
+Team No. 657	Tag ID = ANAY   Tags=0019	Course 6_HoW
+Lucie Urbancova, Mary Craig
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:49:07 AM	         	BRIEFING. Score reset.
+   2	 46	 40	26/06/2010 11:11:18 AM	  0:11:18	
+   3	 94	 90	26/06/2010 11:20:28 AM	  0:09:10	 Punch  05 replaced by Group 94.
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 32	 30	26/06/2010 11:43:48 AM	  0:34:49	
+   6	 37	 30	24/06/2010  6:33:40 PM 	         	1.685 Days early.
+   7	 76	 70	26/06/2010 12:23:02 PM	  0:39:14	 Punch  04 replaced by Group 76.
+   8	102	100	26/06/2010  1:38:42 PM 	  1:15:40	
+   9	 77	 70	26/06/2010  1:54:54 PM 	  0:16:12	
+  10	 85	 80	26/06/2010  2:22:02 PM 	  0:27:08	
+  11	 66	 60	26/06/2010  2:35:22 PM 	  0:13:20	
+  12	 75	 70	26/06/2010  2:48:44 PM 	  0:13:22	
+  13	 93	 90	26/06/2010  3:05:26 PM 	  0:16:42	
+  14	 89	 80	26/06/2010  3:33:57 PM 	  0:28:31	
+  15	 34	 30	26/06/2010  3:47:51 PM 	  0:13:54	
+  16	 56	 50	26/06/2010  3:56:31 PM 	  0:08:40	
+  17	 84	 80	26/06/2010  4:11:18 PM 	  0:14:47	
+  18	 45	 40	26/06/2010  4:21:56 PM 	  0:10:38	
+  19	 18		26/06/2010  4:47:46 PM 	  0:25:50	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:47:46 PM 
+Time on course   5:47:46
+
+
+ 1060	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1060

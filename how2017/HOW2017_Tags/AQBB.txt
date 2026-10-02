@@ -1,0 +1,31 @@
+Team No. 2197	Tag ID = AQBB   Tags=0014	Course 6Hr
+Wallflowers: Frances Wall, David Wall
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:43:34 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:04:34 AM	  0:04:34	 Punch  11 replaced by Group 27.
+   3	 21	 20	10/06/2017 11:13:29 AM	  0:08:55	
+   4	 22	 20	10/06/2017 11:30:54 AM	  0:17:25	
+   5	 24	 20	10/06/2017 12:10:12 PM	  0:39:18	
+   6	 33	 30	10/06/2017 12:58:22 PM	  0:48:10	
+   7	 55	 50	10/06/2017  1:17:12 PM	  0:18:50	
+   8	102	100	10/06/2017  1:43:33 PM	  0:26:21	
+   9	 45	 40	10/06/2017  2:37:35 PM	  0:54:02	
+  10	103	100	10/06/2017  3:06:45 PM	  0:29:10	
+  11	 65	 60	10/06/2017  3:45:23 PM	  0:38:38	
+  12	 47	 40	10/06/2017  4:12:53 PM	  0:27:30	
+  13	 83	 80	10/06/2017  4:34:48 PM	  0:21:55	
+  14	106		10/06/2017  5:29:43 PM	  0:54:55	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:29:43 PM
+Time on course   6:29:43
+
+
+  580	Points Scored.
+ -300	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

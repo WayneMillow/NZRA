@@ -1,0 +1,26 @@
+Team No. 96	Tag ID = AVAZ   Tags=0010	Course 6hr
+Charlotte Hall, Ronnie Williamson
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 15		 4/07/2009  9:59:02 AM 	         	BRIEFING. Score reset.
+   3	 21	 20	 4/07/2009 10:52:10 AM	  0:22:10	
+   4	 33	 30	 4/07/2009 11:19:45 AM	  0:27:35	
+   5	 81	 80	 4/07/2009 12:08:38 PM	  0:48:53	
+   6	 58	 50	 4/07/2009  1:07:15 PM 	  0:58:37	
+   7	 23	 20	 4/07/2009  2:13:23 PM 	  1:06:08	
+   8	 62	 60	 4/07/2009  2:32:49 PM 	  0:19:26	
+   9	 22	 20	 4/07/2009  3:08:37 PM 	  0:35:48	
+  10	105		 4/07/2009  4:33:34 PM 	  1:24:57	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:33:34 PM 
+Time on course   6:03:34
+
+
+  280	Points Scored.
+   40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 240

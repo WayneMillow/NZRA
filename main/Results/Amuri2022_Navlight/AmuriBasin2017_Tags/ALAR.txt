@@ -1,0 +1,29 @@
+Team No. 2125	Tag ID = ALAR   Tags=0012	Course 3Hr
+Active Relaxers: Katie Lucas, Sam Ward-Martin and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:53:08 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:04:55 PM	  0:04:55	
+   3	  41 	   40	 9/07/2017 12:13:27 PM	  0:08:32	
+   4	  63 	   60	 9/07/2017 12:24:35 PM	  0:11:08	
+   5	  23 	   20	 9/07/2017 12:33:42 PM	  0:09:07	
+   6	  35 	   30	 9/07/2017 12:45:57 PM	  0:12:15	
+   7	  61 	   60	 9/07/2017 12:59:12 PM	  0:13:15	
+   8	  91 	   90	 9/07/2017  1:45:10 PM	  0:45:58	
+   9	  84 	   80	 9/07/2017  2:20:41 PM	  0:35:31	
+  10	  58 	   50	 9/07/2017  2:41:01 PM	  0:20:20	
+  11	  55 	   50	 9/07/2017  2:47:19 PM	  0:06:18	
+  12	 108 		 9/07/2017  2:59:10 PM	  0:11:51	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:59:10 PM
+Time on course   2:59:10
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

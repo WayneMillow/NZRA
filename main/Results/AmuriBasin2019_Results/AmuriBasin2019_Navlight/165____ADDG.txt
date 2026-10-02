@@ -1,0 +1,29 @@
+Team No. 165	Tag ID = ADDG   Tags=0012	Course 3 hour
+The Mauraders: Emily Hodges, Andy Hodges
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:42:49 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:11:31 PM	  0:11:31	
+   3	  31 	   30	 7/07/2019 12:25:32 PM	  0:14:01	
+   4	  73 	   70	 7/07/2019 12:34:21 PM	  0:08:49	
+   5	  46 	   40	 7/07/2019 12:54:54 PM	  0:20:33	
+   6	  52 	   50	 7/07/2019  1:02:31 PM	  0:07:37	
+   7	  43 	   40	 7/07/2019  1:38:32 PM	  0:36:01	
+   8	  62 	   60	 7/07/2019  2:08:14 PM	  0:29:42	
+   9	  41 	   40	 7/07/2019  2:37:27 PM	  0:29:13	
+  10	  54 	   50	 7/07/2019  2:47:09 PM	  0:09:42	
+  11	  26 	   20	 7/07/2019  3:05:40 PM	  0:18:31	
+  12	  16 		 7/07/2019  3:10:02 PM	  0:04:22	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:10:02 PM
+Time on course   3:10:02
+
+
+  440	Points Scored.
+ -110	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 330

@@ -1,0 +1,37 @@
+Team No. 429	Tag ID = ATAR   Tags=0019	Course 6hr
+Out for a Stroll: Greg Bristow, Carol Horgan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:25:18 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:38:41 AM	  0:09:41	 Punch  10 replaced by Group 58.
+   3	 76	 70	 8/06/2013 10:57:22 AM	  0:18:41	
+   4	 66	 60	 8/06/2013 11:15:31 AM	  0:18:09	
+   5	 74	 70	 8/06/2013 11:56:11 AM	  0:40:40	
+   6	100	100	 8/06/2013 12:10:52 PM	  0:14:41	
+   7	 65	 60	 8/06/2013 12:31:30 PM	  0:20:38	
+   8	 57	 50	 8/06/2013 12:48:15 PM	  0:16:45	
+   9	 75	 70	 8/06/2013  1:03:26 PM 	  0:15:11	
+  10	 28	 20	 8/06/2013  1:23:16 PM 	  0:19:50	
+  11	 39	 30	 8/06/2013  1:33:13 PM 	  0:09:57	
+  12	 34	 30	 8/06/2013  1:48:17 PM 	  0:15:04	
+  13	 77	 70	 8/06/2013  2:07:07 PM 	  0:18:50	
+  14	 68	 60	 8/06/2013  2:37:19 PM 	  0:30:12	
+  15	 86	 80	 8/06/2013  2:58:00 PM 	  0:20:41	
+  16	 44	 40	 8/06/2013  3:16:24 PM 	  0:18:24	
+  17	 53	 50	 8/06/2013  3:44:36 PM 	  0:28:12	
+  18	 30	 30	 8/06/2013  4:01:30 PM 	  0:16:54	
+  19	 14		 8/06/2013  4:23:28 PM 	  0:21:58	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:23:28 PM 
+Time on course   5:54:28
+
+
+ 1020	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1020

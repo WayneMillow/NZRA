@@ -1,0 +1,38 @@
+Team No. 626	Tag ID = AXAW   Tags=0020	Course 6_HoW
+Greg Adams, Phil Nicholls
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 22		26/06/2010 10:37:22 AM	         	BRIEFING. Score reset.
+   2	 46	 40	26/06/2010 11:13:40 AM	  0:13:40	 Punch  03 replaced by Group 46.
+   3	 94	 90	26/06/2010 11:31:47 AM	  0:18:07	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 32	 30	26/06/2010 11:59:51 AM	  0:50:52	
+   6	 37	 30	24/06/2010  6:45:42 PM 	         	1.677 Days early.
+   7	 76	 70	26/06/2010 12:25:47 PM	  0:25:56	
+   8	 84	 80	26/06/2010 12:43:34 PM	  0:17:47	
+   9	 56	 50	26/06/2010  1:03:47 PM 	  0:20:13	
+  10	 93	 90	26/06/2010  1:24:59 PM 	  0:21:12	
+  11	 75	 70	26/06/2010  1:48:55 PM 	  0:23:56	
+  12	 43	 40	26/06/2010  2:12:40 PM 	  0:23:45	
+  13	 73	 70	26/06/2010  2:26:39 PM 	  0:13:59	
+  14	 54	 50	26/06/2010  3:06:47 PM 	  0:40:08	
+  15	 82	 80	26/06/2010  3:23:32 PM 	  0:16:45	
+  16	 74	 70	26/06/2010 11:16:26 AM	         	Split time negative.
+  17	 35	 30	26/06/2010  4:12:07 PM 	  4:55:41	
+  18	 34	 30	26/06/2010  4:29:50 PM 	  0:17:43	
+  19	 45	 40	26/06/2010  4:42:03 PM 	  0:12:13	
+  20	 18		26/06/2010  4:57:27 PM 	  0:15:24	FINISH TIME.
+END
+	AddedPunch63	60
+
+
+Recognised finish time 26/06/2010  4:57:27 PM 
+Time on course   5:57:27
+
+
+ 1070	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1070

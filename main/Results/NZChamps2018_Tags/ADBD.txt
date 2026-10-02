@@ -1,0 +1,29 @@
+Team No. 137	Tag ID = ADBD   Tags=0012	Course 6 hour
+Supercramp: Genevieve Webb (NZL), Tim Webb (NZL) and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:41:45 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	24/11/2018 12:20:25 PM	  0:20:25	
+   3	  67 	   60	24/11/2018 12:43:38 PM	  0:23:13	
+   4	  46 	   40	24/11/2018  1:06:23 PM	  0:22:45	
+   5	  75 	   70	24/11/2018  1:48:18 PM	  0:41:55	
+   6	  84 	   80	24/11/2018  2:07:36 PM	  0:19:18	
+   7	  38 	   30	24/11/2018  2:43:48 PM	  0:36:12	
+   8	  81 	   80	24/11/2018  3:16:43 PM	  0:32:55	
+   9	  77 	   70	24/11/2018  4:28:49 PM	  1:12:06	
+  10	 103 	  100	24/11/2018  5:12:19 PM	  0:43:30	
+  11	  49 	   40	24/11/2018  5:51:53 PM	  0:39:34	
+  12	  17 		24/11/2018  6:02:39 PM	  0:10:46	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  6:02:39 PM
+Time on course   6:02:39
+
+
+  600	Points Scored.
+  -60	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

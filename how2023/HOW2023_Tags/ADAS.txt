@@ -1,0 +1,28 @@
+Team No. 21	Tag ID = ADAS   Tags=0010	Course 6hr
+LAY Adventures: Yvonne Daly, Leanne Cross and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:12:18 AM	  0:12:18	
+   2	  40 	   40	 1/07/2023 11:32:07 AM	  0:19:49	
+   3	  62 	   60	 1/07/2023 11:53:14 AM	  0:21:07	
+   4	  52 	   50	 1/07/2023 12:35:48 PM	  0:42:34	
+   5	  63 	   60	 1/07/2023  1:05:58 PM	  0:30:10	
+   6	  42 	   40	 1/07/2023  1:29:48 PM	  0:23:50	
+   7	  22 	   20	 1/07/2023  2:37:03 PM	  1:07:15	
+   8	  72 	   70	 1/07/2023  3:29:26 PM	  0:52:23	
+   9	  65 	   60	 1/07/2023  4:12:20 PM	  0:42:54	
+  10	  18 		 1/07/2023  4:43:34 PM	  0:31:14	FINISH TIME.
+END
+	AddedPunch64	60
+
+
+Recognised finish time  1/07/2023  4:43:34 PM
+Time on course   5:43:34
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

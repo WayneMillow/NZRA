@@ -1,0 +1,28 @@
+Team No. 231	Tag ID = AXDP   Tags=0011	Course 6 hour
+The Wright Family: Tim Wright, Anna Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 12:05:02 PM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:13:18 PM	  0:13:18	
+   3	  39 	   30	 7/11/2020  1:36:57 PM	  0:23:39	
+   4	 107 	  100	 7/11/2020  2:46:07 PM	  1:09:10	
+   5	  85 	   80	 7/11/2020  3:34:05 PM	  0:47:58	
+   6	  45 	   40	 7/11/2020  4:01:33 PM	  0:27:28	
+   7	  74 	   70	 7/11/2020  4:33:53 PM	  0:32:20	
+   8	  83 	   80	 7/11/2020  4:58:49 PM	  0:24:56	
+   9	  73 	   70	 7/11/2020  5:47:07 PM	  0:48:18	
+  10	  34 	   30	 7/11/2020  6:35:46 PM	  0:48:39	
+  11	  17 		 7/11/2020  6:59:05 PM	  0:23:19	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:59:05 PM
+Time on course   5:59:05
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

@@ -1,0 +1,25 @@
+Team No. 42	Tag ID = AOAV   Tags=0008	Course 12hr
+Team We Will Survive: Alex Frost, Cat Kearsley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009  8:22:52 AM 	         	BRIEFING. Score reset.
+   2	 45	 40	 4/07/2009 10:06:51 AM	  1:01:51	
+   3	 53	 50	 4/07/2009 11:03:19 AM	  0:56:28	
+   4	 21	 20	 4/07/2009 12:39:21 PM	  1:36:02	
+   5	 10	 10	 4/07/2009  1:58:44 PM 	  1:19:23	
+   6	 65	 60	 4/07/2009  2:51:49 PM 	  0:53:05	
+   7	 25	 20	 4/07/2009  3:18:40 PM 	  0:26:51	
+   8	106		 4/07/2009  5:39:39 PM 	  2:20:59	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  5:39:39 PM 
+Time on course   8:34:39
+
+
+  200	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 200

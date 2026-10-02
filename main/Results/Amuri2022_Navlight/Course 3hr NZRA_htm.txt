@@ -1,0 +1,38 @@
+ 1	143	Medbury Peakers (Simon Francis, Craig Ginders.)	   3:00:04	940( 10)	MO1
+ 2	106	Partners in climb (Ira Sizova, Adrian Dubois, Nico Dubois.)	   2:59:44	930	FO1
+ 3	120	Team Gearshop & Groms (Mason Velenski, Blake Velenski, Dean Velenski.)	   2:53:44	850	FO2
+ 4	142	Team Bocscan (Shania Scott, Ben O'Carroll.)	   2:54:22	840	XO1
+ 5	137	Tiki tour (George Lucas, Delilah Lucas.)	   2:55:28	810	FO3
+ 6	134	Mountain Goats (Celine Barnes, Ashley Shearer, Ross Barnes, Jessica Shearer.)	   2:48:29	800	XO2
+ 7	138	Slogain (Sam Clark, Rita Clark.)	   2:50:43	790	XO3
+ 8	125	Thrills and Spills (Di Te awa, Nardia Turner, Nstasha Richardson, Julie Shore.)	   2:47:24	710	WV1
+ 9	131	Wallago Jake (Sean Ginders, Jake Abbott, Nick Abbott.)	   2:55:55	700	FO4
+ 10	121	Just For Laughs (Chloe-Ann Laugesen, Terry Laugesen, Michael Lawrie, Jack Laugesen, Liam Kobayashi.)	   2:52:19	660	XO4
+ 11	141	Dryden (Belinda Dryden, Doreen Dryden.)	   2:53:57	660	WO1
+ 12	113	The Copplestone (Dan Harris, Anita Copplestone.)	   3:04:51	650( 50)	XV1
+ 13	126	Amuri Ratpack (Archie McCone, sam oneill, Finn Plamer, sara oneill.)	   2:53:49	640	XO5
+ 14	135	The Blind leading the blind (Sam Irani, Aranzazuas Pagalday.)	   2:54:53	640	WO2
+ 15	116	Terako Trakas (Warren Armstrong, Claude Armstrong.)	   2:55:44	630	FO5
+ 16	133	Piranhas Don't like Bananas (Lily Frost, Richard Frost, Elijah Sue, Sophie Frost.)	   2:54:30	620	FO6
+ 17	108	Lightning Bolts of Fire (Kirk De Ridder, Brett Langford, Campbell Smith, Ben Langford.)	   2:55:32	610	FO7
+ 18	101	No Expectations (Julie Kennedy, Nicki Barrow, Lisa Pugh.)	   2:57:26	600	WV2
+ 19	103	Hirschfeld Family (Leah Hirschfeld, Ben Hirschfeld, Nick Hirschfeld.)	   2:51:02	590	FO8
+ 20	112	Husband and wife's first Rogaine (Sara Vermeulen, Curtis Vermeulen.)	   2:24:20	580	XO6
+ 21	115	The Waiau Heroes (Beth Harris, Annabel Harris, Debby Galletly, Emily Harris, Sophie Galletly.)	   2:54:08	580	FO9
+ 22	102	Desperately seeking (Robyn Frost, Louise Sue.)	   2:51:24	520	WV3
+ 23	130	Q.A.F. (Frank Anderson, Amy Anderson, Quinn Anderson.)	   2:54:58	510	FO10
+ 24	127	Lone Rangers (Milly DC, Zoe Bailey, Georgie Oneill.)	   2:51:47	500	WJ1
+ 25	114	Hooligans (George Flintoft, Isaac Kelly, Zac Barbara, Jono Simpson.)	   2:53:05	490	MJ1
+ 26	118	The Boons (Caleb Rust, Michelle Wood, Janine Rust, Lucy Barltrop.)	   3:00:42	480( 10)	XO7
+ 27	119	Hurunui Hogs (Hugh Shand, Blake Clisby, Max Kinney, Max McCone.)	   3:06:47	470( 70)	MJ2
+ 28	144	Pippa  Kelly and Dee (Kelly Abbott, Dee Ginders, Pippa Ginders.)	   2:42:48	460	FO11
+ 29	129	Ok Kathryn (Kathryn Langford, Kirsten Allison, Claire Calderwood.)	   3:02:04	430( 30)	WO3
+ 30	110	Eastside Girls (Katherine Tarr, Lynda Bluck, Kirstina Moore.)	   2:56:37	420	WV4
+ 31	136	Amuri Battlers (Julie Jopp, Deannah Shanks, Belinda Rutherford.)	   2:59:13	420	WO4
+ 32	107	Not fast just furious (Paul Chick, Gemma Chick.)	   2:57:52	410	FO12
+ 33	111	Giraffes Can't Raft (Josette Todd, Stacey Wojtas.)	   2:57:59	370	WO5
+ 34	124	Lost our GGs (Paige Brogden, Ava Brogdens, Penny Brogden.)	   2:53:24	360	WO6
+ 35	105	Twisted Underpants (Riley Clisby, Fergus McCone, Angus Haugh.)	   2:54:31	350	MJ3
+ 36	140	scrambled legs (susan fitzmaurice, claire spear, LINDA WRIGHT.)	   2:56:33	350	WV5
+ 37	117	Allies angels (Allie Miller, Nicolle Rosewarne, Georgia Mackintosh.)	   1:38:51	290	WO7
+ 38	123	I can hear the onions (Ruby Glassey, Julia Black, Olivia Brogden.)	   2:59:10	260	WJ2

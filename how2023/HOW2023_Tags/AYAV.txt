@@ -1,0 +1,26 @@
+Team No. 47	Tag ID = AYAV   Tags=0009	Course 6hr
+Cameltoes: Polly Lock, Steve Lock
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:06:04 AM	  0:06:04	
+   2	  40 	   40	 1/07/2023 11:18:35 AM	  0:12:31	
+   3	  62 	   60	 1/07/2023 11:49:28 AM	  0:30:53	
+   4	  53 	   50	 1/07/2023 12:21:29 PM	  0:32:01	
+   5	 101 	  100	30/06/2023  3:50:37 PM	         	Punch clock failed.
+   6	  93 	   90	 1/07/2023  1:32:27 PM	  1:10:58	
+   7	  92 	   90	 1/07/2023  2:54:04 PM	  1:21:37	
+   8	  75 	   70	 1/07/2023  3:14:09 PM	  0:20:05	
+   9	  18 		 1/07/2023  6:16:06 PM	  3:01:57	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  6:16:06 PM
+Time on course   7:16:06
+
+
+  540	Points Scored.
+ -540	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540 LATE

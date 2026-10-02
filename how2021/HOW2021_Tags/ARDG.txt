@@ -1,0 +1,29 @@
+Team No. 171	Tag ID = ARDG   Tags=0012	Course 6 hour
+The Westies: Michelle Verkaaik, Charlotte Matthews
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:07:09 AM	  0:07:09	
+   2	  24 	   20	19/06/2021 11:17:23 AM	  0:10:14	
+   3	  39 	   30	19/06/2021 11:28:58 AM	  0:11:35	
+   4	  47 	   40	19/06/2021 11:49:38 AM	  0:20:40	
+   5	  80 	   80	19/06/2021 12:00:19 PM	  0:10:41	
+   6	  59 	   50	19/06/2021 12:41:33 PM	  0:41:14	
+   7	  61 	   60	19/06/2021  1:22:55 PM	  0:41:22	
+   8	  72 	   70	19/06/2021  1:46:44 PM	  0:23:49	
+   9	  50 	   50	19/06/2021  3:12:07 PM	  1:25:23	
+  10	  35 	   30	19/06/2021  3:47:18 PM	  0:35:11	
+  11	  77 	   70	19/06/2021  4:13:49 PM	  0:26:31	
+  12	  97 		19/06/2021  5:01:56 PM	  0:48:07	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:01:56 PM
+Time on course   6:01:56
+
+
+  530	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

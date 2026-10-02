@@ -1,0 +1,8 @@
+ 1	102	Samwhere with Esther (Sam McNally, Esther McNally.)	   7:54:45	730	XO1
+ 2	105	Otolk (Caleb Jones, Rhys Jones.)	   8:04:08	510( 50)	FO1
+ 3	107	The Whitecliffs Wanderer's (Ollie Thompson, Ricki Thompson, Frank Gallagher, Jared Gallagher.)	   8:01:25	440( 20)	FO2
+ 4	104	GOATs and co (Annabelle Clark, Kendra Cocksedge, Charlie Harrison.)	   7:56:17	290	WO1
+ 5	106	La Foxes (Alexander Wright, Griffin de Lange, Cooper Hunt, Ryan de Lange.)	   7:50:37	250	FO3
+ 6	109	Lieberts have GRIT (Tobie Liebert, Robbie Liebert, Emilia Liebert.)	   8:15:14	210( 160)	FO4
+ 7	103	Woop Woop (Kim de Graaf, Catherine Low.)	   8:15:21	190( 160)	WO2,WV1
+ 8	108	Peak Predators (Nikolai Wright, Jane Wright, Wilbur Gallagher, Jodie Gallagher.)	   7:53:08	130	FO5

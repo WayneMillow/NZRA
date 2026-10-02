@@ -1,0 +1,82 @@
+ 1	114	Meat and 2 x Veges (Ryan Kiesanowski, Tim Pearson, Nathan Peterson.)	   5:50:46	1680	M1
+ 2	115	Not sure yet (Riki Cambridge, Tim Gruijters.)	   5:56:44	1570	M2
+ 3	116	Ranga and the old man (Steve O'Neill, Toby O'Neill.)	   5:57:10	1560	M3
+ 4	136	Big day out (Sophie Hart, Nick Ross.)	   6:03:22	1560( 40)	X1
+ 5	109	Pub? (Josh Couper, Catie Mason, Josh Pearson.)	   5:55:02	1480	X2,XJ1
+ 6	141	perfect strangers (anita copplestone, simon francis, Craig Ginders, kirk mcdonald.)	   5:54:25	1300	X3
+ 7	36	In it for the dates & walnuts (Keith Green, Beth Hall, Natalie Paterson.)	   6:13:19	1290( 140)	X4
+ 8	151	Two Fat Lambs (Alister Holmes, Simon O'Sullivan.)	   5:55:14	1280	M4,MV1
+ 9	147	Which way is North? (Sarah Chisnall, Matthew Johnson.)	   6:19:14	1270( 200)	X5
+ 10	111	Freeman Fliers (Martin Freeman, Nicholas Freeman.)	   5:48:12	1260	M5
+ 11	107	Groovy Platypi (Oliver Chinn, Isla Cook, Siobhan Maclennan, Tommaso Zamperini.)	   6:05:31	1230( 60)	X6,XJ2
+ 12	131	Three ducks plus one (Emily Forne, Lynda Summerfield, Catherine Hayward, Neroli Wall.)	   5:56:34	1200	W1
+ 13	130	The Chatty Saddlebacks (Martin Peat, Nicole Symons.)	   6:20:35	1190( 210)	X7
+ 14	135	Always late to the start line (Rachel Horsburgh, Rob Lambie, Bree Purdie.)	   5:59:14	1180	X8
+ 15	105	Cunny Funts (Tom Harding, Amelia Houston, Jaxon Taylor.)	   5:54:58	1140	X9,XJ3
+ 16	148	Wisdom Youth and the Joker (Grace Howell, Rob Howell, Nicky Page.)	   5:57:44	1140	X10
+ 17	108	Iplod (Juliet Freeman, Phoebe Hunt, Felix hunt, Jacob Knoef, Tyler McCavitt.)	   5:53:37	1130	X11,XJ4
+ 18	154	Crazy Mad and Fast (Kate Anderson, Sheryl Fraser, Kate Rattray.)	   5:46:01	1110	W2,WV1
+ 19	175	Winter wanderers (Carmel Gunn, Nicola Mitchell, Sam Wayman.)	   5:53:38	1110	W3,WV2
+ 20	101	On Our Own (Matthew Clarke, Louie Howell.)	   5:55:07	1110	M6,MJ1
+ 21	166	Running in circles (karyn berrill, emma jackson.)	   6:01:53	1110( 20)	W4,WV3
+ 22	160	Morris Dancers (Deb Felder, Jin Flanagan, Yvonne MacDonald, Josie O'Callaghan.)	   5:49:59	1080	W5,WV4
+ 23	103	Cashmere FLAK (Leo O'Neill, Karin Prince, Finn Van Keulen, Alice Vetcher.)	   5:53:45	1080	X12,XJ5
+ 24	139	Go girls (Jen Bufford, Patrick Henkel, Ren Henkel, Richard York.)	   5:52:45	1060	X13
+ 25	35	Ibuprofen Anonymous (Josie Lewis, Fiona Stechmann.)	   5:58:21	1050	W6,WV5
+ 26	121	Better at Running Up a Tab (Jessica Earl, Kylee Habgood, Emily Shaw.)	   5:51:17	1040	W7
+ 27	122	Bury Wood (Olivia Barron, Vetti Fawcett, Sylvia McLaren.)	   5:52:15	1040	W8
+ 28	60	Kopikopiko Chicks (Fiona McDonald, Fiona Vetcher.)	   5:52:44	1030	W9,WV6
+ 29	123	Field Witches (Laura Irving, Aimee Keogh, Kris Kvick, Natalie McLean.)	   5:52:09	1020	W10
+ 30	163	Not over the hill yet (Els Coster, Rachel Simons.)	   5:56:10	1020	W11,WV7
+ 31	126	Mummy G.O.A.T's (Jane Connell, Abby Fulton, Erin Harrison.)	   5:48:55	1010	W12
+ 32	102	3 Silly Goats (Silas Jones, Kyla Moore, Millie Palmer.)	   5:48:58	1010	X14,XJ6
+ 33	129	Slow and slower (Marisol Hunter, Chris Rowe.)	   5:57:45	1010	W13
+ 34	145	Team Tortuga (Justine Carson-Iles, Jemma Hughes-Games, Hilary Iles.)	   5:55:25	990	X15
+ 35	133	WeSain Bolt (Sommer O'Shea, Kim Turney.)	   6:01:06	990( 20)	W14
+ 36	132	TryNations (Amira Mikhail, Becky Ward.)	   5:57:59	980	W15
+ 37	177	Mums on the Run Plus One (Fran Hobkirk, Jo Lochore, Jocelyn Thrower.)	   5:58:19	920	W16,WV8
+ 38	182	Such Fun Together (Ian Harrison, Jan Harrison.)	   5:58:02	910	X16,XV1
+ 39	128	Party Athletes (Aimee Baird, Sarah Blyth, Laura McPherson.)	   6:13:05	910( 140)	W17
+ 40	125	Lost Place (Hayley Dampney, Rachel Gaffaney, Sarah How, Natalie Lindsay.)	   5:54:24	890	W18
+ 41	174	Where the HEL? (Hayley Cooper, Liz McNeill, Erin Wilmshurst.)	   5:58:26	890	W19,WV9
+ 42	164	On the Wallaby (Brigette Bilbe, Liz Brady, Anna Maze.)	   6:14:56	890( 150)	W20,WV10
+ 43	80	Really? (Ken Livingston, Hubertien Wichers.)	   6:06:47	880( 70)	X17,XV2,XSV1
+ 44	113	Greg Octane & the Wingmirrors (Colin Hunter, David Sturrock.)	   5:49:10	870	M7
+ 45	112	George Onion & Windbreakers (Daniel Hunter, Jamie Hunter, Ryan Hunter.)	   6:08:52	870( 90)	M8
+ 46	150	Pain Train 4.0 (Mark De Goldi, Greg O'Brien.)	   6:14:50	860( 150)	M9,MV2
+ 47	183	The Elite Team (Lisa Chubb, Val Fletcher, Jonathan Hunt.)	   5:54:19	840	X18,XV3
+ 48	190	Wild Goose Chase (Carol Fowler, Peter Keller, Karen Miles.)	   5:56:05	840	X19,XV4,XSV2
+ 49	117	Yeah nah (Jaega Banga, Jonny Brewer, Daryl Sutton.)	   5:48:23	830	M10
+ 50	165	Rapid thigh movement (Sandi Dillon, Sally Yarwood.)	   5:24:46	820	W21,WV11
+ 51	127	Pacemakers (Sarah Mannion, Ronelle van Dongen, Georgie Walker.)	   5:55:34	810	W22
+ 52	119	Active activewear (Dusk Mains, Emma Soppit.)	   6:08:56	780( 90)	W23
+ 53	169	Team MVS (Charlotte Matthews, Jess Sanford.)	   5:57:53	770	W24,WV12
+ 54	144	Team Norts (Hamish Norton, Rachel Norton.)	   6:00:59	770( 10)	X20
+ 55	159	More lost than Found (Lyn Holmes, Mathilde O'Sullivan, Gaylene Saywell.)	   5:50:18	750	W25,WV13
+ 56	188	Random Choices (Greg Bristow, Carol Horgan.)	   5:52:03	740	X21,XV5,XSV3
+ 57	143	Scratch Test (Penny Bloomberg, Walter Goldmyre.)	   5:27:08	710	X22
+ 58	173	Wednesday Girls (Jo Gooch, AJ Low, Shayne Gooch.)	   5:59:43	710	W26,WV14
+ 59	110	RTFC (Lexi Hooker, Matilda Johnson, Issy Marr, Stuart Marr.)	   5:11:42	680	X23,XJ7
+ 60	140	Parents in Climb (Nico Dubois, Ira Sizova.)	   5:18:48	670	X24
+ 61	178	No Prawns Please (Sam Brown, John Williamson.)	   5:16:00	650	X25,XV6
+ 62	158	Magic Dragons (Clare Palmer, Charlotte Wright.)	   5:57:37	650	W27,WV15
+ 63	184	Twisted Sisters and Him (Nina Bradford, Colin Butler, Emma Butler.)	   5:44:58	620	X26,XV7
+ 64	155	Hoof Hearted (Kathy Hogarth, Nicky Hogarth, Pip Parkin.)	   5:56:44	600	W28,WV16
+ 65	176	Back to Basics (Leigh Power, William Power.)	   5:31:58	580	X27,XV8
+ 66	191	The Heartless Bastards (Andy Griffiths, Steve Petty, Kevin Stobbs, Rex Williams.)	   5:56:29	580	M11,MV3,MSV1,MUV1
+ 67	170	The Salty Chicks (Clare Hadley, Tanya Winter.)	   5:56:40	540	W29,WV17
+ 68	142	Runs on caffeine (Alyssa Beatty, Jason Doughty.)	   5:45:07	520	X28
+ 69	161	Nat and the Navigators (Emma Bradley, Karen Gray, Natasha Jelbert.)	   5:58:12	520	W30,WV18
+ 70	146	Welly Wanderers (Greg Bates, Jemima de Lacey, Alice Kearton, Ashley Kearton.)	   4:15:45	480	X29
+ 71	172	THREE TENACIOUS TARTS (ANNA NELSON, LISA PILGRIM, FIONA RAYNER.)	   5:40:13	470	W31,WV19
+ 72	167	Sweat; Regret and Oxygen Debt (Rebecca Burns, Michele Stevenson.)	   6:01:46	470( 20)	W32,WV20
+ 73	153	Coast Busters (Vicky Youngman, Bronwyn Newton, Jo Newton.)	   6:03:28	470( 40)	W33,WV21
+ 74	189	The Burrows (Karen Burrows, Paul Burrows.)	   5:32:55	420	X30,XV9,XSV4
+ 75	124	Giraffes Can't Raft (Claudia Thomson, Josette Todd, Stacey Wojtas.)	   5:52:38	390	W34
+ 76	157	Lost in Vegas (Bridget Prendergast, Claire Smitheram, Melissa West.)	   5:58:24	390	W35,WV22
+ 77	181	Raro (Paula Munro, Jason Rakich.)	   5:31:37	360	X31,XV10
+ 78	179	Norfolk and clue (Aaron Berry, Sally Houston.)	   5:20:32	330	X32,XV11
+ 79	168	Team AHH (Kelly Seed, Vanessa Crean.)	   4:46:27	300	W36,WV23
+ 80	200	. 	 -85:19:40	200	
+ 81	104	Control freaks (Mya Bennet, Max Groer, John Laurie, Jack Vetcher.)	   6:31:05	0( 880)	
+ 82	138	GAC (annabel crozier, glen crozier.)	   6:33:28	0( 870)	

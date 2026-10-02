@@ -1,0 +1,31 @@
+Team No. 230	Tag ID = ANDQ   Tags=0014	Course 6 hour
+F K J: James Wright, Felix Hunt and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:24:08 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:07:45 PM	  0:07:45	
+   3	  39 	   30	 7/11/2020  1:25:53 PM	  0:18:08	
+   4	  24 	   20	 7/11/2020  2:29:41 PM	  1:03:48	
+   5	  75 	   70	 7/11/2020  2:56:35 PM	  0:26:54	
+   6	  85 	   80	 7/11/2020  3:40:04 PM	  0:43:29	
+   7	  45 	   40	 7/11/2020  4:01:41 PM	  0:21:37	
+   8	  74 	   70	 7/11/2020  4:24:49 PM	  0:23:08	
+   9	  83 	   80	 7/11/2020  4:44:12 PM	  0:19:23	
+  10	  53 	   50	 7/11/2020  5:10:24 PM	  0:26:12	
+  11	  73 	   70	 7/11/2020  5:49:55 PM	  0:39:31	
+  12	  44 	   40	 7/11/2020  6:18:07 PM	  0:28:12	
+  13	  87 	   80	 7/11/2020  6:37:33 PM	  0:19:26	
+  14	  19 		 7/11/2020  6:58:19 PM	  0:20:46	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:58:19 PM
+Time on course   5:58:19
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

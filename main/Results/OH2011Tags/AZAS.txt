@@ -1,0 +1,35 @@
+Team No. 32	Tag ID = AZAS   Tags=0018	Course Office
+The Trailblazers: Michael Rait, Michael Sauter and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		 4/12/2011  9:18:00 AM 	         	BRIEFING. Score reset.
+   2	 72	 70	 4/12/2011  9:55:01 AM 	  0:25:01	
+   3	100	100	 2/12/2011  2:52:23 PM 	         	1.776 Days early.
+   4	 45	 40	 4/12/2011 10:29:54 AM	  0:34:53	
+   5	 65	 60	 4/12/2011 10:52:21 AM	  0:22:27	
+   6	 25	 20	 4/12/2011 11:36:52 AM	  0:44:31	
+   7	 64	 60	 4/12/2011 11:57:49 AM	  0:20:57	
+   8	 36	 30	 4/12/2011 12:13:48 PM	  0:15:59	
+   9	 44	 40	 4/12/2011 12:36:55 PM	  0:23:07	
+  10	 51	 50	 4/12/2011  1:12:56 PM 	  0:36:01	
+  11	 63	 60	 4/12/2011  1:30:21 PM 	  0:17:25	
+  12	 42	 40	 4/12/2011  2:08:40 PM 	  0:38:19	
+  13	 62	 60	 4/12/2011  2:46:09 PM 	  0:37:29	
+  14	 33	 30	 4/12/2011  2:55:22 PM 	  0:09:13	
+  15	 50	 50	 4/12/2011  3:05:45 PM 	  0:10:23	
+  16	 34	 30	 4/12/2011  3:26:33 PM 	  0:20:48	
+  17	 23	 20	 4/12/2011  3:38:01 PM 	  0:11:28	
+  18	106		 4/12/2011  4:23:44 PM 	  0:45:43	FINISH TIME.
+END
+
+
+Recognised finish time  4/12/2011  4:23:44 PM 
+Time on course   6:53:44
+
+
+  760	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

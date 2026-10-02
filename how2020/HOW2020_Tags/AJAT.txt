@@ -1,0 +1,31 @@
+Team No. 319	Tag ID = AJAT   Tags=0014	Course 6hrA
+CRC: Caroline Elkington, Chantal Rosenhart
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020  8:21:55 AM	         	BRIEFING. Score reset.
+   2	  27 	   20	 4/07/2020  9:03:17 AM	  0:03:17	
+   3	  80 	   80	 4/07/2020  9:15:56 AM	  0:12:39	
+   4	  61 	   60	 4/07/2020  9:24:45 AM	  0:08:49	
+   5	  29 	   20	 4/07/2020  9:37:12 AM	  0:12:27	
+   6	  33 	   30	 4/07/2020  9:51:14 AM	  0:14:02	
+   7	  37 	   30	 4/07/2020 10:13:03 AM	  0:21:49	
+   8	  26 	   20	 4/07/2020 10:27:02 AM	  0:13:59	
+   9	  45 	   40	 4/07/2020 10:58:30 AM	  0:31:28	
+  10	  50 	   50	 4/07/2020 12:03:43 PM	  1:05:13	
+  11	  43 	   40	 7/07/2019 10:25:33 PM	         	Punch clock failed.
+  12	  52 	   50	 4/07/2020  1:44:40 PM	  1:40:57	
+  13	  71 	   70	 4/07/2020  1:57:24 PM	  0:12:44	
+  14	  14 		 4/07/2020  2:38:26 PM	  0:41:02	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  2:38:26 PM
+Time on course   5:38:26
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

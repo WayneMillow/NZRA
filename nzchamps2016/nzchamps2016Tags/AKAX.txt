@@ -1,0 +1,32 @@
+Team No. 65	Tag ID = AKAX   Tags=0015	Course 7Hour
+Outrageous Mixed Fortunes: Kirstin Cooper, Steve Cooper and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:53:11 AM	         	BRIEFING. Score reset.
+   2	 41	 40	27/02/2016 11:24:42 AM	  0:24:42	
+   3	 76	 70	27/02/2016 11:50:07 AM	  0:25:25	
+   4	 40	 40	27/02/2016 12:05:05 PM	  0:14:58	
+   5	 10	 10	27/02/2016 12:45:46 PM	  0:40:41	
+   6	 33	 30	27/02/2016  1:05:02 PM	  0:19:16	
+   7	 51	 50	27/02/2016  1:51:16 PM	  0:46:14	
+   8	 58	 50	27/02/2016  2:21:25 PM	  0:30:09	
+   9	 67	 60	27/02/2016  2:42:18 PM	  0:20:53	
+  10	 92	 90	27/02/2016  3:26:22 PM	  0:44:04	
+  11	 46	 40	27/02/2016  4:03:14 PM	  0:36:52	
+  12	 80	 80	27/02/2016  4:31:53 PM	  0:28:39	
+  13	 44	 40	27/02/2016  4:59:00 PM	  0:27:07	
+  14	 20	 20	27/02/2016  5:23:50 PM	  0:24:50	
+  15	 17		27/02/2016  5:43:05 PM	  0:19:15	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:43:05 PM
+Time on course   6:43:05
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

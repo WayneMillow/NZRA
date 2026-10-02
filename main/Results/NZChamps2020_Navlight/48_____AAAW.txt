@@ -1,0 +1,33 @@
+Team No. 48	Tag ID = AAAW   Tags=0015	Course 24 hour
+Mooses: Alannah McGuinness, Daisy York and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  9:06:39 AM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020 12:16:19 PM	  0:16:19	
+   3	  87 	   80	 7/11/2020  1:47:48 PM	  1:31:29	
+   4	 104 	  100	 7/11/2020  2:59:13 PM	  1:11:25	
+   5	  44 	   40	 7/11/2020  3:25:32 PM	  0:26:19	
+   6	  73 	   70	 7/11/2020  4:17:24 PM	  0:51:52	
+   7	 103 	  100	 7/11/2020  5:01:07 PM	  0:43:43	
+   8	  82 	   80	 7/11/2020  6:12:26 PM	  1:11:19	
+   9	  43 	   40	 7/11/2020  6:30:01 PM	  0:17:35	
+  10	  42 	   40	 7/11/2020  7:21:36 PM	  0:51:35	
+  11	  20 	   20	 7/11/2020  8:20:43 PM	  0:59:07	
+  12	  31 	   30	 7/11/2020  8:49:16 PM	  0:28:33	
+  13	  48 	   40	 8/11/2020  7:54:00 AM	 11:04:44	
+  14	  27 	   20	 8/11/2020  8:17:08 AM	  0:23:08	
+  15	  19 		 8/11/2020  9:28:30 AM	  1:11:22	FINISH TIME.
+END
+	AddedPunch54	50
+
+
+Recognised finish time  8/11/2020  9:28:30 AM
+Time on course  21:28:30
+
+
+  740	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

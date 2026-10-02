@@ -1,0 +1,26 @@
+Team No. 635	Tag ID = AVBB   Tags=0009	Course 6Hr
+Nicky Dravitzki, Jackie Pye and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:49:13 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:12:30 AM	  0:12:30	
+   3	 55	 50	27/06/2015 11:46:13 AM	  0:33:43	
+   4	 85	 80	27/06/2015 12:43:11 PM	  0:56:58	
+   5	 75	 70	27/06/2015  1:36:06 PM	  0:52:55	
+   6	103	100	27/06/2015  2:32:34 PM	  0:56:28	
+   7	 74	 70	27/06/2015  3:17:28 PM	  0:44:54	
+   8	 46	 40	27/06/2015  3:52:21 PM	  0:34:53	
+   9	106		27/06/2015  4:45:31 PM	  0:53:10	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:45:31 PM
+Time on course   5:45:31
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

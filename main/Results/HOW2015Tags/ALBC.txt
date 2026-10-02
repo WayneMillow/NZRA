@@ -1,0 +1,32 @@
+Team No. 643	Tag ID = ALBC   Tags=0015	Course 6Hr
+Wayne Glover, Denise Glover and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:47:38 AM	         	BRIEFING. Score reset.
+   2	 27	 20	27/06/2015 11:11:27 AM	  0:11:27	
+   3	 57	 50	27/06/2015 11:23:32 AM	  0:12:05	
+   4	 95	 90	27/06/2015 11:50:11 AM	  0:26:39	
+   5	 48	 40	27/06/2015 12:07:06 PM	  0:16:55	
+   6	 58	 50	27/06/2015 12:27:39 PM	  0:20:33	
+   7	 77	 70	27/06/2015 12:56:05 PM	  0:28:26	
+   8	 76	 70	27/06/2015  1:33:39 PM	  0:37:34	
+   9	 94	 90	27/06/2015  1:53:10 PM	  0:19:31	
+  10	 56	 50	16/06/2014  4:17:20 AM	         	Scored before Start.
+  11	 55	 50	27/06/2015  3:44:49 PM	  1:51:39	
+  12	 85	 80	27/06/2015  4:03:13 PM	  0:18:24	
+  13	 68	 60	27/06/2015  4:24:37 PM	  0:21:24	
+  14	 25	 20	27/06/2015  4:54:36 PM	  0:29:59	
+  15	106		27/06/2015  5:00:05 PM	  0:05:29	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  5:00:05 PM
+Time on course   6:00:05
+
+
+  740	Points Scored.
+  -10	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

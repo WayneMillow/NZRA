@@ -1,0 +1,30 @@
+Team No. 220	Tag ID = AKHA   Tags=0014	Course 1.5hr
+Mighty Munchins: Gary Johnson, Alex and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022  1:03:51 PM	  0:03:51	
+   2	  70 	   70	 3/07/2022  1:07:27 PM	  0:03:36	
+   3	  31 	   30	 3/07/2022  1:12:06 PM	  0:04:39	
+   4	  20 	   20	 3/07/2022  1:16:53 PM	  0:04:47	
+   5	  66 	   60	 3/07/2022  1:27:39 PM	  0:10:46	
+   6	  75 	   70	 3/07/2022  1:36:04 PM	  0:08:25	
+   7	  81 	   80	 3/07/2022  1:45:41 PM	  0:09:37	
+   8	  86 	   80	 3/07/2022  1:54:02 PM	  0:08:21	
+   9	  46 	   40	 3/07/2022  1:58:10 PM	  0:04:08	
+  10	  52 	   50	 3/07/2022  2:01:39 PM	  0:03:29	
+  11	  21 	   20	 3/07/2022  2:09:49 PM	  0:08:10	
+  12	  35 	   30	 3/07/2022  2:13:56 PM	  0:04:07	
+  13	  18 		 3/07/2022  2:17:56 PM	  0:04:00	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:17:56 PM
+Time on course   1:17:56
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

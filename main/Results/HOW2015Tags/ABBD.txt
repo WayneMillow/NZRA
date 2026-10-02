@@ -1,0 +1,31 @@
+Team No. 651	Tag ID = ABBD   Tags=0014	Course 6Hr
+Clem Rolin, Toni Dakers
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:45:16 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:12:37 AM	  0:12:37	
+   3	 65	 60	27/06/2015 11:32:54 AM	  0:20:17	
+   4	 45	 40	27/06/2015 11:48:41 AM	  0:15:47	
+   5	 53	 50	27/06/2015 12:13:18 PM	  0:24:37	
+   6	 34	 30	27/06/2015 12:35:39 PM	  0:22:21	
+   7	 24	 20	27/06/2015 12:55:09 PM	  0:19:30	
+   8	 83	 80	27/06/2015  1:40:54 PM	  0:45:45	
+   9	 73	 70	27/06/2015  2:17:29 PM	  0:36:35	
+  10	102	100	27/06/2015  2:52:37 PM	  0:35:08	
+  11	 92	 90	27/06/2015  3:36:35 PM	  0:43:58	
+  12	 54	 50	27/06/2015  3:59:33 PM	  0:22:58	
+  13	 66	 60	27/06/2015  4:08:38 PM	  0:09:05	
+  14	108		27/06/2015  4:47:38 PM	  0:39:00	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:47:38 PM
+Time on course   5:47:38
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

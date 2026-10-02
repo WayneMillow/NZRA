@@ -1,0 +1,25 @@
+Team No. 201	Tag ID = ANDK   Tags=0009	Course 3 hour
+Where are We?: Amanda Norris, Alex Westrupp
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:45:14 AM	         	BRIEFING. Score reset.
+   2	  49 	   40	 7/07/2019 12:17:59 PM	  0:17:59	
+   3	  54 	   50	 7/07/2019 12:42:20 PM	  0:24:21	
+   4	  41 	   40	 7/07/2019 12:59:41 PM	  0:17:21	
+   5	  42 	   40	 7/07/2019  1:11:25 PM	  0:11:44	
+   6	  59 	   50	 7/07/2019  2:06:37 PM	  0:55:12	
+   7	  51 	   50	 7/07/2019  2:27:30 PM	  0:20:53	
+   8	  19 		 7/07/2019  2:41:54 PM	  0:14:24	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:41:54 PM
+Time on course   2:41:54
+
+
+  270	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 270

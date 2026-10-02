@@ -1,0 +1,33 @@
+Team No. 17	Tag ID = AUAR   Tags=0016	Course Office
+Rex Williams, Vincent pooch
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		 4/12/2011  9:14:12 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 4/12/2011  9:44:13 AM 	  0:14:13	
+   3	 40	 40	 4/12/2011  9:52:49 AM 	  0:08:36	
+   4	 30	 30	 4/12/2011 10:13:39 AM	  0:20:50	
+   5	 10	 10	 4/12/2011 10:28:55 AM	  0:15:16	
+   6	 70	 70	 4/12/2011 10:49:53 AM	  0:20:58	
+   7	 90	 90	 4/12/2011 11:17:48 AM	  0:27:55	
+   8	 20	 20	 4/12/2011 12:14:25 PM	  0:56:37	
+   9	 60	 60	 4/12/2011 12:55:14 PM	  0:40:49	
+  10	 80	 80	 4/12/2011  1:18:51 PM 	  0:23:37	
+  11	 41	 40	 4/12/2011  1:58:25 PM 	  0:39:34	
+  12	 53	 50	 4/12/2011  2:30:13 PM 	  0:31:48	
+  13	 26	 20	 4/12/2011  2:57:30 PM 	  0:27:17	
+  14	 72	 70	 4/12/2011  3:38:17 PM 	  0:40:47	
+  15	 11	 10	 4/12/2011  4:08:13 PM 	  0:29:56	
+  16	106		 4/12/2011  4:12:24 PM 	  0:04:11	FINISH TIME.
+END
+
+
+Recognised finish time  4/12/2011  4:12:24 PM 
+Time on course   6:42:24
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

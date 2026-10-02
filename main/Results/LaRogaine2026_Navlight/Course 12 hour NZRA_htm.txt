@@ -1,0 +1,22 @@
+ 1	18	Old and Slow (Steve ONeill, Greig Hamilton.)	 11:58:14	3230	MO1,MV1
+ 2	23	Port Hills Warriors (Peter Menis, Tim Farrant.)	 11:59:06	3090	MO2
+ 3	24	Triple Threat (William Archibald, Mark Gardyne, Jack Davies.)	 11:53:41	2980	MO3
+ 4	15	Forever Forests (Jamie Mountier, Milan Brodina.)	 11:58:07	2780	MO4
+ 5	20	Capital Rogaine Tax (Sara Vermeulen, Timothy Hargrave, Chris Greenan.)	 11:52:11	2560	XO1
+ 6	9	Backcountry Studio (Anita Copplestone, Ira Sizova, Kirk McDonald, Alaina Morrison.)	 11:44:59	2510	XO2
+ 7	19	Tenacious Turtles (Nathan Harris, Ev Tolerton.)	 11:57:35	2430	MO5
+ 8	13	Two and a half old men (Jamie Macalister, Paul Daly, Zinta Mcguinniety.)	 11:50:33	2300	MO6,MV2
+ 9	5	Slanky (James Sullivan, Luaks Waller.)	 11:51:38	2290	MO7,MJ1
+ 10	16	Viande et deux Legumes (Rob Harrow, Jo Forbes, Jill Wesrenra.)	 11:42:36	2170	XO3,XV1
+ 11	6	K&R (Kaye Harding, Richard Spelman.)	 11:53:29	2170	XO4,XV2,XSV1
+ 12	22	Not Fast Enough (Chris McHarg, Andrew Hawke.)	 11:55:23	2160	MO8,MV3
+ 13	21	Resisting a Rest (Benjamin Still, Dave Hume, Emma Rogers.)	 11:55:26	2160	XO5,XV3
+ 14	4	Toe Patrol (Alistair Boyce, Paul Kelly.)	 11:52:09	1890	MO9,MV4
+ 15	14	In and out of control (Vivienne Prince, Alister Metherell.)	 11:57:29	1830	XO6,XV4,XSV2
+ 16	25	Over the Hill (Richard Malloch, Alan Moore.)	 11:57:58	1780	MO10,MV5,MSV1
+ 17	12	Flutterbys (Val Rogers, Kathrin Mueller.)	 11:56:41	1710	WO1,WV1,WSV1
+ 18	8	Fairlie Lost (Karen Clarke, Fiona Cutler, Kim Jordan, Kelly Cassie.)	 11:35:16	1640	WO2,WV2
+ 19	17	JDog (Jennifer Weaver, Andre Hill.)	 11:57:14	1620	XO7,XV5
+ 20	10	Lost Plotters (Nic Chinn, Katie Saunders, Lia Stiles.)	 11:48:06	1560	WO3,WV3
+ 21	11	Sorry Not Sorry (Donna Bradbury, Kay Chapman.)	 11:40:30	1190	WO4,WV4,WSV2
+ 22	7	Frogs (Nathalie Giraudon, Emmanuel Stauder.)	 11:25:41	1150	XO8,XV6

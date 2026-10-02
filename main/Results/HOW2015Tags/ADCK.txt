@@ -1,0 +1,27 @@
+Team No. 660	Tag ID = ADCK   Tags=0010	Course 6Hr
+Susan Alexander, Julia Edwards and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:47:48 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:28:41 AM	  0:28:41	
+   3	 35	 30	27/06/2015 11:54:18 AM	  0:25:37	
+   4	 66	 60	27/06/2015 12:20:42 PM	  0:26:24	
+   5	 54	 50	27/06/2015 12:35:19 PM	  0:14:37	
+   6	 92	 90	27/06/2015  1:19:33 PM	  0:44:14	
+   7	 31	 30	27/06/2015  2:13:21 PM	  0:53:48	
+   8	 42	 40	27/06/2015  2:45:08 PM	  0:31:47	
+   9	 70	 70	27/06/2015  3:20:31 PM	  0:35:23	
+  10	108		27/06/2015  4:28:57 PM	  1:08:26	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:28:57 PM
+Time on course   5:28:57
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

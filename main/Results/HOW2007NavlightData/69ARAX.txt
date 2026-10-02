@@ -1,0 +1,29 @@
+Team No. 69	Tag ID = ARAX   Tags=0013	Course 12hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 84		12/06/2006  3:13:20 PM 	        	BRIEFING. Score reset.
+   2	104		16/06/2007  8:14:32 AM 	        	BRIEFING. Score reset.
+   3	 23	 20	16/06/2007  9:12:30 AM 	  0:12:30	
+   4	 36	 30	16/06/2007  9:30:48 AM 	         	
+   5	 64	 60	16/06/2007  9:57:39 AM 	         	
+   6	 71	 70	16/06/2007 10:40:15 AM	  0:40:15	
+   7	 80	 80	16/06/2007 11:22:36 AM	  0:42:21	
+   8	 34	 30	16/06/2007 11:49:48 AM	  0:27:12	
+   9	 73	 70	16/06/2007 12:45:09 PM	  0:55:21	
+  10	 21	 20	16/06/2007  1:11:24 PM 	  0:26:15	
+  11	 81	 80	16/06/2007  1:33:32 PM 	  0:22:08	
+  12	 22	 20	16/06/2007  2:19:51 PM 	  0:46:19	
+  13	 		16/06/2007  3:29:27 PM 	  1:09:36	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:29:27 PM 
+Time on course   6:29:27
+
+
+  480	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

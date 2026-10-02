@@ -1,0 +1,29 @@
+Team No. 35	Tag ID = AGAT   Tags=0012	Course NZRC_2022
+Kelly Ashley, Shane Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  24 	   20	19/11/2022 12:16:44 PM	  0:16:44	
+   2	  79 	   70	19/11/2022  1:23:40 PM	  1:06:56	
+   3	  53 	   50	19/11/2022  2:15:05 PM	  0:51:25	
+   4	  46 	   40	19/11/2022  2:42:53 PM	  0:27:48	
+   5	  87 	   80	19/11/2022  3:25:28 PM	  0:42:35	
+   6	  59 	   50	19/11/2022  5:41:52 PM	  2:16:24	
+   7	  94 	   90	19/11/2022  6:18:08 PM	  0:36:16	
+   8	  45 	   40	19/11/2022  6:43:44 PM	  0:25:36	
+   9	  23 	   20	19/11/2022  7:35:16 PM	  0:51:32	
+  10	  22 	   20	19/11/2022  9:31:58 PM	  1:56:42	
+  11	  31 	   30	19/11/2022  9:51:23 PM	  0:19:25	
+  12	  18 		20/11/2022  8:56:25 AM	 11:05:02	FINISH TIME.
+END
+
+
+Recognised finish time 20/11/2022  8:56:25 AM
+Time on course  20:56:25
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

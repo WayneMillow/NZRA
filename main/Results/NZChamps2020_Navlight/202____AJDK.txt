@@ -1,0 +1,27 @@
+Team No. 202	Tag ID = AJDK   Tags=0010	Course 6 hour
+Roamin' Holiday: Penny Richards, Saralinda MacMillan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  8:48:37 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:18:03 PM	  0:18:03	
+   3	  39 	   30	 7/11/2020  1:41:36 PM	  0:23:33	
+   4	 107 	  100	 7/11/2020  2:34:55 PM	  0:53:19	
+   5	  85 	   80	 7/11/2020  3:14:33 PM	  0:39:38	
+   6	  45 	   40	 7/11/2020  3:41:33 PM	  0:27:00	
+   7	  83 	   80	 7/11/2020  4:25:59 PM	  0:44:26	
+   8	  73 	   70	 7/11/2020  5:19:01 PM	  0:53:02	
+   9	  87 	   80	 7/11/2020  6:15:27 PM	  0:56:26	
+  10	  17 		 7/11/2020  6:55:19 PM	  0:39:52	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:55:19 PM
+Time on course   5:55:19
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

@@ -1,0 +1,26 @@
+Team No. 2104	Tag ID = APAQ   Tags=0009	Course 3Hr
+Eniagor: Ronda South, Carolyn Sutherland
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 9/07/2017 11:47:40 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:08:49 PM	  0:08:49	
+   3	  41 	   40	 9/07/2017 12:23:04 PM	  0:14:15	
+   4	  63 	   60	 9/07/2017 12:40:33 PM	  0:17:29	
+   5	  23 	   20	 9/07/2017 12:51:27 PM	  0:10:54	
+   6	  35 	   30	 9/07/2017 12:57:29 PM	  0:06:02	
+   7	  64 	   60	 9/07/2017  2:11:43 PM	  1:14:14	
+   8	  55 	   50	 9/07/2017  2:32:45 PM	  0:21:02	
+   9	 108 		 9/07/2017  2:50:16 PM	  0:17:31	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:50:16 PM
+Time on course   2:50:16
+
+
+  280	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

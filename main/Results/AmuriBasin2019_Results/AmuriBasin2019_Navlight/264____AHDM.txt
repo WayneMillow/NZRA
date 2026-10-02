@@ -1,0 +1,32 @@
+Team No. 264	Tag ID = AHDM   Tags=0015	Course 1.5 hour
+Giggle Crew: Victoria Kelly, Rory Palmer and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:42:32 PM	         	BRIEFING. Score reset.
+   2	  22 	   20	 7/07/2019 12:56:13 PM	         	Punch clock failed.
+   3	  21 	   20	 7/07/2019  1:01:09 PM	  0:01:09	
+   4	  47 	   40	 7/07/2019  1:06:20 PM	  0:05:11	
+   5	  31 	   30	 7/07/2019  1:15:44 PM	  0:09:24	
+   6	  73 	   70	 7/07/2019  1:22:41 PM	  0:06:57	
+   7	  33 	   30	 7/07/2019  1:27:48 PM	  0:05:07	
+   8	  46 	   40	 7/07/2019  1:40:31 PM	  0:12:43	
+   9	  52 	   50	 7/07/2019  1:47:13 PM	  0:06:42	
+  10	  59 	   50	 7/07/2019  1:56:01 PM	  0:08:48	
+  11	  45 	   40	 7/07/2019  2:00:19 PM	  0:04:18	
+  12	  65 	   60	 7/07/2019  2:08:32 PM	  0:08:13	
+  13	  49 	   40	 7/07/2019  2:13:57 PM	  0:05:25	
+  14	  26 	   20	 7/07/2019  2:19:38 PM	  0:05:41	
+  15	  16 		 7/07/2019  2:23:55 PM	  0:04:17	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:23:55 PM
+Time on course   1:23:55
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

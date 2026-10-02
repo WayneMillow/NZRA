@@ -1,0 +1,31 @@
+Team No. 35	Tag ID = AJAT   Tags=0014	Course 12hr
+Oh Delicious Soggy Minxes: Nicky Edwards, Kate Norris and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009  8:01:54 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 4/07/2009  9:26:02 AM 	  0:21:02	
+   3	 32	 30	 4/07/2009 10:06:02 AM	  0:40:00	
+   4	 31	 30	 4/07/2009 10:24:21 AM	  0:18:19	
+   5	 52	 50	 4/07/2009 11:12:32 AM	  0:48:11	
+   6	 43	 40	 4/07/2009 11:31:44 AM	  0:19:12	
+   7	 60	 60	 4/07/2009 12:51:05 PM	  1:19:21	
+   8	 20	 20	 4/07/2009  1:45:49 PM 	  0:54:44	
+   9	 50	 50	 4/07/2009  1:54:35 PM 	  0:08:46	
+  10	 42	 40	 4/07/2009  2:46:25 PM 	  0:51:50	
+  11	 61	 60	 4/07/2009  3:29:27 PM 	  0:43:02	
+  12	 55	 50	 4/07/2009  5:17:37 PM 	  1:48:10	
+  13	 22	 20	 4/07/2009  5:51:15 PM 	  0:33:38	
+  14	105		 4/07/2009  7:37:10 PM 	  1:45:55	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  7:37:10 PM 
+Time on course  10:32:10
+
+
+  470	Points Scored.
+   30	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

@@ -1,0 +1,30 @@
+Team No. 26	Tag ID = AOAS   Tags=0013	Course NZChamps
+Invincibles: Rex Williams, Peter Jackson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 11:47:00 AM	         	BRIEFING. Score reset.
+   2	 60	 60	27/02/2016  1:33:39 PM	  1:33:39	
+   3	 50	 50	27/02/2016  2:28:09 PM	  0:54:30	
+   4	 23	 20	27/02/2016  2:55:57 PM	  0:27:48	
+   5	 53	 50	27/02/2016  3:18:14 PM	  0:22:17	
+   6	 61	 60	27/02/2016  4:14:44 PM	  0:56:30	
+   7	 93	 90	27/02/2016  4:51:01 PM	  0:36:17	
+   8	 52	 50	27/02/2016  5:50:57 PM	  0:59:56	
+   9	 21	 20	27/02/2016  6:13:03 PM	  0:22:06	
+  10	 18		27/02/2016  6:32:07 PM	  0:19:04	FINISH TIME.
+  11	 41	 40	27/02/2016  7:35:30 PM	  1:03:23	
+  12	 76	 70	27/02/2016  8:13:18 PM	  0:37:48	
+  13	 18		27/02/2016 11:53:41 PM	  3:40:23	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016 11:53:41 PM
+Time on course  11:53:41
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

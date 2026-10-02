@@ -1,0 +1,33 @@
+Team No. 261	Tag ID = APDM   Tags=0016	Course 1.5 hour
+Team French: Lauren French, Michelle French
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:43:14 PM	         	BRIEFING. Score reset.
+   2	  21 	   20	 7/07/2019 12:57:50 PM	         	Punch clock failed.
+   3	  47 	   40	 7/07/2019  1:03:45 PM	  0:03:45	
+   4	  31 	   30	 7/07/2019  1:13:29 PM	  0:09:44	
+   5	  73 	   70	 7/07/2019  1:20:03 PM	  0:06:34	
+   6	  33 	   30	 7/07/2019  1:26:28 PM	  0:06:25	
+   7	  46 	   40	 7/07/2019  1:37:52 PM	  0:11:24	
+   8	  52 	   50	 7/07/2019  1:42:31 PM	  0:04:39	
+   9	  34 	   30	 7/07/2019  1:48:44 PM	  0:06:13	
+  10	  81 	   80	 7/07/2019  1:57:55 PM	  0:09:11	
+  11	  53 	   50	 7/07/2019  2:09:57 PM	  0:12:02	
+  12	  24 	   20	 7/07/2019  2:15:05 PM	  0:05:08	
+  13	  49 	   40	 7/07/2019  2:19:23 PM	  0:04:18	
+  14	  32 	   30	 7/07/2019  2:21:54 PM	  0:02:31	
+  15	  26 	   20	 7/07/2019  2:24:51 PM	  0:02:57	
+  16	  16 		 7/07/2019  2:27:41 PM	  0:02:50	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:27:41 PM
+Time on course   1:27:41
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

@@ -1,0 +1,26 @@
+Team No. 113	Tag ID = AEBB   Tags=0010	Course 6hr
+Anna McDonnell, Helen McKendrey
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 11		14/06/2008 10:45:40 AM	         	BRIEFING. Score reset.
+   3	 22	 20	14/06/2008 11:05:17 AM	  0:05:17	     Group 22 replaces 97.
+   4	 49	 40	14/06/2008 11:14:54 AM	  0:09:37	
+   5	 59	 50	14/06/2008 11:31:43 AM	  0:16:49	
+   6	 76	 70	14/06/2008  1:58:05 PM 	  2:26:22	
+   7	 66	 60	14/06/2008  2:32:28 PM 	  0:34:23	
+   8	 71	 70	14/06/2008  2:58:44 PM 	  0:26:16	
+   9	 62	 60	14/06/2008  3:26:36 PM 	  0:27:52	
+  10	106		14/06/2008  5:08:51 PM 	  1:42:15	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008  5:08:51 PM 
+Time on course   6:08:51
+
+
+  370	Points Scored.
+   90	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 280

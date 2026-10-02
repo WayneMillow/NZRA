@@ -1,0 +1,35 @@
+Team No. 105	Tag ID = AUAQ   Tags=0018	Course 6hrA
+Ministry of Health: Hugo Young, Desmond O'Regan and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020  8:49:45 AM	         	BRIEFING. Score reset.
+   2	  56 	   50	 4/07/2020  9:10:29 AM	  0:10:29	
+   3	  25 	   20	 4/07/2020  9:13:48 AM	  0:03:19	
+   4	  31 	   30	 4/07/2020  9:29:27 AM	  0:15:39	
+   5	 105 	  100	 4/07/2020  9:35:27 AM	  0:06:00	
+   6	  28 	   20	 4/07/2020  9:50:28 AM	  0:15:01	
+   7	  42 	   40	 4/07/2020 10:03:35 AM	  0:13:07	
+   8	  71 	   70	 4/07/2020 10:49:27 AM	  0:45:52	
+   9	  64 	   60	 4/07/2020 11:27:48 AM	  0:38:21	
+  10	  40 	   40	 4/07/2020 11:51:03 AM	  0:23:15	
+  11	  81 	   80	 4/07/2020 12:02:37 PM	  0:11:34	
+  12	 103 	  100	 4/07/2020 12:26:10 PM	  0:23:33	
+  13	  41 	   40	 4/07/2020 12:41:00 PM	  0:14:50	
+  14	  36 	   30	 4/07/2020  1:00:05 PM	  0:19:05	
+  15	  83 	   80	 4/07/2020  1:24:33 PM	  0:24:28	
+  16	  60 	   60	 4/07/2020  1:36:20 PM	  0:11:47	
+  17	  32 	   30	 4/07/2020  1:50:46 PM	  0:14:26	
+  18	  13 		 4/07/2020  2:57:26 PM	  1:06:40	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  2:57:26 PM
+Time on course   5:57:26
+
+
+  850	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 850

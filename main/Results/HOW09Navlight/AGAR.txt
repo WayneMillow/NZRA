@@ -1,0 +1,33 @@
+Team No. 10	Tag ID = AGAR   Tags=0016	Course 6hr
+Waihora Wanderers: David Bailey, Jason Arnold and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 13		 4/07/2009 10:04:07 AM	         	BRIEFING. Score reset.
+   2	 45	 40	 4/07/2009 10:55:45 AM	  0:25:45	
+   3	 53	 50	 4/07/2009 11:14:22 AM	  0:18:37	
+   4	 32	 30	 4/07/2009 11:35:04 AM	  0:20:42	
+   5	 52	 50	 4/07/2009 12:19:34 PM	  0:44:30	
+   6	 43	 40	 4/07/2009 12:26:32 PM	  0:06:58	
+   7	 60	 60	 4/07/2009 12:55:38 PM	  0:29:06	
+   8	 41	 40	 4/07/2009  1:14:11 PM 	  0:18:33	
+   9	 42	 40	 4/07/2009  1:29:09 PM 	  0:14:58	
+  10	 61	 60	 4/07/2009  2:01:27 PM 	  0:32:18	
+  11	 44	 40	 4/07/2009  2:22:21 PM 	  0:20:54	
+  12	 54	 50	 4/07/2009  2:46:47 PM 	  0:24:26	
+  13	 34	 30	 4/07/2009  3:18:59 PM 	  0:32:12	
+  14	 21	 20	 4/07/2009  3:35:32 PM 	  0:16:33	
+  15	 81	 80	 4/07/2009  3:58:55 PM 	  0:23:23	
+  16	107		 4/07/2009  4:13:02 PM 	  0:14:07	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:13:02 PM 
+Time on course   5:43:02
+
+
+  630	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

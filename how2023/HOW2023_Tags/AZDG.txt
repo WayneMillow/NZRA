@@ -1,0 +1,29 @@
+Team No. 175	Tag ID = AZDG   Tags=0011	Course 12hr
+Boop!: Jack Nottle, Annina Haeusler
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  63 	   60	 1/07/2023 10:15:37 AM	  1:15:37	
+   2	  42 	   40	 1/07/2023 10:33:15 AM	  0:17:38	
+   3	  22 	   20	 1/07/2023 11:39:22 AM	  1:06:07	
+   4	  91 	   90	 1/07/2023 12:06:56 PM	  0:27:34	
+   5	  72 	   70	 1/07/2023 12:58:00 PM	  0:51:04	
+   6	  73 	   70	 1/07/2023  1:44:53 PM	  0:46:53	
+   7	 103 	  100	 1/07/2023  2:26:22 PM	  0:41:29	
+   8	  65 	   60	 1/07/2023  4:15:09 PM	  1:48:47	
+   9	  43 	   40	 1/07/2023  4:52:55 PM	  0:37:46	
+  10	  38 	   30	 1/07/2023  5:17:17 PM	  0:24:22	
+  11	  16 		 1/07/2023  5:41:03 PM	  0:23:46	FINISH TIME.
+END
+	AddedPunch64	60
+
+
+Recognised finish time  1/07/2023  5:41:03 PM
+Time on course   8:41:03
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

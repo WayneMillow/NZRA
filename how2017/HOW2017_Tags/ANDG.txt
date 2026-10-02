@@ -1,0 +1,31 @@
+Team No. 2272	Tag ID = ANDG   Tags=0014	Course 6Hr
+IQ dropped 50 points: Debbie Johnson, Penny Hazard
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		10/06/2017 10:44:29 AM	         	BRIEFING. Score reset.
+   2	 21	 20	10/06/2017 11:23:09 AM	  0:23:09	
+   3	 40	 40	10/06/2017 11:41:11 AM	  0:18:02	
+   4	 42	 40	10/06/2017 12:03:04 PM	  0:21:53	
+   5	 71	 70	10/06/2017 12:26:18 PM	  0:23:14	
+   6	100	100	10/06/2017 12:59:52 PM	  0:33:34	
+   7	 61	 60	10/06/2017  1:21:17 PM	  0:21:25	
+   8	 23	 20	10/06/2017  2:22:14 PM	  1:00:57	
+   9	 70	 70	10/06/2017  2:46:36 PM	  0:24:22	
+  10	 26	 20	10/06/2017  3:31:16 PM	  0:44:40	
+  11	 25	 20	10/06/2017  3:49:35 PM	  0:18:19	
+  12	 22	 20	10/06/2017  4:21:39 PM	  0:32:04	
+  13	 27	 20	10/06/2017  4:44:09 PM	  0:22:30	
+  14	106		10/06/2017  4:51:19 PM	  0:07:10	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:51:19 PM
+Time on course   5:51:19
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

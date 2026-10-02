@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /main/HomepageBody.htm
+Disallow: /main/
+Disallow: /fmtemplates/
+Disallow: /cgi-bin/
+Disallow: /info.htm
+Disallow: /logo.htm
+Disallow: /stylesheet.css
+Disallow: /stylesheetSmallerFont.css
+Disallow: /toc.htm
+Disallow: /robots.txt
+

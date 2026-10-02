@@ -1,0 +1,25 @@
+Team No. 123	Tag ID = AZBB   Tags=0008	Course 3hr
+I can hear the onions: Ruby Glassey, Julia Black and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:04:31 PM	  0:04:31	
+   2	  52 	   50	 3/07/2022 12:09:10 PM	  0:04:39	
+   3	  33 	   30	 3/07/2022 12:16:54 PM	  0:07:44	
+   4	  53 	   50	 3/07/2022 12:44:59 PM	  0:28:05	
+   5	  65 	   60	 3/07/2022  1:38:19 PM	  0:53:20	
+   6	  50 	   50	 3/07/2022  2:36:18 PM	  0:57:59	
+   7	  21 		 3/07/2022  2:55:25 PM	  0:19:07	     Punched on Line 1
+   8	  19 		 3/07/2022  2:59:10 PM	  0:03:45	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:59:10 PM
+Time on course   2:59:10
+
+
+  260	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 260

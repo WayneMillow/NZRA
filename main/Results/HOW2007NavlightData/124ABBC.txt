@@ -1,0 +1,21 @@
+Team No. 124	Tag ID = ABBC   Tags=0005	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 89		12/06/2006  4:22:35 PM 	        	BRIEFING. Score reset.
+   2	 11	 10	16/06/2007 10:08:15 AM	  0:08:15	
+   3	 26	 20	16/06/2007 10:34:34 AM	  0:26:19	
+   4	 26		16/06/2007 10:34:40 AM	  0:00:06	     Punched on Line 3
+   5	 97		16/06/2007 12:22:14 PM	  1:47:34	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007 12:22:14 PM
+Time on course   2:22:14
+
+
+   30	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 30

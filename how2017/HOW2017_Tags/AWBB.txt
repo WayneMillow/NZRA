@@ -1,0 +1,33 @@
+Team No. 2205	Tag ID = AWBB   Tags=0016	Course 6Hr
+Tapering since Xmas: Amy Wilkins, Emma Wilson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 19		10/06/2017 10:45:24 AM	         	BRIEFING. Score reset.
+   2	 22	 20	10/06/2017 11:17:47 AM	  0:17:47	
+   3	 24	 20	10/06/2017 11:34:58 AM	  0:17:11	
+   4	 46	 40	10/06/2017 11:51:31 AM	  0:16:33	
+   5	 74	 70	10/06/2017 12:02:42 PM	  0:11:11	
+   6	 94	 90	10/06/2017 12:22:55 PM	  0:20:13	
+   7	 54	 50	10/06/2017 12:42:29 PM	  0:19:34	
+   8	 33	 30	10/06/2017  1:01:40 PM	  0:19:11	
+   9	 55	 50	10/06/2017  1:21:41 PM	  0:20:01	
+  10	 39	 30	10/06/2017  1:38:05 PM	  0:16:24	
+  11	 47	 40	10/06/2017  1:57:44 PM	  0:19:39	
+  12	 83	 80	10/06/2017  2:18:47 PM	  0:21:03	
+  13	 25	 20	10/06/2017  3:33:31 PM	  1:14:44	
+  14	 21	 20	10/06/2017  4:26:34 PM	  0:53:03	
+  15	 27	 20	10/06/2017  4:38:47 PM	  0:12:13	
+  16	108		10/06/2017  4:48:25 PM	  0:09:38	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:48:25 PM
+Time on course   5:48:25
+
+
+  580	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

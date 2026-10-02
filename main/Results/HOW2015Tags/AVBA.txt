@@ -1,0 +1,32 @@
+Team No. 620	Tag ID = AVBA   Tags=0015	Course 6Hr
+Heather Bushaway, Sharon English
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:47:15 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:22:40 AM	  0:22:40	
+   3	 65	 60	27/06/2015 11:41:32 AM	  0:18:52	
+   4	 34	 30	27/06/2015 12:01:54 PM	  0:20:22	
+   5	 24	 20	27/06/2015 12:26:07 PM	  0:24:13	
+   6	 83	 80	27/06/2015  1:11:06 PM	  0:44:59	
+   7	 73	 70	27/06/2015  1:45:14 PM	  0:34:08	
+   8	102	100	27/06/2015  2:14:07 PM	  0:28:53	
+   9	 53	 50	27/06/2015  2:53:33 PM	  0:39:26	
+  10	 45	 40	27/06/2015  3:15:06 PM	  0:21:33	
+  11	 92	 90	27/06/2015  3:38:41 PM	  0:23:35	
+  12	 54	 50	27/06/2015  4:00:49 PM	  0:22:08	
+  13	 66	 60	27/06/2015  4:11:19 PM	  0:10:30	
+  14	 27	 20	27/06/2015  4:40:10 PM	  0:28:51	
+  15	104		27/06/2015  4:48:42 PM	  0:08:32	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:48:42 PM
+Time on course   5:48:42
+
+
+  690	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 690

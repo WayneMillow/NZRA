@@ -1,0 +1,138 @@
+
+$header
+
+    Team category: $gender$agegroup
+    Event: $event
+    Total Fees: $$totalentryfee to be paid by $payment, ($calc_messagemail).
+
+    $messagemail  
+        $comments
+
+
+Team Members:
+ 
+      $realname    $email    (Team Contact)
+      $street1  $town1  $postcode1
+      $phone1
+      Entry fee - $$entryfee1
+    
+      $realname2    $email2
+      $street2  $town2  $postcode2
+      $phone2
+      Entry fee - $$entryfee2
+      
+      $realname3    $email3_message
+      $street3_message   $town3_message   $postcode3_message 
+      $phone3_message 
+      $entryfee3_message
+      
+      $realname4    $email4_message
+      $street4_message  $town4_message  $postcode4_message
+      $phone4_message
+      $entryfee4_message
+            
+      $realname5    $email5_message
+      $street5_message  $town5_message  $postcode5_message
+      $phone5_message
+      $entryfee5_message
+	  
+EVENT:  $event
+
+------  List of Entrants stuff -------
+
+<tr> 
+<td align=center valign=top>nnn</td>
+<td valign=top>$gender$agegroup</td>
+<td>$realname, $realname2$webname3_post$webname4_post$webname5_post</td></tr>
+
+
+------  Spreadsheet cut and paste stuff  -------
+---------------Team Member 1 ---
+$reg_date
+$dc
+$chq
+$totalentryfee
+
+
+$gender$agegroup
+$NumberInTeam
+Y
+$realname
+$street1
+$town1
+$postcode1
+$phone1
+$email
+
+---------------Team Member 2  ---
+ --
+
+
+
+
+
+
+
+
+$realname2
+$street2
+$town2
+$postcode2
+$phone2
+$email2
+
+---------------Team Member 3  ---
+ --
+
+
+
+
+
+
+
+
+$realname3
+$street3
+$town3
+$postcode3
+$phone3
+$email3
+
+---------------Team Member 4  ---
+ --
+
+
+
+
+
+
+
+
+$realname4
+$street4
+$town4
+$postcode4
+$phone4
+$email4
+
+---------------Team Member 5 ---
+ --
+
+
+
+
+
+
+
+
+$realname5
+$street5
+$town5
+$postcode5
+$phone5
+$email5
+
+--------------- End of Spreadsheet cut and paste  ---
+
+
+

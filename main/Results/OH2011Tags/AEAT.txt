@@ -1,0 +1,36 @@
+Team No. 34	Tag ID = AEAT   Tags=0019	Course Office
+ALL THE GEAR AND NO IDEA: Lisa Nicholl, Paul Truscott and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		 4/12/2011  9:19:45 AM 	         	BRIEFING. Score reset.
+   2	 72	 70	 4/12/2011  9:51:38 AM 	  0:21:38	
+   3	100	100	 2/12/2011  2:51:00 PM 	         	1.777 Days early.
+   4	 45	 40	 4/12/2011 10:30:44 AM	  0:39:06	
+   5	 65	 60	 4/12/2011 10:53:37 AM	  0:22:53	
+   6	 61	 60	 4/12/2011 11:21:33 AM	  0:27:56	
+   7	 61		 4/12/2011 11:27:12 AM	  0:05:39	     Punched on Line 6
+   8	 22	 20	 4/12/2011 11:51:16 AM	  0:24:04	
+   9	 71	 70	 4/12/2011 12:32:14 PM	  0:40:58	
+  10	 64	 60	 4/12/2011  1:11:01 PM 	  0:38:47	
+  11	 36	 30	 4/12/2011  1:28:10 PM 	  0:17:09	
+  12	 44	 40	 4/12/2011  1:54:53 PM 	  0:26:43	
+  13	 63	 60	 4/12/2011  2:18:27 PM 	  0:23:34	
+  14	 63		 4/12/2011  2:21:55 PM 	  0:03:28	     Punched on Line 13
+  15	 32	 30	 4/12/2011  2:47:51 PM 	  0:25:56	
+  16	 41	 40	 4/12/2011  3:09:36 PM 	  0:21:45	
+  17	 37	 30	 4/12/2011  3:57:08 PM 	  0:47:32	
+  18	 53	 50	 4/12/2011  4:08:20 PM 	  0:11:12	
+  19	107		 4/12/2011  4:24:16 PM 	  0:15:56	FINISH TIME.
+END
+
+
+Recognised finish time  4/12/2011  4:24:16 PM 
+Time on course   6:54:16
+
+
+  760	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

@@ -1,0 +1,29 @@
+Team No. 626	Tag ID = AHBB   Tags=0012	Course 6Hr
+Claire Wiechern, Kim Starnes and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 94		27/06/2015 10:55:39 AM	         	BRIEFING. Score reset.
+   2	 37	 30	27/06/2015 11:40:10 AM	  0:40:10	
+   3	 84	 80	27/06/2015 12:05:16 PM	  0:25:06	
+   4	 67	 60	27/06/2015 12:32:53 PM	  0:27:37	
+   5	 75	 70	27/06/2015  1:02:04 PM	  0:29:11	
+   6	 93	 90	27/06/2015  1:26:33 PM	  0:24:29	
+   7	103	100	27/06/2015  2:13:17 PM	  0:46:44	
+   8	 74	 70	27/06/2015  2:26:24 PM	  0:13:07	
+   9	 46	 40	27/06/2015  3:07:12 PM	  0:40:48	
+  10	 24	 20	27/06/2015  3:24:05 PM	  0:16:53	
+  11	 25	 20	27/06/2015  4:30:02 PM	  1:05:57	
+  12	108		27/06/2015  4:40:00 PM	  0:09:58	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:40:00 PM
+Time on course   5:40:00
+
+
+  580	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

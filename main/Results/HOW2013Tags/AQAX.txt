@@ -1,0 +1,37 @@
+Team No. 495	Tag ID = AQAX   Tags=0019	Course 6hr
+Full of Gas: Richard Evans, Mark Hawkins
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 10:16:51 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:36:12 AM	  0:07:12	
+   3	 20	 20	 8/06/2013 10:47:29 AM	  0:11:17	
+   4	 76	 70	 8/06/2013 10:58:02 AM	  0:10:33	
+   5	 66	 60	 8/06/2013 11:12:47 AM	  0:14:45	
+   6	 74	 70	 8/06/2013 11:49:24 AM	  0:36:37	
+   7	100	100	 8/06/2013 12:19:23 PM	  0:29:59	
+   8	 47	 40	 8/06/2013 12:46:34 PM	  0:27:11	
+   9	 56	 50	 8/06/2013  1:02:51 PM 	  0:16:17	
+  10	 83	 80	 8/06/2013  1:16:49 PM 	  0:13:58	
+  11	 38	 30	 8/06/2013  1:29:57 PM 	  0:13:08	
+  12	 65	 60	 8/06/2013  1:55:16 PM 	  0:25:19	
+  13	 28	 20	 8/06/2013  2:34:49 PM 	  0:39:33	
+  14	 39	 30	 8/06/2013  2:47:53 PM 	  0:13:04	
+  15	 34	 30	 8/06/2013  3:06:41 PM 	  0:18:48	
+  16	 68	 60	 8/06/2013  3:27:53 PM 	  0:21:12	
+  17	 86	 80	 8/06/2013  3:44:28 PM 	  0:16:35	
+  18	 21	 20	 8/06/2013  4:10:47 PM 	  0:26:19	 Punch  11 replaced by Group 21.
+  19	 13		 8/06/2013  4:17:51 PM 	  0:07:04	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:17:51 PM 
+Time on course   5:48:51
+
+
+  950	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 950

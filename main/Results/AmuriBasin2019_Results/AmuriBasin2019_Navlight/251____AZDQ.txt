@@ -1,0 +1,30 @@
+Team No. 251	Tag ID = AZDQ   Tags=0014	Course 1.5 hour
+Black Attack: Julia Black, Tom Black and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:43:52 PM	         	BRIEFING. Score reset.
+   2	  21 	   20	 7/07/2019 12:58:17 PM	         	Punch clock failed.
+   3	  47 	   40	 7/07/2019  1:03:33 PM	  0:03:33	
+   4	  31 	   30	 7/07/2019  1:13:42 PM	  0:10:09	
+   5	  73 	   70	 7/07/2019  1:22:06 PM	  0:08:24	
+   6	  33 	   30	 7/07/2019  1:35:43 PM	  0:13:37	
+   7	  23 	   20	 7/07/2019  1:42:37 PM	  0:06:54	
+   8	  51 	   50	 7/07/2019  1:53:33 PM	  0:10:56	
+   9	  32 	   30	 7/07/2019  2:02:10 PM	  0:08:37	
+  10	  49 	   40	 7/07/2019  2:09:15 PM	  0:07:05	
+  11	  26 	   20	 7/07/2019  2:16:58 PM	  0:07:43	
+  12	  22 	   20	 7/07/2019  2:24:34 PM	  0:07:36	
+  13	  16 		 7/07/2019  2:26:58 PM	  0:02:24	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:26:58 PM
+Time on course   1:26:58
+
+
+  370	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

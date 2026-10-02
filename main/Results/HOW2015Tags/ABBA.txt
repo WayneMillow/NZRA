@@ -1,0 +1,33 @@
+Team No. 611	Tag ID = ABBA   Tags=0017	Course 6Hr
+Sarah Snelder, Gilda Otway and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 91		27/06/2015 10:51:51 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:12:03 AM	  0:12:03	
+   3	 37	 30	27/06/2015 11:55:15 AM	  0:43:12	
+   4	 67	 60	27/06/2015 12:20:35 PM	  0:25:20	
+   5	 75	 70	27/06/2015 12:42:28 PM	  0:21:53	
+   6	 68	 60	27/06/2015  1:18:11 PM	  0:35:43	
+   7	 85	 80	27/06/2015  1:39:21 PM	  0:21:10	
+   8	 55	 50	27/06/2015  1:56:15 PM	  0:16:54	
+   9	 56	 50	16/06/2014  3:08:11 AM	         	Scored before Start.
+  10	 86	 80	27/06/2015  2:35:10 PM	  0:38:55	
+  11	 58	 50	27/06/2015  2:54:43 PM	  0:19:33	
+  12	 48	 40	27/06/2015  3:16:40 PM	  0:21:57	
+  13	 87	 80	27/06/2015  3:34:47 PM	  0:18:07	
+  14	 95	 90	27/06/2015  4:01:24 PM	  0:26:37	
+  15	 47	 40	27/06/2015  4:12:13 PM	  0:10:49	
+  16	104		27/06/2015  4:54:04 PM	  0:41:51	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:54:04 PM
+Time on course   5:54:04
+
+
+  800	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 800

@@ -1,0 +1,31 @@
+Team No. 190	Tag ID = AEDJ   Tags=0014	Course 3 hour
+Team Watt: David Watt, Hannah Watt
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:37:41 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:09:21 PM	  0:09:21	
+   3	  31 	   30	 7/07/2019 12:18:30 PM	  0:09:09	
+   4	  73 	   70	 7/07/2019 12:25:26 PM	  0:06:56	
+   5	  46 	   40	 7/07/2019 12:42:55 PM	  0:17:29	
+   6	  52 	   50	 7/07/2019 12:49:53 PM	  0:06:58	
+   7	  43 	   40	 7/07/2019  1:06:21 PM	  0:16:28	
+   8	  62 	   60	 7/07/2019  1:21:14 PM	  0:14:53	
+   9	  86 	   80	 7/07/2019  1:43:46 PM	  0:22:32	
+  10	  57 	   50	 7/07/2019  2:00:13 PM	  0:16:27	
+  11	  42 	   40	 7/07/2019  2:08:58 PM	  0:08:45	
+  12	  41 	   40	 7/07/2019  2:15:06 PM	  0:06:08	
+  13	  54 	   50	 7/07/2019  2:23:22 PM	  0:08:16	
+  14	  16 		 7/07/2019  2:55:23 PM	  0:32:01	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:55:23 PM
+Time on course   2:55:23
+
+
+  590	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

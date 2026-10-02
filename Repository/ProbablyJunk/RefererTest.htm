@@ -1,0 +1,68 @@
+<HTML>
+<HEAD><TITLE>Opinion Form</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<LINK href="../stylesheet.css" type=text/css rel=stylesheet>
+</HEAD>
+
+<!-- There are quite a few absolutes in this form, eg. redirect address, server address, form recipient.  -->
+
+<BODY  class=medium bgColor=lightblue>
+
+<!-- WKK... site dependence -->
+<form method=POST action="../cgi-bin/printenv.pl">
+
+<!-- WKK... site dependence -->
+<input type=hidden name="recipient" value="W.Kennedy@elec.canterbury.ac.nz">
+<!-- <input type=hidden name="recipient" value="Kennedyz@xtra.co.nz">  -->
+
+<input type=hidden name="subject" value="Proposed Rogaine Association"> 
+<input type=hidden name="required" value="realname,Address,Phone,email">
+<input type=hidden name="print_config" value="subject">
+<!--  <input type=hidden name="print_config" value="realname">  -->
+
+<!-- WKK... site dependence -->
+<!-- Note that the following two addresses cannot be relative because it is Perl that refers to them. -->
+<input type=hidden name="redirect" value="/main/OpinionFormResponse.htm">
+<input type=hidden name="missing_fields_redirect" value="/Rogaine/main/ResponseIncomplete.htm">
+
+
+<center><font class=subtitle><u>Give Your Opinion</u> </font></center><br>
+
+<table align=center border=0>
+<tr> 
+<th class=medium colspan=2>(Please note that fields marked with ** must be completed)</th></tr> 
+<tr> 
+<th align=right class=mediumB>**Name: </th><td><input type=text name="realname" size=40 style="font-size: 9pt;"></td></tr>
+<tr> 
+<th align=right class=mediumB>**Address: </th><td><input type=text name="Address" size=40 style="font-size: 9pt;"></td></tr>
+<tr> 
+<th align=right class=mediumB>**E-Mail: </th><td><input type=text name="email" size=40 style="font-size: 9pt;"></td></tr>
+<tr> 
+<th align=right class=mediumB>**Phone: </th><td><input type=text name="Phone" size=20 style="font-size: 9pt;">&nbsp;&nbsp;&nbsp;<font class=smaller>Tick to join the email list</font> <input type=checkbox name=Mailing_List checked></td></tr>
+<tr> 
+<th align=right class=mediumB>Fax: </th><td><input type=text name="Fax" size=20 style="font-size: 9pt;"></td></tr>
+<tr> 
+<th align=left class=mediumB colspan=2> Should a New Zealand Rogaine Association be formed?
+<input type=radio name="Form_Association?" value="Yes"  Checked> Yes 
+<input type=radio name="Form_Association?" value="No"  >No
+</th></tr> 
+</table></center> 
+
+
+<hr size=1> 
+<center><table border=0> 
+<tr><th class=largerB valign=top>-- Discussion, Opinion, Comments --</th></tr>
+<tr><td style="font-size: 9pt;"> <textarea name="Comments" class=medium style="font-size=10pt;" COLS=60 ROWS=12 wrap=physical>
+To: Peter Squires
+    Interim Chair, NZ Rogaining Association
+
+Hello Peter,
+
+</textarea></td></tr></table></center> 
+
+<center><input type="submit" value="Send Message"> <input type="reset" value="Clear Form">
+<font class=smaller> <br><br> 
+[<a href="" onClick="window.close()">Close this window</a>] 
+</font></center></form>
+</body> 
+</html>  

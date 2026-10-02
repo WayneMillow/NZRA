@@ -1,0 +1,26 @@
+Team No. 111	Tag ID = ABBB   Tags=0009	Course 6 hour
+The Stevie Wanderers: Fiona Canning, Bronwyn Walsh
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:11:21 AM	  0:11:21	
+   2	  25 	   20	19/06/2021 11:29:50 AM	  0:18:29	
+   3	  47 	   40	19/06/2021 12:29:07 PM	  0:59:17	
+   4	  80 	   80	19/06/2021 12:49:40 PM	  0:20:33	
+   5	  49 	   40	19/06/2021  1:22:51 PM	  0:33:11	
+   6	 100 	  100	19/06/2021  2:43:46 PM	  1:20:55	
+   7	  77 	   70	19/06/2021  3:30:34 PM	  0:46:48	
+   8	  38 	   30	19/06/2021  3:53:23 PM	  0:22:49	
+   9	  57 		19/06/2021  4:46:19 PM	  0:52:56	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:46:19 PM
+Time on course   5:46:19
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

@@ -1,0 +1,29 @@
+Team No. 59	Tag ID = AWAW   Tags=0013	Course 12hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	102		16/06/2007  8:15:45 AM 	        	BRIEFING. Score reset.
+   2	 23	 20	16/06/2007  9:30:42 AM 	  0:30:42	
+   3	 37	 30	16/06/2007 10:00:01 AM	  0:29:19	
+   4	 22	 20	16/06/2007 12:10:28 PM	  2:10:27	
+   5	 61	 60	16/06/2007 12:29:40 PM	  0:19:12	
+   6	 21	 20	16/06/2007 12:59:33 PM	  0:29:53	
+   7	 81	 80	16/06/2007  1:24:32 PM 	  0:24:59	
+   8	 73	 70	16/06/2007  2:05:10 PM 	  0:40:38	
+   9	 35	 30	16/06/2007  2:58:40 PM 	  0:53:30	
+  10	 34	 30	16/06/2007  3:21:10 PM 	  0:22:30	
+  11	 28	 20	16/06/2007  4:01:07 PM 	  0:39:57	
+  12	 27	 20	16/06/2007  5:16:58 PM 	  1:15:51	
+  13	 		16/06/2007  6:40:32 PM 	  1:23:34	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  6:40:32 PM 
+Time on course   9:40:32
+
+
+  400	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

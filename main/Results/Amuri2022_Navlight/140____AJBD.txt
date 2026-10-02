@@ -1,0 +1,27 @@
+Team No. 140	Tag ID = AJBD   Tags=0010	Course 3hr
+scrambled legs: susan fitzmaurice, claire spear and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:10:13 PM	  0:10:13	
+   2	  52 	   50	 3/07/2022 12:14:08 PM	  0:03:55	
+   3	  33 	   30	 3/07/2022 12:20:51 PM	  0:06:43	
+   4	  53 	   50	 3/07/2022 12:47:21 PM	  0:26:30	
+   5	  24 	   20	 3/07/2022  1:11:55 PM	  0:24:34	
+   6	  61 	   60	 3/07/2022  1:41:08 PM	  0:29:13	
+   7	  50 	   50	 3/07/2022  2:01:50 PM	  0:20:42	
+   8	  41 	   40	 3/07/2022  2:43:38 PM	  0:41:48	
+   9	  31 	   30	 3/07/2022  2:49:02 PM	  0:05:24	
+  10	  19 		 3/07/2022  2:56:30 PM	  0:07:28	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:56:30 PM
+Time on course   2:56:30
+
+
+  350	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 350

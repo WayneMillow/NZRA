@@ -1,0 +1,33 @@
+Team No. 65	Tag ID = AJAX   Tags=0015	Course 24 hour
+Mispeeled team naem: Amelia Rolfe, Stefan Przychodzko and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  9:32:24 AM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020 12:21:01 PM	  0:21:01	
+   3	  87 	   80	 7/11/2020  1:44:40 PM	  1:23:39	
+   4	  44 	   40	 7/11/2020  2:25:56 PM	  0:41:16	
+   5	 104 	  100	 7/11/2020  2:59:30 PM	  0:33:34	
+   6	  67 	   60	 7/11/2020  3:46:07 PM	  0:46:37	
+   7	  82 	   80	 7/11/2020  4:22:06 PM	  0:35:59	
+   8	 103 	  100	 7/11/2020  5:35:46 PM	  1:13:40	
+   9	  89 	   80	 7/11/2020  6:01:34 PM	  0:25:48	
+  10	  73 	   70	 7/11/2020  6:36:24 PM	  0:34:50	
+  11	  53 	   50	 7/11/2020  7:46:31 PM	  1:10:07	
+  12	  96 	   90	 7/11/2020  8:09:41 PM	  0:23:10	
+  13	  85 	   80	 7/11/2020 11:07:36 PM	  2:57:55	
+  14	  39 	   30	 8/11/2020  0:07:20 AM	  0:59:44	
+  15	  19 		 8/11/2020  6:50:50 AM	  6:43:30	FINISH TIME.
+END
+	AddedPunch54	50
+
+
+Recognised finish time  8/11/2020  6:50:50 AM
+Time on course  18:50:50
+
+
+  940	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 940

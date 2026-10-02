@@ -1,0 +1,26 @@
+Team No. 672	Tag ID = ANDF   Tags=0009	Course 6Hr
+Julia Taylor, Tania Robb and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 94		27/06/2015 10:45:50 AM	         	BRIEFING. Score reset.
+   2	 66	 60	27/06/2015 11:45:57 AM	  0:45:57	
+   3	 54	 50	27/06/2015 12:00:33 PM	  0:14:36	
+   4	 92	 90	27/06/2015  1:10:15 PM	  1:09:42	
+   5	102	100	27/06/2015  2:01:53 PM	  0:51:38	
+   6	 53	 50	27/06/2015  2:57:13 PM	  0:55:20	
+   7	 34	 30	27/06/2015  3:27:39 PM	  0:30:26	
+   8	 25	 20	27/06/2015  4:22:58 PM	  0:55:19	
+   9	106		27/06/2015  4:41:14 PM	  0:18:16	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:41:14 PM
+Time on course   5:41:14
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

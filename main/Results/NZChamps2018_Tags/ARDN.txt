@@ -1,0 +1,25 @@
+Team No. 203	Tag ID = ARDN   Tags=0008	Course 6 hour
+sissy: Nadia Mclean, Tara Mclean
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		24/11/2018 11:58:57 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018  1:14:38 PM	  1:14:38	
+   3	  46 	   40	24/11/2018  1:40:44 PM	  0:26:06	
+   4	  68 	   60	24/11/2018  2:12:02 PM	  0:31:18	
+   5	  75 	   70	24/11/2018  3:10:20 PM	  0:58:18	
+   6	  84 	   80	24/11/2018  3:35:22 PM	  0:25:02	
+   7	  97 	   90	24/11/2018  4:03:46 PM	  0:28:24	
+   8	  17 		24/11/2018  5:52:13 PM	  1:48:27	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:52:13 PM
+Time on course   5:52:13
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

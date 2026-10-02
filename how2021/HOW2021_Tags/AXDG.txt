@@ -1,0 +1,28 @@
+Team No. 173	Tag ID = AXDG   Tags=0011	Course 6 hour
+Wallflowers: David Wall, Frances Wall
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:09:21 AM	  0:09:21	
+   2	  24 	   20	19/06/2021 11:22:32 AM	  0:13:11	
+   3	  47 	   40	19/06/2021 12:09:56 PM	  0:47:24	
+   4	  80 	   80	19/06/2021 12:27:14 PM	  0:17:18	
+   5	  50 	   50	19/06/2021  1:34:42 PM	  1:07:28	
+   6	 100 	  100	19/06/2021  2:24:12 PM	  0:49:30	
+   7	  35 	   30	19/06/2021  2:45:05 PM	  0:20:53	
+   8	  67 	   60	19/06/2021  3:02:31 PM	  0:17:26	
+   9	  77 	   70	19/06/2021  3:38:52 PM	  0:36:21	
+  10	  25 	   20	19/06/2021  4:30:32 PM	  0:51:40	
+  11	  57 		19/06/2021  5:01:45 PM	  0:31:13	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:01:45 PM
+Time on course   6:01:45
+
+
+  500	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 480

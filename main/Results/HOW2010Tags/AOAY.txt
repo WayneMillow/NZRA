@@ -1,0 +1,31 @@
+Team No. 658	Tag ID = AOAY   Tags=0013	Course 6_HoW
+Lynne John, Winsome Brown
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 29		26/06/2010 10:44:27 AM	         	BRIEFING. Score reset.
+   2	 84	 80	26/06/2010 11:34:30 AM	  0:34:30	
+   3	 56	 50	26/06/2010 11:58:23 AM	  0:23:53	
+   4	 93	 90	26/06/2010 12:18:01 PM	  0:19:38	
+   5	 75	 70	26/06/2010 12:47:36 PM	  0:29:35	
+   6	 66	 60	26/06/2010  1:03:08 PM 	  0:15:32	
+   7	 21	 20	26/06/2010  2:01:32 PM 	  0:58:24	
+   8	 81	 80	26/06/2010  2:21:06 PM 	  0:19:34	
+   9	 73	 70	26/06/2010  2:53:06 PM 	  0:32:00	
+  10	 54	 50	26/06/2010  3:41:50 PM 	  0:48:44	
+  11	 34	 30	26/06/2010  4:26:56 PM 	  0:45:06	
+  12	 45	 40	26/06/2010  4:40:42 PM 	  0:13:46	
+  13	 16		26/06/2010  4:59:45 PM 	  0:19:03	FINISH TIME.
+END
+	AddedPunch63	60
+
+
+Recognised finish time 26/06/2010  4:59:45 PM 
+Time on course   5:59:45
+
+
+  700	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 700

@@ -1,0 +1,33 @@
+Team No. 202	Tag ID = AJDK   Tags=0016	Course 3 hour
+Crusty   Co: Connor Wilson, Simon Wilson and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:46:10 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:08:54 PM	  0:08:54	
+   3	  45 	   40	 7/07/2019 12:24:59 PM	  0:16:05	
+   4	  72 	   70	 7/07/2019 12:51:30 PM	  0:26:31	
+   5	  67 	   60	 7/07/2019  1:04:58 PM	  0:13:28	
+   6	  54 	   50	 7/07/2019  1:14:10 PM	  0:09:12	
+   7	  41 	   40	 7/07/2019  1:20:17 PM	  0:06:07	
+   8	  42 	   40	 7/07/2019  1:27:12 PM	  0:06:55	
+   9	  57 	   50	 7/07/2019  1:32:34 PM	  0:05:22	
+  10	  44 	   40	 7/07/2019  1:49:06 PM	  0:16:32	
+  11	  55 	   50	 7/07/2019  2:17:32 PM	  0:28:26	
+  12	  62 	   60	 7/07/2019  2:26:28 PM	  0:08:56	
+  13	  43 	   40	 7/07/2019  2:36:07 PM	  0:09:39	
+  14	  52 	   50	 7/07/2019  2:43:55 PM	  0:07:48	
+  15	  46 	   40	 7/07/2019  2:50:37 PM	  0:06:42	
+  16	  16 		 7/07/2019  3:03:50 PM	  0:13:13	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:03:50 PM
+Time on course   3:03:50
+
+
+  680	Points Scored.
+  -40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

@@ -1,0 +1,25 @@
+Team No. 496	Tag ID = ASAX   Tags=0008	Course 2.5hr
+hardarrisons: Tom Harding, Felix Harrison
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013 12:42:34 PM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013  1:08:25 PM 	  0:07:25	 Punch  10 replaced by Group 58.
+   3	 27	 20	 8/06/2013  1:23:45 PM 	  0:15:20	
+   4	 76	 70	 8/06/2013  1:31:27 PM 	  0:07:42	
+   5	 85	 80	 8/06/2013  1:38:44 PM 	  0:07:17	
+   6	 19	 10	 8/06/2013  2:39:13 PM 	  1:00:29	
+   7	 93	 90	 8/06/2013  2:58:26 PM 	  0:19:13	
+   8	 16		 8/06/2013  3:22:05 PM 	  0:23:39	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:22:05 PM 
+Time on course   2:21:05
+
+
+  320	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 320

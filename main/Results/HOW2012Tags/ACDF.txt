@@ -1,0 +1,35 @@
+Team No. 662	Tag ID = ACDF   Tags=0018	Course 6hr
+Tania Leslie, Maria Evans and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		30/06/2012 10:42:42 AM	         	BRIEFING. Score reset.
+   2	 12	 10	30/06/2012 11:04:51 AM	  0:04:51	 Punch  77 replaced by Group 12.
+   3	 43	 40	30/06/2012 11:19:28 AM	  0:14:37	 Punch  86 replaced by Group 43.
+   4	 32	 30	30/06/2012 11:32:24 AM	  0:12:56	
+   5	 81	 80	30/06/2012 11:49:03 AM	  0:16:39	
+   6	 70	 70	30/06/2012 12:04:35 PM	  0:15:32	
+   7	 61	 60	30/06/2012 12:28:52 PM	  0:24:17	
+   8	 40	 40	30/06/2012 12:55:26 PM	  0:26:34	
+   9	 50	 50	30/06/2012  1:06:02 PM 	  0:10:36	
+  10	 51	 50	30/06/2012  1:25:22 PM 	  0:19:20	
+  11	 42	 40	30/06/2012  1:49:29 PM 	  0:24:07	
+  12	 90	 90	30/06/2012  2:10:52 PM 	  0:21:23	
+  13	 58	 50	30/06/2012  2:31:50 PM 	  0:20:58	
+  14	 39	 30	30/06/2012  2:56:10 PM 	  0:24:20	
+  15	 65	 60	30/06/2012  3:16:30 PM 	  0:20:20	
+  16	 71	 70	30/06/2012  3:47:02 PM 	  0:30:32	
+  17	 64	 60	30/06/2012  4:13:26 PM 	  0:26:24	
+  18	106		30/06/2012  4:45:46 PM 	  0:32:20	FINISH TIME.
+END
+
+
+Recognised finish time 30/06/2012  4:45:46 PM 
+Time on course   5:45:46
+
+
+  830	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 830

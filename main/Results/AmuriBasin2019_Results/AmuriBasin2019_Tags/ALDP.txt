@@ -1,0 +1,30 @@
+Team No. 253	Tag ID = ALDP   Tags=0014	Course 1.5 hour
+Sherwood Shortcuts: Jack Boissard, Alex Boissard and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:42:23 PM	         	BRIEFING. Score reset.
+   2	  22 	   20	 7/07/2019 12:56:40 PM	         	Punch clock failed.
+   3	  21 	   20	 7/07/2019  1:02:59 PM	  0:02:59	
+   4	  47 	   40	 7/07/2019  1:08:30 PM	  0:05:31	
+   5	  31 	   30	 7/07/2019  1:17:18 PM	  0:08:48	
+   6	  73 	   70	 7/07/2019  1:24:11 PM	  0:06:53	
+   7	  33 	   30	 7/07/2019  1:30:56 PM	  0:06:45	
+   8	  46 	   40	 7/07/2019  1:50:15 PM	  0:19:19	
+   9	  52 	   50	 7/07/2019  1:55:11 PM	  0:04:56	
+  10	  59 	   50	 7/07/2019  2:09:39 PM	  0:14:28	
+  11	  39 	   30	 7/07/2019  2:22:28 PM	  0:12:49	
+  12	  26 	   20	 7/07/2019  2:29:11 PM	  0:06:43	
+  13	  18 		 7/07/2019  2:32:23 PM	  0:03:12	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:32:23 PM
+Time on course   1:32:23
+
+
+  400	Points Scored.
+  -15	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 385

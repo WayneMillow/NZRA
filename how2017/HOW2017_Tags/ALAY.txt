@@ -1,0 +1,31 @@
+Team No. 2116	Tag ID = ALAY   Tags=0014	Course 6Hr
+Fab 5 Junior (minus 2): Liz Woodhouse, Jo Clatworthy and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 17		10/06/2017 10:42:31 AM	         	BRIEFING. Score reset.
+   2	 20	 20	10/06/2017 11:25:22 AM	  0:25:22	
+   3	 31	 30	10/06/2017 11:47:41 AM	  0:22:19	
+   4	 41	 40	10/06/2017 12:14:40 PM	  0:26:59	
+   5	 90	 90	10/06/2017 12:40:54 PM	  0:26:14	
+   6	 37	 30	10/06/2017  1:24:21 PM	  0:43:27	
+   7	 80	 80	10/06/2017  2:04:41 PM	  0:40:20	
+   8	 60	 60	10/06/2017  2:50:38 PM	  0:45:57	
+   9	100	100	10/06/2017  3:25:11 PM	  0:34:33	
+  10	 21	 20	10/06/2017  4:23:01 PM	  0:57:50	
+  11	 21		10/06/2017  4:23:10 PM	  0:00:09	 Punch  12 replaced by Group 21. Punched on Line 10
+  12	 27	 20	10/06/2017  4:37:21 PM	  0:14:11	
+  13	 29	 20	10/06/2017  4:49:16 PM	  0:11:55	 Punch  50 replaced by Group 29.
+  14	108		10/06/2017  4:52:56 PM	  0:03:40	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:52:56 PM
+Time on course   5:52:56
+
+
+  510	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 510

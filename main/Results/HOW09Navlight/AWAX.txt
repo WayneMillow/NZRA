@@ -1,0 +1,22 @@
+Team No. 71	Tag ID = AWAX   Tags=0005	Course 6hr
+Lynne John, Winsome Brown and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 4/07/2009 10:12:30 AM	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:54:32 AM	  0:24:32	
+   3	 65	 60	 4/07/2009  1:06:47 PM 	  2:12:15	
+   4	 21	 20	 4/07/2009  3:43:57 PM 	  2:37:10	
+   5	105		 4/07/2009  4:35:06 PM 	  0:51:09	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:35:06 PM 
+Time on course   6:05:06
+
+
+   90	Points Scored.
+   60	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 30

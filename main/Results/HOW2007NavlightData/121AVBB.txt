@@ -1,0 +1,23 @@
+Team No. 121	Tag ID = AVBB   Tags=0007	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 86		12/06/2006  4:49:49 PM 	        	BRIEFING. Score reset.
+   2	 23	 20	16/06/2007 10:26:05 AM	  0:26:05	
+   3	 36	 30	16/06/2007 10:47:47 AM	  0:21:42	
+   4	 12	 10	16/06/2007 11:16:34 AM	  0:28:47	
+   5	 28	 20	16/06/2007 11:36:04 AM	  0:19:30	
+   6	 37	 30	16/06/2007 11:57:14 AM	  0:21:10	
+   7	 97		16/06/2007 12:32:21 PM	  0:35:07	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007 12:32:21 PM
+Time on course   2:32:21
+
+
+  110	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 110

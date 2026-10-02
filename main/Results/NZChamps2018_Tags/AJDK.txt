@@ -1,0 +1,18 @@
+Team No. 202	Tag ID = AJDK   Tags=0001	Course 6 hour
+Rhett Team: Rhett Doyle (AUS), Rhet Mate (AUS)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  18 		25/11/2018  3:03:00 AM	 15:03:00	FINISH TIME.
+END
+
+
+Recognised finish time 25/11/2018  3:03:00 AM
+Time on course  15:03:00
+
+
+    0	Points Scored.
+    0	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0 LATE

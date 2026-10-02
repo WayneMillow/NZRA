@@ -1,0 +1,27 @@
+Team No. 202	Tag ID = AODL   Tags=0010	Course 6 hour
+Roamin' Holiday: Penny Richards, Saralinda MacMillan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  8:48:40 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:18:05 PM	  0:18:05	
+   3	  39 	   30	 7/11/2020  1:41:41 PM	  0:23:36	
+   4	 107 	  100	 7/11/2020  2:34:48 PM	  0:53:07	
+   5	  85 	   80	 7/11/2020  3:14:36 PM	  0:39:48	
+   6	  45 	   40	 7/11/2020  3:41:30 PM	  0:26:54	
+   7	  83 	   80	 7/11/2020  4:26:11 PM	  0:44:41	
+   8	  73 	   70	 7/11/2020  5:18:52 PM	  0:52:41	
+   9	  87 	   80	 7/11/2020  6:15:26 PM	  0:56:34	
+  10	  18 		 7/11/2020  6:55:21 PM	  0:39:55	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:55:21 PM
+Time on course   5:55:21
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

@@ -1,0 +1,32 @@
+Team No. 158	Tag ID = AQDF   Tags=0015	Course 6 hour
+Magic Dragons: Clare Palmer, Charlotte Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		11/06/2022 10:53:26 AM	         	BRIEFING. Score reset.
+   2	  24 	   20	11/06/2022 11:21:33 AM	  0:21:33	
+   3	  79 	   70	11/06/2022 12:09:19 PM	  0:47:46	
+   4	 103 	  100	11/06/2022  1:09:03 PM	  0:59:44	
+   5	  84 	   80	11/06/2022  1:37:01 PM	  0:27:58	
+   6	  54 	   50	11/06/2022  2:26:56 PM	  0:49:55	
+   7	  65 	   60	11/06/2022  2:53:37 PM	  0:26:41	
+   8	  46 	   40	11/06/2022  3:09:48 PM	  0:16:11	
+   9	  22 	   20	11/06/2022  3:38:14 PM	  0:28:26	
+  10	  36 	   30	11/06/2022  3:46:47 PM	  0:08:33	
+  11	  66 	   60	11/06/2022  4:02:19 PM	  0:15:32	
+  12	  37 	   30	11/06/2022  4:18:04 PM	  0:15:45	
+  13	  76 	   70	11/06/2022  4:35:59 PM	  0:17:55	
+  14	  25 	   20	11/06/2022  4:48:09 PM	  0:12:10	
+  15	  12 		11/06/2022  4:57:37 PM	  0:09:28	FINISH TIME.
+END
+
+
+Recognised finish time 11/06/2022  4:57:37 PM
+Time on course   5:57:37
+
+
+  650	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 650

@@ -1,0 +1,32 @@
+Team No. 563	Tag ID = AGBC   Tags=0015	Course 10hr
+Otago Outies: Joel Linscott, Jessica Polglase
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013  8:52:46 AM 	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013  9:10:43 AM 	  0:05:43	
+   3	 86	 80	 8/06/2013  9:49:03 AM 	  0:38:20	
+   4	 68	 60	 8/06/2013 10:19:25 AM	  0:30:22	
+   5	101	100	 8/06/2013 11:42:56 AM	  1:23:31	
+   6	 43	 40	 8/06/2013 12:16:39 PM	  0:33:43	
+   7	 22	 20	 8/06/2013 12:39:06 PM	  0:22:27	
+   8	 89	 80	 8/06/2013  1:01:13 PM 	  0:22:07	
+   9	 70	 70	 8/06/2013  1:48:47 PM 	  0:47:34	
+  10	 52	 50	 8/06/2013  2:22:41 PM 	  0:33:54	
+  11	 31	 30	 8/06/2013  3:10:45 PM 	  0:48:04	
+  12	 51	 50	 8/06/2013  3:23:04 PM 	  0:12:19	
+  13	102	100	 8/06/2013  3:59:09 PM 	  0:36:05	
+  14	 33	 30	 8/06/2013  4:23:11 PM 	  0:24:02	
+  15	 13		 8/06/2013  6:28:05 PM 	  2:04:54	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  6:28:05 PM 
+Time on course   9:23:05
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

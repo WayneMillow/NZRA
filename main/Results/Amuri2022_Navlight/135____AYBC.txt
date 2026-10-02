@@ -1,0 +1,30 @@
+Team No. 135	Tag ID = AYBC   Tags=0013	Course 3hr
+The Blind leading the blind: Sam Irani, Aranzazuas Pagalday
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	 3/07/2022 12:09:08 PM	  0:09:08	
+   2	  53 	   50	 3/07/2022 12:24:37 PM	  0:15:29	
+   3	  43 	   40	 3/07/2022 12:36:13 PM	  0:11:36	
+   4	  44 	   40	 3/07/2022 12:45:29 PM	  0:09:16	
+   5	  55 	   50	 3/07/2022 12:51:29 PM	  0:06:00	
+   6	  97 	   90	 3/07/2022  1:01:08 PM	  0:09:39	
+   7	  54 	   50	 3/07/2022  1:12:53 PM	  0:11:45	
+   8	 101 	  100	 3/07/2022  1:30:18 PM	  0:17:25	
+   9	  73 	   70	 3/07/2022  1:45:23 PM	  0:15:05	
+  10	  23 	   20	 3/07/2022  5:58:15 AM	         	Punch clock failed.
+  11	  65 	   60	 3/07/2022  2:17:57 PM	  0:32:34	
+  12	  41 	   40	 3/07/2022  2:51:50 PM	  0:33:53	
+  13	  18 		 3/07/2022  2:54:51 PM	  0:03:01	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:54:51 PM
+Time on course   2:54:51
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

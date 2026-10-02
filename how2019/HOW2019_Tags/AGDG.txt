@@ -1,0 +1,28 @@
+Team No. 166	Tag ID = AGDG   Tags=0011	Course 6hr
+Gander with girls: Kate Day, Rachel Wells
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:45:01 AM	         	BRIEFING. Score reset.
+   2	  31 	   30	15/06/2019 11:11:48 AM	  0:11:48	
+   3	  62 	   60	15/06/2019 11:24:02 AM	  0:12:14	
+   4	  53 	   50	15/06/2019 11:47:30 AM	  0:23:28	
+   5	  75 	   70	15/06/2019 12:33:17 PM	  0:45:47	
+   6	  80 	   80	15/06/2019  1:24:03 PM	  0:50:46	
+   7	  91 	   90	15/06/2019  1:57:44 PM	  0:33:41	
+   8	  52 	   50	15/06/2019  2:44:07 PM	  0:46:23	
+   9	  72 	   70	15/06/2019  2:57:34 PM	  0:13:27	
+  10	  30 	   30	15/06/2019  3:33:41 PM	  0:36:07	
+  11	  19 		15/06/2019  3:55:45 PM	  0:22:04	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  3:55:45 PM
+Time on course   4:55:45
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

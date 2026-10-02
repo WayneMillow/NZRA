@@ -1,0 +1,32 @@
+Team No. 138	Tag ID = AFBD   Tags=0015	Course 6 hour
+GAC: annabel crozier, glen crozier
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		11/06/2022 10:11:47 AM	         	BRIEFING. Score reset.
+   2	  24 	   20	11/06/2022 11:13:56 AM	  0:13:56	
+   3	  79 	   70	11/06/2022 11:31:07 AM	  0:17:11	
+   4	 103 	  100	11/06/2022 12:01:58 PM	  0:30:51	
+   5	  84 	   80	11/06/2022 12:26:20 PM	  0:24:22	
+   6	  94 	   90	11/06/2022  1:04:56 PM	  0:38:36	
+   7	  74 	   70	11/06/2022  1:19:18 PM	  0:14:22	
+   8	  57 	   50	11/06/2022  1:36:53 PM	  0:17:35	
+   9	  44 	   40	11/06/2022  2:15:27 PM	  0:38:34	
+  10	  93 	   90	11/06/2022  2:29:42 PM	  0:14:15	
+  11	  92 	   90	11/06/2022  2:58:50 PM	  0:29:08	
+  12	  83 	   80	11/06/2022  3:22:09 PM	  0:23:19	
+  13	  26 	   20	11/06/2022  3:50:57 PM	  0:28:48	
+  14	  75 	   70	11/06/2022  4:46:18 PM	  0:55:21	
+  15	  14 		11/06/2022  5:33:28 PM	  0:47:10	FINISH TIME.
+END
+
+
+Recognised finish time 11/06/2022  5:33:28 PM
+Time on course   6:33:28
+
+
+  870	Points Scored.
+ -870	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

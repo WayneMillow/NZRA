@@ -1,0 +1,25 @@
+Team No. 55	Tag ID = AOAW   Tags=0008	Course NZChamps
+Jet Planes: Ramash Swamy, Jo Swamy and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 11:49:54 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016  1:07:16 PM	  1:07:16	
+   3	 52	 50	27/02/2016  2:20:26 PM	  1:13:10	
+   4	 60	 60	27/02/2016  4:31:28 PM	  2:11:02	
+   5	 17		27/02/2016  5:49:57 PM	  1:18:29	FINISH TIME.
+   6	 44	 40	28/02/2016 10:44:15 AM	 16:54:18	
+   7	 20	 20	28/02/2016 11:21:10 AM	  0:36:55	
+   8	 18		28/02/2016 11:52:48 AM	  0:31:38	FINISH TIME.
+END
+
+
+Recognised finish time 28/02/2016 11:52:48 AM
+Time on course  23:52:48
+
+
+  190	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

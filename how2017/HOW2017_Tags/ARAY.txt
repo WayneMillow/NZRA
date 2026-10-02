@@ -1,0 +1,30 @@
+Team No. 2120	Tag ID = ARAY   Tags=0013	Course 6Hr
+Team EJ: Neal Jason, Neal Ethan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 16		10/06/2017 10:46:26 AM	         	BRIEFING. Score reset.
+   2	 20	 20	10/06/2017 11:21:28 AM	  0:21:28	
+   3	 31	 30	10/06/2017 11:36:58 AM	  0:15:30	
+   4	 42	 40	10/06/2017 11:58:23 AM	  0:21:25	
+   5	100	100	10/06/2017 12:18:01 PM	  0:19:38	
+   6	 61	 60	10/06/2017 12:55:55 PM	  0:37:54	
+   7	 70	 70	10/06/2017  1:26:33 PM	  0:30:38	
+   8	 26	 20	10/06/2017  2:01:32 PM	  0:34:59	
+   9	 34	 30	10/06/2017  2:27:17 PM	  0:25:45	
+  10	 25	 20	10/06/2017  3:47:01 PM	  1:19:44	
+  11	 22	 20	10/06/2017  4:20:11 PM	  0:33:10	
+  12	 27	 20	10/06/2017  4:45:48 PM	  0:25:37	
+  13	108		10/06/2017  4:54:33 PM	  0:08:45	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:54:33 PM
+Time on course   5:54:33
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

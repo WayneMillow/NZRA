@@ -1,0 +1,27 @@
+Team No. 600	Tag ID = AMDF   Tags=0030	Course 6hr
+Team Black Ops: Kelly Ashley, Nic Ashley, Shane Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  21	109		 8/06/2013 10:25:28 AM	         	BRIEFING. Score reset.
+  22	 58	 50	 8/06/2013 10:40:51 AM	  0:11:51	 Punch  10 replaced by Group 58.
+  23	 76	 70	 8/06/2013 11:32:14 AM	  0:51:23	
+  24	 66	 60	 8/06/2013 12:09:47 PM	  0:37:33	
+  25	 57	 50	 8/06/2013  1:03:33 PM 	  0:53:46	
+  26	 75	 70	 8/06/2013  1:26:17 PM 	  0:22:44	
+  27	 28	 20	 8/06/2013  2:11:01 PM 	  0:44:44	
+  28	 20	 20	 8/06/2013  3:05:27 PM 	  0:54:26	
+  29	 21	 20	 8/06/2013  3:37:09 PM 	  0:31:42	
+  30	 13		 8/06/2013  3:44:45 PM 	  0:07:36	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:44:45 PM 
+Time on course   5:15:45
+
+
+  360	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 360

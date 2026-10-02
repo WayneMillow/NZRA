@@ -1,0 +1,35 @@
+Team No. 613	Tag ID = AGAW   Tags=0018	Course 6_HoW
+Nicole Pieper, Rob Pieper and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 29		26/06/2010 10:42:07 AM	         	BRIEFING. Score reset.
+   2	 46	 40	26/06/2010 11:11:49 AM	  0:11:49	
+   3	 94	 90	26/06/2010 11:20:03 AM	  0:08:14	
+   4	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   5	 32	 30	26/06/2010 11:48:39 AM	  0:39:40	
+   6	 37	 30	24/06/2010  6:37:10 PM 	         	1.683 Days early.
+   7	 76	 70	26/06/2010 12:21:47 PM	  0:33:08	 Punch  04 replaced by Group 76.
+   8	 58	 50	26/06/2010 12:34:55 PM	  0:13:08	
+   9	 86	 80	26/06/2010  1:04:45 PM 	  0:29:50	
+  10	102	100	26/06/2010  1:32:34 PM 	  0:27:49	
+  11	 85	 80	26/06/2010  2:19:10 PM 	  0:46:36	
+  12	 66	 60	26/06/2010  2:35:25 PM 	  0:16:15	
+  13	 93	 90	26/06/2010  3:03:00 PM 	  0:27:35	
+  14	 56	 50	26/06/2010  3:15:42 PM 	  0:12:42	
+  15	 84	 80	26/06/2010  3:37:46 PM 	  0:22:04	
+  16	 34	 30	26/06/2010  4:03:07 PM 	  0:25:21	
+  17	 45	 40	26/06/2010  4:15:07 PM 	  0:12:00	
+  18	 17		26/06/2010  4:44:44 PM 	  0:29:37	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:44:44 PM 
+Time on course   5:44:44
+
+
+  970	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 970

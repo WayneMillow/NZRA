@@ -1,0 +1,35 @@
+Team No. 214	Tag ID = AADK   Tags=0018	Course 6 hour
+Forrest dwelling ultra ninjas: Louis Schindler, Christo Saggers
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  9:42:31 AM	         	BRIEFING. Score reset.
+   2	  38 	   30	 7/11/2020  1:14:15 PM	  0:14:15	
+   3	  58 	   50	 7/11/2020  1:33:05 PM	  0:18:50	
+   4	  87 	   80	 7/11/2020  1:53:10 PM	  0:20:05	
+   5	  44 	   40	 7/11/2020  2:13:58 PM	  0:20:48	
+   6	 104 	  100	 7/11/2020  2:31:07 PM	  0:17:09	
+   7	  67 	   60	 7/11/2020  2:51:46 PM	  0:20:39	
+   8	  82 	   80	 7/11/2020  3:07:49 PM	  0:16:03	
+   9	 103 	  100	 7/11/2020  4:09:07 PM	  1:01:18	
+  10	  89 	   80	 7/11/2020  4:26:36 PM	  0:17:29	
+  11	  73 	   70	 7/11/2020  4:47:01 PM	  0:20:25	
+  12	  83 	   80	 7/11/2020  5:21:20 PM	  0:34:19	
+  13	  45 	   40	 7/11/2020  5:31:55 PM	  0:10:35	
+  14	  85 	   80	 7/11/2020  5:45:37 PM	  0:13:42	
+  15	 107 	  100	 7/11/2020  6:07:16 PM	  0:21:39	
+  16	  39 	   30	 7/11/2020  6:28:39 PM	  0:21:23	
+  17	  19 		 7/11/2020  6:44:31 PM	  0:15:52	FINISH TIME.
+END
+	AddedPunch54	50
+
+
+Recognised finish time  7/11/2020  6:44:31 PM
+Time on course   5:44:31
+
+
+ 1070	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1070

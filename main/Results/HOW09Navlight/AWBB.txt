@@ -1,0 +1,28 @@
+Team No. 121	Tag ID = AWBB   Tags=0011	Course 6hr
+ChCH Bernina Sewing League: David Glenny, Chrys Horn
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009 10:19:37 AM	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:40:34 AM	  0:10:34	
+   3	 65	 60	 4/07/2009 11:13:49 AM	  0:33:15	
+   4	 25	 20	 4/07/2009 11:25:22 AM	  0:11:33	
+   5	 66	 60	 4/07/2009 12:09:22 PM	  0:44:00	
+   6	 58	 50	 4/07/2009 12:42:39 PM	  0:33:17	
+   7	 46	 40	 4/07/2009  2:24:06 PM 	  1:41:27	
+   8	 23	 20	 4/07/2009  3:26:23 PM 	  1:02:17	
+   9	 62	 60	 4/07/2009  3:42:02 PM 	  0:15:39	
+  10	 22	 20	 4/07/2009  4:09:18 PM 	  0:27:16	
+  11	106		 4/07/2009  5:24:52 PM 	  1:15:34	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  5:24:52 PM 
+Time on course   6:54:52
+
+
+  340	Points Scored.
+ -340	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 0

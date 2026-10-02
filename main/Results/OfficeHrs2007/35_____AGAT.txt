@@ -1,0 +1,30 @@
+Team No. 35	Tag ID = AGAT   Tags=0012	Course 
+Jude Wilson, Chrys Horn and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 15		 2/12/2007  8:40:59 AM 	         	BRIEFING. Score reset.
+   2	 41	 40	 2/12/2007  9:22:09 AM 	  0:22:09	
+   3	 91	 90	 2/12/2007 10:13:33 AM	  0:51:24	
+   4	 50	 50	 2/12/2007 10:39:06 AM	  0:25:33	
+   5	 24	 20	 2/12/2007 11:32:45 AM	  0:53:39	
+   6	 36	 30	 2/12/2007 11:56:42 AM	  0:23:57	
+   7	 92	 90	 2/12/2007 12:23:28 PM	  0:26:46	
+   8	 42	 40	 2/12/2007  1:53:30 PM 	  1:30:02	
+   9	 80	 80	 2/12/2007  2:46:28 PM 	  0:52:58	
+  10	 34	 30	 2/12/2007  3:22:01 PM 	  0:35:33	
+  11	 25	 20	 2/12/2007  3:31:10 PM 	  0:09:09	
+  12	 16		 2/12/2007  3:42:53 PM 	  0:11:43	FINISH TIME.
+END
+	AddedPunch45	40
+
+
+Recognised finish time  2/12/2007  3:42:53 PM 
+Time on course   6:42:53
+
+
+  530	Points Scored.
+   40	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

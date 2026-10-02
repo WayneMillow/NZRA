@@ -1,0 +1,25 @@
+Team No. 21	Tag ID = ADAS   Tags=0009	Course 6hr
+Dirty Dancers: Kate Tolliday, Mark Adams and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 13		 4/07/2009 10:18:11 AM	         	BRIEFING. Score reset.
+   3	 45	 40	 4/07/2009 11:07:10 AM	  0:37:10	
+   4	 53	 50	 4/07/2009 11:39:08 AM	  0:31:58	
+   5	 32	 30	 4/07/2009 12:14:59 PM	  0:35:51	
+   6	 54	 50	 4/07/2009  1:23:25 PM 	  1:08:26	
+   7	 54		 4/07/2009  1:23:26 PM 	  0:00:01	     Punched on Line 6
+   8	 22	 20	 4/07/2009  1:50:13 PM 	  0:26:47	
+   9	107		 4/07/2009  4:27:54 PM 	  2:37:41	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:27:54 PM 
+Time on course   5:57:54
+
+
+  190	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 190

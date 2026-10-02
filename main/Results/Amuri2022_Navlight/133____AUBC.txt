@@ -1,0 +1,33 @@
+Team No. 133	Tag ID = AUBC   Tags=0016	Course 3hr
+Piranhas Don't like Bananas: Lily Frost, Richard Frost and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:03:04 PM	  0:03:04	
+   2	  20 	   20	 3/07/2022 12:07:18 PM	  0:04:14	
+   3	  31 	   30	 3/07/2022 12:09:26 PM	  0:02:08	
+   4	  71 	   70	 3/07/2022 12:20:51 PM	  0:11:25	
+   5	  64 	   60	 3/07/2022 12:31:08 PM	  0:10:17	
+   6	  72 	   70	 3/07/2022 12:49:14 PM	  0:18:06	
+   7	  22 	   20	 3/07/2022  1:16:00 PM	  0:26:46	
+   8	  60 	   60	 3/07/2022  1:22:55 PM	  0:06:55	
+   9	  40 	   40	 3/07/2022  1:27:20 PM	  0:04:25	
+  10	  52 	   50	 3/07/2022  1:36:20 PM	  0:09:00	
+  11	  33 	   30	 3/07/2022  1:50:44 PM	  0:14:24	
+  12	  61 	   60	 3/07/2022  2:04:23 PM	  0:13:39	
+  13	  24 	   20	 3/07/2022  2:18:42 PM	  0:14:19	
+  14	  21 	   20	 3/07/2022  2:38:46 PM	  0:20:04	
+  15	  32 	   30	 3/07/2022  2:48:48 PM	  0:10:02	
+  16	  18 		 3/07/2022  2:54:26 PM	  0:05:38	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:54:26 PM
+Time on course   2:54:26
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

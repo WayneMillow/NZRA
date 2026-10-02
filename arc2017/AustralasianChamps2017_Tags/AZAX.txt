@@ -1,0 +1,30 @@
+Team No. 125	Tag ID = AZAX   Tags=0013	Course 7hr
+Dunedin Orienteering Goddesses: Jeni Pelvin (NZL), Ann Bixley (NZL) and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  104		11/02/2017 10:47:31 AM	         	BRIEFING. Score reset.
+   2	  509	   50	11/02/2017 11:23:55 AM	  0:23:55	
+   3	  803	   80	11/02/2017 12:09:49 PM	  0:45:54	
+   4	  511	   50	11/02/2017 12:30:04 PM	  0:20:15	
+   5	  607	   60	11/02/2017 12:47:40 PM	  0:17:36	
+   6	  903	   90	11/02/2017  2:16:21 PM	  1:28:41	
+   7	  709	   70	11/02/2017  3:01:21 PM	  0:45:00	
+   8	  804	   80	11/02/2017  3:41:05 PM	  0:39:44	
+   9	  405	   40	11/02/2017  3:57:54 PM	  0:16:49	
+  10	  506	   50	11/02/2017  4:23:16 PM	  0:25:22	
+  11	  309	   30	11/02/2017  4:51:45 PM	  0:28:29	
+  12	  311	   30	11/02/2017  5:27:56 PM	  0:36:11	
+  13	  108		11/02/2017  5:43:32 PM	  0:15:36	FINISH TIME.
+END
+
+
+Recognised finish time 11/02/2017  5:43:32 PM
+Time on course   6:43:32
+
+
+  630	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

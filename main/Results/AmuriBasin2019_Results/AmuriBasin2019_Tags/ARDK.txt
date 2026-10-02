@@ -1,0 +1,31 @@
+Team No. 255	Tag ID = ARDK   Tags=0014	Course 1.5 hour
+Byn's: Ben Chaffey, Lyn Crean
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:46:15 PM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019  1:01:53 PM	  0:01:53	
+   3	  31 	   30	 7/07/2019  1:10:43 PM	  0:08:50	
+   4	  73 	   70	 7/07/2019  1:16:55 PM	  0:06:12	
+   5	  33 	   30	 7/07/2019  1:22:00 PM	  0:05:05	
+   6	  46 	   40	 7/07/2019  1:31:48 PM	  0:09:48	
+   7	  52 	   50	 7/07/2019  1:37:46 PM	  0:05:58	
+   8	  34 	   30	 7/07/2019  1:43:07 PM	  0:05:21	
+   9	  81 	   80	 7/07/2019  1:50:16 PM	  0:07:09	
+  10	  53 	   50	 7/07/2019  1:59:05 PM	  0:08:49	
+  11	  59 	   50	 7/07/2019  2:06:01 PM	  0:06:56	
+  12	  49 	   40	 7/07/2019  2:20:12 PM	  0:14:11	
+  13	  26 	   20	 7/07/2019  2:25:35 PM	  0:05:23	
+  14	  16 		 7/07/2019  2:29:15 PM	  0:03:40	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:29:15 PM
+Time on course   1:29:15
+
+
+  530	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 530

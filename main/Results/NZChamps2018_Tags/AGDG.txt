@@ -1,0 +1,27 @@
+Team No. 166	Tag ID = AGDG   Tags=0010	Course 6 hour
+The Wondering Wombles: Nicky Bisley (NZL), Melissa Sowden (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:39:44 AM	         	BRIEFING. Score reset.
+   2	  37 	   30	24/11/2018 12:41:35 PM	  0:41:35	
+   3	  67 	   60	24/11/2018  1:15:09 PM	  0:33:34	
+   4	  68 	   60	24/11/2018  1:50:42 PM	  0:35:33	
+   5	  75 	   70	24/11/2018  2:39:17 PM	  0:48:35	
+   6	  84 	   80	24/11/2018  2:58:12 PM	  0:18:55	
+   7	  38 	   30	24/11/2018  3:35:31 PM	  0:37:19	
+   8	  81 	   80	24/11/2018  4:13:01 PM	  0:37:30	
+   9	 103 	  100	24/11/2018  5:13:22 PM	  1:00:21	
+  10	  17 		24/11/2018  6:18:21 PM	  1:04:59	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  6:18:21 PM
+Time on course   6:18:21
+
+
+  510	Points Scored.
+ -380	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 130

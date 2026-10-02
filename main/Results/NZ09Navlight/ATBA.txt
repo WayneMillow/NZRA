@@ -1,0 +1,29 @@
+Team No. 107	Tag ID = ATBA   Tags=0013	Course 8 Hour
+Colin McGillivrey, Sean Knight and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 S		 7/03/2009 10:45:42 AM	         	BRIEFING. Score reset.
+   3	 20	 20	 7/03/2009 11:17:02 AM	  0:17:02	
+   4	 56	 50	 7/03/2009 11:51:23 AM	  0:34:21	
+   5	 43	 40	 7/03/2009 12:27:56 PM	  0:36:33	
+   6	 52	 50	 7/03/2009  1:23:32 PM 	  0:55:36	
+   7	 60	 60	 7/03/2009  2:01:00 PM 	  0:37:28	
+   8	 80	 80	 7/03/2009  3:11:00 PM 	  1:10:00	
+   9	 41	 40	 7/03/2009  5:21:53 PM 	  2:10:53	
+  10	 46	 40	 7/03/2009  5:53:38 PM 	  0:31:45	
+  11	 31	 30	 7/03/2009  6:24:16 PM 	  0:30:38	
+  12	 30	 30	 7/03/2009  6:46:38 PM 	  0:22:22	
+  13	 F		 7/03/2009  6:57:02 PM 	  0:10:24	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009  6:57:02 PM 
+Time on course   7:57:02
+
+
+  440	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 440

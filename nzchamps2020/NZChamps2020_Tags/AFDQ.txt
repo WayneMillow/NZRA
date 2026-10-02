@@ -1,0 +1,27 @@
+Team No. 208	Tag ID = AFDQ   Tags=0010	Course 6 hour
+3 Gens: Rex Williams, Cherie Richardson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:22:23 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:14:17 PM	  0:14:17	
+   3	  39 	   30	 7/11/2020  1:38:49 PM	  0:24:32	
+   4	  24 	   20	 7/11/2020  2:08:30 PM	  0:29:41	
+   5	  75 	   70	 7/11/2020  3:12:58 PM	  1:04:28	
+   6	  45 	   40	 7/11/2020  3:58:16 PM	  0:45:18	
+   7	  85 	   80	 7/11/2020  4:33:49 PM	  0:35:33	
+   8	 107 	  100	 7/11/2020  5:16:10 PM	  0:42:21	
+   9	  34 	   30	 7/11/2020  6:28:04 PM	  1:11:54	
+  10	  18 		 7/11/2020  6:54:13 PM	  0:26:09	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:54:13 PM
+Time on course   5:54:13
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

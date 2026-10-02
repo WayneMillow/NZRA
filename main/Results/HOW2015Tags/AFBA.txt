@@ -1,0 +1,29 @@
+Team No. 613	Tag ID = AFBA   Tags=0012	Course 6Hr
+Jill Lang, Janelle Schnell and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 94		27/06/2015 10:48:11 AM	         	BRIEFING. Score reset.
+   2	 25	 20	27/06/2015 11:14:02 AM	  0:14:02	
+   3	 37	 30	27/06/2015 11:40:59 AM	  0:26:57	
+   4	 84	 80	27/06/2015 12:08:29 PM	  0:27:30	
+   5	 46	 40	27/06/2015 12:44:17 PM	  0:35:48	
+   6	 74	 70	27/06/2015  1:17:46 PM	  0:33:29	
+   7	103	100	27/06/2015  1:40:07 PM	  0:22:21	
+   8	 93	 90	27/06/2015  2:40:05 PM	  0:59:58	
+   9	 75	 70	27/06/2015  2:59:30 PM	  0:19:25	
+  10	 68	 60	27/06/2015  4:23:02 PM	  1:23:32	
+  11	 26	 20	27/06/2015  4:45:51 PM	  0:22:49	
+  12	106		27/06/2015  4:49:37 PM	  0:03:46	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:49:37 PM
+Time on course   5:49:37
+
+
+  580	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

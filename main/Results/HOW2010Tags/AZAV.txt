@@ -1,0 +1,37 @@
+Team No. 608	Tag ID = AZAV   Tags=0041	Course 6_HoW
+Lyndon Matthews, Eldon Matthews and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  22	 22		26/06/2010 10:33:22 AM	         	BRIEFING. Score reset.
+  23	 20	 20	26/06/2010 11:10:23 AM	  0:10:23	 Punch  01 replaced by Group 20.
+  24	 50	 50	26/06/2010 11:21:09 AM	  0:10:46	
+  25	 36	 30	26/06/2010 11:32:11 AM	  0:11:02	 Punch  02 replaced by Group 36.
+  26	 94	 90	26/06/2010 11:48:59 AM	  0:16:48	 Punch  05 replaced by Group 94.
+  27	 46	 40	26/06/2010 12:00:47 PM	  0:11:48	 Punch  03 replaced by Group 46.
+  28	 76	 70	26/06/2010 12:28:54 PM	  0:28:07	
+  29	 58	 50	26/06/2010 12:40:21 PM	  0:11:27	
+  30	 86	 80	26/06/2010  1:18:55 PM 	  0:38:34	
+  31	102	100	26/06/2010  1:48:49 PM 	  0:29:54	
+  32	 77	 70	26/06/2010  2:02:51 PM 	  0:14:02	
+  33	 85	 80	26/06/2010  2:31:02 PM 	  0:28:11	
+  34	 66	 60	26/06/2010  2:49:29 PM 	  0:18:27	
+  35	 75	 70	26/06/2010  3:00:32 PM 	  0:11:03	
+  36	 93	 90	26/06/2010  3:20:14 PM 	  0:19:42	
+  37	 56	 50	26/06/2010  3:32:03 PM 	  0:11:49	
+  38	 84	 80	26/06/2010  3:50:47 PM 	  0:18:44	
+  39	 45	 40	26/06/2010  4:04:02 PM 	  0:13:15	
+  40	 34	 30	26/06/2010  4:22:05 PM 	  0:18:03	
+  41	 16		26/06/2010  4:46:13 PM 	  0:24:08	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:46:13 PM 
+Time on course   5:46:13
+
+
+ 1100	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 1100

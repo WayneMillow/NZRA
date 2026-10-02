@@ -1,0 +1,35 @@
+Team No. 3229	Tag ID = ATBA   Tags=0018	Course 3Hr
+Muzfonze: Guy Rutherford, Lucy Murray
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:53:06 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:03:26 PM	  0:03:26	
+   3	  41 	   40	 9/07/2017 12:10:04 PM	  0:06:38	
+   4	  55 	   50	 9/07/2017 12:17:04 PM	  0:07:00	
+   5	  67 	   60	 9/07/2017 12:33:14 PM	  0:16:10	
+   6	  93 	   90	 9/07/2017 12:42:40 PM	  0:09:26	
+   7	  42 	   40	 9/07/2017  1:00:00 PM	  0:17:20	
+   8	  65 	   60	 9/07/2017  1:15:42 PM	  0:15:42	
+   9	  92 	   90	 9/07/2017  1:32:50 PM	  0:17:08	
+  10	  76 	   70	 9/07/2017  1:43:34 PM	  0:10:44	
+  11	  74 	   70	 9/07/2017  1:50:37 PM	  0:07:03	
+  12	  52 	   50	 9/07/2017  2:04:37 PM	  0:14:00	
+  13	 102 	  100	 9/07/2017  2:12:56 PM	  0:08:19	
+  14	  44 	   40	 9/07/2017  2:19:48 PM	  0:06:52	
+  15	  83 	   80	 8/07/2017  1:24:32 PM	         	Punch clock failed.
+  16	  45 	   40	 9/07/2017  2:41:05 PM	  0:21:17	
+  17	  61 	   60	 9/07/2017  2:55:43 PM	  0:14:38	
+  18	 108 		 9/07/2017  3:21:31 PM	  0:25:48	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:21:31 PM
+Time on course   3:21:31
+
+
+  960	Points Scored.
+ -220	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 740

@@ -1,0 +1,32 @@
+Team No. 115	Tag ID = AJBB   Tags=0015	Course 3hr
+The Waiau Heroes: Beth Harris, Annabel Harris and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 3/07/2022 12:02:48 PM	  0:02:48	
+   2	  20 	   20	 3/07/2022 12:08:35 PM	  0:05:47	
+   3	  31 	   30	 3/07/2022 12:12:00 PM	  0:03:25	
+   4	  64 	   60	 3/07/2022 12:37:13 PM	  0:25:13	
+   5	  71 	   70	 3/07/2022 12:51:55 PM	  0:14:42	
+   6	  32 	   30	 3/07/2022 12:59:30 PM	  0:07:35	
+   7	  22 	   20	 3/07/2022  1:06:19 PM	  0:06:49	
+   8	  60 	   60	 3/07/2022  1:15:14 PM	  0:08:55	
+   9	  40 	   40	 3/07/2022  1:21:27 PM	  0:06:13	
+  10	  52 	   50	 3/07/2022  1:35:09 PM	  0:13:42	
+  11	  21 	   20	 3/07/2022  1:44:35 PM	  0:09:26	
+  12	  33 	   30	 3/07/2022  1:56:25 PM	  0:11:50	
+  13	  50 	   50	 3/07/2022  2:20:03 PM	  0:23:38	
+  14	  61 	   60	 3/07/2022  2:35:33 PM	  0:15:30	
+  15	  18 		 3/07/2022  2:54:04 PM	  0:18:31	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:54:04 PM
+Time on course   2:54:04
+
+
+  580	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 580

@@ -1,0 +1,33 @@
+Team No. 209	Tag ID = AVDK   Tags=0017	Course 1.5hr
+Sherwood Shortcuts: Guy Boissard, Jack Boissard and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  56 	   50	 3/07/2022  1:04:49 PM	  0:04:49	
+   2	  74 	   70	 3/07/2022  1:15:45 PM	  0:10:56	
+   3	  33 	   30	 3/07/2022  1:23:34 PM	  0:07:49	
+   4	 105 	  100	 3/07/2022  1:42:12 PM	  0:18:38	
+   5	  50 	   50	 3/07/2022  1:44:21 PM	  0:02:09	
+   6	  90 	   90	 3/07/2022  1:46:42 PM	  0:02:21	
+   7	  80 	   80	 3/07/2022  1:50:38 PM	  0:03:56	
+   8	  40 	   40	 3/07/2022  2:00:19 PM	  0:09:41	
+   9	  60 	   60	 3/07/2022  2:04:17 PM	  0:03:58	
+  10	  86 	   80	 3/07/2022  2:08:08 PM	  0:03:51	
+  11	  46 	   40	 3/07/2022  2:10:29 PM	  0:02:21	
+  12	  81 	   80	 3/07/2022  2:13:06 PM	  0:02:37	
+  13	  75 	   70	 3/07/2022  2:15:50 PM	  0:02:44	
+  14	  35 	   30	 3/07/2022  2:21:42 PM	  0:05:52	
+  15	  45 	   40	 3/07/2022  2:24:37 PM	  0:02:55	
+  16	  18 		 3/07/2022  2:26:27 PM	  0:01:50	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:26:27 PM
+Time on course   1:26:27
+
+
+  910	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 910

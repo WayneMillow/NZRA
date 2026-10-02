@@ -1,0 +1,30 @@
+Team No. 189	Tag ID = ABDJ   Tags=0013	Course 3 hour
+Zero to Hero: Zara Taylor, Laura Williamson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:43:39 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:09:08 PM	  0:09:08	
+   3	  49 	   40	 7/07/2019 12:15:23 PM	  0:06:15	
+   4	  24 	   20	 7/07/2019 12:20:02 PM	  0:04:39	
+   5	  67 	   60	 7/07/2019 12:55:47 PM	  0:35:45	
+   6	  54 	   50	 7/07/2019  1:14:37 PM	  0:18:50	
+   7	  41 	   40	 7/07/2019  1:20:41 PM	  0:06:04	
+   8	  42 	   40	 7/07/2019  1:27:51 PM	  0:07:10	
+   9	  57 	   50	 7/07/2019  1:35:46 PM	  0:07:55	
+  10	  44 	   40	 7/07/2019  2:07:25 PM	  0:31:39	
+  11	 102 	  100	 7/07/2019  2:26:38 PM	  0:19:13	
+  12	  55 	   50	 7/07/2019  2:37:25 PM	  0:10:47	
+  13	  18 		 7/07/2019  3:16:40 PM	  0:39:15	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:16:40 PM
+Time on course   3:16:40
+
+
+  540	Points Scored.
+ -170	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 370

@@ -1,0 +1,23 @@
+.orbit {
+	text-align: center;
+}
+.top-line img {
+	height: 100px;
+	padding-right: 5em;
+}
+ul.center {
+  text-align: center;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.orbit-image {
+	height: 400px;
+	width: auto;
+}
+.highlight {
+	color: red;
+}
+

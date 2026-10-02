@@ -1,0 +1,25 @@
+Team No. 189	Tag ID = ACDJ   Tags=0008	Course 6 hour
+Killer Bunnies: Shirley Todd (NZL), Silke Morrison (NZL) and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:40:07 AM	         	BRIEFING. Score reset.
+   2	  30 	   30	24/11/2018 12:23:38 PM	  0:23:38	
+   3	  83 	   80	24/11/2018  2:00:28 PM	  1:36:50	
+   4	 109 	   40	24/11/2018  2:23:35 PM	  0:23:07	
+   5	  89 	   80	24/11/2018  4:00:21 PM	  1:36:46	
+   6	  69 	   60	24/11/2018  5:11:00 PM	  1:10:39	
+   7	  18 		24/11/2018  7:19:56 PM	  2:08:56	FINISH TIME.
+END
+	AddedPunch55	50
+
+
+Recognised finish time 24/11/2018  7:19:56 PM
+Time on course   7:19:56
+
+
+  340	Points Scored.
+ -340	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 340 LATE

@@ -1,0 +1,32 @@
+Team No. 210	Tag ID = ADCK   Tags=0011	Course 15hr
+Lost bearings: Kalle Pokkinen, Tapio Sorsa and 3 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		16/12/2023 11:36:20 AM	         	BRIEFING. Score reset.
+   2	  22 	   20	16/12/2023 12:28:33 PM	  0:28:33	
+   3	  31 	   30	16/12/2023 12:53:06 PM	  0:24:33	
+   4	 102 	  100	16/12/2023  1:27:34 PM	  0:34:28	
+   5	  65 	   60	16/12/2023  3:33:57 PM	  2:06:23	
+   6	  81 	   80	16/12/2023  4:59:48 PM	  1:25:51	
+   7	  49 	   40	16/12/2023  5:20:21 PM	  0:20:33	
+   8	  88 	   80	16/12/2023  5:51:23 PM	  0:31:02	
+   9	  25 	   20	16/12/2023  6:42:01 PM	  0:50:38	
+  10	  16 		16/12/2023  6:59:18 PM	  0:17:17	FINISH TIME.
+END
+	AddedPunch67	60
+
+Some of your team have missed these Punches.
+  22,65,81,49,88
+Your score has been reduced by 280 points.
+
+
+Recognised Course time 16/12/2023 6:59:18 PM
+Time on course   6:59:18
+
+
+  210	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 210

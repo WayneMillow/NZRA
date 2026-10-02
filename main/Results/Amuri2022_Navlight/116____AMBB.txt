@@ -1,0 +1,31 @@
+Team No. 116	Tag ID = AMBB   Tags=0014	Course 3hr
+Terako Trakas: Warren Armstrong, Claude Armstrong
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  21 	   20	 3/07/2022 12:02:39 PM	  0:02:39	
+   2	  52 	   50	 3/07/2022 12:05:14 PM	  0:02:35	
+   3	  33 	   30	 3/07/2022 12:08:56 PM	  0:03:42	
+   4	  50 	   50	 3/07/2022 12:17:15 PM	  0:08:19	
+   5	  61 	   60	 3/07/2022 12:21:58 PM	  0:04:43	
+   6	  24 	   20	 3/07/2022 12:31:38 PM	  0:09:40	
+   7	  65 	   60	 3/07/2022 12:45:10 PM	  0:13:32	
+   8	  23 	   20	 3/07/2022  4:59:35 AM	         	Punch clock failed.
+   9	 101 	  100	 3/07/2022  1:10:23 PM	  0:25:13	
+  10	  51 	   50	 3/07/2022  2:02:29 PM	  0:52:06	
+  11	  34 	   30	 3/07/2022  2:08:57 PM	  0:06:28	
+  12	  84 	   80	 3/07/2022  2:20:11 PM	  0:11:14	
+  13	  60 	   60	 3/07/2022  2:48:33 PM	  0:28:22	
+  14	  18 		 3/07/2022  2:55:44 PM	  0:07:11	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  2:55:44 PM
+Time on course   2:55:44
+
+
+  630	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 630

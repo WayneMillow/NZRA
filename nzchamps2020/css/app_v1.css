@@ -1,0 +1,19 @@
+body {
+	background: #408080;
+	margin-top: 1rem;
+}
+
+#header, #main {
+	background: #ffffff;
+}
+
+#footer {
+	background: #408080;
+	color: #ffffff;
+	margin-top: 1rem;
+}
+
+#footer a {
+	color: #ffffff;
+}
+

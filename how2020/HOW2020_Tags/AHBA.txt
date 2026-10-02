@@ -1,0 +1,29 @@
+Team No. 543	Tag ID = AHBA   Tags=0012	Course 6hrB
+No Pain Rogaine: Toni Lawry, Mike Rait and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 4/07/2020 10:41:07 AM	         	BRIEFING. Score reset.
+   2	  25 	   20	 4/07/2020 11:10:37 AM	  0:10:37	
+   3	  56 	   50	 4/07/2020 11:14:11 AM	  0:03:34	
+   4	  31 	   30	 4/07/2020 11:38:21 AM	  0:24:10	
+   5	 105 	  100	 4/07/2020 11:46:06 AM	  0:07:45	
+   6	  28 	   20	 4/07/2020 12:14:53 PM	  0:28:47	
+   7	  15 	   10	 4/07/2020 12:21:33 PM	  0:06:40	
+   8	  74 	   70	 4/07/2020 12:38:39 PM	  0:17:06	
+   9	  78 	   70	 4/07/2020  1:19:51 PM	  0:41:12	
+  10	  33 	   30	 4/07/2020  1:43:45 PM	  0:23:54	
+  11	  29 	   20	 4/07/2020  1:56:48 PM	  0:13:03	
+  12	  11 		 4/07/2020  2:27:18 PM	  0:30:30	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2020  2:27:18 PM
+Time on course   3:27:18
+
+
+  420	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 420

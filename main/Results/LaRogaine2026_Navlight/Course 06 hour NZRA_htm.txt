@@ -1,0 +1,26 @@
+ 1	63	Off course  on purpose (David Pustai, Mitchell Cockburn.)	   9:59:25	1650	MO1
+ 2	75	Racey Delaceys (Guy de Lacey, Jacob de Lacey.)	   9:55:23	1550	MO2
+ 3	65	Doublecheck (Lukas Marek, Jakub Prochazka.)	   9:58:21	1550	MO3
+ 4	64	Ice cream please (Paul Churton, David Ruddenklau.)	 10:02:17	1435( 45)	MO4,MV1
+ 5	66	Weekend warriors (Anna Cunningham, Diana Johnston, Rebecca Willis.)	   9:53:58	1320	WO1
+ 6	58	Quadruple J (Joshua Jones, James Johnston.)	   9:59:34	1220	MO5,MJ1
+ 7	70	Lost Controls (Rafe Persson, Joe Hughes.)	 10:01:07	1210( 30)	MO6,MJ2
+ 8	54	Schotts (Victoria Stott, John Schollum.)	   9:59:01	1120	XO1,XV1
+ 9	74	Banks Robbers (Blake Thomson, Chris Barker, Thomas Petit.)	   9:39:10	1110	MO7
+ 10	71	Tassie Devils (Liz Canning, Hugh Fitzgerald.)	   9:46:06	1080	XO2,XV2,XSV1
+ 11	69	Slow Grind (Nicole Owen, Campbell Potter.)	   9:58:16	1040	XO3
+ 12	55	Peninsula Punishers (Ben Wright, James Thompson, Robert Lambie.)	   9:59:36	960	MO8
+ 13	72	Wander Girls (Sofia Podolyan, Evie Nicholls.)	 10:00:46	955( 15)	WO2,WJ1
+ 14	77	Punch Drunk (Stephanie Woods, Douglas Woods.)	 10:01:00	955( 15)	XO4,XV3
+ 15	57	Beinhart (Shane Jacobs, Falk Werner, Carmen Jacobs, Annika Werner.)	   9:58:30	940	XO5,XV4
+ 16	79	Bacon Egg Pie (Erin, Laura, Phillipa.)	   9:54:27	920	WO3
+ 17	56	Lost but laughing (Lisa Ainley, Joolz Moore.)	   9:56:01	880	WO4,WV1,WSV1
+ 18	51	Still Crazy (Jac Woudberg, Lesley Woudberg.)	   9:54:14	740	XO6,XV5,XSV2
+ 19	61	Bedford Eggs (Emma Bedford, Arthur Bedford, Hannah Bedford, Lennon Bedford.)	   9:54:58	730	XO7
+ 20	53	Les Tortues (Dawn Proud, Siobhan Cross, Jenny Whittaker.)	   9:51:26	650	WO5,WV2,WSV2
+ 21	52	GRRE (Graeme Read, Richard English.)	 10:16:35	515( 255)	MO9,MV2,MSV1
+ 22	59	Frilly Frillers (Connor Fearon, Alice Webster.)	   9:54:16	490	XO8
+ 23	68	TEAK (Andrew Whooley, Emma Bradley, Tora Hamblett, Karen Gray.)	 10:18:24	475( 285)	XO9
+ 24	73	Bean and a Pea (Nina Bradford, Pennie Saunders.)	   9:59:31	380	WO6,WV3
+ 25	60	Tortoises sometimes win (Elsie Bedford, Kim Bedford.)	   9:53:22	240	WO7
+ 26	76	Louan the Late (Louan Bildstein, Maria.)	 10:26:27	95( 405)	WO8

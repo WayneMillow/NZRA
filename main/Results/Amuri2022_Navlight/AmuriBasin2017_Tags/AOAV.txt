@@ -1,0 +1,30 @@
+Team No. 2234	Tag ID = AOAV   Tags=0013	Course 3Hr
+Red Hot Oompa Loompa's: Jacqui Johnson, Jo Young
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:53:11 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:08:10 PM	  0:08:10	
+   3	  41 	   40	 9/07/2017 12:20:08 PM	  0:11:58	
+   4	  55 	   50	 9/07/2017 12:27:21 PM	  0:07:13	
+   5	  58 	   50	 9/07/2017 12:47:10 PM	  0:19:49	
+   6	  42 	   40	 9/07/2017  1:17:41 PM	  0:30:31	
+   7	  67 	   60	 9/07/2017  1:35:26 PM	  0:17:45	
+   8	  81 	   80	 9/07/2017  2:06:03 PM	  0:30:37	
+   9	  33 	   30	 9/07/2017  2:33:24 PM	  0:27:21	
+  10	  43 	   40	 9/07/2017  2:42:28 PM	  0:09:04	
+  11	  31 	   30	 9/07/2017  2:47:11 PM	  0:04:43	
+  12	  37 	   30	 9/07/2017  2:52:49 PM	  0:05:38	
+  13	 109 		 9/07/2017  2:58:35 PM	  0:05:46	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:58:35 PM
+Time on course   2:58:35
+
+
+  470	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 470

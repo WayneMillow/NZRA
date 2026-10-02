@@ -1,0 +1,32 @@
+Team No. 26	Tag ID = AWHD   Tags=0015	Course 6hr
+Better at Running up a Tab: Emily Shaw, Kylee Habgood and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  41 	   40	 1/07/2023 11:06:49 AM	  0:06:49	
+   2	  40 	   40	 1/07/2023 11:21:02 AM	  0:14:13	
+   3	  62 	   60	 1/07/2023 11:33:18 AM	  0:12:16	
+   4	  52 	   50	 1/07/2023 12:14:00 PM	  0:40:42	
+   5	  80 	   80	 1/07/2023 12:42:08 PM	  0:28:08	
+   6	  70 	   70	 1/07/2023  1:03:20 PM	  0:21:12	
+   7	  60 	   60	 1/07/2023  1:53:33 PM	  0:50:13	
+   8	 100 	  100	 1/07/2023  2:23:25 PM	  0:29:52	
+   9	  50 	   50	 1/07/2023  2:38:52 PM	  0:15:27	
+  10	  20 	   20	 1/07/2023  2:54:15 PM	  0:15:23	
+  11	  51 	   50	 1/07/2023  3:30:04 PM	  0:35:49	
+  12	  61 	   60	 1/07/2023  3:47:15 PM	  0:17:11	
+  13	  71 	   70	 1/07/2023  4:29:55 PM	  0:42:40	
+  14	  53 	   50	 1/07/2023  4:49:04 PM	  0:19:09	
+  15	  16 		 1/07/2023  5:24:02 PM	  0:34:58	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  5:24:02 PM
+Time on course   6:24:02
+
+
+  800	Points Scored.
+ -500	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 300

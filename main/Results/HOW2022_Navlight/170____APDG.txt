@@ -1,0 +1,31 @@
+Team No. 170	Tag ID = APDG   Tags=0014	Course 6 hour
+The Salty Chicks: Clare Hadley, Tanya Winter
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		11/06/2022 10:35:06 AM	         	BRIEFING. Score reset.
+   2	  56 	   50	11/06/2022 11:13:42 AM	  0:13:42	
+   3	  23 	   20	11/06/2022 11:26:47 AM	  0:13:05	
+   4	  77 	   70	11/06/2022 11:48:15 AM	  0:21:28	
+   5	  69 	   60	11/06/2022 12:33:58 PM	  0:45:43	
+   6	  41 	   40	11/06/2022  1:23:08 PM	  0:49:10	
+   7	  51 	   50	11/06/2022  1:44:41 PM	  0:21:33	
+   8	  30 	   30	11/06/2022  2:30:19 PM	  0:45:38	
+   9	  42 	   40	11/06/2022  2:54:37 PM	  0:24:18	
+  10	  95 	   90	11/06/2022  3:19:24 PM	  0:24:47	
+  11	  49 	   40	11/06/2022  3:41:06 PM	  0:21:42	
+  12	  27 	   20	11/06/2022  4:17:28 PM	  0:36:22	
+  13	  39 	   30	11/06/2022  4:44:15 PM	  0:26:47	
+  14	  12 		11/06/2022  4:56:38 PM	  0:12:23	FINISH TIME.
+END
+
+
+Recognised finish time 11/06/2022  4:56:38 PM
+Time on course   5:56:38
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

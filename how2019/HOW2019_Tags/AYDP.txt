@@ -1,0 +1,28 @@
+Team No. 209	Tag ID = AYDP   Tags=0011	Course 6hr
+Try Hards: Bernadette Cakman, Susan Alexander and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		15/06/2019 10:46:34 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	15/06/2019 11:19:38 AM	  0:19:38	
+   3	  54 	   50	15/06/2019 11:36:28 AM	  0:16:50	
+   4	  83 	   80	15/06/2019 12:00:33 PM	  0:24:05	
+   5	  49 	   40	15/06/2019 12:22:20 PM	  0:21:47	
+   6	  82 	   80	15/06/2019 12:54:46 PM	  0:32:26	
+   7	  69 	   60	15/06/2019  2:01:22 PM	  1:06:36	
+   8	  92 	   90	15/06/2019  2:42:08 PM	  0:40:46	
+   9	  41 	   40	15/06/2019  3:12:53 PM	  0:30:45	
+  10	  90 	   90	15/06/2019  3:32:03 PM	  0:19:10	
+  11	  17 		15/06/2019  4:57:43 PM	  1:25:40	FINISH TIME.
+END
+
+
+Recognised finish time 15/06/2019  4:57:43 PM
+Time on course   5:57:43
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

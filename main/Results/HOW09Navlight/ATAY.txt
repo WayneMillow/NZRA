@@ -1,0 +1,26 @@
+Team No. 82	Tag ID = ATAY   Tags=0009	Course 6hr
+Mark Wells, Rachel Wells and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 14		 4/07/2009  9:46:15 AM 	         	BRIEFING. Score reset.
+   2	 10	 10	 4/07/2009 10:39:25 AM	  0:09:25	
+   3	 65	 60	 4/07/2009 11:35:33 AM	  0:56:08	
+   4	 25	 20	 4/07/2009 11:50:55 AM	  0:15:22	
+   5	 58	 50	 4/07/2009 12:45:39 PM	  0:54:44	
+   6	 23	 20	 4/07/2009  1:58:02 PM 	  1:12:23	
+   7	 62	 60	 4/07/2009  2:18:11 PM 	  0:20:09	
+   8	 22	 20	 4/07/2009  2:57:26 PM 	  0:39:15	
+   9	106		 4/07/2009  4:36:43 PM 	  1:39:17	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  4:36:43 PM 
+Time on course   6:06:43
+
+
+  240	Points Scored.
+   70	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 170

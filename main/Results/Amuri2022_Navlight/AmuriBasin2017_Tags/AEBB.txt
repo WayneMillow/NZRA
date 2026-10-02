@@ -1,0 +1,33 @@
+Team No. 1118	Tag ID = AEBB   Tags=0016	Course FAM 3Hr
+Beauty and the beasts: Richard Barltrop, Emily Barltrop and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:48:46 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:05:49 PM	  0:05:49	
+   3	  41 	   40	 9/07/2017 12:14:35 PM	  0:08:46	
+   4	  63 	   60	 9/07/2017 12:27:08 PM	  0:12:33	
+   5	  23 	   20	 9/07/2017 12:36:29 PM	  0:09:21	
+   6	  35 	   30	 9/07/2017 12:41:46 PM	  0:05:17	
+   7	  84 	   80	 9/07/2017 12:53:40 PM	  0:11:54	
+   8	  73 	   70	 9/07/2017  1:13:31 PM	  0:19:51	
+   9	  58 	   50	 9/07/2017  1:25:44 PM	  0:12:13	
+  10	  42 	   40	 9/07/2017  1:41:02 PM	  0:15:18	
+  11	  66 	   60	 9/07/2017  2:11:29 PM	  0:30:27	
+  12	  53 	   50	 9/07/2017  2:25:28 PM	  0:13:59	
+  13	  33 	   30	 9/07/2017  2:41:09 PM	  0:15:41	
+  14	  31 	   30	 9/07/2017  2:46:15 PM	  0:05:06	
+  15	  37 	   30	 9/07/2017  2:53:00 PM	  0:06:45	
+  16	 109 		 9/07/2017  2:59:11 PM	  0:06:11	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:59:11 PM
+Time on course   2:59:11
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

@@ -1,0 +1,26 @@
+Team No. 6	Tag ID = AYAQ   Tags=0009	Course 24 Hour
+Caffeine Aftershocks: Kelly Ashley, Shane Ashley
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		23/11/2019 11:43:01 AM	         	BRIEFING. Score reset.
+   2	  43 	   40	23/11/2019 12:32:19 PM	  0:32:19	
+   3	  62 	   60	23/11/2019  1:31:57 PM	  0:59:38	
+   4	  72 	   70	23/11/2019  2:10:46 PM	  0:38:49	
+   5	  78 	   70	23/11/2019  6:25:31 PM	  4:14:45	
+   6	  90 	   90	23/11/2019  8:27:13 PM	  2:01:42	
+   7	  42 	   40	24/11/2019  5:30:36 AM	  9:03:23	
+   8	  29 	   20	24/11/2019  6:17:43 AM	  0:47:07	
+   9	  18 		24/11/2019  8:50:50 AM	  2:33:07	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2019  8:50:50 AM
+Time on course  20:50:50
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

@@ -1,0 +1,27 @@
+Team No. 539	Tag ID = ARBA   Tags=0009	Course 6hr
+Team Sauerkraut: Rike Andree, Sam  Wright
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	109		 8/06/2013 10:17:39 AM	         	BRIEFING. Score reset.
+   2	 57	 50	 8/06/2013 11:35:40 AM	  1:06:40	
+   3	100	100	 8/06/2013 12:00:54 PM	  0:25:14	
+   4	 47	 40	 8/06/2013 12:37:26 PM	  0:36:32	
+   5	 56	 50	 8/06/2013 12:55:20 PM	  0:17:54	
+   6	 63	 60	 8/06/2013  1:45:58 PM 	  0:50:38	
+   7	 45	 40	 8/06/2013  2:17:34 PM 	  0:31:36	
+   8	 54	 50	 8/06/2013  2:37:07 PM 	  0:19:33	
+   9	 13		 8/06/2013  4:39:46 PM 	  2:02:39	FINISH TIME.
+END
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  4:39:46 PM 
+Time on course   6:10:46
+
+
+  470	Points Scored.
+  220	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 250

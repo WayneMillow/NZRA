@@ -1,0 +1,28 @@
+Team No. 203	Tag ID = ARDN   Tags=0011	Course 6 hour
+The Water Boys: Mark Dawson, Neville Laverack
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  8:01:40 PM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020  1:14:26 PM	  0:14:26	
+   3	  87 	   80	 7/11/2020  2:41:03 PM	  1:26:37	
+   4	  44 	   40	 7/11/2020  3:29:34 PM	  0:48:31	
+   5	  89 	   80	 7/11/2020  3:48:37 PM	  0:19:03	
+   6	 103 	  100	 7/11/2020  4:09:28 PM	  0:20:51	
+   7	  73 	   70	 7/11/2020  4:58:52 PM	  0:49:24	
+   8	  86 	   80	 7/11/2020  5:31:40 PM	  0:32:48	
+   9	  34 	   30	 7/11/2020  5:50:07 PM	  0:18:27	
+  10	  39 	   30	 7/11/2020  6:18:37 PM	  0:28:30	
+  11	  18 		 7/11/2020  6:52:38 PM	  0:34:01	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:52:38 PM
+Time on course   5:52:38
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

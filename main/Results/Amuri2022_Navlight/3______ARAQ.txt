@@ -1,0 +1,25 @@
+Team No. 3	Tag ID = ARAQ   Tags=0008	Course 6hr
+Sweat  regret and oxygen debt: Rebecca Burns, Michele Stevenson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  60 	   60	 3/07/2022 11:34:15 AM	  1:34:15	
+   2	  42 	   40	 3/07/2022 12:04:48 PM	  0:30:33	
+   3	  62 	   60	 3/07/2022 12:22:09 PM	  0:17:21	
+   4	  84 	   80	 3/07/2022  1:33:37 PM	  1:11:28	
+   5	  65 	   60	 3/07/2022  2:00:01 PM	  0:26:24	
+   6	  53 	   50	 3/07/2022  2:40:16 PM	  0:40:15	
+   7	  43 	   40	 3/07/2022  3:11:12 PM	  0:30:56	
+   8	  19 		 3/07/2022  3:59:28 PM	  0:48:16	FINISH TIME.
+END
+
+
+Recognised finish time  3/07/2022  3:59:28 PM
+Time on course   5:59:28
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

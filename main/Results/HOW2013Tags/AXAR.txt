@@ -1,0 +1,34 @@
+Team No. 431	Tag ID = AXAR   Tags=0015	Course 10hr
+In Uncharted Waters: Frances Charters, Neil Charters
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	108		 8/06/2013  8:53:47 AM 	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013  9:13:51 AM 	  0:08:51	 Punch  10 replaced by Group 58.
+   3	 20	 20	 8/06/2013  9:26:29 AM 	  0:12:38	
+   4	 76	 70	 8/06/2013  9:35:21 AM 	  0:08:52	
+   5	 66	 60	 8/06/2013  9:49:14 AM 	  0:13:53	
+   6	 74	 70	 8/06/2013 10:19:26 AM	  0:30:12	
+   7	100	100	 8/06/2013 10:34:09 AM	  0:14:43	
+   8	 47	 40	 8/06/2013 10:49:01 AM	  0:14:52	
+   9	 56	 50	 8/06/2013 11:31:12 AM	  0:42:11	
+  10	 83	 80	 8/06/2013 11:42:07 AM	  0:10:55	
+  11	 38	 30	 8/06/2013 11:56:25 AM	  0:14:18	
+  12	 65	 60	 8/06/2013 12:21:19 PM	  0:24:54	
+  13	 57	 50	 8/06/2013 12:47:43 PM	  0:26:24	
+  14	 75	 70	 8/06/2013  1:12:55 PM 	  0:25:12	
+  15	 16		 8/06/2013  1:53:48 PM 	  0:40:53	FINISH TIME.
+END
+	AddedPunch84	80
+	AddedPunch81	80
+
+
+Recognised finish time  8/06/2013  1:53:48 PM 
+Time on course   4:48:48
+
+
+  910	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 910

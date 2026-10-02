@@ -1,0 +1,32 @@
+Team No. 199	Tag ID = AXDJ   Tags=0015	Course 6 hour
+Cuckoo Monsters: Marco Klein (NZL), Brian Adams (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		24/11/2018 11:42:35 AM	         	BRIEFING. Score reset.
+   2	  67 	   60	24/11/2018 12:13:29 PM	  0:13:29	
+   3	  46 	   40	24/11/2018 12:24:52 PM	  0:11:23	
+   4	  68 	   60	24/11/2018 12:44:51 PM	  0:19:59	
+   5	  97 	   90	24/11/2018  1:23:26 PM	  0:38:35	
+   6	  75 	   70	24/11/2018  1:45:15 PM	  0:21:49	
+   7	  84 	   80	24/11/2018  1:56:05 PM	  0:10:50	
+   8	  32 	   30	24/11/2018  2:27:56 PM	  0:31:51	
+   9	  80 	   80	24/11/2018  2:45:37 PM	  0:17:41	
+  10	  79 	   70	24/11/2018  3:31:27 PM	  0:45:50	
+  11	  93 	   90	24/11/2018  4:00:40 PM	  0:29:13	
+  12	  63 	   60	24/11/2018  4:41:56 PM	  0:41:16	
+  13	  81 	   80	24/11/2018  4:59:34 PM	  0:17:38	
+  14	 103 	  100	24/11/2018  5:33:14 PM	  0:33:40	
+  15	  17 		24/11/2018  5:56:39 PM	  0:23:25	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2018  5:56:39 PM
+Time on course   5:56:39
+
+
+  910	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 910

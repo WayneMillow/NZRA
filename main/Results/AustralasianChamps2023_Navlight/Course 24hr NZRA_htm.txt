@@ -1,0 +1,117 @@
+ 1	35	Greig and Chris (Greig Hamilton, Chris Forne.)	 23:31:58	4630	M1
+ 2	64	Nutrient Rescue (Darron Jones, Dave Quested.)	 23:50:32	4260	M2
+ 3	115	Windmills and whirlpools (Arran Whiteford, Hamish Laing.)	 23:37:06	4070	M3
+ 4	77	QuinnBaldwin (Julie Quinn, David Baldwin.)	 23:17:57	3880	X1,XV1
+ 5	79	Rab Wahine (Georgia Whitla, Emily Wilson.)	 23:23:58	3820	W1
+ 6	60	Mr & Mr Smith (Nick Smith, Scott Smith.)	 23:39:42	3740	M4
+ 7	99	The Kiwi and the Finn (Tim Farrant, Mikko Eklund, Molly Spark.)	 23:53:40	3740	X2
+ 8	19	Can't hear you (Phil Wood, Malcolm Mcleod.)	 23:32:19	3670	M5,MV1
+ 9	11	Barefoot Brorks (Mitch Nissen, Calvin Deacon.)	 23:37:47	3600	M6
+ 10	94	Team Devold (Jamie Mountier, Tim Sikma.)	 22:38:59	3550	M7
+ 11	123	FEAR Youth (Fynn  Mitchell, Josh  Pearson.)	 23:06:12	3460	M8,MJ1
+ 12	84	Rob and Rachel (Rachel Lynskey, Rob Lei.)	 23:30:32	3460	X3
+ 13	44	Kendra's Krew (Angus Watson, Grace Seeley.)	 23:50:19	3450	X4
+ 14	22	CMC (Thomas  Hughes, George  Hedley.)	 23:31:33	3340	M9
+ 15	72	Pete and Dave Show (David Slater, Peter Menis.)	 23:34:56	3300	M10
+ 16	98	The Burgers (Barry Burger, Louie Burger.)	 23:41:15	3240	M11
+ 17	55	Mazel Tov (Monty Montgomery, Rob Harrow.)	 23:41:33	3200	M12,MV2,MSV1
+ 18	96	Tenacious Turtles (Ev  Tolerton, Nathan Harris.)	 23:29:08	3180	M13
+ 19	109	Washed up Orienteers (Fergus O'Neill, Ryan Moore.)	 23:14:15	3110	M14,MJ2
+ 20	39	Inching Along (Steve Tripp, Chris  Taylor.)	 22:08:54	3060	M15,MV3
+ 21	124	Estonian Ace Development (Glen Mitchell, Adrian  Braaksma.)	 23:18:54	3040	M16,MV4
+ 22	101	The lost beekeepers (Roland Eveleens, Kat Holmes.)	 23:06:26	3000	X5
+ 23	80	Racey Delaceys (Emma De Lacey, Guy de Lacey.)	 23:13:21	2990	X6,XV2,XSV1,XUV1
+ 24	9	Backcountry Studio (Nico Dubois, Ira Sizova.)	 23:45:01	2920	X7
+ 25	74	Port Hills Posse (Scott Condron, Tim Mulliner.)	 23:52:34	2900	M17,MV5
+ 26	3	3POC (Gary  Sutherland, Cint Falla.)	 21:20:35	2880	M18,MV6
+ 27	1	San Pedro`s Boys (John Mckinnel, Kevin  Duggan.)	 23:31:22	2860	M19,MV7,MSV2
+ 28	2	2 Wise Men and Steve (Steve O'Neill, Peter Mitchell, Alan Moore.)	 22:21:25	2840	M20,MV8
+ 29	76	Pulp Friction (Dave  Cowie, Darren Clay.)	 22:19:39	2820	M21,MV9
+ 30	7	Alpine Gypsies (Christopher Greenan, Lottie Armstrong.)	 22:24:27	2820	X8
+ 31	12	Bearwings (Robyn Eyster, Teddy Eyster.)	 22:42:00	2790	X9
+ 32	112	What's a Rogaine? (Jarrod  McLauchlan, Brooke Thomas.)	 22:49:56	2790	X10
+ 33	28	Far Two Ambitious (Paul Guard, Sally Lochhead.)	 23:39:57	2770	X11,XV3
+ 34	8	BAAH (Hamish France, Adrian France, Alex Braun, Ben Hay.)	 22:48:28	2760	M22,MJ3
+ 35	48	La llama es una quadrupido (Craig Pelvin, Andrew Lonie.)	 23:16:48	2760	M23,MV10
+ 36	5	Alice and Simon (simon bloomberg, Alice Brice.)	 23:31:26	2690	X12,XV4
+ 37	110	Weasties (Peter Cleary, Connor Clearty.)	 22:51:35	2660	M24
+ 38	70	Path Finders (Blake McMillan, Jacob Takuira-Mita, Cameron Morriss, Mark Lewis.)	 22:50:33	2650	M25
+ 39	73	Plan-it (Jo Forbes, Antonia Wood, Mary McBride.)	 23:20:18	2600	W2,WV1
+ 40	78	R & S (Ross Friedrich, Steve Pyatt.)	 22:31:28	2580	M26,MV11,MSV3,MUV1
+ 41	43	Kauri Coasters Youth plus old fella (Graeme Ewenson, Hayden Ewenson, Alex Watson.)	 22:41:45	2530	M27
+ 42	4	Adventure before dementia (Jenni Blyleven, Suzanne McLister.)	 23:22:14	2510	W3,WV2,WSV1
+ 43	61	Nga Rakau (Mark Struthers, Annette Windross.)	 22:30:25	2490	X13,XV5,XSV2
+ 44	81	Rapid Thigh Movement (Dena Bakkenes, Jacques Bakkenes.)	 23:34:52	2440	X14
+ 45	47	L2 (Leon Perrie, Lara Shepherd.)	 23:30:35	2430	X15,XV6
+ 46	83	Resisting A Rest (Emma Rogers, Dave Hume, John West, Mira Schwill, Chris McHarg and 1 other.)	 18:18:33	2340	X16
+ 47	13	Birthday Trip (Lisa Haycock, Tui Hambrook, Lauren Assink.)	 22:45:56	2320	W4
+ 48	65	Old Dog And The Pup. (Terry Davis, Ben Wallbank.)	 23:04:36	2320	M28
+ 49	67	Older and wiser (Richard Dove, Simon Lewis.)	 22:29:02	2310	M29,MV12,MSV4
+ 50	59	moose on the loose (Daniel Johnston, Tim Lusk.)	 22:29:59	2310	M30
+ 51	33	Generation X-cellers (Mark  Watson, Michelle Watson, Vicky Sandford.)	 23:08:10	2310	X17,XV7
+ 52	71	Perfect Strangers (Kirk  McDonald, Anita  Copplestone.)	 23:20:06	2310	X18,XV8
+ 53	106	Vivid Dick (Richard Robinson, Vivienne Prince.)	 23:23:55	2260	X19,XV9,XSV3,XUV2
+ 54	58	Missing Bits (Douglas Woods, Colin Dixon.)	 23:39:05	2250	M31,MV13,MSV5
+ 55	21	Cirque Du Sore Legs (Lisa Ainley, Genevieve  Leech.)	 23:28:23	2240	W5
+ 56	125	Chain Hills Rogaine Club (Hamish Cotter, Sarah Unwin, Tom Logie.)	 23:36:25	2240	X20
+ 57	41	K&R (Kaye Harding, Richard Spelman.)	 22:32:37	2210	X21,XV10
+ 58	108	Wandering Watsons (Philip Watson, Catherine Watson.)	 23:05:33	2200	X22,XV11
+ 59	16	Busy Bees (Bruce Barnett, Monika Binder.)	 23:19:53	2180	X23,XV12,XSV4
+ 60	116	Wonky Donkeys (Chris Dixon, Caroline  Elliott.)	 23:14:32	2170	W6,WV3
+ 61	54	Marvellous Adventures MAD (Neil Murray, Anya  Murray.)	 21:24:08	2160	X24
+ 62	24	Courtney & Olivia (Courtney Prestage, Olivia Hammond.)	 21:42:07	2160	W7
+ 63	51	Los Callejeros (Thomas Paul, Max Butchers.)	 20:07:11	2150	M32
+ 64	34	Got wood? (Mia  Gordon, Dom Cleary.)	 22:29:52	2140	X25,XJ1
+ 65	92	Tamdy (Tamsin Barnes, Wendy Riach.)	 23:17:29	2140	W8,WV4
+ 66	45	Kiwifruits (Jimmy Sewell, Anna Sewell.)	 22:27:49	2120	X26
+ 67	114	Which way's North? (Anna Scheirlinck, Steph Scheirlinck.)	 17:56:22	2090	W9
+ 68	53	Maptastrophe (Claire Le Grice, Megan Farndale.)	 21:45:33	2080	W10
+ 69	95*	Team Logs (Will Payne, Sarah  Hamilton, Matthew  Broad.)	 22:58:20	2020	X27
+ 70	14	Bodjohn (Pat Bodger, Steve John.)	 23:14:43	2010	M33,MV14,MSV6,MUV2
+ 71	75	Prickly pair (Eamon Barrett, Jackson Jolly.)	 23:27:50	2000	M34
+ 72	93	Team Cameltoes (Polly Lock, Steve Lock.)	 22:04:04	1980	X28,XV13
+ 73	117	Worst Pace Scenario (Sarah Smith, Megan  Brown.)	 22:15:54	1980	W11
+ 74	23	CoLliSiOn CoUrSe (Hadani  Woodruff, Matt Hall.)	 23:14:48	1970	X29,XV14
+ 75	26	Devil may care (Liz Canning, Hugh Fitzgerald.)	 23:22:48	1900	X30,XV15,XSV5
+ 76	37	Here for the sneers (Stephen Busby, Callum Irvine, Paul Dukes.)	 21:01:44	1890	M35,MV15
+ 77	36	Gritty girls (Rachel Simons, Nicola Mitchell.)	 23:20:38	1890	W12,WV5
+ 78	6	All Nighters (Simon Vandestadt, John Evans.)	 23:05:57	1870	M36,MV16,MSV7
+ 79	15	Brendon & Jo (Brendon Roxburgh, Joelle Ward.)	 23:09:59	1860	X31
+ 80	100	The Lasses (Jean Douglass, Peggy Douglass.)	 23:04:14	1840	W13,WV6,WSV2,WUV1
+ 81	40	JMC A (Jack Sandford, Simon  Tomkins.)	 18:55:30	1830	M37,MJ4
+ 82	32	Gains Train (Tom  Higgins, Ethan Bloemen.)	 20:02:33	1830	M38
+ 83	118	Control Freaks (Isabella Lilford, Abby Kidson, Chloe Woodburn.)	 22:17:47	1820	W14,WJ1
+ 84	105	Uncoursed Shortranked (Chrissy Hohe, Yvonne  Grosch.)	 22:50:58	1800	W15
+ 85	49	Located (Graham Atkins, Clayton Gumbrell.)	 22:17:09	1790	M39,MV17,MSV8
+ 86	18	CAJ Apples Ettrick (Flynn Goodger, Tiaan  McKinnel.)	 19:36:34	1610	M40,MJ5
+ 87	20	Checkpoint 52 (Nicole Ranger, Glen Warner.)	 21:45:39	1610	X32
+ 88	63	North Loburn Reunion (Alister Metherell, Louise O'Connell.)	 22:10:52	1590	X33,XV16,XSV6
+ 89	25	Dad & Daughter Duo (Grant Edmondson, Maya Edmondson.)	 22:45:28	1590	X34
+ 90	66	Old Time Wanderers (Andy Buchanan, Dave Laurie.)	 23:26:21	1590	M41,MV18,MSV9,MUV3
+ 91	31	Flutterbys (Val Rogers, Kathrin Mueller.)	 22:31:23	1570	W16,WV7,WSV3,WUV2
+ 92	27	Edge of Tomorrow (David Rowlands, Alexander Rowlands.)	 20:49:46	1520	M42
+ 93	111	Well Tracked (Simon Rea, Michael Wood, Dick Dinsdale.)	 22:19:30	1520	M43,MV19,MSV10,MUV4
+ 94	68	Optically Challenged (Mondo Kopua, David Mangnall.)	 18:08:44	1490	M44,MV20,MSV11
+ 95	50	Long Black and Porter (Sarah Millar, Hedley  Meacheam.)	 18:20:16	1470	X35,XV17
+ 96	85	Shining Lights - Old & New (Alistair Boyce, Sarah Helmore.)	 18:51:39	1470	X36
+ 97	97*	The Bald and The Boney (Ben  O'Sullivan, Callum  Kingan.)	 14:46:36	1460	M45
+ 98	62	Nic and Soph (Nicole Owen, Sophie  Harrison.)	 21:27:00	1450	W17
+ 99	38	If found return to Canberra (Dylan  Smedley, Arun  Murali, Tim Bovaird, Jeevan Haikerwal.)	 23:31:38	1440	M46
+ 100	107	Vortex Divas (Elizabeth Woodgate, Fiona Croft-Trollope.)	 22:25:32	1430	W18,WV8
+ 101	91	Swag Addiction (August  Brey, Gypsy  Cook, Darcy  Gay, Daniel Harvey, Aidan  Soo.)	 19:12:13	1390	X37,XJ2
+ 102	122	ReST: Real Social Time (E Wen Wong, Thomas James.)	 23:23:20	1390	X38,XJ3
+ 103	57	Megvan! (Sue Clarke, Walter Kelemen.)	 21:46:12	1370	X39,XV18,XSV7,XUV3
+ 104	29	Father & Son (Martin Etherington, Samuel Etherington.)	 21:19:21	1270	M47
+ 105	104	The Wiz Kids (Wayne Millow, Liz Millow.)	 22:23:58	1240	X40,XV19,XSV8,XUV4
+ 106	86	Shortcuts (Geoff Morrison, Sean Morrison.)	 22:44:33	1230	M48
+ 107	88	Sore Back Sore Knee let's see (Brian Wilson, Els Coster.)	 22:04:22	1220	X41,XV20,XSV9
+ 108	56	McMe (Trevor  Merrifield, Andrew  McGowan.)	 19:05:38	1210	M49,MV21,MSV12,MUV5
+ 109	69	Out for a good day (alex huffadine, Hilary  Pearson.)	 21:05:51	1210	W19
+ 110	82	Really? (Ken Livingston, Hube Wichers.)	 23:09:06	1200	X42,XV21,XSV10
+ 111	10	Bain's on Rogaines (Deb Bain, Charlotte Bain.)	 23:20:13	1180	W20
+ 112	89	Southern Shellfish (Starfish Blake, Pipi Rowden, Toheroa Goldsmith.)	 14:58:28	1170	X43
+ 113	52	Lost & Found (Lance Knauf, Gustav Kircher.)	 19:18:47	1000	M50
+ 114	90	Summer Fun (Chris Mansell, Celia Fitzgerald.)	 23:03:52	1000	X44,XV22,XSV11
+ 115	30	Flaming Marshmallows (William Hart, Sarah Graham.)	 17:23:56	960	X45
+ 116	103	The Wilderpeople (Brad Thiele, Tom  Irvine.)	 21:01:01	780	M51,MJ6
+ 117	17	Caffeine Aftershocks (Shane Ashley, Kelly Ashley.)	 22:12:31	640	X46,XV23

@@ -1,0 +1,25 @@
+Team No. 505	Tag ID = AJAY   Tags=0008	Course 6hr
+Duncan's Girls: Chris Bridges, Suzanne  Cocks, Anne  Morgan, Wendy Smith
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:26:34 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:40:02 AM	  0:11:02	
+   3	 44	 40	 8/06/2013 11:23:05 AM	  0:43:03	
+   4	 86	 80	 8/06/2013 11:53:01 AM	  0:29:56	
+   5	 39	 30	 8/06/2013  2:22:42 PM 	  2:29:41	
+   6	 28	 20	 8/06/2013  2:52:58 PM 	  0:30:16	
+   7	 65	 60	 8/06/2013  3:26:27 PM 	  0:33:29	
+   8	 16		 8/06/2013  4:19:28 PM 	  0:53:01	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  4:19:28 PM 
+Time on course   5:50:28
+
+
+  250	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 250

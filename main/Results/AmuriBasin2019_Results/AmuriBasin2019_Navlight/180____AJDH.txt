@@ -1,0 +1,34 @@
+Team No. 180	Tag ID = AJDH   Tags=0018	Course 3 hour
+6 on a good day: Jane Alexander, Aaron Ang
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:41:32 AM	         	BRIEFING. Score reset.
+   2	  51 	   50	 7/07/2019 12:10:55 PM	  0:10:55	
+   3	  49 	   40	 7/07/2019 12:17:22 PM	  0:06:27	
+   4	  65 	   60	 7/07/2019 12:26:17 PM	  0:08:55	
+   5	  28 	   20	 7/07/2019 12:40:38 PM	  0:14:21	
+   6	  45 	   40	 7/07/2019 12:56:19 PM	  0:15:41	
+   7	  59 	   50	 7/07/2019  1:04:15 PM	  0:07:56	
+   8	  53 	   50	 7/07/2019  1:17:50 PM	  0:13:35	
+   9	  54 	   50	 7/07/2019  1:32:34 PM	  0:14:44	
+  10	  41 	   40	 7/07/2019  1:42:20 PM	  0:09:46	
+  11	  42 	   40	 7/07/2019  1:53:44 PM	  0:11:24	
+  12	  57 	   50	 7/07/2019  1:59:36 PM	  0:05:52	
+  13	  46 	   40	 7/07/2019  2:34:46 PM	  0:35:10	
+  14	  73 	   70	 7/07/2019  2:45:47 PM	  0:11:01	
+  15	  31 	   30	 7/07/2019  2:49:46 PM	  0:03:59	
+  16	  47 	   40	 7/07/2019  2:54:35 PM	  0:04:49	
+  17	  19 		 7/07/2019  2:58:37 PM	  0:04:02	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:58:37 PM
+Time on course   2:58:37
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

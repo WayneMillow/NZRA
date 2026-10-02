@@ -1,0 +1,36 @@
+Team No. 508	Tag ID = ANAY   Tags=0018	Course 6hr
+Ghost Spanners: Tamsin Chittock, Jenny  Jordan, Alison Scarlet
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:19:57 AM	         	BRIEFING. Score reset.
+   2	 58	 50	 8/06/2013 10:36:20 AM	  0:07:20	
+   3	 76	 70	 8/06/2013 10:58:29 AM	  0:22:09	
+   4	 66	 60	 8/06/2013 11:13:18 AM	  0:14:49	
+   5	 74	 70	 8/06/2013 11:47:35 AM	  0:34:17	
+   6	100	100	 8/06/2013 12:02:28 PM	  0:14:53	
+   7	 47	 40	 8/06/2013 12:27:18 PM	  0:24:50	
+   8	 56	 50	 8/06/2013 12:40:55 PM	  0:13:37	
+   9	 83	 80	 8/06/2013 12:54:43 PM	  0:13:48	
+  10	 38	 30	 8/06/2013  1:07:29 PM 	  0:12:46	
+  11	 28	 20	 8/06/2013  1:23:42 PM 	  0:16:13	
+  12	 39	 30	 8/06/2013  1:32:23 PM 	  0:08:41	
+  13	 34	 30	 8/06/2013  1:44:28 PM 	  0:12:05	
+  14	101	100	 8/06/2013  2:03:46 PM 	  0:19:18	
+  15	 43	 40	 8/06/2013  2:29:37 PM 	  0:25:51	
+  16	 25	 20	 8/06/2013  2:44:41 PM 	  0:15:04	
+  17	 99	 90	 8/06/2013  3:33:10 PM 	  0:48:29	
+  18	 13		 8/06/2013  4:38:13 PM 	  1:05:03	FINISH TIME.
+END
+	AddedPunch84	80
+
+
+Recognised finish time  8/06/2013  4:38:13 PM 
+Time on course   6:09:13
+
+
+  960	Points Scored.
+  200	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 760

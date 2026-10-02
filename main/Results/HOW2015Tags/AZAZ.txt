@@ -1,0 +1,28 @@
+Team No. 610	Tag ID = AZAZ   Tags=0011	Course 6Hr
+Rosie Shakespeare, Craig Shakespeare
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 90		27/06/2015 10:42:34 AM	         	BRIEFING. Score reset.
+   2	 23	 20	27/06/2015 11:16:02 AM	  0:16:02	
+   3	 65	 60	27/06/2015 11:35:53 AM	  0:19:51	
+   4	 45	 40	27/06/2015 11:53:52 AM	  0:17:59	
+   5	 53	 50	27/06/2015 12:36:56 PM	  0:43:04	
+   6	 73	 70	27/06/2015  1:39:14 PM	  1:02:18	
+   7	102	100	27/06/2015  2:10:10 PM	  0:30:56	
+   8	 92	 90	27/06/2015  2:53:45 PM	  0:43:35	
+   9	 54	 50	27/06/2015  3:17:26 PM	  0:23:41	
+  10	 66	 60	27/06/2015  3:28:26 PM	  0:11:00	
+  11	104		27/06/2015  4:04:41 PM	  0:36:15	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:04:41 PM
+Time on course   5:04:41
+
+
+  540	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 540

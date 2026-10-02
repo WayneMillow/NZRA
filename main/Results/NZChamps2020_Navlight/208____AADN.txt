@@ -1,0 +1,29 @@
+Team No. 208	Tag ID = AADN   Tags=0013	Course 6 hour
+3 Gens: Rex Williams, Cherie Richardson and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:22:24 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:13:24 PM	  0:13:24	
+   3	  39 	   30	 7/11/2020  1:38:21 PM	  0:24:57	
+   4	  24 	   20	 7/11/2020  2:07:21 PM	  0:29:00	
+   5	  75 	   70	 7/11/2020  2:59:29 PM	  0:52:08	
+   6	  75 		 7/11/2020  3:12:54 PM	  0:13:25	     Punched on Line 5
+   7	  45 	   40	 7/11/2020  3:57:20 PM	  0:44:26	
+   8	  85 	   80	 7/11/2020  4:33:54 PM	  0:36:34	
+   9	 107 	  100	 7/11/2020  5:16:03 PM	  0:42:09	
+  10	  34 	   30	 7/11/2020  6:13:58 PM	  0:57:55	
+  11	  34 		 7/11/2020  6:28:17 PM	  0:14:19	     Punched on Line 10
+  12	  19 		 7/11/2020  6:54:14 PM	  0:25:57	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:54:14 PM
+Time on course   5:54:14
+
+
+  390	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 390

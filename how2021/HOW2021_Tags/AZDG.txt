@@ -1,0 +1,32 @@
+Team No. 175	Tag ID = AZDG   Tags=0015	Course 6 hour
+Mixed Nuts: Cam Algie, Lisa Algie
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  48 	   40	19/06/2021 11:09:40 AM	  0:09:40	
+   2	  38 	   30	19/06/2021 11:34:06 AM	  0:24:26	
+   3	  89 	   80	19/06/2021 11:53:27 AM	  0:19:21	
+   4	  73 	   70	19/06/2021 12:20:30 PM	  0:27:03	
+   5	 105 	  100	19/06/2021  1:35:18 PM	  1:14:48	
+   6	  30 	   30	19/06/2021  1:43:04 PM	  0:07:46	
+   7	  71 	   70	19/06/2021  1:49:01 PM	  0:05:57	
+   8	  51 	   50	19/06/2021  2:25:34 PM	  0:36:33	
+   9	  81 	   80	19/06/2021  2:44:23 PM	  0:18:49	
+  10	  94 	   90	19/06/2021  2:56:47 PM	  0:12:24	
+  11	  65 	   60	19/06/2021  3:06:37 PM	  0:09:50	
+  12	  88 	   80	19/06/2021  3:23:52 PM	  0:17:15	
+  13	  46 	   40	19/06/2021  3:34:15 PM	  0:10:23	
+  14	  56 	   50	19/06/2021  3:48:45 PM	  0:14:30	
+  15	  97 		19/06/2021  6:24:55 PM	  2:36:10	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  6:24:55 PM
+Time on course   7:24:55
+
+
+  870	Points Scored.
+ -870	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 870 LATE

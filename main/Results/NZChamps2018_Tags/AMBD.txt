@@ -1,0 +1,26 @@
+Team No. 141	Tag ID = AMBD   Tags=0010	Course 6 hour
+Headless Chickens: Luke Geddes (NZL), Moss Pelvin (NZL)
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		24/11/2018 11:39:31 AM	         	BRIEFING. Score reset.
+   2	  58 	   50	24/11/2018 12:11:43 PM	  0:11:43	
+   3	  40 	   40	24/11/2018 12:28:11 PM	  0:16:28	
+   4	  61 	   60	24/11/2018 12:53:59 PM	  0:25:48	
+   5	  51 	   50	24/11/2018  1:18:13 PM	  0:24:14	
+   6	  44 	   40	24/11/2018  2:33:06 PM	  1:14:53	
+   7	  71 	   70	24/11/2018  2:46:11 PM	  0:13:05	
+   8	  19 		24/11/2018  4:49:33 PM	  2:03:22	FINISH TIME.
+   9	  18 		24/11/2018  4:54:20 PM	  0:04:47	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time 24/11/2018  4:49:33 PM
+Time on course   4:49:33
+
+
+  310	Points Scored.
+     	No Time Penalty.
+  Withdrawn.	Manual adjustment.
+
+
+FINAL SCORE = 310 Withdrawn.

@@ -1,0 +1,33 @@
+Team No. 187	Tag ID = AYDH   Tags=0016	Course 3 hour
+Just a Stroll in the Park: Genevieve Macilquham, Julie Groen and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  12 		 7/07/2019 11:43:05 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:06:48 PM	  0:06:48	
+   3	  31 	   30	 7/07/2019 12:15:08 PM	  0:08:20	
+   4	  73 	   70	 7/07/2019 12:21:12 PM	  0:06:04	
+   5	  46 	   40	 7/07/2019 12:35:29 PM	  0:14:17	
+   6	  52 	   50	 7/07/2019 12:40:34 PM	  0:05:05	
+   7	  43 	   40	 7/07/2019 12:56:48 PM	  0:16:14	
+   8	  62 	   60	 7/07/2019  1:12:33 PM	  0:15:45	
+   9	  66 	   60	 7/07/2019  1:28:35 PM	  0:16:02	
+  10	 102 	  100	 7/07/2019  1:53:59 PM	  0:25:24	
+  11	  55 	   50	 7/07/2019  2:04:39 PM	  0:10:40	
+  12	  57 	   50	 7/07/2019  2:34:54 PM	  0:30:15	
+  13	  42 	   40	 7/07/2019  2:41:31 PM	  0:06:37	
+  14	  24 	   20	 7/07/2019  2:55:38 PM	  0:14:07	
+  15	  26 	   20	 7/07/2019  3:04:26 PM	  0:08:48	
+  16	  18 		 7/07/2019  3:07:36 PM	  0:03:10	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  3:07:36 PM
+Time on course   3:07:36
+
+
+  670	Points Scored.
+  -80	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 590

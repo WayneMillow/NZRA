@@ -1,0 +1,24 @@
+Team No. 60	Tag ID = AZAW   Tags=0007	Course 06 hour
+Tortoises sometimes win: Elsie Bedford, Kim Bedford
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		31/01/2026  9:51:49 am	         	BRIEFING. Score reset.
+   2	  20 	30	31/01/2026 10:30:28 am	  0:30:28	
+   3	  80 	80	31/01/2026 11:19:23 am	  0:48:55	
+   4	  41 	40	31/01/2026  2:14:21 pm	  2:54:58	
+   5	  62 	60	31/01/2026  2:57:18 pm	  0:42:57	
+   6	  30 	30	31/01/2026  3:46:09 pm	  0:48:51	
+   7	  18 		31/01/2026  3:53:18 pm	  0:07:09	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  3:53:18 pm
+Time on course   5:53:18
+
+
+  240	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 240

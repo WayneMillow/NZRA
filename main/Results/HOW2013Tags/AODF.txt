@@ -1,0 +1,29 @@
+Team No. 601	Tag ID = AODF   Tags=0033	Course 2.5hr
+Tayleran: Ingrid Hanrahan, Innes  Hanrahan, Archie Taylor, Hamish Tayler, Jane Tayler
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  22	108		 8/06/2013 12:46:40 PM	         	BRIEFING. Score reset.
+  23	 19	 10	 8/06/2013  1:06:24 PM 	  0:05:24	
+  24	 29	 20	 8/06/2013  1:17:45 PM 	  0:11:21	
+  25	 40	 40	 8/06/2013  1:24:41 PM 	  0:06:56	
+  26	 28	 20	 8/06/2013  1:35:49 PM 	  0:11:08	
+  27	 97	 90	 8/06/2013  1:42:20 PM 	  0:06:31	
+  28	 75	 70	 8/06/2013  2:16:29 PM 	  0:34:09	
+  29	 85	 80	 8/06/2013  2:34:13 PM 	  0:17:44	
+  30	 20	 20	 8/06/2013  2:44:28 PM 	  0:10:15	
+  31	 58	 50	 8/06/2013  3:04:35 PM 	  0:20:07	
+  32	 58		 8/06/2013  3:06:26 PM 	  0:01:51	     Punched on Line 31
+  33	 16		 8/06/2013  3:23:19 PM 	  0:16:53	FINISH TIME.
+END
+
+
+Recognised finish time  8/06/2013  3:23:19 PM 
+Time on course   2:22:19
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

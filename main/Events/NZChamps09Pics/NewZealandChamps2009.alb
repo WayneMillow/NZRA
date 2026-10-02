@@ -1,0 +1,66 @@
+<webalbum version="1.8.2">
+  <title>New Zealand Champs 2009</title>
+  <description>
+    <line>Planner's Photos</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="140" height="105">large</thumbsize>
+    <outputdirectory>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\NZChamps09Pics\NewZealandChamps2009\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>15793151</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>4</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>True</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image039.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image038.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image037.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image036.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image035.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image034.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image033.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image032.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image031.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image030.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image029.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image028.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\Image027.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Bills\WKKStuff\Rogaine\NZChamps2009\PlannersReport&amp;Pictures\NorthBranchTowardsCP18.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>

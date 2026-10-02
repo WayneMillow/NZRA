@@ -1,0 +1,31 @@
+Team No. 68	Tag ID = AQAX   Tags=0014	Course 06 hour
+TEAK: Andrew Whooley, Emma Bradley and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		31/01/2026  9:50:54 am	         	BRIEFING. Score reset.
+   2	  30 	30	31/01/2026 10:15:32 am	  0:15:32	
+   3	  34 	30	31/01/2026 10:37:20 am	  0:21:48	
+   4	  84 	80	31/01/2026 10:48:47 am	  0:11:27	
+   5	  94 	90	31/01/2026 11:13:35 am	  0:24:48	
+   6	  44 	40	31/01/2026 11:35:33 am	  0:21:58	
+   7	 101 	100	31/01/2026 11:54:47 am	  0:19:14	
+   8	  45 	40	31/01/2026 12:22:04 pm	  0:27:17	
+   9	  85 	80	31/01/2026  1:02:52 pm	  0:40:48	
+  10	  95 	90	31/01/2026 11:06:04 am	         	Split time negative.
+  11	  89 	80	31/01/2026  2:08:01 pm	  3:01:57	
+  12	  35 	30	31/01/2026  5:27:16 am	         	Punch clock failed.
+  13	  75 	70	31/01/2026  3:19:42 pm	  1:11:41	
+  14	  18 		31/01/2026  4:18:24 pm	  0:58:42	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  4:18:24 pm
+Time on course   6:18:24
+
+
+  760	Points Scored.
+ -285	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 475

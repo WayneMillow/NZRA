@@ -1,0 +1,28 @@
+Team No. 2204	Tag ID = AKAS   Tags=0011	Course 3Hr
+Where Now?!: Rachel Ferguson, Kerri Booth
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 9/07/2017 11:48:40 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:09:59 PM	  0:09:59	
+   3	  41 	   40	 9/07/2017 12:26:17 PM	  0:16:18	
+   4	  63 	   60	 9/07/2017 12:42:57 PM	  0:16:40	
+   5	  23 	   20	 9/07/2017  1:01:14 PM	  0:18:17	
+   6	  35 	   30	 9/07/2017  1:10:38 PM	  0:09:24	
+   7	  61 	   60	 9/07/2017  1:29:08 PM	  0:18:30	
+   8	  84 	   80	 9/07/2017  2:10:35 PM	  0:41:27	
+   9	  58 	   50	 9/07/2017  2:42:38 PM	  0:32:03	
+  10	  55 	   50	 9/07/2017  2:54:42 PM	  0:12:04	
+  11	 108 		 9/07/2017  3:10:39 PM	  0:15:57	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  3:10:39 PM
+Time on course   3:10:39
+
+
+  410	Points Scored.
+ -110	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 300

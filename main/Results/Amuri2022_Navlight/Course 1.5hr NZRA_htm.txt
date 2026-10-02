@@ -1,0 +1,16 @@
+ 1	206	Savage Safaris (Jemima Savage, Stanley Savage, Jason Savage, Jack Savage.)	   1:28:24	1380	FO1
+ 2	203*	Terako Troop (Will Harrington, Beau Armstrong, Monte Armstrong.)	   1:24:25	1340	FO2
+ 3	216	Cranford Crazies (Paige Bailey, Gussie Dampier-Crossley.)	   1:26:20	1310	FO3
+ 4	219	Lone Rangers1 (Miah Thomas, Tory Kelly, Izzy Pinckney, Rebecca Kelly.)	   1:24:48	1090	FO4
+ 5	212	Croftys crew (Thomas Croft, Ben Croft, Valerie Croft.)	   1:36:36	1060( 70)	FO5
+ 6	215	Hamilton Family (James Hamilton, Vicky Hamilton, Zara Hamilton, William Hamilton, Matthew Hamilton.)	   1:18:43	910	FO6
+ 7	209	Sherwood Shortcuts (Guy Boissard, Jack Boissard, Louise Boissard.)	   1:26:27	910	FO7
+ 8	211	Nevins (Archie Nevins, Steph Nevins, Cooper Nevins, Chris Nevins.)	   1:26:15	900	FO8
+ 9	213	Stormtroopers (Kees Flapper, William Flapper, Shay Flapper, Jo Flapper.)	   1:27:14	890	FO9
+ 10	202	Unreal Groms (Jonty Oneill, Fiz Rutherford, Aggie Rutherford.)	   1:25:13	850	FO10
+ 11	210	Lost lambs (Mac Langford, Angela de Ridder, Lotte Smith, Tessa de Ridder.)	   1:25:53	800	FO11
+ 12	217	Team Clisby (Nadia Clisby, Gus Clisby, Simon Clisby.)	   1:36:50	700( 70)	FO12
+ 13	208	Lost Girls (Krystal Jennings, Gemma Aiken.)	   1:26:36	690	WO1
+ 14	207	Lost and loving it (Ashlyn Abernethy, Denise Johnson, Harper Abernethy, Jemma Abernethy, Sarina Woodhouse.)	   1:26:37	620	FO13
+ 15	220	Mighty Munchins (Gary Johnson, Alex, Becca, Evie Pinckney, Clara.)	   1:18:17	590	FO14
+ 16	214	Louie's Team (Paul Titford, Louie Rutherford.)	   1:21:58	590	FO15

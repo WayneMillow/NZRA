@@ -1,0 +1,46 @@
+O/A	Team	Score	Time	 Team Members 	M	M	M	M	W	W	W	W	X	X	X	X	M	X	W	
+					O	V	S	U	O	V	S	U	O	V	S	U	Y	Y	Y	
+							V	V			V	V			V	V				
+ 1	69	3740	 23:53:42	Greig Hamilton, Chris Forne. 	1	1	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 2	57	3580	 23:47:55	Darron Jones, Georgia Whitla. 	.	.	.	.	.	.	.	.	1	.	.	.	.	.	.	
+ 3	59	2940	 23:57:30	Fynn Mitchell, Dean Stewart. 	2	.	.	.	.	.	.	.	.	.	.	.	1	.	.	
+ 4	67	2750	 23:57:22	Marina Comeskey, Oak Jones. 	.	.	.	.	.	.	.	.	2	.	.	.	.	1	.	
+ 5	36	2740	 23:42:58	Tom Lucas, Mike Kelly. 	3	2	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 6	64	2620	 23:54:00	Phil Wood, Malcolm McLeod. 	4	3	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 7	38	2590	 23:47:39	Glen Mitchell, Adrian Braaksma. 	5	4	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 8	72	2560	 21:55:46	Aleisha Pile, Ben Young. 	.	.	.	.	.	.	.	.	3	.	.	.	.	.	.	
+ 9	43	2470	 23:46:15	Emma de Lacey, Guy de Lacey. 	.	.	.	.	.	.	.	.	4	1	1	1	.	.	.	
+ 10	56	2400	 23:39:52	Tiaan Mckinnel, Jonty Mckinnel, Jana Becker, Flynn Goodger. 	.	.	.	.	.	.	.	.	5	.	.	.	.	.	.	
+ 11	32	2310	 23:43:08	Craig Pelvin, Pieter Brits. 	6	5	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 12	30	2290	 23:48:40	Robb Simpson, Nick Harris. 	7	6	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 13	65	2200	 23:08:22	Amber Blodgett, Mark Cockroft, Alex Durran. 	.	.	.	.	.	.	.	.	6	2	.	.	.	.	.	
+ 14	62	2200	 23:41:16	Rolf Boswell, Jason Mouat. 	8	7	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 15	61	2180	 23:54:00	Hedley Meacheam, Sarah Millar. 	.	.	.	.	.	.	.	.	7	3	.	.	.	.	.	
+ 16	31	2170	 23:48:24	Nico Dubois, Ira Sizova. 	.	.	.	.	.	.	.	.	8	.	.	.	.	.	.	
+ 17	54	2140	 22:45:12	Laura Pattie, Tom Hambrook. 	.	.	.	.	.	.	.	.	9	.	.	.	.	.	.	
+ 18	50	2070	 23:41:20	Douglas Woods, Colin Dixon, Monty Montgomery. 	9	8	1	.	.	.	.	.	.	.	.	.	.	.	.	
+ 19	53	2060	 23:24:00	Mondo Kopua, David Mangnall. 	10	9	2	.	.	.	.	.	.	.	.	.	.	.	.	
+ 20	49	2050	 23:56:52	Chris Dixon, Caroline Elliott. 	.	.	.	.	1	1	.	.	.	.	.	.	.	.	.	
+ 21	46	2020	 23:26:13	Jenni Blyleven, Louise O'Connell. 	.	.	.	.	2	2	1	.	.	.	.	.	.	.	.	
+ 22	51	2000	 22:42:40	Taylor Rhind, Cullen Rhind. 	11	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 23	34	2000	 23:26:40	Bryan Clough, Pete Doonan, Dan Cullen, Max Stenhouse-Burgess. 	12	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 24	39	1990	 22:58:34	Robert White, Dave Viitakangas Darren Clay. 	13	10	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 25	40	1970	 23:55:59	Glen Warner, Nicole Ranger. 	.	.	.	.	.	.	.	.	10	4	.	.	.	.	.	
+ 26	47	1940	 22:58:41	Dave Cowie, Adam Cowie. 	14	11	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 27	42	1890	 23:24:18	Lottie Armstrong, Chris Greenan. 	.	.	.	.	.	.	.	.	11	.	.	.	.	.	.	
+ 28	71	1890	 23:59:03	Masha Mikhisor, Carl Rathbone. 	.	.	.	.	.	.	.	.	12	.	.	.	.	.	.	
+ 29	55	1840	 23:51:51	John Mckinnel, Stu Geddes. 	15	12	3	.	.	.	.	.	.	.	.	.	.	.	.	
+ 30	45	1840	 23:57:00	Kelvin Lloyd, Rodney Baker. 	16	13	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 31	70	1820	 22:52:00	Ben Ludgate, Daniel Johnston. 	17	14	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 32	29	1780	 23:48:02	Will Payne, Kristie Simpson, Logan Simpson, Steve Ledington. 	.	.	.	.	.	.	.	.	13	.	.	.	.	.	.	
+ 33	66	1580	 22:54:01	Lost Banditos (Deryk, Mark.)	18	15	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 34	33	1570	 23:44:45	Peter McDowall, Ben McDowall. 	19	.	.	.	.	.	.	.	.	.	.	.	.	.	.	
+ 35	60	1460	 22:53:26	Neil Murray, Anya Murray. 	.	.	.	.	.	.	.	.	14	.	.	.	.	.	.	
+ 36	44	1440	 22:46:48	Toni Sherlock, Jon Sherlock, Hayden Sherlock. 	.	.	.	.	.	.	.	.	15	5	.	.	.	.	.	
+ 37	63	1400	 23:34:39	Sonia Panapa, Katherine Boomer. 	.	.	.	.	3	3	.	.	.	.	.	.	.	.	.	
+ 38	37	1380	 23:50:00	Simon Rea, Dick Dinsdale. 	20	16	4	.	.	.	.	.	.	.	.	.	.	.	.	
+ 39	68	1150	 23:53:43	Holly Campbell, Brendon Roxburgh. 	.	.	.	.	.	.	.	.	16	6	.	.	.	.	.	
+ 40	41	1000	 23:53:00	Wayne Millow, Liz Millow. 	.	.	.	.	.	.	.	.	17	7	2	2	.	.	.	
+ 41	52	890	 21:36:27	Tim Hodgson, Jen Hodgson. 	.	.	.	.	.	.	.	.	18	8	.	.	.	.	.	
+ 42	48	660	 23:40:00	Valerie Rogers, Richard English. 	.	.	.	.	.	.	.	.	19	9	3	.	.	.	.	
+ 43	35	510	 20:56:30	Kelly Ashley, Shane Ashley. 	.	.	.	.	.	.	.	.	20	10	.	.	.	.	.	

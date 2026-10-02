@@ -1,0 +1,64 @@
+<HTML>
+<HEAD><TITLE>Xtra's Sample Form</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<LINK href="../stylesheet.css" type=text/css rel=stylesheet>
+</HEAD>
+
+<!-- <HTML><head> 
+<title>Add your title here</title> 
+</head> -->
+<body bgcolor=#FFFFFF text=#000000">
+
+<p>This is the sample form from XTRA. How would it be used?? 
+
+<ul><li>Make Name, Address and, obviously, Email Address compulsory to discourage frivolous registration. Details like Phone and Fax need not be compulsory. (I believe it should be possible to use Javascript to return the filled-in form to the user for checking before final submission if that facility is not supplied by Xtra; but it seems the redirect facility should enable this). <li> Give the purpose of the Registration,  such as: <ul> <li> Notification of events <li> Notification of website updates <li> etc.etc. </ul><li>Consider a message on the form such as "You should receive an email from Rogaine NZ within 24hrs to verify that your details are correct. If you don't then try again" (How can this be automated?? Needs a machine permanently on.) <li>Also need an inviting message saying "If your email address changes then don't forget to re-register". (Would use Name, Address to remove the old address. Need to automate this). <li>Want to automate removal from list if emails bounce. Maybe users should be warned of this, but they cannot be notified. <li> Do we want an "Unsubscribe" (ADD/REMOVE) capability on the form? I think so. This could be automated OK by checking against some or all of the fields.</ul>
+The menu entry could be "Stay in Touch" or similar. "Subscribe" has implications of cost, so I don't like that.</p>
+<p><hr size=1><p> 
+
+<form method=POST action="http://home.xtra.co.nz/cgi-bin/FormMail.pl"> 
+<h2><u>Add a heading here</u></h2><p>
+
+<input type=hidden name="recipient" value="enter email address here"> 
+<input type=hidden name="subject" value="Form Mailer"> 
+<center><table border=0> 
+<tr> 
+<th colspan=2> 
+<input type=radio name="doing" value="register"> Register 
+<input type=radio name="doing" value="comments" Checked> Comments 
+<br> 
+</th> 
+</tr><tr> 
+<th>Username: </th><td><input type=text name="username" size=30></td> 
+</tr><tr> 
+<th>Name: </th><td><input type=text name="realname" size=30><br></td> 
+</tr><tr> 
+<th>Address: </th><td><input type=text name="address" size=30><br></td> 
+</tr><tr> 
+<th>Phone: </th><td><input type=text name="phone" size=30><br></td> 
+</tr><tr> 
+<th>Fax: </th><td><input type=text name="fax" size=30><br></td> 
+</tr><tr> 
+<th>E-Mail: </th><td><input type=text name="email" size=30><br></td> 
+</tr></table></center> 
+
+<p><hr size=1><p> 
+<center><table border=0> 
+<tr> 
+<th valign=top>Comments:<br></th> 
+<td><textarea name="comments" COLS=60 ROWS=4></textarea></td> 
+</tr></table></center> 
+
+<p><center> 
+<input type="submit" value="Send Message"> <input type="reset" value="Clear 
+Form"> 
+</center></form> 
+<hr size=1><p> 
+<center><font size=-1> 
+[ <a href="Enter path to home page here">Home </a> ] [ <a href="Enter path 
+to filename here">Enter the name of the web page here</a> ] 
+</font></center> 
+
+</td></tr></table> 
+</body> 
+</html>  
+

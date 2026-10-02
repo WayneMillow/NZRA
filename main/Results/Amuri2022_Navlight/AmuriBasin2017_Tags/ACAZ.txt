@@ -1,0 +1,32 @@
+Team No. 3180	Tag ID = ACAZ   Tags=0015	Course 3Hr
+Thrills N Spills: Nardia Turner, Julie Shore
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  13 		 9/07/2017 11:45:37 AM	         	BRIEFING. Score reset.
+   2	  21 	   20	 9/07/2017 12:03:37 PM	  0:03:37	
+   3	  41 	   40	 9/07/2017 12:11:49 PM	  0:08:12	
+   4	  55 	   50	 9/07/2017 12:16:25 PM	  0:04:36	
+   5	  67 	   60	 9/07/2017 12:33:28 PM	  0:17:03	
+   6	  42 	   40	 9/07/2017 12:49:19 PM	  0:15:51	
+   7	  58 	   50	 9/07/2017 12:58:53 PM	  0:09:34	
+   8	  73 	   70	 9/07/2017  1:17:16 PM	  0:18:23	
+   9	  84 	   80	 9/07/2017  1:26:28 PM	  0:09:12	
+  10	  35 	   30	 9/07/2017  1:42:02 PM	  0:15:34	
+  11	  23 	   20	 9/07/2017  1:52:33 PM	  0:10:31	
+  12	  64 	   60	 9/07/2017  2:00:49 PM	  0:08:16	
+  13	  63 	   60	 9/07/2017  2:10:18 PM	  0:09:29	
+  14	  31 	   30	 9/07/2017  2:40:23 PM	  0:30:05	
+  15	 108 		 9/07/2017  2:47:18 PM	  0:06:55	FINISH TIME.
+END
+
+
+Recognised finish time  9/07/2017  2:47:18 PM
+Time on course   2:47:18
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

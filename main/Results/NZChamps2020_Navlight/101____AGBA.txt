@@ -1,0 +1,31 @@
+Team No. 101	Tag ID = AGBA   Tags=0014	Course 15 hour
+You said 'retreat'.: Alane Sue Paterson, Shelley Friedrich and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 6/11/2020  7:43:45 PM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020 12:19:43 PM	  0:19:43	
+   3	  34 	   30	 7/11/2020  1:02:51 PM	  0:43:08	
+   4	  86 	   80	 7/11/2020  2:08:15 PM	  1:05:24	
+   5	  89 	   80	 7/11/2020  3:12:14 PM	  1:03:59	
+   6	  44 	   40	 7/11/2020  3:51:20 PM	  0:39:06	
+   7	  67 	   60	 7/11/2020  4:45:34 PM	  0:54:14	
+   8	  54 	   50	 7/11/2020  5:43:46 PM	  0:58:12	
+   9	  82 	   80	 7/11/2020  6:13:27 PM	  0:29:41	
+  10	  87 	   80	 7/11/2020  8:11:39 PM	  1:58:12	
+  11	  35 	   30	 7/11/2020 10:53:28 PM	  2:41:49	
+  12	  25 	   20	 7/11/2020 11:22:32 PM	  0:29:04	
+  13	  49 	   40	 8/11/2020  1:04:50 AM	  1:42:18	
+  14	  17 		 8/11/2020  2:53:20 AM	  1:48:30	FINISH TIME.
+END
+
+
+Recognised Course time 8/11/2020 2:53:20 AM
+Time on course  14:53:20
+
+
+  610	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 610

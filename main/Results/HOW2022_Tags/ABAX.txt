@@ -1,0 +1,31 @@
+Team No. 61	Tag ID = ABAX   Tags=0014	Course 06 hour
+Bedford Eggs: Emma Bedford, Arthur Bedford and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		31/01/2026  9:50:01 am	         	BRIEFING. Score reset.
+   2	  20 	30	31/01/2026 10:02:22 am	  0:02:22	
+   3	  80 	80	31/01/2026 10:32:35 am	  0:30:13	
+   4	  50 	50	31/01/2026 11:25:17 am	  0:52:42	
+   5	  70 	70	31/01/2026 11:37:42 am	  0:12:25	
+   6	  41 	40	31/01/2026 12:04:59 pm	  0:27:17	
+   7	 100 	100	31/01/2026 12:49:08 pm	  0:44:09	
+   8	  62 	60	31/01/2026  1:27:48 pm	  0:38:40	
+   9	  92 	90	31/01/2026  2:20:51 pm	  0:53:03	
+  10	  54 	50	31/01/2026  2:33:33 pm	  0:12:42	
+  11	  93 	90	31/01/2026  2:49:46 pm	  0:16:13	
+  12	  30 	30	31/01/2026  3:36:50 pm	  0:47:04	
+  13	  40 	40	31/01/2026  3:47:20 pm	  0:10:30	
+  14	  18 		31/01/2026  3:54:58 pm	  0:07:38	FINISH TIME.
+END
+
+
+Recognised finish time 31/01/2026  3:54:58 pm
+Time on course   5:54:58
+
+
+  730	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 730

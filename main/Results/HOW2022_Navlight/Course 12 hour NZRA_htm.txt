@@ -1,0 +1,66 @@
+ 1	15	Sneaky Weasels (Tane Cambridge, Tim Farrant.)	 12:04:51	3320( 50)	M1
+ 2	11	Dean and Gerald (Tom Hadley, Rhys John.)	 11:55:04	3080	M2
+ 3	25	Georgia and Sara (Sara Prince, Georgia Whitla.)	 12:03:09	3050( 40)	W1
+ 4	54	Team Looks Right Again (Marty Lukes, Tim Wright.)	 11:57:56	2960	M3,MV1
+ 5	20	Walladubies (Jonty Mckinnel, Tiaan Mckinnel.)	 11:52:56	2880	M4
+ 6	49	3 Wise Men and Phil (Matt Bixley, Rob Harrow, Malcolm McLeod, Phil Wood.)	 11:50:48	2850	M5,MV2
+ 7	22	Bee Fit (Kristen Diederich, Belinda McCone, Ben O'Carroll.)	 11:50:55	2790	X1
+ 8	33	Born Free (Daniel Jessop, Aliesha Pile.)	 11:57:18	2770	X2
+ 9	17	Team Devold (Thomas Hughes, Jamie Mountier, Alan Steel.)	 11:57:23	2770	M6
+ 10	13	Navlighters (Owain John, Chris Forne.)	 11:42:40	2730	M7
+ 11	71	Punch Drunk (Peter Montgomery, Douglas Woods.)	 11:52:29	2620	M8,MV3,MSV1
+ 12	56	The Return of Salt and Pepper (Harvey Brouard, Warwick Tuffnell.)	 11:31:46	2610	M9,MV4
+ 13	2	Fear Youth Male (Fynn Mitchell, Zac Pearson, Dean Stewart.)	 11:58:32	2560	M10,MJ1
+ 14	39	Mixed nuts (Cam Algie, Lisa Algie.)	 11:49:27	2530	X3
+ 15	41	NAAR Society (Scott Barker, Hamish Brown, Nic Ewen, Jo Taylor.)	 11:47:29	2520	X4
+ 16	32	Alpine Gypsies (Lottie Armstrong, Chris Greenan.)	 12:04:35	2470( 50)	X5
+ 17	9	A Good Trail Snack (Liam Davidge, Ben Ellis, Mitch Green.)	 11:40:00	2460	M11
+ 18	18	Tenacious Turtles (Nathan Harris, Ev Tolerton.)	 11:53:42	2430	M12
+ 19	83	Any HOW (Emma de Lacey, Guy de Lacey.)	 11:41:07	2310	X6,XV1,XSV1,XUV1
+ 20	34	Happy Feet (Naomi Cranston, Michael Nuttall.)	 11:57:50	2260	X7
+ 21	40	Mo's Mob (Paul Humphreys, Di Johnston, Daniel Redmond, Sophie Richards.)	 11:43:26	2230	X8
+ 22	59	Clare & Sally (Sally Lochhead, Clare McLennan.)	 11:43:33	2150	W2,WV1
+ 23	72	too old men (Peter Cleary, Mike Harding.)	 11:47:58	2140	M13,MV5,MSV2
+ 24	73	Tortilla Flat Track Club (Al Cory-Wright, Alistair Boyce, Jason Brown.)	 11:58:21	2140	M14
+ 25	43	not fast; just furious (Jessica Fabian, Tim Pope.)	 11:21:57	2130	X9
+ 26	10	Afraid of Heights (Dave Harrey, Izaak Wybourne.)	 11:27:22	2080	M15
+ 27	37	J.I. Jo (Josh Gordon, Jo Turnbull, Ian Walsh.)	 11:41:00	2050	X10
+ 28	65	Where's the Sat Nav (Claire Le Grice, Rache Schmack.)	 11:25:58	2020	W3,WV2
+ 29	38	M & L (Lauren Fearnley, Mitch Fearnley.)	 11:48:00	2020	X11
+ 30	55	The  Probes (Dave Taylor, Brandon Wilson.)	 11:50:34	2020	M16,MV6
+ 31	28	Team Kumho (Ruth Cornelius, Tina Frew.)	 10:53:37	2010	W4
+ 32	21	Wolf Pack (Josh Janssen, Blake McMillan.)	   9:49:28	1970	M17
+ 33	42	NOCturnal Cows (Maegan McIsaac, Daniel Penney.)	 11:53:52	1960	X12
+ 34	53	Skins Control Freaks (Aaron Ross, David Watt.)	 11:54:12	1930	M18,MV7
+ 35	70	FF no C (Richard Dove, Tony Watson.)	 11:41:25	1920	M19,MV8,MSV3
+ 36	74	Adventure before dementia (Jenni Blyleven, Louise O'Connell.)	 11:43:01	1900	W5,WV3,WSV1
+ 37	44	Sardine Racing (Sam Grummitt, Josie Norris.)	 12:03:36	1850( 40)	X13
+ 38	45	Trailfit (Luara Anderson, Simon Bloomberg, Chloe Quilliam, Nick Lane.)	 11:57:35	1840	X14
+ 39	64	The Flying Circus (Paulette Birchfield, Kathryn Conradson.)	 11:53:27	1830	W6,WV4
+ 40	24	Duck Duck Gooseberries (Laura Andrews, Carey Lintott, Ellen Plumtree.)	 11:43:54	1820	W7
+ 41	48	Yahooligans (Rebecca Ireland, Sam Richardson, Guy Sutherland.)	 11:54:30	1790	X15
+ 42	62	No The Other Left (Jo Forbes, Sarah Lyttle, Ange West, Mary McBride.)	 11:52:46	1780	W8,WV5
+ 43	82	Old Bones (Phil Bones, Stephen John.)	 11:53:07	1780	M20,MV9,MSV4,MUV1
+ 44	68	Which Way Where (Kath Kelly, John Mckinnel.)	 12:07:30	1780( 80)	X16,XV2
+ 45	6	Paw Patrol (Alex Braun, Adrian France, Hamish France, Maria Laurie, Daisy York.)	 12:04:05	1760( 50)	X17,XJ1
+ 46	51	Fried Green Tomatoes (Glen Friery, Tony McGuire, Hayden Prattley, David Scarf.)	 10:55:01	1750	M21,MV10
+ 47	7	The shorter heights of winter (Anna Babington, Katherine Babington, Daniel Vickers, James Wright.)	 12:02:20	1750( 30)	X18,XJ2
+ 48	66	Cameltoes (Polly Lock, Lea Vellenoweth.)	 11:54:54	1740	W9,WV6
+ 49	57	Banoffee Pie Scoffers (Lisa Ainley, Bridget Guerin.)	 11:04:51	1660	W10,WV7
+ 50	79	Over the hill (Alan Moore, Julia Moore, Lyn Stanton.)	 11:43:13	1640	X19,XV3,XSV2
+ 51	78	hiikoi (Clare O'Regan, Desmond O'Regan, Hugo Young.)	 11:17:23	1630	X20,XV4,XSV3
+ 52	67	The Dippers (Marcus Diprose, Caroline Diprose-Rea.)	 11:01:41	1620	X21,XV5
+ 53	81	McMee (Andrew McGowan, Trevor Merrifield.)	 11:51:57	1530	M22,MV11,MSV5,MUV2
+ 54	77	A bit wonky (Chris Dixon, Colin Dixon.)	 11:49:20	1490	X22,XV6,XSV4
+ 55	84	The Wiz Kids (Liz Millow, Wayne Millow, Kathrin Mueller.)	 11:27:14	1480	X23,XV7,XSV5,XUV2
+ 56	75	Muttonbirds (Josie Boland, Viv Prince.)	 11:16:18	1420	W11,WV8,WSV2
+ 57	61	Lady and the Trampers (Lynley Marks, Liz Atkins, Sue Courtney.)	 12:03:45	1410( 40)	W12,WV9
+ 58	26	Mad Muddy Mums (Kim Churton, Celia Hogan, Kate Purdie.)	   8:50:11	1270	W13
+ 59	47	Wicked Rogaines (Nora Audra, Ian Edmond, Oscar Edmond.)	 11:10:41	1270	X24
+ 60	58	Born to be Wild (Pip Depree, Sarah Helmore, Genevieve Leech.)	 11:57:47	1220	W14,WV10
+ 61	29	The EmVPs (Virginia Fleming, Penny Seager.)	 11:36:21	1200	W15
+ 62	27	Stepwise (Heather Dixon, Helen Jermy, Juliet Jones.)	 12:03:15	1190( 40)	W16
+ 63	156	Lost in the car park (Philippa Bennett, Cheryl Black, Vic Struthers.)	   6:03:22	890	W17,WV11
+ 64	63	Tall Beans (Michelle Clyne, Kristine Marriott.)	   7:24:23	840	W18,WV12
+ 65	52	Nutrient Rescue (Darron Jones, Dave Quested, Kieran Hambrook.)	 11:59:47	0	
+ 66	30	X&Y (Yvonne Grosch, Chris Hohe.)	 12:48:28	0( 1550)	

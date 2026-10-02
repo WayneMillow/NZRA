@@ -1,0 +1,22 @@
+Team No. 60	Tag ID = AZAW   Tags=0006	Course 6hr
+Runnin on Mt: Therese Loney, Mel Janssen and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 14		 4/07/2009 10:01:44 AM	         	BRIEFING. Score reset.
+   3	 21	 20	 4/07/2009 11:03:40 AM	  0:33:40	
+   4	 33	 30	 4/07/2009 11:38:09 AM	  0:34:29	
+   5	 34	 30	 4/07/2009 12:29:51 PM	  0:51:42	
+   6	109		 4/07/2009  3:16:45 PM 	  2:46:54	FINISH TIME.
+END
+
+
+Recognised finish time  4/07/2009  3:16:45 PM 
+Time on course   4:46:45
+
+
+   80	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 80

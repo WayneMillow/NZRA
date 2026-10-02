@@ -1,0 +1,30 @@
+Team No. 161	Tag ID = AWDF   Tags=0013	Course 6 hour
+Carole  Nick  Tim: Nick Webby, Carole Webby and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:08:49 AM	  0:08:49	
+   2	  24 	   20	19/06/2021 11:20:45 AM	  0:11:56	
+   3	  39 	   30	19/06/2021 11:31:37 AM	  0:10:52	
+   4	  47 	   40	19/06/2021 11:50:00 AM	  0:18:23	
+   5	  80 	   80	19/06/2021 11:59:23 AM	  0:09:23	
+   6	  49 	   40	19/06/2021 12:22:09 PM	  0:22:46	
+   7	  67 	   60	19/06/2021 12:49:25 PM	  0:27:16	
+   8	  35 	   30	19/06/2021 12:59:57 PM	  0:10:32	
+   9	 100 	  100	19/06/2021  1:17:59 PM	  0:18:02	
+  10	  41 	   40	19/06/2021  1:38:57 PM	  0:20:58	
+  11	  96 	   90	19/06/2021  3:04:53 PM	  1:25:56	
+  12	  43 	   40	19/06/2021  3:40:47 PM	  0:35:54	
+  13	  97 		19/06/2021  5:56:25 PM	  2:15:38	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  5:56:25 PM
+Time on course   6:56:25
+
+
+  600	Points Scored.
+ -600	Late Time Disqualification.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 600 LATE

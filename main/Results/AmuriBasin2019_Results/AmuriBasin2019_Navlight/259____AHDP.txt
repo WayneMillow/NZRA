@@ -1,0 +1,30 @@
+Team No. 259	Tag ID = AHDP   Tags=0013	Course 1.5 hour
+Pinck Panthers: Henry Pinckney, Issy Pinckney
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/07/2019 12:44:35 PM	         	BRIEFING. Score reset.
+   2	  21 	   20	 7/07/2019 12:58:10 PM	         	Punch clock failed.
+   3	  47 	   40	 7/07/2019  1:04:35 PM	  0:04:35	
+   4	  31 	   30	 7/07/2019  1:14:03 PM	  0:09:28	
+   5	  73 	   70	 7/07/2019  1:22:26 PM	  0:08:23	
+   6	  33 	   30	 7/07/2019  1:30:05 PM	  0:07:39	
+   7	  46 	   40	 7/07/2019  1:43:51 PM	  0:13:46	
+   8	  52 	   50	 7/07/2019  1:50:32 PM	  0:06:41	
+   9	  34 	   30	 7/07/2019  1:58:41 PM	  0:08:09	
+  10	  59 	   50	 7/07/2019  2:09:58 PM	  0:11:17	
+  11	  39 	   30	 7/07/2019  2:23:07 PM	  0:13:09	
+  12	  26 	   20	 7/07/2019  2:29:19 PM	  0:06:12	
+  13	  16 		 7/07/2019  2:32:17 PM	  0:02:58	FINISH TIME.
+END
+
+
+Recognised finish time  7/07/2019  2:32:17 PM
+Time on course   1:32:17
+
+
+  410	Points Scored.
+  -15	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 395

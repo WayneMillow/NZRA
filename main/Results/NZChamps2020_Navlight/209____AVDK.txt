@@ -1,0 +1,24 @@
+Team No. 209	Tag ID = AVDK   Tags=0007	Course 6 hour
+AB positive: Anna Varnham, Beverley Holder
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  8:43:05 AM	         	BRIEFING. Score reset.
+   2	  38 	   30	 7/11/2020  1:33:57 PM	  0:33:57	
+   3	  29 	   20	 7/11/2020  2:14:03 PM	  0:40:06	
+   4	  49 	   40	 7/11/2020  3:55:31 PM	  1:41:28	
+   5	  47 	   40	 7/11/2020  4:41:05 PM	  0:45:34	
+   6	  25 	   20	 7/11/2020  5:08:43 PM	  0:27:38	
+   7	  17 		 7/11/2020  6:40:43 PM	  1:32:00	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:40:43 PM
+Time on course   5:40:43
+
+
+  150	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 150

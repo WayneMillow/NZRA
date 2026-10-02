@@ -1,0 +1,32 @@
+Team No. 206	Tag ID = AHAV   Tags=0054	Course 7Hour
+Antonia Wood, Jonathon Wood
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+  40	 10		24/11/2012 10:20:19 AM	         	BRIEFING. Score reset.
+  41	 25	 20	24/11/2012 10:54:38 AM	  0:24:38	
+  42	 60	 60	24/11/2012 11:25:36 AM	  0:30:58	
+  43	 72	 70	24/11/2012 11:51:03 AM	  0:25:27	
+  44	 58	 50	24/11/2012 12:05:43 PM	  0:14:40	
+  45	 84	 80	24/11/2012 12:44:13 PM	  0:38:30	
+  46	 83	 80	24/11/2012  1:15:32 PM 	  0:31:19	
+  47	 61	 60	24/11/2012  1:43:29 PM 	  0:27:57	
+  48	 91	 90	24/11/2012  2:19:26 PM 	  0:35:57	
+  49	 47	 40	24/11/2012  2:50:02 PM 	  0:30:36	
+  50	 31	 30	24/11/2012  3:17:11 PM 	  0:27:09	
+  51	 74	 70	24/11/2012  3:46:30 PM 	  0:29:19	
+  52	 62	 60	24/11/2012  4:24:46 PM 	  0:38:16	
+  53	 46	 40	24/11/2012  4:59:59 PM 	  0:35:13	
+  54	105		24/11/2012  5:15:40 PM 	  0:15:41	FINISH TIME.
+END
+
+
+Recognised finish time 24/11/2012  5:15:40 PM 
+Time on course   6:45:40
+
+
+  750	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 750

@@ -1,0 +1,29 @@
+Team No. 2252	Tag ID = AODF   Tags=0012	Course 6Hr
+In With a Grin: Philippa Daly, Julie Groen and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:44:21 AM	         	BRIEFING. Score reset.
+   2	 21	 20	10/06/2017 11:11:55 AM	  0:11:55	 Punch  12 replaced by Group 21.
+   3	 40	 40	10/06/2017 11:30:11 AM	  0:18:16	
+   4	 42	 40	10/06/2017 11:53:42 AM	  0:23:31	
+   5	100	100	10/06/2017 12:14:23 PM	  0:20:41	
+   6	 61	 60	10/06/2017 12:57:23 PM	  0:43:00	
+   7	 70	 70	10/06/2017  1:33:42 PM	  0:36:19	
+   8	 23	 20	10/06/2017  1:55:04 PM	  0:21:22	
+   9	 26	 20	10/06/2017  3:53:33 PM	  1:58:29	
+  10	 25	 20	10/06/2017  4:07:33 PM	  0:14:00	
+  11	 22	 20	10/06/2017  4:33:47 PM	  0:26:14	
+  12	109		10/06/2017  4:53:41 PM	  0:19:54	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  4:53:41 PM
+Time on course   5:53:41
+
+
+  410	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 410

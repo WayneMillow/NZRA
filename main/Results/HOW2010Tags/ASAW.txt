@@ -1,0 +1,35 @@
+Team No. 622	Tag ID = ASAW   Tags=0019	Course 6_HoW
+Lance Farrar, Marie Hessey and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   2	 23		26/06/2010 10:33:13 AM	         	BRIEFING. Score reset.
+   3	 46	 40	26/06/2010 11:17:20 AM	  0:17:20	 Punch  03 replaced by Group 46.
+   4	 94	 90	26/06/2010 11:32:10 AM	  0:14:50	
+   5	 57	 50	26/06/2010 11:08:59 AM	         	Split time negative.
+   6	 37	 30	24/06/2010  6:45:25 PM 	         	1.677 Days early.
+   7	 76	 70	26/06/2010 12:33:52 PM	  1:24:53	
+   8	 58	 50	26/06/2010  1:03:59 PM 	  0:30:07	
+   9	 33	 30	26/06/2010  1:35:21 PM 	  0:31:22	
+  10	 66	 60	26/06/2010  1:58:32 PM 	  0:23:11	
+  11	 75	 70	26/06/2010  2:16:56 PM 	  0:18:24	
+  12	 93	 90	26/06/2010  2:35:28 PM 	  0:18:32	
+  13	 56	 50	26/06/2010  2:52:24 PM 	  0:16:56	
+  14	 84	 80	26/06/2010  3:13:24 PM 	  0:21:00	
+  15	 45	 40	26/06/2010  3:38:09 PM 	  0:24:45	
+  16	 20	 20	26/06/2010  4:08:43 PM 	  0:30:34	 Punch  01 replaced by Group 20.
+  17	 50	 50	26/06/2010  4:24:48 PM 	  0:16:05	
+  18	 36	 30	26/06/2010  4:37:50 PM 	  0:13:02	
+  19	 16		26/06/2010  4:50:42 PM 	  0:12:52	FINISH TIME.
+END
+
+
+Recognised finish time 26/06/2010  4:50:42 PM 
+Time on course   5:50:42
+
+
+  850	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 850

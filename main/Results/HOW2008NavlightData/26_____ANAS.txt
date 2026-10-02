@@ -1,0 +1,23 @@
+Team No. 26	Tag ID = ANAS   Tags=0006	Course 12hr
+Rick Hopcroft, Sam Roil
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 12		14/06/2008  8:43:40 AM 	         	BRIEFING. Score reset.
+   2	 30	 30	14/06/2008  9:14:43 AM 	  0:14:43	
+   3	 67	 60	14/06/2008  9:33:22 AM 	  0:18:39	
+   4	 51	 50	14/06/2008  9:53:21 AM 	  0:19:59	
+   5	 82	 80	14/06/2008 10:07:13 AM	  0:13:52	
+   6	106		14/06/2008 11:18:15 AM	  1:11:02	FINISH TIME.
+END
+
+
+Recognised finish time 14/06/2008 11:18:15 AM
+Time on course   2:18:15
+
+
+  220	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 220

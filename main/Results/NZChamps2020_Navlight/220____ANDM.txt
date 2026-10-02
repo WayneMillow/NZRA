@@ -1,0 +1,35 @@
+Team No. 220	Tag ID = ANDM   Tags=0014	Course 6 hour
+Duncans team: Duncan Rutherford, Kevin Oneill
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 11:37:19 AM	         	BRIEFING. Score reset.
+   2	  28 	   20	 7/11/2020  1:08:34 PM	  0:08:34	
+   3	  39 	   30	 7/11/2020  1:25:58 PM	  0:17:24	
+   4	  34 	   30	 7/11/2020  2:01:30 PM	  0:35:32	
+   5	 107 	  100	 7/11/2020  2:37:56 PM	  0:36:26	
+   6	  85 	   80	 7/11/2020  3:08:05 PM	  0:30:09	
+   7	  45 	   40	 7/11/2020  3:28:20 PM	  0:20:15	
+   8	  74 	   70	 7/11/2020  3:51:18 PM	  0:22:58	
+   9	  83 	   80	 7/11/2020  4:12:09 PM	  0:20:51	
+  10	  73 	   70	 7/11/2020  4:50:43 PM	  0:38:34	
+  11	  44 	   40	 7/11/2020  5:29:56 PM	  0:39:13	
+  12	 104 	  100	 7/11/2020  5:49:27 PM	  0:19:31	
+  13	  87 	   80	 7/11/2020  6:23:22 PM	  0:33:55	
+  14	  17 		 7/11/2020  6:53:43 PM	  0:30:21	FINISH TIME.
+END
+
+Some of your team have missed these Punches.
+  73
+Your score has been reduced by 70 points.
+
+
+Recognised finish time  7/11/2020  6:53:43 PM
+Time on course   5:53:43
+
+
+  670	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 670

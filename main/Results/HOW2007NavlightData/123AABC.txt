@@ -1,0 +1,29 @@
+Team No. 123	Tag ID = AABC   Tags=0013	Course 6hr
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 88		12/06/2006  4:42:12 PM 	        	BRIEFING. Score reset.
+   2	 23	 20	16/06/2007 10:11:10 AM	  0:11:10	
+   3	 28	 20	16/06/2007 11:11:27 AM	  1:00:17	
+   4	 12	 10	16/06/2007 11:25:01 AM	  0:13:34	
+   5	 29	 20	16/06/2007 11:33:04 AM	  0:08:03	
+   6	 36	 30	16/06/2007 11:41:38 AM	  0:08:34	
+   7	 64	 60	16/06/2007 12:06:08 PM	  0:24:30	
+   8	 27	 20	16/06/2007 12:27:55 PM	  0:21:47	
+   9	 46	 40	16/06/2007 12:53:13 PM	  0:25:18	
+  10	 33	 30	16/06/2007  1:09:05 PM 	  0:15:52	
+  11	 37	 30	16/06/2007  1:56:04 PM 	  0:46:59	
+  12	 31	 30	16/06/2007  2:37:17 PM 	  0:41:13	
+  13	 99		16/06/2007  3:02:40 PM 	  0:25:23	FINISH TIME.
+END
+
+
+Recognised finish time 16/06/2007  3:02:40 PM 
+Time on course   5:02:40
+
+
+  310	Points Scored.
+ 	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 310

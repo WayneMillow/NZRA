@@ -1,0 +1,29 @@
+Team No. 614	Tag ID = AJBA   Tags=0012	Course 6Hr
+Dallas Bean, Martin Foster
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 92		27/06/2015 10:42:37 AM	         	BRIEFING. Score reset.
+   2	 26	 20	27/06/2015 11:12:14 AM	  0:12:14	
+   3	 68	 60	27/06/2015 11:56:05 AM	  0:43:51	
+   4	 85	 80	27/06/2015 12:15:56 PM	  0:19:51	
+   5	 55	 50	27/06/2015 12:30:03 PM	  0:14:07	
+   6	 76	 70	27/06/2015  1:58:02 PM	  1:27:59	
+   7	 94	 90	27/06/2015  2:14:46 PM	  0:16:44	
+   8	 77	 70	27/06/2015  3:16:18 PM	  1:01:32	
+   9	 58	 50	27/06/2015  3:50:47 PM	  0:34:29	
+  10	 48	 40	27/06/2015  4:03:44 PM	  0:12:57	
+  11	 28	 20	27/06/2015  4:22:07 PM	  0:18:23	
+  12	106		27/06/2015  4:58:03 PM	  0:35:56	FINISH TIME.
+END
+
+
+Recognised finish time 27/06/2015  4:58:03 PM
+Time on course   5:58:03
+
+
+  550	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 550

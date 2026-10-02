@@ -1,0 +1,27 @@
+Team No. 69	Tag ID = ASAX   Tags=0010	Course 7Hour
+MTBF: Bella Fraser, Mel Telford
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 96		27/02/2016 10:49:44 AM	         	BRIEFING. Score reset.
+   2	 21	 20	27/02/2016 11:22:31 AM	  0:22:31	
+   3	 52	 50	27/02/2016 11:46:59 AM	  0:24:28	
+   4	 93	 90	27/02/2016 12:28:06 PM	  0:41:07	
+   5	 61	 60	27/02/2016 12:59:59 PM	  0:31:53	
+   6	 23	 20	27/02/2016  1:41:07 PM	  0:41:08	
+   7	 53	 50	27/02/2016  2:05:06 PM	  0:23:59	
+   8	 45	 40	27/02/2016  3:13:47 PM	  1:08:41	
+   9	 71	 70	27/02/2016  3:59:52 PM	  0:46:05	
+  10	 18		27/02/2016  5:42:06 PM	  1:42:14	FINISH TIME.
+END
+
+
+Recognised finish time 27/02/2016  5:42:06 PM
+Time on course   6:42:06
+
+
+  400	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 400

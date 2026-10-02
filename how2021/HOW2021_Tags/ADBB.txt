@@ -1,0 +1,32 @@
+Team No. 112	Tag ID = ADBB   Tags=0015	Course 6 hour
+Remote Control: Nicola Hardaker, Alison MacDonald
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  33 	   30	19/06/2021 11:07:45 AM	  0:07:45	
+   2	  24 	   20	19/06/2021 11:19:56 AM	  0:12:11	
+   3	  39 	   30	19/06/2021 11:31:18 AM	  0:11:22	
+   4	  47 	   40	19/06/2021 11:51:20 AM	  0:20:02	
+   5	  80 	   80	19/06/2021 12:02:28 PM	  0:11:08	
+   6	  50 	   50	19/06/2021 12:55:44 PM	  0:53:16	
+   7	  35 	   30	19/06/2021  1:30:41 PM	  0:34:57	
+   8	 100 	  100	19/06/2021  1:48:06 PM	  0:17:25	
+   9	  20 	   20	19/06/2021  2:15:32 PM	  0:27:26	
+  10	  64 	   60	19/06/2021  2:58:40 PM	  0:43:08	
+  11	  26 	   20	19/06/2021  3:17:03 PM	  0:18:23	
+  12	  77 	   70	19/06/2021  3:31:42 PM	  0:14:39	
+  13	  58 	   50	19/06/2021  4:00:23 PM	  0:28:41	
+  14	  48 	   40	19/06/2021  4:47:43 PM	  0:47:20	
+  15	  97 		19/06/2021  4:59:23 PM	  0:11:40	FINISH TIME.
+END
+
+
+Recognised finish time 19/06/2021  4:59:23 PM
+Time on course   5:59:23
+
+
+  640	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 640

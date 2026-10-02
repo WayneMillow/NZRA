@@ -1,0 +1,29 @@
+Team No. 159	Tag ID = ASDF   Tags=0012	Course 3 hour
+Team Mc: Nikki Begg, Shelley McCully and 2 others.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  11 		 7/07/2019 11:43:12 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	 7/07/2019 12:11:45 PM	  0:11:45	
+   3	  31 	   30	 7/07/2019 12:25:24 PM	  0:13:39	
+   4	  73 	   70	 7/07/2019 12:36:05 PM	  0:10:41	
+   5	  46 	   40	 7/07/2019  1:02:01 PM	  0:25:56	
+   6	  52 	   50	 7/07/2019  1:13:02 PM	  0:11:01	
+   7	  41 	   40	 7/07/2019  2:06:38 PM	  0:53:36	
+   8	  54 	   50	 7/07/2019  2:21:45 PM	  0:15:07	
+   9	  28 	   20	 7/07/2019  2:40:39 PM	  0:18:54	
+  10	  49 	   40	 7/07/2019  2:50:45 PM	  0:10:06	
+  11	  18 		 7/07/2019  3:01:41 PM	  0:10:56	FINISH TIME.
+  12	  16 		 7/07/2019  3:01:50 PM	  0:00:09	FINISH TIME IGNORED.
+END
+
+
+Recognised finish time  7/07/2019  3:01:41 PM
+Time on course   3:01:41
+
+
+  380	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 360

@@ -1,0 +1,28 @@
+Team No. 44	Tag ID = ASAV   Tags=0011	Course 6hr
+Nat and the Navigators: Karen Gray, Emma Bradley and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  42 	   40	 1/07/2023 11:09:55 AM	  0:09:55	
+   2	  64 	   60	 1/07/2023 11:49:20 AM	  0:39:25	
+   3	  22 	   20	 1/07/2023 12:08:59 PM	  0:19:39	
+   4	  91 	   90	 1/07/2023 12:37:29 PM	  0:28:30	
+   5	  72 	   70	 1/07/2023  1:34:24 PM	  0:56:55	
+   6	  73 	   70	 1/07/2023  2:17:17 PM	  0:42:53	
+   7	  65 	   60	 1/07/2023  3:01:46 PM	  0:44:29	
+   8	  43 	   40	 1/07/2023  3:31:33 PM	  0:29:47	
+   9	  38 	   30	 1/07/2023  3:48:21 PM	  0:16:48	
+  10	  21 	   20	 1/07/2023  4:09:58 PM	  0:21:37	
+  11	  18 		 1/07/2023  4:35:08 PM	  0:25:10	FINISH TIME.
+END
+
+
+Recognised finish time  1/07/2023  4:35:08 PM
+Time on course   5:35:08
+
+
+  500	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 500

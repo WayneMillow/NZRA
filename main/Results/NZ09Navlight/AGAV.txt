@@ -1,0 +1,30 @@
+Team No. 39	Tag ID = AGAV   Tags=0013	Course 24 Hour
+Bob Cunninghame, Laurie Kennedy and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 11:45:31 AM	         	BRIEFING. Score reset.
+   2	 31	 30	 7/03/2009 12:16:49 PM	  0:16:49	
+   3	 46	 40	 7/03/2009 12:48:18 PM	  0:31:29	
+   4	 52	 50	 7/03/2009  1:55:50 PM 	  1:07:32	
+   5	 60	 60	 7/03/2009  2:47:16 PM 	  0:51:26	
+   6	 41	 40	 7/03/2009  3:45:50 PM 	  0:58:34	
+   7	 80	 80	 7/03/2009  4:34:29 PM 	  0:48:39	
+   8	 32	 30	 7/03/2009  5:19:37 PM 	  0:45:08	
+   9	 92	 90	 7/03/2009  5:55:07 PM 	  0:35:30	
+  10	 65	 60	 7/03/2009  7:38:44 PM 	  1:43:37	
+  11	 76	 70	 7/03/2009  8:34:14 PM 	  0:55:30	
+  12	 75	 70	 7/03/2009  9:59:55 PM 	  1:25:41	
+  13	 F		 8/03/2009  7:35:30 AM 	  9:35:35	FINISH TIME.
+END
+
+
+Recognised finish time  8/03/2009  7:35:30 AM 
+Time on course  19:35:30
+
+
+  620	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 620

@@ -1,0 +1,28 @@
+Team No. 213	Tag ID = ACDO   Tags=0011	Course 6 hour
+The Flying Circus: Kathryn Conradson, Paulette Birchfield and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020 12:13:41 PM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020  1:14:50 PM	  0:14:50	
+   3	  87 	   80	 7/11/2020  2:40:50 PM	  1:26:00	
+   4	  44 	   40	 7/11/2020  3:17:07 PM	  0:36:17	
+   5	  89 	   80	 7/11/2020  3:39:08 PM	  0:22:01	
+   6	  73 	   70	 7/11/2020  4:11:30 PM	  0:32:22	
+   7	  83 	   80	 7/11/2020  5:20:06 PM	  1:08:36	
+   8	  45 	   40	 7/11/2020  5:37:16 PM	  0:17:10	
+   9	  85 	   80	 7/11/2020  5:53:27 PM	  0:16:11	
+  10	  28 	   20	 7/11/2020  6:38:01 PM	  0:44:34	
+  11	  19 		 7/11/2020  6:47:51 PM	  0:09:50	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:47:51 PM
+Time on course   5:47:51
+
+
+  520	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 520

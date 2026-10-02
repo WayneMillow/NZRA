@@ -1,0 +1,27 @@
+Team No. 4	Tag ID = AUAQ   Tags=0010	Course 24 Hour
+Chris Ingham, Rachel Ingham
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 S		 7/03/2009 11:48:19 AM	         	BRIEFING. Score reset.
+   2	 31	 30	 7/03/2009 12:29:26 PM	  0:29:26	
+   3	 46	 40	 7/03/2009  1:04:44 PM 	  0:35:18	
+   4	 41	 40	 7/03/2009  1:37:56 PM 	  0:33:12	
+   5	 80	 80	 7/03/2009  2:58:03 PM 	  1:20:07	
+   6	 32	 30	 7/03/2009  3:38:46 PM 	  0:40:43	
+   7	 83	 80	 7/03/2009  4:33:47 PM 	  0:55:01	
+   8	 65	 60	 7/03/2009  5:41:44 PM 	  1:07:57	
+   9	 76	 70	 7/03/2009  6:52:26 PM 	  1:10:42	
+  10	 F		 7/03/2009 11:13:40 PM	  4:21:14	FINISH TIME.
+END
+
+
+Recognised finish time  7/03/2009 11:13:40 PM
+Time on course  11:13:40
+
+
+  430	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 430

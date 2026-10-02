@@ -1,0 +1,33 @@
+Team No. 103	Tag ID = AGBB   Tags=0015	Course 24hr
+The Wilderpeople: Brad Thiele, Tom  Irvine
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		16/12/2023 11:35:30 AM	         	BRIEFING. Score reset.
+   2	  47 	   40	16/12/2023 12:49:45 PM	  0:49:45	
+   3	  38 	   30	16/12/2023  1:07:22 PM	  0:17:37	
+   4	 102 	  100	16/12/2023  2:36:38 PM	  1:29:16	
+   5	  44 	   40	16/12/2023  3:16:46 PM	  0:40:08	
+   6	  57 	   50	16/12/2023  4:22:45 PM	  1:05:59	
+   7	  73 	   70	16/12/2023  5:21:55 PM	  0:59:10	
+   8	  51 	   50	16/12/2023  6:08:31 PM	  0:46:36	
+   9	  75 	   70	16/12/2023  6:36:27 PM	  0:27:56	
+  10	  65 	   60	16/12/2023  7:01:37 PM	  0:25:10	
+  11	  74 	   70	16/12/2023  8:19:43 PM	  1:18:06	
+  12	  96 	   90	16/12/2023  9:17:34 PM	  0:57:51	
+  13	  30 	   30	16/12/2023  9:40:57 PM	  0:23:23	
+  14	  20 	   20	17/12/2023  8:37:20 AM	 10:56:23	
+  15	  18 		17/12/2023  9:01:01 AM	  0:23:41	FINISH TIME.
+END
+	AddedPunch67	60
+
+
+Recognised finish time 17/12/2023  9:01:01 AM
+Time on course  21:01:01
+
+
+  780	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 780

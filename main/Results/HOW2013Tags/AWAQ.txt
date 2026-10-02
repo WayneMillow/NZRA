@@ -1,0 +1,31 @@
+Team No. 413	Tag ID = AWAQ   Tags=0013	Course 6hr
+Arrow Angels: Kelly Friery, Heidi Owens
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	105		 8/06/2013 10:20:18 AM	         	BRIEFING. Score reset.
+   2	 21	 20	 8/06/2013 10:34:15 AM	  0:05:15	
+   3	 49	 40	 8/06/2013 10:48:45 AM	  0:14:30	 Punch  12 replaced by Group 49.
+   4	 67	 60	 8/06/2013 11:00:02 AM	  0:11:17	
+   5	 30	 30	 8/06/2013 12:00:49 PM	  1:00:47	
+   6	 53	 50	 8/06/2013 12:31:30 PM	  0:30:41	
+   7	 26	 20	 8/06/2013 12:55:22 PM	  0:23:52	
+   8	 60	 60	 8/06/2013  1:27:14 PM 	  0:31:52	
+   9	 51	 50	 8/06/2013  1:38:55 PM 	  0:11:41	
+  10	 24	 20	 8/06/2013  2:03:03 PM 	  0:24:08	
+  11	 31	 30	 8/06/2013  2:47:39 PM 	  0:44:36	
+  12	 99	 90	 8/06/2013  3:26:11 PM 	  0:38:32	
+  13	 13		 8/06/2013  4:28:54 PM 	  1:02:43	FINISH TIME.
+END
+	AddedPunch94	90
+
+
+Recognised finish time  8/06/2013  4:28:54 PM 
+Time on course   5:59:54
+
+
+  560	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 560

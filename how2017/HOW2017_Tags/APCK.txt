@@ -1,0 +1,28 @@
+Team No. 2240	Tag ID = APCK   Tags=0011	Course 6Hr
+WTF (Wheres The Finish): simone ziarno, Toni Mulholland and 1 other.
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	 18		10/06/2017 10:45:17 AM	         	BRIEFING. Score reset.
+   2	 27	 20	10/06/2017 11:09:37 AM	  0:09:37	
+   3	 21	 20	10/06/2017 11:31:51 AM	  0:22:14	
+   4	 20	 20	10/06/2017 11:50:27 AM	  0:18:36	
+   5	 31	 30	10/06/2017 12:21:48 PM	  0:31:21	
+   6	 41	 40	10/06/2017  1:08:27 PM	  0:46:39	
+   7	 37	 30	10/06/2017  2:17:55 PM	  1:09:28	
+   8	 60	 60	10/06/2017  3:02:41 PM	  0:44:46	
+   9	100	100	10/06/2017  3:48:57 PM	  0:46:16	
+  10	 42	 40	10/06/2017  4:11:19 PM	  0:22:22	
+  11	106		10/06/2017  5:01:26 PM	  0:50:07	FINISH TIME.
+END
+
+
+Recognised finish time 10/06/2017  5:01:26 PM
+Time on course   6:01:26
+
+
+  360	Points Scored.
+  -20	Late Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 340

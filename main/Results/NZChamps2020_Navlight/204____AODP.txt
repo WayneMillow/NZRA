@@ -1,0 +1,29 @@
+Team No. 204	Tag ID = AODP   Tags=0012	Course 6 hour
+Cunning and Stealth: Tim Bygate, Hugh MacMillan
+Line #	PunchID	Value	 Time Punched		Split Time.
+
+   1	  10 		 7/11/2020  8:54:12 AM	         	BRIEFING. Score reset.
+   2	  36 	   30	 7/11/2020  1:13:46 PM	  0:13:46	
+   3	  87 	   80	 7/11/2020  2:14:19 PM	  1:00:33	
+   4	 104 	  100	 7/11/2020  3:00:26 PM	  0:46:07	
+   5	 103 	  100	 7/11/2020  3:56:18 PM	  0:55:52	
+   6	  89 	   80	 7/11/2020  4:17:28 PM	  0:21:10	
+   7	  73 	   70	 7/11/2020  4:42:45 PM	  0:25:17	
+   8	  83 	   80	 7/11/2020  5:18:54 PM	  0:36:09	
+   9	  45 	   40	 7/11/2020  5:31:28 PM	  0:12:34	
+  10	  85 	   80	 7/11/2020  5:43:00 PM	  0:11:32	
+  11	  28 	   20	 7/11/2020  6:34:22 PM	  0:51:22	
+  12	  19 		 7/11/2020  6:45:33 PM	  0:11:11	FINISH TIME.
+END
+
+
+Recognised finish time  7/11/2020  6:45:33 PM
+Time on course   5:45:33
+
+
+  680	Points Scored.
+     	No Time Penalty.
+  Nil	Manual adjustment.
+
+
+FINAL SCORE = 680
