@@ -23,7 +23,9 @@
       <li> 6 hour</li>  
       <li> 3 hour</li>  
       </ul>
-
+	  <p>The 24hr NZ Championships is the premier event running from midday Saturday to midday Sunday (you can stop for a nap if you want, but the clock keeps ticking!). Open to all rogainers, orienteers, adventure racers and outdoor enthusiasts. Perfect training for longer adventure races, like GODZONE and Magnificent.</p>
+	  <p>The '15 in 24hr' is the more social event, for those that like their rogaining with a little extra sleep. Your team can spend a maximum of 15 hours on the course in total and must spend 9 hours back at St Arnaud. As there is no overnight accommodation at the HQ (see below), you can spend the 9hrs downtime at your accommodation in St Arnaud township (plus DoC campsites at West Bay/Teetotal) on an honesty basis. The course covers all of the township and surrounding campsites, so you will be able to plan your route past your accommodation. The 15hrs on course can be spent all at once or in multiple blocks of time adding up to 15hrs.</p>
+	  <p>6hr and 3hr events will run on the Saturday welcoming families, newcomers, and seasoned navigators after a shorter day out.</p>
 
       <h3 class="subheader">Times</h3>
       <ul>

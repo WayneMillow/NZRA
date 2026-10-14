@@ -10,6 +10,14 @@
       <h2>News Items</h2>
       <!-- Add terms in descending date order -->
       <dl>
+      	<dt>October 12th</dt>
+      	<dd>More details on courses to Infomation Page</dd>
+      </dl>
+      <dl>
+      	<dt>September 30th</dt>
+      	<dd>Early entry fees ended.</dd>
+      </dl>
+      <dl>
       	<dt>September 14th</dt>
       	<dd>Fees and T&amp;C split out to Entry Info.</dd>
       </dl>
