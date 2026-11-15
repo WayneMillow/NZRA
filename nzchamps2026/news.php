@@ -10,6 +10,11 @@
       <h2>News Items</h2>
       <!-- Add terms in descending date order -->
       <dl>
+      	<dt>October 31st</dt>
+      	<dd>More details on map to Infomation Page</dd>
+      	<dd>Bulletin 1</dd>
+      </dl>
+      <dl>
       	<dt>October 12th</dt>
       	<dd>More details on courses to Infomation Page</dd>
       </dl>

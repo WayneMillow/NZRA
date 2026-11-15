@@ -51,9 +51,19 @@
       </li>   
       </ul>      
 
-      <h3 class="subheader">Map</h3> 
-      <p>A2 waterproof paper .</p> 
-      <ul><li>Scale ???</li><li>Orientated to Magnetic North</li><li>Control descriptions will be on the map</li></ul>
+      <h3 class="subheader">Map</h3>
+      <h4>24hr &amp; 15hr</h4> 
+      <p>Rip-proof waterproof - A2 sized, but split onto two overlapping A3 sheets </p> 
+      <ul>
+      	<li>Scale 1:30,000</li>
+      	<li>Contour interval 10m</li>
+      	<li>Orientated to Magnetic North</li>
+      	<li>Control descriptions will be on the map</li>
+      </ul>
+      <h4>6hr</h4>
+      <p>Wil be as above but use just one A3 sheet<p>
+      <h4>3hr</h4>
+      <p>Will be at a larger scale to be confirmed</p>
       
       <h3 class="subheader">Event Base</h3> 
       <p>The Rotoiti Community Hall will be open from 8am Saturday to 1am Sunday, and then 6am Sunday through to the post-event food and prizegiving. Please note this means the hash house will be closed overnight 1am-6am with no food available.</p>
