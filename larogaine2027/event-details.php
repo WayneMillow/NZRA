@@ -54,7 +54,7 @@
       <p>All competitors must agree to abide by the NZRA Code of Conduct which may be viewed at <a target=_blank href="https://www.rogaine.org.nz/nzra/about-nzra/">NZRA Code of Conduct</a></p>
        
       <h3 class="subheader">Age Categories</h3>
-      <p>Ages based on the date of the event.</p>
+      <p>Ages are based as of Dec 31st for the year of the event.</p>
       <p>For a Junior team all members must be within the specified age range</p>
       <p>For a veteran team and older the age is based on the youngest member of the team</p>
       <ul>

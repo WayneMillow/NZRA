@@ -59,8 +59,9 @@ INSERT INTO age_group (event_id, code, description, lower_age, upper_age) VALUES
 
 -- Sub Events
 INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) VALUES (37, '12 hour', '12 hour', 90, 45);
-INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) VALUES (37, '6 hour', '6 hour', 70, 35);
-INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) VALUES (37, '3 hour', '3 hour', 40, 20);
+INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) VALUES (37, '06 hour', '6 hour', 70, 35);
+INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) VALUES (37, '03 hour', '3 hour', 35, 10);
+INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) VALUES (37, 'Family', 'Family - 3 hour', 45, 0);
 
 -- Extra costs
 -- INSERT INTO extra (event_id, code, description, cost) VALUES (37, 'BUSTO', 'Bus to event', 40);
@@ -69,8 +70,8 @@ INSERT INTO sub_event (event_id, code, description, senior_price, junior_price) 
 -- INSERT INTO extra (event_id, code, description, cost) VALUES (37, 'IDENT', 'SI Dobber', 0);
 
 -- Sequence for entry number
--- INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, '6 hour', 0);
 INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, '12 hour', 100);
-INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, '6 hour', 400);
-INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, '3 hour', 700);
+INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, '6 hour', 300);
+INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, '3 hour', 500);
+INSERT INTO sequence (event_id, sub_event_code, entry_number) VALUES (37, 'Family', 700);
 

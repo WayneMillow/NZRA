@@ -10,7 +10,7 @@
       <h2>News Items</h2>
       <!-- Add terms in descending date order -->
       <dl>
-      	<dt>October ??</dt>
+      	<dt>Novenber 16th</dt>
       	<dd>Website published.</dd>
       </dl>
     </div>
